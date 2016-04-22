@@ -1,0 +1,80 @@
+#############################################################
+#   How to update/add templates to PHP Link Directory 3.0.5+
+#   @link http://www.phplinkdirectory.com
+#############################################################
+
+Please read the "install.txt" file first.
+
+##################################################
+
+
+*********************************************
+** UPGRADE FROM ANY VERSION PRIOR TO 3.0.5 **
+*********************************************
+
+1. Create a new subfolder in the existing "templates/" folder and name it as you wish.
+   Do not include spaces " ", or special characters. The script is case INsensitive.
+
+2. In the newly created folder, create again following folders:
+      - style
+      - images
+
+3. Add your CSS file(s) to the "style" (templates/yourfolder/style) folder and
+   all your template images to the "images" (templates/yourfolder/images).
+
+4. To add your CSS file (templates/yourfolder/style/style.css) to the header
+   of your template file, use following methods:
+      {$smarty.const.FULL_TEMPLATE_PATH}/style/style.css
+      or
+      {$smarty.const.DOC_ROOT}/{$smarty.const.TEMPLATE_PATH}/style/style.css
+
+5. To use images from your CSS file, simply point to:
+      "../images/yourimage.png"
+
+6. To use images from your template files you have to point them to the "images" folder
+   of your template:
+      {$smarty.const.FULL_TEMPLATE_PATH}/images/yourimage.png
+      or
+      {$smarty.const.DOC_ROOT}/{$smarty.const.TEMPLATE_PATH}/images/yourimage.png
+
+7. If you are upgrading from an older template please make sure you remove
+   following code from all template files, except "header.tpl":
+      {include file="admin/messages.tpl"}
+
+   The template file containing error messages is now located in "templates/core/"
+   and is called once in only one file (header.tpl) and this way it is automatically
+   included in all the rest.
+
+8. Make sure you also update the submission form input areas and textareas with
+   their validation tags. It is enough if you go step-by-step and just
+   copy them from the "Professional" template to your custom template.
+
+9. Create or if present edit the "readme.txt" file in your template folder (templates/yourfolder/readme.txt).
+   Add your informations to it so you will have a nicer presentation in the "Template Manager"
+   found in the admin area. Enter at least template name.
+
+   This are the supported entries:
+      Theme Name: {your_theme_name}
+      Theme URI: {uri_to_theme}
+      Description: {short_theme_description}
+      Version: {theme_version}
+      Author: {theme_author_name}
+      Author URI: {theme_author_uri}
+
+10. You can make a screenshot of your theme and drop it also to your template folder
+    named as "screenshot.png" (templates/yourfolder/screenshot.png)
+    Currently supported is just the .png image type, but .gif and .jpg will follow
+
+
+
+
+
+
+For more informations, please visit our forum:
+   http://www.phplinkdirectory.com/forum/
+
+
+Thank you for choosing PHP Link Directory!
+
+Kind Regards,
+   the PHP Link Directory Team!

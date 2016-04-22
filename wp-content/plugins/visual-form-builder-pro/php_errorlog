@@ -1,0 +1,1 @@
+[25-Dec-2015 03:36:36 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/mylivete/public_html/wp-content/plugins/visual-form-builder-pro/visual-form-builder-pro.php on line 34

@@ -1,0 +1,3550 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Wordfence Security"
+msgstr ""
+
+#. Short description.
+msgid "The Wordfence WordPress security plugin provides free enterprise-class WordPress security, protecting your website from hacks and malware."
+msgstr ""
+
+#. Screenshot description.
+msgid "The home screen of Wordfence Security where you can see a summary, manage security issues and do a manual security scan."
+msgstr ""
+
+#. Screenshot description.
+msgid "The Live Traffic view of Wordfence Security where you can see real-time activity on your site."
+msgstr ""
+
+#. Screenshot description.
+msgid "The \"Blocked IPs\" page where you can manage blocked IP's, locked out IP's and see recently throttled IPs that violated security rules."
+msgstr ""
+
+#. Screenshot description.
+msgid "The basic view of Wordfence Security options. There is very little to configure other than your alert email address and security level."
+msgstr ""
+
+#. Screenshot description.
+msgid "If you're technically minded, this is the under-the-hood view of Wordfence Security options where you can fine-tune your security settings."
+msgstr ""
+
+#. Found in description header.
+msgid "THE MOST DOWNLOADED WORDPRESS SECURITY PLUGIN"
+msgstr ""
+
+#. Found in description header.
+msgid "WORDFENCE WORDPRESS SECURITY FEATURES"
+msgstr ""
+
+#. Found in description header.
+msgid "Blocking Features"
+msgstr ""
+
+#. Found in description header.
+msgid "Login Security"
+msgstr ""
+
+#. Found in description header.
+msgid "Security Scanning"
+msgstr ""
+
+#. Found in description header.
+msgid "WordPress Firewall"
+msgstr ""
+
+#. Found in description header.
+msgid "Monitoring Features"
+msgstr ""
+
+#. Found in description header.
+msgid "Multi-Site Security"
+msgstr ""
+
+#. Found in description header.
+msgid "Caching Features"
+msgstr ""
+
+#. Found in description header.
+msgid "IPv6 Compatible"
+msgstr ""
+
+#. Found in description header.
+msgid "Major Theme and Plugins Supported"
+msgstr ""
+
+#. Found in description list item.
+msgid "Real-time blocking of known attackers. If another site using Wordfence is attacked and blocks the attacker, your site is automatically protected."
+msgstr ""
+
+#. Found in description list item.
+msgid "Block entire malicious networks. Includes advanced IP and Domain WHOIS to report malicious IP's or networks and block entire networks using the firewall. Report security threats to network owner."
+msgstr ""
+
+#. Found in description list item.
+msgid "Rate limit or block security threats like aggressive crawlers, scrapers and bots doing security scans for vulnerabilities in your site."
+msgstr ""
+
+#. Found in description list item.
+msgid "Choose whether you want to block or throttle users and robots who break your security rules."
+msgstr ""
+
+#. Found in description list item.
+msgid "Premium users can also block countries and schedule scans for specific times and a higher frequency."
+msgstr ""
+
+#. Found in description list item.
+msgid "Sign-in using your password and your cellphone to vastly improve login security. This is called Two Factor Authentication and is used by banks, government agencies and military world-wide for highest security authentication. "
+msgstr ""
+
+#. Found in description list item.
+msgid "Includes two-factor authentication, also referred to as cellphone sign-in. "
+msgstr ""
+
+#. Found in description list item.
+msgid "Enforce strong passwords among your administrators, publishers and users. Improve login security."
+msgstr ""
+
+#. Found in description list item.
+msgid "Checks the strength of all user and admin passwords to enhance login security."
+msgstr ""
+
+#. Found in description list item.
+msgid "Includes login security to lock out brute force hacks and to stop WordPress from revealing info that will compromise security."
+msgstr ""
+
+#. Found in description list item.
+msgid "Scans for the HeartBleed vulnerability - included in the free scan for all users. "
+msgstr ""
+
+#. Found in description list item.
+msgid "Scans core files, themes and plugins against WordPress.org repository versions to check their integrity. Verify security of your source."
+msgstr ""
+
+#. Found in description list item.
+msgid "See how files have changed. Optionally repair changed files that are security threats."
+msgstr ""
+
+#. Found in description list item.
+msgid "Scans for signatures of over 44,000 known malware variants that are known security threats."
+msgstr ""
+
+#. Found in description list item.
+msgid "Scans for many known backdoors that create security holes including C99, R57, RootShell, Crystal Shell, Matamu, Cybershell, W4cking, Sniper, Predator, Jackal, Phantasma, GFS, Dive, Dx and many many more."
+msgstr ""
+
+#. Found in description list item.
+msgid "Continuously scans for malware and phishing URL's including all URL's on the Google Safe Browsing List in all your comments, posts and files that are security threats."
+msgstr ""
+
+#. Found in description list item.
+msgid "Scans for heuristics of backdoors, trojans,  suspicious code and other security issues."
+msgstr ""
+
+#. Found in description list item.
+msgid "Includes a firewall to block common security threats like fake Googlebots, malicious scans from hackers and botnets."
+msgstr ""
+
+#. Found in description list item.
+msgid "See all your traffic in real-time, including robots, humans, 404 errors, logins and logouts and who is consuming most of your content. Enhances your situational awareness of which security threats your site is facing."
+msgstr ""
+
+#. Found in description list item.
+msgid "A real-time view of all traffic including automated bots that often constitute security threats that Javascript analytics packages never show you."
+msgstr ""
+
+#. Found in description list item.
+msgid "Real-time traffic includes reverse DNS and city-level geolocation. Know which geographic area security threats originate from."
+msgstr ""
+
+#. Found in description list item.
+msgid "Monitor your DNS security for unauthorized DNS changes."
+msgstr ""
+
+#. Found in description list item.
+msgid "Monitors disk space which is related to security because many DDoS attacks attempt to consume all disk space to create denial of service."
+msgstr ""
+
+#. Found in description list item.
+msgid "Wordfence Security for multi-site also scans all posts and comments across all blogs from one admin panel."
+msgstr ""
+
+#. Found in description list item.
+msgid "WordPress Multi-Site (or WordPress MU in the older parlance) compatible."
+msgstr ""
+
+#. Found in description list item.
+msgid "Includes Falcon Engine, the fastest WordPress caching engine available today. Falcon is faster because it reduces your web server disk and database activity to a minimum."
+msgstr ""
+
+#. Found in description list item.
+msgid "Wordfence includes two caching modes for compatability and has cache management features like the ability to clear the cache and monitor cache usage. "
+msgstr ""
+
+#. Found in description list item.
+msgid "Fully IPv6 compatible including all whois lookup, location, blocking and security functions."
+msgstr ""
+
+#. Found in description list item.
+msgid "Includes support for other major plugins and themes like WooCommerce."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Wordfence starts by checking if your site is already infected. We do a deep server-side scan of your source code comparing it to the Official WordPress repository for core, themes and plugins. Then Wordfence secures your site and makes it up to 50 times faster."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Wordfence Security is 100% free and open source. We also offer a Premium API key that gives you Premium Support, Country Blocking, Scheduled Scans, Password Auditing and we even check if your website IP address is being used to Spamvertize. <a href=\"http://www.wordfence.com/?utm_source=repo&amp;utm_medium=web&amp;utm_campaign=pluginDescCTA\">Click here to sign-up for Wordfence Premium now</a> or simply install Wordfence free and start protecting your website."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "You can find our official documentation at <a href=\"http://docs.wordfence.com/?utm_source=repo&amp;utm_medium=web&amp;utm_campaign=pluginDesc\">docs.wordfence.com</a> and our Frequently Asked Questions on our support portal at <a href=\"https://support.wordfence.com/solution/categories/1000023037/folders/1000035543?utm_source=repo&amp;utm_medium=web&amp;utm_campaign=pluginDesc\">support.wordfence.com</a>. We are also active in our community support forums on <a href=\"https://wordpress.org/support/plugin/wordfence\">wordpress.org</a> if you are one of our free users. Our Premium Support Ticket System is at <a href=\"https://support.wordfence.com/?utm_source=repo&amp;utm_medium=web&amp;utm_campaign=pluginDesc\">support.wordfence.com</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "This is a brief introductory video for Wordfence:"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "[vimeo http://vimeo.com/134150724]"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Wordfence Security is now Multi-Site compatible and includes Cellphone Sign-in which permanently secures your website from brute force hacks."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The Wordfence WordPress security plugin is full-featured and constantly updated by our team to incorporate the latest security features and to hunt for the newest security threats to your WordPress website."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Install Wordfence Security automatically or by uploading the ZIP file. "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Activate the security plugin through the 'Plugins' menu in WordPress."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Wordfence WordPress Security is now activated. Go to the scan menu and start your first security scan. Scheduled security scanning will also be enabled."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Once your first scan has completed a list of security threats will appear. Go through them one by one to secure your site."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Visit the Wordfence Security options page to enter your email address so that you can receive email security alerts."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Optionally change your security level or adjust the advanced options to set individual security scanning and protection options for your site."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Click the \"Live Traffic\" menu option to watch your site activity in real-time. Situational awareness is an important part of website security."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Install Wordfence Security via the plugin directory or by uploading the ZIP file."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Network Activate Wordfence Security. This step is important because until you network activate it, your sites will see the plugin option on their plugins menu. Once activated that option dissapears. "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Now that Wordfence is network activated it will appear on your Network Admin menu. Wordfence Security will not appear on any individual site's menu. "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go to the \"Scan\" menu and start your first security scan. "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Wordfence Security will do a security scan of all files in your WordPress installation including those in the blogs.dir directory of your individual sites. "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Live Traffic will appear for ALL sites in your network. If you have a heavily trafficked system you may want to disable live traffic which will stop logging to the DB. "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Firewall rules and login rules apply to the WHOLE system. So if you fail a login on site1.example.com and site2.example.com it counts as 2 failures. Crawler traffic is counted between blogs, so if you hit three sites in the network, all the hits are totalled and that counts as the rate you're accessing the system."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "To install the Wordfence WordPress security plugin and start protecting your WordPress website:"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "To install the Wordfence WordPress security plugin on WordPress Multi-Site installations:"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed bug with options that are enabled by default but disabled by the user are reset to defaults."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Added check to verify pluggable.php is included before calling wp_hash."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Resolved issue with some admin links not using the network admin URL."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Resolved issue with slashes not being stripped from Advanced Blocking usernames, reasons."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Added ability to Block any requests from IPs matching a PTR record."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Updated the GeoIP lib to use the wfUtils::inet_pton functions instead of the PHP default for installs that do not have IPv6 support."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Added help link for whitelisted 404's entry on options page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Automatically exclude files that crash the scan."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Clear the wfHoover database table after scan is killed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Added notice about false positives when running a scan with HIGH SENSITIVITY enabled."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Removed WordPress version from style and script loaders.  Hid the readme.html."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Alert email for \"lost password\" did not send when the user used their username."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Exclude zip files from scans by default, and add that as option under 'Scan image and binary files'."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed edge case where .htaccess became garbled when using Falcon cache."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Resolved issue where 301 redirects count as 404s with throttling applied."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed Falcon .htaccess code writing to .htaccess when 'Immediately block IP's that access these URLs' option is modified."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed issue where filtering posts by author in wp-admin no longer works due to change in /?author=N scan prevention logic."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed issue in Live Traffic where 404s display as 200s."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Resolved issue with throttling logins via XMLRPC are not applied."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Resolved issue with some variations of author=N scans not being caught. Thanks James Golovich."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Updated typo in author=N option."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Resolved issue with Falcon not writing to .htaccess with WP installed in subdirectory."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Added width to logo in activity report email."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Resolved issue with Live Traffic endpoint in cases where WordPress is installed into a subdirectory."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Optimized database query with in unlocking user email routine."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Moved firewall logic into 'wp_loaded' hook."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Resolved issue with GoogleBot being erroneously flagged as human in Live Traffic."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Added better handling of human/bot detection."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Verified humans are flagged via cookie to prevent false positives."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Live Traffic endpoint moved to site root to prevent issues with GoogleBot."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Updated local GeoIP database."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Updated local browser data cache to support newer browsers and user-agents."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added option to exclude URLs from 404 throttling, and included some common 404s."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added new branded logos."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed bug with live traffic ajax call being indexed by Google."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Updated local GeoIP database to July version."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Hooked up network ranges in CIDR format (192.168.0.0/16) in Whois to support data coming back from whois that includes CIDR network format."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed 2 PHP notices in wfUtils."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Removed locked out IPs from locked out list when permanently blocking all locked out IPs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added admin-configured blocked IPs and blocked network ranges to import/export."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed PHP warnings in activity report where an array is not returned."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed PHP notice in IP spam check portion of scan."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed bug in Live Traffic where v5 style blocked ranges generated PHP warning breaking the JSON response."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed invalid date bug in Live Traffic: Top Consumers and Top 404s."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed edge case bug with author=N scans redirecting to author archives page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added the local time stamp to 'time since' labels in Live Traffic and Blocked IPs pages."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added a check to prompt the admin to download a backup copy of the wp-config.php in the event it's flagged as containing malware."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added option in Live Traffic to remove a blocked network range defined in Advanced Blocking in the Live Traffic feed for IPs within that range."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added option to permanently block all IPs that are currently temporarily blocked or locked out from the Blocked IPs page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed double forward slash in file path in the 'View the File' action of malicious code scan."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed notice in block IP JSON callback."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed bug with Top 5 Logins displaying all failed logins opposed to timeframe set by email frequency."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed bug with /?author=N scan protection not working for authors with no published posts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Fixed Wordfence logo width in dashboard widget on smaller screens."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added country names to flag icons in widget dashboard."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Updated issues email to use WordPress' charset instead of ISO-8859-1."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added check to see if premium API key is set to auto-renew and send email reminder prior to renewal."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Updated to API version 2.17."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Changed auto-renew reminder email to go out 10 days before renewal, 12 days before expiration."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Handled uncaught exception when noc1 is not available in 2FA."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Fixed issue with limit-logins mu-plugin on GoDaddy counting first login attempt in 2FA against total allowed login attempts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed bug with IPs not resolving to countries when printable IP passed to logBlockedIP."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed issue with free users country blocking redirects working after downgrade."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Encoded URL field in country blocking options."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Added a check to verify field has not already been altered prior to calling ALTER in runInstall."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed issue with scan_options method being called after method has been removed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed bug in scan when dns_get_record fails and error condition was not handled."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed PHP notice when 'Crawler' not included in browser pcap result."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Removed anonymous function to ensure PHP 5.2 compatability."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added option to disable SSL verification for hosts that have outdated versions cURL."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added default of 127.0.0.1 when $_SERVER['REMOTE_ADDR'] is not set. Helps if you're running WordPress cron from Linux cron."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added compatability with Godaddy's MU (must use) limit login plugin and our two factor. Change makes sure you can see the message from Wordfence to enter your cellphone code."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added direction: ltr; to admin pages."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added focus/blur events to scan activity log ajax to improve server performance."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Merged wp_option charset and database vulnerability scans to improve performance and make UI more intuitive."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Opened 'See recent traffic' in a new window from the Live Traffic page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Updated browser pcap cache file for compatibility with detecting newer Firefox browsers."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed bug in directories excluded from scans (escaped directory separator)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Updated known files and outdated plugins/themes to use wp_get_themes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed bug with wfScanEngine where scans forked between scan_database_main and scan_database_finish would not display results of database scan."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Added return false; to wfScan::error_handler to allow default error handler to process error."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed notice with wfUserIPRange::isValidIPv4Range."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed bug with 'Allow HTTPS pages to be cached' setting being unset after saving options."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed a couple of typos and spelling."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed errors upon plugin activation where wfConfig was queried before it was created."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed issue with notices from serializing wordfenceDBScanner and private properties belonging to parent class."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fix for hosts that don't have IPv6 compiled into PHP (which is rare) we not manually define certain functions. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed an issue with the schema not updating when customers migrate to IPv6 schema to store IP's. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added additional safety checks during the schema update. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: IPv6 fully supported. This includes whois, range blocking, IPv6 city lookup in live traffic, country blocking and all other security functions. See www.wordfence.com/blog/ for more info."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: New scanning routine examines the wp_options table for executable code based on a new infection we are seeing that is well hidden."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Prevent Googlebot from being blocked if user has configured a banned URL and Google tries to crawl it. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Improved detection for additional Google crawlers especially if an IP PTR resolves to a .googlebot.com domain. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed bug with https:// URLs not allowed in country blocking."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed typos."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Wordfence no longer can appear on sub-sites on multi-site installs, only on the network admin panel. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Wordfence dashboard widget only can appear on network admin dashboard in multi-site installs. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: No more multiple scheduled scans on multi-site.  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed mixed-protocol warning if you're using SSL and Wordfence - our static assets are loaded without specifying protocol now. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed issue where non-existent users were shown in dashboard widget and email summary as valid users. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Removed /e modifier in preg_replace for Diff_Renderer_Html_Array::formatLines since it is deprecated in PHP 5.5."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Removed ssl_verify =&gt; false from wp_remote_post connectivity test since some versions of cURL will throw an error since WordPress uses their own certificate bundle."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed bug with activity report email date range (was one week ahead)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Removed email summary report from cron on deactivation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed an off-by-one bug in wfDirectoryIterator for maximum total files and max files per directory."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Updated our browser data to fix an issue that caused newer browsers to appear in live traffic with version 0.0."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Updated the country database used for country blocking to April 2015 version."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added an additional check for disabling script execution in the uploads directory that the .htaccess file actually contains our protection code before removing it."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Paused Live Traffic ajax request when the window/document loses focus to reduce server load."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Better error handling when making API calls to noc1 to help our support personell help you. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added locked out IP's and IP's restricted through advanced blocking to the blocked IP log for dashboard and email summary. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Excluded whitelisted IP's from dashboard and widget email summary. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Dasboard widget no longer appearing for all users. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Removed .htaccess file the previous release created in wfcache directory that caused problems. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Premium Feature: Password Auditing. Audit the strength of your admin and user-level passwords against our GPU based auditing cluster. Easily alert users to weak passwords or force a password change."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: Activity email summary. See options page to enable a weekly, bi-weekly or monthly activity summary."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: Activity summary dashboard widget."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed bug on plugin activation where the configuration table was being queried before it was created."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added .htaccess to wfcache directory."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Switched to using wp_remote_post for Wordfence cloud API calls to improved SSL support and a more standards based approach. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Customers running WP versions older than 3.9 don't support wp_normalize_path(). Added support for older WP versions to fix an error being thrown. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Updated country blocking database to the newest version (March 2015)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added detection for many new samples we received (thanks all!) including a nasty polymorphic infection."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Changed the way we find the plugin directory to fix a possible issue that would cause alerts to return blank plugin names."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Improved Nginx detection so that we don't accidentally detect Nginx if you're running Apache."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: You can now block POST requests to your WordPress site that have an empty User-Agent and Referer header. This is a common pattern among badly written brute force bots. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: Added cron viewer at bottom of Wordfence options page. The plugin we were using to help diagnose customer issues is broken. Use this instead. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: Added DB table viewer at bottom of Wordfence options page. This is a read-only utility to view table names and detailed status. Also for customer diagnostic purposes. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Code cleanup after in-depth code analysis. Removed unused functions and variables and re-indented selected code."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed issue that appeared after last release where raw HTML tags were appearing in email alerts. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Tour behaved inconsistently under some conditions. Fixed. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Mismatched HTML tags in some presentation code. Fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: When fetching theme list the interator had the same name as the array. Fixed. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Detection for malware URLs in comments had a partial description in the issue. Was being overwritten when it should have been appended. Fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Check if dns_get_record() exists before using it to avoid warnings."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: If you have the wordfence security network disabled, the _wfVulnScanners table may have grown indefinitely. Fixed so it's regularly truncated. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: wordfence::getLog() was private and should be public. Fixed. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Removed warning about _wfsf not being an element of GET params. Usually hidden, but in case something checks error_get_last()"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Update: Upgraded the geoIP country database to Jan 2015 version. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added an option to disable execution of PHP code in the uploads directory as an added level of protection. Under \"Other Options\" on the Wordfence options page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: We now email you any malware URLs encountered and they won't be filtered by your spam filter because the URL is included in the alert email as an image."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed an issue that would cause multiple scans to be scheduled if the plugin was disabled and then reenabled. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: The name of malicious files detected are now included in the alert email sent containing the issues. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed FAQ link when locked out and email unlock doesn't work to correct link."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Falcon cache now creates files as mode 0644 for improved security. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated GeoIP database to December 2014 version. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Security fix. Thanks Matt Barry."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed what we consider to be private addresses to a smaller range of addresses. See current range at: http://docs.wordfence.com/en/How_Wordfence_handles_Private_Addresses"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a warning about an undefined value which appeared after we added referer blocking in 5.3.2."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: Advanced blocking now includes referer blocking. i.e. you can block visitors arriving from certain websites or pretending to. See updated http://docs.wordfence.com/en/Advanced_Blocking"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: Developers, you can now ask Wordfence to whitelist your server IP by calling wordfence::whitelistIP(). See http://docs.wordfence.com/en/WhitelistIP"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "IP to Country database updated to November 4th 2014 version. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Options export and import now also exports Country Blocking and Scan Schedule configuration."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Scans fully documented at docs.wordfence.com. Link on 'Scan' page under heading."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Live Traffic fully documented at docs.wordfence.com. Link on Live Traffic page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Falcon Engine/Wordfence Caching fully documented. Link on Performance Setup page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Blocked IPs, locking and throttling fully documented. Link on Blocked IPs page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Cellphone Sign-in fully documented. Link under title on Cellphone sign-in page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Country blocking fully documented. Link on Country blocking page. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Scan Scheduling fully documented. Link on Scan Scheduling page under title."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Whois and Advanced Blocking documented including how Live Traffic, Whois and Advanced blocking work together."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed unnecessary text from several menu items and moved into official docs where needed. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ability to export Wordfence settings and reimport on one or many sites using secure token."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added API function to programatically import Wordfence settings from another WordPress site. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Upgraded to Wordfence API version 2.14. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Detailed documentation for all options on the Wordfence options page. Launching docs.wordfence.com wiki. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed server-side issue where diff'ing certain files would give a blank page or an API error. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed now unused whois library because we're now using Wordfence API server to get around whois port blocking. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that would cause infected files with identical content to only have the first file found show up in scans and the rest would not appear. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Whois queries now go via our own server as a workaround for hosting providers who block your web server's access to port 43 preventing you from making a direct whois query. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused litespeed users to receive multiple warnings about the noabort issue. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added detection for 5 new malware variants. Thanks to Dave M. and others for the samples. Keep them coming folks! "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated Wordfence server API to version 2.12."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added facility at bottom of Wordfence options page to send a test email from your WordPress sytem to check if email sending is working. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Suppress LOCK_EX flock() warnings in falcon engine that were being generated by sites that use NFS and don't support flock() or reliable file locking."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated to the October 2014 version of the Geo IP country DB. (newest edition) "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug that caused country blocking and redirecting to an external URL to not work if the external URL's relative path matched the current page's relative path."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made it clear that country blocking URL's require absolute URL's. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Security release. Update immediately. Thanks to Julio Potier. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Code hardening including improved sanitization and an additional nonce for unlock email form. Special thanks to Ryan Satterfield for the hard work."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Stability of auto-update improved for LiteSpeed customers. We auto-detect if you don't have E=noabort:1 in your .htaccess and give you instructions. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Auto-update also disabled now for LiteSpeed customers who don't have E=noabort:1 and you will get an email alert with an explanation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug that may cause you to have advanced blocking patterns disabled with falcon engine enabled that should not be disabled. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed a benign warning in wfCache.php. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added clarity to the banned URL option on the options page. All URL's must be relative."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a primary key to the wp_wfStatus table which is required for certain incremental backup plugins and utilities."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed advanced country blocking which was not correctly displaying advanced options. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Migrated to using wp_kses() for sanitization. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Prevent IP spoofing in default Wordfence IP configuration. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change explanations of how Wordfence gets IP's to make it clear which to use to prevent spoofing. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Make it clear that the option to have IP's immediately blocked when they access a URL requires relative URL's starting with a forward slash. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Whitelist Sucuri's scanning IP addresses which were getting blocked because they triggered Wordfence blocking during a scan."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved Wordfence's code that acquires the visitor IP to block certain spoofing attacks, be more platform agnostic and deal with visits from private IP's more elegantly."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Security release. Upgrade immediately. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "This release fixes an XSS vunlerability on Wordfence \"view all traffic from IP\" page. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Also fixes a hard to exploit XSS which exists if you have your site as the default site on your web server, falcon enabled and debugging comments enabled. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improves Revolution Slider proteciton. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bypass for fake googlebot blocking.  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated Geo IP country database to newest version (September 2014 edition)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Security fix. Improved referrer sanitization in live traffic.  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed scan success messaging for clarity. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed minor bug in IP validation which manifested when users use IPv6 to IPv4 translation which produces 255.x.x.x addrs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Protection from the Slider Revolution Plugin arbitrary file download vulnerability announced today. Attempts to download any .php file including wp-config.php are denied. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed the Wordfence Memory config option's label to make it clearer what the option does. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved screenshots out of plugin distro directory to reduce plugin payload size."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Users with large lists of blocked IP's (over 2,100) would receive a browser error \"Uncaught RangeError: Maximum call stack size exceeded\". Fixed. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added detection for FOPO obfuscation often used by hackers to obfuscate PHP code. Will detect a range of newer infections. (Server-side code change)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Crawler triggering update cron job threw error about show_message() being redeclared at end of update. Fixed. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Live traffic cities were incorrect and did not match country blocking block effects under certain conditions. Fixed. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: If a site database contained a table with dashes in the table name, we would throw an error at the end of every scan. Fixed. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Upgraded country DB to newest version. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Changed live traffic geo location caching to be 24 hours instead of a week so that geo DB updates for live traffic on our servers take effect sooner. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Ignoring .sql files in scans which are usually backups and contain many false positives, unless high sensitivity scanning is enabled. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Option to disable config caching. You can find this new option at the bottom of the Wordfence options page. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Note: If you are seeing the \"cron key does not match the saved key\" error, check the box to disable config caching at the bottom of the Wordfence options page, save and this will fix it."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Note: If you are trying to save your Wordfence options and the options keep reverting, enable the \"disable config caching\" at the bottom of your Wordfence options page, save and this will fix it."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Wordfence now supports websites behind proxy servers when communicating with the Wordfence API servers."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Removed old image files that were unused. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: Country blocking now lets you block login page OR rest of site or any combination. So you can now block the login page only for example. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Upgraded the country blocking database to the newest version which is July 2014."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Improved server-side performance for Wordfence scanning."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Offer the option to keep Wordfence up-to-date automatically. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: If file contains malicious code, include filename in email alert summary info."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Removed strings in readme.txt that were causing false positives in hosts own scanning software. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Prevent lockout email alerts being sent for blank usernames. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Bing crawler was being misidentified as human. Fixed. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Escaping HTML on whois records. Thanks Nikhil Srivastava, TechDefencelabs (http://techdefencelabs.com)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: Auto updates for Wordfence! This is a much-requested feature by our power admin's. Enable the \"Update Wordfence automatically when a new version is released\" option on the Wordfence options page. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Security fix. Thanks to Narendra Bhati from Suma Soft. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: You can now specify one or more URL's that if accessed will cause the IP to immediately be blocked. See below \"Other Options\" for the new feature."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added additional debugging info when cron key does not match saved key to help diagnose any problems. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: New Issues email now contains site URL rather than just hostname to help identify subdirectory sites. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Upgraded the country blocking database to the newest version which is June 2014."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Some browser versions were being reported as 0.0. Updated browser detection. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: WooCommerce now officially supported out of the box. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: Added the wordfence:doNotCache() function that you can call in your themes and plugins to prevent caching of items. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed the warning appearing in lib/wfUtils.php about a scalar being treated as an array which appeared in 5.0.9. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Failed logins were not being logged for non-existent usernames that were set to immediatelly block. Fixed. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Removed several warnings/notices that would appear when WP_DEBUG is enabled. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Added default character set to .htaccess which fixes garbled international characters being served from cache on sites with no default apache charset."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: (Premium) Advanced Comment Spam Filter. Checks comment source IP, author URL and hosts and IP's in body against additional spam lists. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: (Premium) Check if your site is being Spamvertised i.e. your domain is being included in spam emails. Usually indicates you've been hacked."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: (Premium) Check if your website IP is generating spam. Checks against spam lists if your IP is a known source of spam."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Cache clearing errors are nown shown with clear explanations. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added lightweight stats logging internally in preparation for displaying them on the admin UI in the next release. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: If a non-existent user tries to sign in it is not logged in the live logins tab. Fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Removed warning \"Trying to get property of non-object\" that would occur under certain conditions. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Removed call to is_404()  which was not having any effect and would issue a warning if debug mode is enabled. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Check if CURL is installed as part of connectivity test."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: Support for Jetpack Mobile Theme in Falcon Caching engine. Regular pages are cached, mobile pages are served direct to browser. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Pages that are less than 1000 bytes will not be cached. The avg web page size in 2014 is 1246,000 bytes. Anything less than 1000 bytes is usually an error. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Wordfence will now request 128M on hosts instead of 64M where memory in php.ini is set too low. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Wordfence was caching 404's under certain conditions. Fixed. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Nginx/FastCGI users would sometimes receive an error about not being able to edit .htaccess. Fixed. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: Immediately block IP if hacker tries any of the following usernames. (Comma separated list that you can specify on the Wordfence options page)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: Exclude exact URL's from caching. Specifically, this allows you to exclude the home page which was not possible before. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: Exclude browsers or partial browser matches and specific cookies from caching. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed issue where /.. dirs would be included in certain scandir operations. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: logHuman function was not analyzing user-agent strings correctly which would allow some crawlers that execute JS to be logged as humans. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Removed ob_end_clean warnings about empty buffers when a human is being logged. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Removed warning in lib/wfCache.php caused by unset $_SERVER['QUERY_STRING'] when we check it. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed \"logged out as ''\" blank username logout messages. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Improved security of config cache by adding a PHP header to file that we strip. Already secure because we have a .htaccess denying access, but more is better. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Falcon Engine option to clear Falcon cache when a post scheduled to be published in future is published."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed Heartbleed scans hanging. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: Prevent discovery of usernames through '?/author=N' scans. New option under login security which you can enable. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Introduced new global hash whitelist on our servers that drastically reduces false positives in all scans especially theme and plugin scans.  "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed issue that corrupted .htaccess because stat cache would store file size and cause filesize() to report incorrect size when reading/writing .htaccess. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed LiteSpeed issue where Falcon Engine would not serve cached pages under LiteSpeed and LiteSpeed warned about unknown server variable in .htaccess."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed issue where Wordfence Security Network won't block known bad IP after first login attempt if \"Don't let WordPress reveal valid users in login errors\" option is not enabled."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Sites installed under a directory would sometimes see Falcon not serving cached docs. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: If you are a premium customer and you have 2FA enabled and your key expires, fixed issue that may have caused you to get locked out."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: If your Premium API key now expires, we simply downgrade you to free scanning and continue rather than disabling Wordfence. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Email warnings a few days before your Premium key expires so you have a chance to upgrade for uninterrupted service. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Removed mysql_real_escape_string because it’s deprecated. Using WP’s internal escape."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Wordfence issues list would be deleted halfway through scan under certain conditions. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Connection tester would generate php error under certain conditions. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: We now scan for the infamous heartbleed openssl vulnerability using a non-intrusive scan method safe for production servers. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: We now check if .htaccess is writable and if not we give you rules to manually enable Falcon."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Once Falcon is enabled, if we can’t write to .htaccess, we fall back to PHP based IP blocking. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: You can now clear pages and posts from the cache on the list-posts page under each item or on their edit pages next to the Update button."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: We now support sites who use a root URI but store their files and .htaccess in a subdirectory of the web root. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Added an additional filter to prevent crawlers like Bing who execute javascript from being logged as humans. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Changed the extension of the backup .htaccess to be .txt to avoid anti-virus software alerting on a download with .com extension. [Props to Scott N. for catching this]"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed ability to disable XML-RPC. The feature broke many mobile apps and other remote services. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Issue that caused users running WordPress in debug mode to see a is_404 warning message."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Issue that caused Call to undefined function wp_get_current_user warning."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Issue that caused caching to not work on sites using subdirectories. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Issue that caused SQL errors to periodically appear about wfPerfLog table."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Issue that caused warnings about array elements not being declared. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "To see a video introduction of Falcon Engine included with Wordfence 5, <a href=\"https://vimeo.com/91217997\">please watch this video</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "SUMMARY: This is a major release which includes Falcon Engine which provides the fastest WordPress caching available today. It also includes many other improvements and fixes. Upgrade immediatelly to get a massive performance boost for your site, many new features and fixes. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: Falcon Engine provides the fastest caching algorithm for WordPress. Get up to a 50x site speedup now when you use Wordfence. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: PHP based caching as an alternative to Falcon."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: IP, browser and IP range blocking is now done using .htaccess if Falcon Engine is enabled providing a big performance boost."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: Falcon and PHP caching includes ability to exclude URL patterns from cache along with cache management. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: Disable XML-RPC in WordPress to prevent your site from being used as a drone in a DDoS attack. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: Option to disable Wordfence cookies from being sent. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: Option to start all scans using the remote start-scan option. This may fix some customers who can’t start scans. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: Falcon Engine includes the ability to block IP ranges using .htaccess. We take your ranges and convert them into CIDR compatible .htaccess lines that very efficiently block the ranges you’ve specified. Another great performance improvement. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: If user disables permalinks we automatically disable Falcon Engine caching. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: Before you enable Falcon Engine we make you download a backup of your .htaccess file just in case. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Real-time traffic monitoring loads asynchronously to provide a faster user experience."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: All Wordfence configuration variables are now cached on disk rather than repeatedly looked up on the database providing a big performance improvement. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Updated browser detection algorithms for new browsers."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Updated country GeoIP database to the April edition."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Improved performance by only loading routines required for logged in users if they have a login cookie. No DB lookup required. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added on-off switches to top of live traffic to make it easy to turn on/off. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Removed marketing message from Wordfence email alerts. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added ability to exclude files from scan that match patterns. Multiple excludes using wildcards allowed. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Improved performance by moving all actions that would only be used by a logged in user to be set up using add_action if the user actually has a login cookie. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Added a throttle to prevent identical email alerts being sent repeatedly. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Changed order of IP blocking and alerting code to prevent multiple email alerts being sent in a race condition. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Cleaned up legacy code including removing all array_push statements. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Added try/catch block to fileTooBig() function when we encounter files that we can’t seek on and that throw an IO error to prevent scans from crashing."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Resolved issue that may have caused wfhits table to grow continuously on some sites. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Ensured that runInstall() isn’t called multiple times. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Moved register_activation_hook to only be called if the user has a login cookie and has a likelihood of being actually logged in as admin. Performance improvement. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Added doEarlyAccessLogging routine to move logging before caching so we can have both. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Removed the “update LOW_PRIORITY” sql statement when updating wfHits which was intended to speed up MySQL performance but may have actually caused queries to queue up and slow things down. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Whitelisted IP’s are no longer put through two factor authentication as one would expect. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Changed our wp_enqueue_script calls to add a ‘wf’ prefix to our script names so that another plugin doesn’t cause our scripts to not load. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Removed code that would cause all alerts to be turned on for some users under certain conditions. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Automatically excluding backup files and log files from URL scans to reduce false positives on referring URLs in logs and backups. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added \"high sensitivity\" scanning which catches evals with other bad functions but may give false positives. Not enabled by default."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Removed code that caused error message during scan initialization. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: IP to number conversation code had a problem with IP's with a single 0 in them. Bug was introduced in 4.0.2. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Very fast attacks would generate a lot of email alerts due to race condition. Fixed. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: Ability to bulk repair or delete files when cleaning a site."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: You can now limit the number of emails per hour that Wordfence sends."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: You can now scan image files as if they are executables when cleaning a site. See the option under scanning options."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: New connectivity test for wp_remote_post to our servers."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Feature: New detection for backdoors that were previously missed in scans. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added a link to the Wordfence admin URL for a site when an email alert is received."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Removed \"buy premium\" message from the alert emails which was causing confusion and irritation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Improved private address detection by making it faster and adding all private subnets, not just RFC1918 nets. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Switched to wp_remote_get for triggering scans instead of wp_remote_post()"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added some more verbose debugging for scan starts when in debug mode."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: No longer include private addresses when checking malware URL's and scanning IP's."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improvement: Added code to disable Wordfence if WordPress is installing. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Text change because not all \"scan\" buttons are blue."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Removed URL from wfBrowscapCache.php which was causing false positives during scans."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed SQL bug that triggered when we logged a vulnerability scan."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: IP range blocks where a digit is preceded by a '0' char will no longer generate an error. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: The getIP() routine will no longer use the IP closest to a visitor in network topology if that IP is a private address and behind a proxy. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Real-time WordPress Security Network Launched. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "If another site is attacked and blocks the attacker, your site also blocks the attacker. Shared data among Wordfence sites. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "See our home page on www.wordfence.com for a live map of attacks being blocked. Then blog about us!!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug where wfBrowscapCache.php is reported as malicious."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Big improvement in scanning speed and efficiency of URL's and IP addresses."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed preg_replace() warning by using newer preg_replace_callback() func."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused Wordfence security to not log 404's."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made 404's more visible on the live traffic page. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed panel width that was too narrow for WP 3.8 on live traffic and issues pages."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Report hack attempts to Wordfence Security scanning server for DDoS protection. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Remind admin if security alert email is blank and tour is closed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated links to new Wordfence Security support website at support.wordfence.com."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made Wordfence Security paid-users-only message a little more user friendly."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed issue that caused certain Wordfence Security login functions to not work. Was a PHP 5.4 vs older version incompatability issue."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated GeoIP location database to new version for country blocking."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Resolved issue that caused the Issues that Wordfence Security found to not be displayed in some cases."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated Wordfence Security to WordPress 3.8 Compatability."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: We now truncate the wfHoover table after scans to save disk space on servers with huge numbers of URLs in files."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: isStrongPasswd function was being called statically but not declared as static."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Improved error reporting when we can't connect to Wordfence Security API servers."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Fixed code that was causing an error log warning when we read the requested URL."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Disable and clear cellphone sign-in if you downgrade to free from paid to prevent lockouts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused cellphone sign-in to not work with PHP version 5.4 or greater."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed conflict with other plugins that also use the Whois PHP library."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an unsanitized user-agent string."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new malware signatures for string rot13 heuristics."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated compatibility to 3.7."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused scheduled scans to run even if disabled."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed display bug when signin fails."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused Human traffic to not be logged in Wordfence Security live traffic view. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed Wordfence Security .htaccess because it doesn't offer any security functionality and increases incompatibility."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed spelling errors."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added check to see if HTTP_USER_AGENT server variable is defined before using it to suppress large number of warnings on some sites."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed the way we call admin_url to the correct syntax."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Correctly escaped HTML on error messages."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that generated non-compliant query string."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated GeoIP database to newest version."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated GeoIP database for country blocking security."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug in Wordfence Security where we called reverseLookup in wfUtils statically and it's a non-static method. Thanks Juliette. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed characters that are invalid in an IP address or domain from the Whois facility to improve security."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Prevent users from creating 1 character passwords to improve security."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused an invalid variable to be used in an error message and improved Wordfence Security temporary file implementation for get_ser/ser_ser functions. Thanks R.P."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused IP to output as integer in status msg. Not security related but display issue."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Declared Wordfence Security reverseLookup function as static to remove warning."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed returnARr syntax error in Wordfence Security class."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Note, there is no Wordfence Security version 3.8.2."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Cellphone Sign-in (Two Factor Authentication) for paid Wordfence Security members. Stop brute-force attacks permanently! See new \"Cellphone Sign-in\" menu option."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ability to enforce strong passwords using Wordfence Security when accounts are created or users change their password. See Wordfence Security 'options' page under 'Login Security Options'. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new backdoor/malware signatures to Wordfence Security scanning including detection for spamming scripts, youtube spam scripts and a new attack shell."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue: Under some conditions, files not part of core or a known theme or plugin would be excluded from a Wordfence Security scan. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixes from Juliette R. F. Remove warnings for unset variables. Fix options 'save' spinner spinning infinitely on some platforms. Removed redundant error handling code in Wordfence Security. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ability to downgrade a paid Wordfence Security license to free."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused locked out IP's to not appear, or to appear with incorrect \"locked out until\" time. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved global firewall, login security and live traffic options to top of options page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made it clear that if you have Wordfence Security firewall disabled, IP's won't be blocked, country blocking won't work and advanced blocking won't work with warnings on each page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed JS error in Wordfence Security that occurs occasionally when users are viewing Wordfence Security activity log in real-time."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "New Feature: Prevent users registering 'admin' username if it doesn't exist to improve security. Recommended if you've deleted 'admin'. Enable on 'options' page. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Check if Wordfence Security GeoIP library is already declared for all functions. Fixes Fatal error: Cannot redeclare geoip_country_code_by_name."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a Wordfence Security compatibility issue with sites and hosts using Varnish front-end cache to ensure legit users don't get blocked. Added two HTTP no-cache and Expires headers."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug when using Wordfence Security Advanced User-Agent blocking with certain patterns this would appear: Warning: preg_match() [function.preg-match]: Unknown modifier"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Vastly improved speed of Wordfence Security Advanced User-Agent blocking security feature. No longer using regex but still support wildcards using fnmatch()"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We now support usernames with spaces in the list of users to ignore in the live traffic config on 'options' page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved language in status messages to avoid confusion. Changed \"unrecognized files\" to \"additional files\" to describe non-core/theme/plugin files."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug in Wordfence Security that caused IP range blocking to not block."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug that caused unblocking a permanently blocked IP to work, but not refresh the list. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added usernames to the email you receive when a user is locked out."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a few more status messages for Wordfence Security URL malware scanning."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed the sockets function call from connection testing because some hosts don't allow calls to socket_create()"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added detection in the Wordfence Security Whois page to check if the server has the fsockopen() function available with helpful message if it's disabled. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Whitelisted IP's now override Wordfence Security country blocking and range blocking."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed Bluehost affiliate links for free customers"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused scans to crash when checking URLs for malware."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused scans with large numbers of posts that contain the same URL to crash."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated the Wordfence Security GeoIP database for country blocking to newest version."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved security for Cloudflare customers to prevent spoofing attacks and protect when a hacker bypasses Cloudflare proxies."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added clear explanation of what increasing AJAX polling time does on options page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue with Wordfence Security detecting itself as malware. We messed up the version number in previous release. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option to change AJAX polling frequency"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused whitelisted IP's to not be whitelisted. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added code that prevents blocking of Wordfence's API server (or Wordfence Security will cease to function)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added link at bottom of 'options' page to test connectivity to our API servers."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Include any CURL error numbers in error reporting."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused IP range blocking to not block access to login page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused cache files to be flagged as malicious."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed Fatal error: func_get_args(): Can't be used as a function parameter."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "This bug affected users using PHP older than 5.3.0"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a major javascript bug that snuck in 2 releases ago and has disabled many features for Internet Explorer browsers. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Clarified range blocking examples."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed 'max_user_connections' issue. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Wordfence Security now uses WordPress's WPDB and this halves the number of DB connections Wordfence Security establishes to your DB."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Wordfence Security is now HyperDB compatible."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Advanced blocking i.e. Browser and IP Range blocking is now a free feature."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We no longer disable Live Traffic if we detect a caching plugin. Based on user feedback, apparently live traffic actually works with those plugins."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that causes site to crash if a conflicting GeoIP library is installed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed logHuman routine to do a LOW_PRIORITY MySQL update to speed things up."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Login failure counter is now reset if you send yourself an unlock email so you're not locked out again after 1 failure. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The free version of Wordfence Security is now supported with ads at the top of the admin pages. Please visit our sponsors and help keep Wordfence Security free!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that may cause scans to not be scheduled using the default schedule for new users."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "There was no 3.6.2 release, in case you're wondering about the version skip."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Major new release that includes the much asked for IP Range blocking with ISP blocking ability and browser blocking. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Wordfence Security feature: WHOIS for IP's and Domains. Supports all registries and local rWhois"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Wordfence Security feature: Advanced Blocking to block IP ranges and browser patterns."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Wordfence Security feature: WHOIS on live traffic pages."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Wordfence Security feature: network blocking links on live traffic pages. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug where W3 Total Cache and WP Super Cache cache blocked Wordfence Security pages."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added explanation of how caching affects live traffic logging if we detect a caching plugin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed AJAX loading to deal with multiple parallel ajax requests. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated tour to include info on new WHOIS and Advanced Blocking features."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed manual IP blocks to be permanent by default."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue in Wordfence Security that caused live traffic page not to reload when IP is unblocked."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Modified \"How does your site get IP's\" config to avoid confusing new users."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed 503 block message to be more helpful with link to FAQ on how to unblock."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed redundant code in wfAPI.php"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Optimized code by moving firewall specific code to execute only if firewall is enabled."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused \"last attempted access\" to show over 500 months ago."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that was causing warning in getIP() code."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Upgraded to Wordfence Security API version 2.6."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "This is the dev version. Stable is 3.5.2."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added detection for \"hacked by badi\" hack. Check if wp_options has been changed to UTF-7."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "IP detection is now much more robust. Admins must specify how their site gets IP addresses."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that would throw Ajax ticker into a hard loop and put load on a server if user is on \"options\" page and WF can't detect IPs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added support for Cloudflare proxies when getting client's real IP address."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "If we fail to get an IP and then get an IP succesfully, we update the activity log."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Activity log update in case of successful IP acquisition will warn if we're getting internal RFC1918 IP's e.g. the IP of your firewall."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue with twentyten, twentyeleven, twentytwelve themes showing up as modified in 3.5."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue with wpdb-&gt;prepare throwing warnings. WordPress changed their code and we have now caught up."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue of files containing \"silence is golden\" showing up as being changed with no executable content. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed security issue of being able to list wordfence Security's own virtual dir on some server configurations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue of WF using deprecated function which caused warnings or errors on install."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added link to security alert mailing list on \"Scan\" page next to manual start scan button and in tour."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused scans to not complete."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused scans to launch a large number of child processes due to very short scan timeout."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused websites that don't know their own hostname to not be able to scan."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added workaround for a bug in Better WP Security breaking Wordfence Security due to their code overwriting the WP version."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Optimized the way we calculate max execution time for each process while scanning."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed wfscan.php script and now using pseudo-ajax calls to fire off scans. Much more reliable."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed visitor.php script and now using pseudo-ajax calls to log human visits."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added config option to allow admin to specify max execution time (advanced only!!)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused API calls to fail on MultiSite installs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused comments to break on MultiSite installs under certain conditions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused incorrect domain to be shown in live traffic view on multi-site installs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue where some proxies/firewalls send space delimited IP addresses in HTTP headers and Wordfence Security now handles that."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused Wordfence Security to capture activation errors of other plugins. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Geo IP database update to November 7th edition."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Upgrade immediately. Fixes possible XSS vulnerability in Wordfence Security \"firewall unlock\" form."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Also added rate limiting to max of 10 requests per second to the unlock form."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Re-releasing to try and fix an issue with the WordPress plugin distro system."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug that caused malformed URLs to be sent to scanning server which caused errors on some installations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused scans to \"hang\" or stall on larger sites during \"Analyzing\" phase when we hash files. Sites of arbitrary size can now be scanned."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused \"plugin generated X characters of unexpected output\" error during install or upgrade."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed errors caused by ini_set being disabled on certain servers."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed error logging messages in certain cases because some badly configured hosts write these errors to the web browser."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed getIP code that was evaluating arrays as strings in some cases."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added error logging so that if there is an activation error, the Wordfence Security will display the actual error to you."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused scan to output \"Could not get the administrator's user ID.\" when a user has changed their table prefixes under certain conditions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "A complete rearchitecture of Wordfence Security scanning to massively improve performance."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Our free customers are now 100% back in business. Apologies for the delay, but this was worth the wait."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Wordfence Security is now 4X faster for both free and paid customers."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Significantly reduced CPU and memory overhead."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Significantly reduced network througput when communicating with Wordfence Security scanning servers."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Big performance improvement on our own scanning servers which allows us to continue to provide Wordfence Security free for the forseeable future."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Upgraded scanning API to version 2.4"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Upgraded Geo IP database to October version."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved core, theme, plugin and malware scanning into hashing recursive routine for big performance gain."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed need for fileQ in hashing routine for reduction in memory usage and reduction in DB write size."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed send-packet architecture and now processing files locally by fetching comparison data from scanning server instead."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed wfModTracker - old module that is no longer used."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Malware is now scanned by fetching hash prefixes from WF server instead of sending hashes of every file to our server. Much more efficient."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made status messages in summary console a little more user friendly."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed dates and times in activity log alert emails and other emails to be in site's local timezone."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added advanced country blocking options which allow bypass if a special URL is hit."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added warning in options page if alert email is not configured under alert checkboxes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Modified scan times to be within 60 minute window after scheduled time to prevent stampede at the top of the hour on our scanning server."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug on Godaddy and a few other hosts where viewing list of files not in the repo caused error. This was caused by posix functions not being supported on Godaddy and some other hosts. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Paid feature: Remote site vulnerability and infection scanning."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved all attack signatures out of the plugin to prevent Wordfence Security being detected as malicious in a false positive."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved country blocking to make bulk adding/deleting of countries much easier."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug that caused Google feed fetcher and other Google UA bots to get blocked if blocking of unverified Googlebots was enabled."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue where Locked out users were shown having the same expiry time as Blocked IP's."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue where Locked out users were not shown in the locked out list, but were still locked out if Blocked IP and Locked out expiry was different."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved performance of whitelisting so if whitelisted, all rules are bypassed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused twentyten and twentyeleven themes to be shown as missing core files if they have been removed and theme scanning is enabled."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that made it impossible to end the tour for Firefox users."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Theme and plugin scanning is now free. Woohoo!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added introductory tour for Wordfence Security."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Upgraded to Wordfence Security scanning API version 2.0 to allow free theme and plugin scanning."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed two issue with scheduled scanning for premium users that would cause scans to not run or run at wrong times under certain conditions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added feature to view unknown files on system to help clean badly infected systems. See on scanning page in \"Tools\" under yellow box."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed blocked countries overflowing their container in the user interface. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed case where if user is using MySQL &gt;= 5.1.16 and doesn't have the \"drop\" privilege, they can't truncate the wfFileQueue table and it could grow uncontrollably."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated to the new Libyan flag."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed mysql_ping() reconnection to DB generating warnings."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused scans to hang. Wordfence Security now processes smaller batches of files before checking if it needs to fork."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "NOTE: We removed a list of shells we're scanning for because they were yielding false positives on some host scanning software. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "DNS fix from previous release backed out because it's no longer needed. (We temporarily hardcoded an IP)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Emergency release to deal with DNS issue."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed SQL error in code that checks if IP blockedTime has expired.  Changed column type to signed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added detection of malicious injected titles with scripts or meta redirects."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug introduced in previous release that prevents blocked IP's from being blocked."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed permanent IP blocking bug which caused permanently blocked IP's to no longer display in the list after some time, even though there were still blocked. (Incorrect SQL query)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed \"Can't get admin ID\" on scan starts for both MU and single site installs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved status messages for sites with very large numbers of comments."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug that caused sites in subdirectories to not be able to view site config or run the memory test on the Wordfence Security \"options\" page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed database disconnect bug (mysql server has gone away). An additional fix was required to finally squash this bug."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed the code that prevented you from installing Wordfence Security on Windows. Sorry Windows customers!"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved scheduling so that it is now more reliable."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug that caused a loop for customers who could not contact the Wordfence Security servers on install."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added helpful message if you get the \"can't connect to itself\" error message with some additional documentation to help solve this issue."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved error reporting when Wordfence Security can't connect to the scanning servers. Now features a helpful explanation rather than a generic message."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Country Geo-Blocking feature for paid customers."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Scan Scheduling feature for paid customers."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added another fix for \"mysql server has gone away\" error. Wordfence Security now makes sure the DB is still connected and reconnects if not."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added new detection for encoded malicious code in files."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug introduced yesterday that prevented permanent blocking of IP's."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved ability to detect if we're running on Windows (but we don't support Windows yet)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Issue intelligent warning if Wordfence Security can't read base WordPress directory."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Don't activate Wordfence Security if user is running Windows."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Cleaned up errors if a file can't be scanned due to permission restrictions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved reporting of which user scan is running as and how we determined who the admin user is."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed the way we monitor disk space from % to warning on 20 megs and critical on 5 megs remaining. This deals with very large disks in a more rational way. (Thanks Yael M. and Ola A.)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We now deal with cases where the $_SERVER variable contains an array instead of string for IP address. It seems that some installations modify the value into an array. (Thanks S.S.)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The Wordfence Security DB connection now more reliably changes the mysql timeout for the session to prevent \"mysql server has gone away\" errors. (Thanks Peter A.) "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed problem where scan process can't get admin ID."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused permanent IP's to not be permanent."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed SQL error when calculating if IP block has expired."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed incorrect calling of is_404 that caused intermittent issues."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed basedir warnings when scan tries to scan files it does not have access to."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed warning and incorrect calculation of rows in DB."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ability to get IP from \"HTTP_X_REAL_IP\" header of a front-end proxy is sending it."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed warning about HTTPS element not existing in getRequestedURL()"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed problem with paid vs free keys getting confused."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed error with fetching vulnerability patterns."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug that caused \"Could not get the administrator’s user ID. Scan can’t continue.\""
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug that caused scan to loop, stop halfway or not start for many sites."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix bug that caused scan to not start on sites with thousands (over 20,000 in one case) users."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Scan start is now faster for sites with large numbers of users."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix bug that caused scan to get killed when checking passwords on sites with thousands of users."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Wordfence Security now intelligently determines how to do a loopback request to kick off a scan."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Scan is no longer called with a cron key in HTTP header but uses a query string value to authenticate itself which is more reliable. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved malware and phishing URL detection."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Upgraded to Wordfence Security API version 1.9"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused large files to slow or crash a scan."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added workaround for PHP's broken filesize() function on 32 bit systems."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added an improved test mode for URL scanner for better unit testing on our end."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Suppressed warnings issued when a reverse DNS lookup fails."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added improved debug output to becomeAdmin() function in scans to help diagnose scans not starting."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed \"The key used to start a scan has expired.\" error and added data to help diagnose future issues like this."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed HTTPHeaders from wfHits table which was using a lot of disk space and not used much."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed limiting wfHits table size because it was unreliable."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We're now limiting wfHits to 20,000 rows and the rows are much smaller. About 2 to 8 megs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug that could have caused install routine to run repeatedly."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed typo bug in blocking code that didn't have any impact but was sloppy."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed wfscan.php message when accessed directly to be more helpful."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Detects if the Wordfence Security app (not scanner) is short on memory and requests more"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixes an issue where scan breaks if all scanning options are disabled"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Issue that caused all core files to show as missing has been fixed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We now handle all API server errors gracefully using exceptions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "If your installation didn't activate correctly you now get a friendly message."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed unused menu_config.php code."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "The 503 message now tells you why your access to the site has been limited so that admin's can tune firewall rules better."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "We no longer reuse the WordPress wpdb handle because we get better stability with our own connection."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Overall this release is a very important upgrade. It drastically reduces memory usage on systems with large files from hundreds of megs to around 8 megs max memory used per scan."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved queue of files that get processed to a new DB table to save memory."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Reduced max size of tables before we truncate to avoid long DB queries."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Reduced max size of wfStatus table from 100,000 rows to 1,000 rows."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Introduced feature to kill hung or crashed scans reliably. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made scan locking much more reliable to avoid multiple concurrent scans hogging resources."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Debug status messages are no longer written to the DB in non-debug mode."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Modified the list of unknown files we receive back from the WF scanning servers to be a packed string rather than an array which is more memory efficient."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added summary at the end of scans to show the peak memory that Wordfence Security used along with server peak memory."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Hashes are now progressively sent to Wordfence Security servers during scan to drastically reduce memory usage."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Upgraded to Wordfence Security server API version 1.8 "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "List of hosts that Wordfence Security URL scanner compiles now uses wfArray which is a very memory efficient packed binary structure."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Writes that WF URL scanner makes to the DB are now batched into bulk inserts to reduce load on DB."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug in wfscan.php (scanning script) that could have caused scans to loop or pick up old data."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Massively reduced the number of status messages we log, but kept very verbose logging for debug mode with a warning about DB load."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added summary messages instead of individual file scanning status messages which show files scanned and scan rate."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed bin2hex and hex2bin conversions for scanning data which were slow, memory heavy and unneeded."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Wordfence Security database class will now reuse the WordPress database handle from $wpdb if it can to reduce DB connections."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug that caused WF to not work when certain DB caching plugins are used and override wpdb object."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed Wordfence Security so activity log only shows our own errors unless in debug mode."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Wordfence Security now deletes all it's tables and deletes all saved options when you deactivate the plugin."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed all exit() on error statements. Critical errors are handled more gracefully by writing to the log instead."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug that would cause a database loop until running out of memory under certain error conditions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Suppressed useless warnings that occur in environments with basedir set or where functions are disabled for security reasons."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed redundant check that executed on every request and put it in activation instead."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "If serialization during scan breaks, exit gracefully instead of looping."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Disk space in log is now shown as Gigabytes and formatted nicely."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed wdie() function which is a little obnoxious. Writing to WF error log instead."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug where a non-empty but useless HTTP header can break getIP() function."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added useful data to error output if getIP() tells you it can't work on your system. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed option to start scan in debug because it's no longer possible with a forked scan."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed option to test process running time on a system because it breaks on most systems and confuses customers."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Database connection errors no longer call die() but log an error instead in a way that removes the risk of a logging loop."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed dropAll.php script because we now clean up tables on deactivate and it's not needed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated readme to show that we support 3.4. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed registered users not appearing in live traffic."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed temp file deletion bug that caused warnings and loops."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused warning about WORDFENCE_VERSION"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed Wordfence Security admin area not working under SSL"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug that caused IP addresses of clients to be misinterpreted if there are multiple addresses from chained proxies. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now stripping port numbers from IP's which we weren't doing before."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added check for validity of IP's and report fatal error if it fails because this could lock users out."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved error reporting including fixing an out of memory error when a specific error condition arose in wfConfig::set()"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed order of tmp dirs to be wordfence/lib protected dir first and then system temp dir. Added uploads as tmp dir for last resort."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Malware URL's are now marked in red in alerts so it's obvious what the offending URL in a file is."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added fix for hosts that have max_allowed_packet set too small. We will write a temp file to disk instead if possible."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Increased size of status column to 1000 chars"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue with scan scheduling that caused a loop"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused version constant to not be included in scans"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ability to permanently block IP's"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ability to manually block IP's"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made Wordfence Security more memory efficient, particularly the forking process."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused WF to not work on databases with blank passwords."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Wordfence Security now stops execution of a DB connection error is encountered."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Clear cron jobs if Wordfence Security is uninstalled."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enabled hourly cron for Wordfence security network."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Wordfence Security now works if your server doesn't have openssl installed"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Wordfence Security now works even if you don't have CURL"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed visitor logging so it works with HTTPS websites."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Alert emails now contain filenames in each alert description."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Users with weak passwords alerts now contain the username in the email."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Upgraded API to 1.7."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused DISALLOW_FILE_MODS to make WF menu disappear."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Modified wfDB to deal with very large queries without exceeding max_allowed_packet"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that broke ability to see file changes and repair files in security scan results."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed scans hanging on Dreamhost and other hosts."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made Wordfence Security more memory efficient."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Wordfence Security scans are now broken into steps so we can scan a huge number of files, posts and comments."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Alert emails now include IP address, hostname lookup and geographic location (city if available)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved security scan locking. No longer time based but uses flock() if on unix or time on Windows."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Suppressed warnings that WF was generating."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improve handling of non-standard wp-content directories."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix restored files were still showing as changed if they contained international characters."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improve permission denied message if attempting to repair a file."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed problem that caused scans to not start because some hosts take too long to look up their own name."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue with Wordfence Security menu that caused it to not appear or conflict with other menus under certain conditions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Upgraded to security API version 1.6"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved geo lookup code for IP's to improve security. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed debug mode output in live status box - coloring was wrong."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ajax status message to WF admin pages."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed colorbox popup so that it doesn't jump around on refresh."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed CSS bug that changed plugins page layout in admin area"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added memory benchmark utility."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added process runtime benchmark utility."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ability to security scan in debug mode which accesses the scan app directly."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added IP whitelisting including ability to whitelist ranges that are excluded from firewall and login security measures."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "RFC1918 private networks and loopback address is automatically whitelisted to prevent firewall or login security blocking internal routers and proxy servers, internal firewalls and internal users."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added WORDFENCE_VERSION constant to improve version lookup performance."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed issue that caused security scans to not start and humans to not be logged in live traffic. Wordfence Security makes security scan script and visitors script executable on install or upgrade now."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug that caused disk space scanning to still show an issue found in security scan summary even when user chooses to ignore the security issue."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made disk space thresholds 1 and 1.5% space remaining because many hosts have very large disks where 1% is gigabytes."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made wordfence Security database handle cache deal with concurrent connections to different databases."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved Wordfence Security database library's error reporting."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved performance when Wordfence Security looks up it's own version during security scans and other operations."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed three rules in base wordfence Security htaccess that could cause 500 errors on servers that don't allow these options to be overridden. Does not affect htaccess security because we inherit the base htaccess and still protect our lib/ directory with our own htaccess."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "If your plugin PHP files are viewable by the world, we now give you a detailed warning on the seriousness of this security threat with ability to view the offending .htaccess files."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added a debug mode in options for very verbose logging and marking errors in red."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added more logging for the process that starts the security scan."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Ability to securely view the entire activity log added."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Using plugin version in all CSS URL's instead of API version."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Activity log microtime is more accurate now."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug that would cause security scanning of PHP files with base64 content to stop."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now security scanning all comments, posts and pages on multi-site installation for malware and phishing URL's. Significant security enhancement."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved messages on multisite when a bad comment or post is found."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug that caused paid users to not be able to activate their premium key."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made upgrade process much friendlier. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Got rid of GeSHi syntax highlighting because it segfaults and is resource intensive. Using built in PHP highlighting instead."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Message asking you to configure an alert email address only appears for 3 pageviews after plugin activation so it's less irritating."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug for MU users that caused WF to tell you that your WF schema is missing and you need to reactivate. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug that caused malware URL security scanner to not work for MU users."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed unbuffered queries and switched to conventional queries that are memory efficient for better stability."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made security scanning large numbers of URL's contained in things like awstats log files extremely memory efficient and way faster."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed alerts about unknown files in core directory if they belong to an older wordpress version and are unchanged."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Other performance improvements like using strpos instead of strstr."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved \"scan files outside base dir\" option to be in correct place on config page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed plugin upgrades so that css and scripts are not cached across versions."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved security scanning for specific attacks being used in the PHP-CGI vulnerability ( CVE-2012-1823)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "API keys no longer required. WF fetches a temporary anonymous API key for you on activation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added real-time activity log on scan page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added real-time summary updates on scan page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed ability to view files that have symlinks in path."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added message to configure alert email address for multi-site and single site installs on activation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Disabled firewall security rules by default because most sites don't need them."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Disabled blocking of fake googlebots except for high security levels to prevent users who like to pretend they're googlebot from blocking themselves."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Geshi the syntax highlighter now asks for more memory before running."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug that caused scan to hang on very large files."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added an index to wfStatus to make it faster for summary statuses"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed multisite pre-activation check to make activation more reliable on multisite installs."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Better problem reporting if you trashed your Wordfence Security schema but the plugin is still installed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed use of nonces and purely using 30 minute key for unlocking emails."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug that caused admin emails to not get emailed when requesting unlocking email."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed minor issue with undefined array in issues loop."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added ability for admin's to unlock login and unblock their IP addresses if they're accidentally locked out by the firewall or login security. Uses two security tokens to prevent abuse."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Admins can now also disable firewall and login security from the unlock-me email, just in case of emergency."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made advanced security options visible so you know they exist."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed dns_get_record() function not existing bug on Windows sytems pre PHP 5.3.0. Was causing scans to hang."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Increased login lockout defaults to be much higher which still protects against brute force hacks."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed CURLOPT_MAXREDIRS in curl to avoid safe mode warnings."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed ability to view and diff files on blogs installed in subdirectories."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed ability to see individual IP hits on subdir sites."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Plugin and theme update messages now include links to the upgrade page."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed the link on the login form that mentions the site is protected by Wordfence Security."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed lockout defaults to be much higher."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added options for higher number of failures before lockout in options page for configurable login security."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now including plugin version in the activity log when the admin chooses to email it to us for debugging."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Admin can now select to scan outside the WordPress base dir and standard WordPress directories."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Max memory size for scans is now configurable for larger installations. 256M is the default."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed maximum scan time to 10 minutes. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "A harmless cosmetic error was being thrown up when some security scans started. Fixed that."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed max scan time to 30 mins."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug that caused scans to crash when permissions don't allow a directory to be read."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WP repo didn't deploy the zip file correctly so recreating the version tag."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Vastly improved error logging including catching fatal PHP errors and logging them to status log."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed accidental preg_replace variable interpolation."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Syntax fixes (various)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Increased memory available to Wordfence Security to 256M during security scans, configurable in wordfenceConstants.php"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved memory logging during security scans. Current memory usage is now shown on the far right of filenames while scans occur."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bugfix - fixed bug that caused Wordfence Security menu to dissapear."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WordPress Multi-site support added. Currently in Beta. Tested with subdomains, not subdirectories, but it should work great on both."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Main changes are moving menus to the Network Admin area, preventing individual blogs from enabling the plugin and dealing with database prefix issues."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved diagnistic information on binary and regular API calls for better debugging."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed ticker to only show activity with level &lt; 3"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Email to send security alerts to is now configured at the same time an API key is entered."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "phpinfo is emailed along with activity log when user requests to send us activity log so that we can see things like PHP max execution time and other relevant data"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Now writing individual files to activity log during security scans for better diagnostics."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Login security message."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated readme.txt FAQ and description."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed bug where sites with self signed SSL security certificate never start scan because cert fails security check."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Increased API curl timeout to 300 for slower hosts that seem affected during URL security scans."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "This is a major release of Wordfence Security, please upgrade immediately."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Only scan files in the WordPress ABSPATH root directory and known WordPress subdirectories. Prevents potentially massive scans on hosts that have large dirs off their wordpress root."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Don't generate plain SHA hashes anymore because we don't currently use them on the server side for scanning. (Still generates md5's and SHAC)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "No longer do change tracking on files before scans because the change tracking does almost the same amount of work when generating hashes as the actual scan. So just do the scan, which is now faster."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated internal version to 1.2 to use new code on the server side which sends back a list of unknown files rather than known files, which is usually smaller and more network efficient."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved logging in activity log."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed SSL peer verification because some hosts have bad cert config. Connection to our servers is still via SSL to enhance security. "
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a few minor issues. Overall you should notice that scans are much faster now."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Made real-time server polling more efficient."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Entering your API key now automatically starts your first scan. Was causing some confusion."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Reduced the number of database connections that Wordfence Security makes to one."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Modified the memory efficient unbuffered queries we use to only use a single DB connection."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed status updates during post and comment scans which prevents interference with unbuffered queries and makes the scans even faster."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed a bug where if you have the plugin \"secure-wordpress\" installed, you can't do a Wordfence Security scan because it says you have the wrong version. This is because secure-wordpress trashes the $wp_version global variable to hide your version rather than using the filters provided by WordPress. So coded a workaround so that your Wordfence Security scans will work with that plugin installed."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Minor fix to point to the correct binary API URL on the Wordfence Security cloud servers."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "It is now free to get a Wordfence Security API key."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Premium keys include theme and plugin file security verification which consumes resources on the Wordfence Security servers."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Various bugfixes and performance enhancements."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial public release of Wordfence Security Plugin."
+msgstr ""
+
+#. Found in faq header.
+msgid "What does Wordfence Security do that other WordPress security plugins don't do?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Does Wordfence Security support Multi-Site installations?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Will Wordfence Security slow my site down?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How often is Wordfence Security updated?"
+msgstr ""
+
+#. Found in faq header.
+msgid "What if I need support?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Can I disable certain security features of Wordfence Security?"
+msgstr ""
+
+#. Found in faq header.
+msgid "What if my site security has already been compromised by a hacker?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How will I be alerted that my site has a security problem?"
+msgstr ""
+
+#. Found in faq header.
+msgid "My WordPress site is behind a firewall. Doesn't that make it secure?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Will Wordfence Security protect me against the Timthumb security problem?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Does Wordfence Security support IPv6?"
+msgstr ""
+
+#. Found in faq list item.
+msgid "Wordfence Security is the only WordPress security plugin that is fully integrated with it's own high speed caching engine to avoid security and caching conflicts. "
+msgstr ""
+
+#. Found in faq list item.
+msgid "Wordfence Security actually verifies your website source code integrity against the official WordPress repository and shows you the changes. We are the only plugin to do this."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Wordfence Security provides two-factor authentication (Cellphone Sign-in) for paid members. We're the first plugin to offer this."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Wordfence Security fully supports IPv6 including giving you the ability to look up the location of IPv6 addresses, block IPv6 ranges, detect IPv6 country and do a whois lookup on IPv6 addresses and more."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Wordfence Security includes protection against DDoS attacks by giving you a performance boost up to 50X. "
+msgstr ""
+
+#. Found in faq list item.
+msgid "Wordfence Security scans check all your files, comments and posts for URL's in Google's Safe Browsing list. We are the only plugin to offer this very important security enhancement."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Wordfence Security scans do not consume large amounts of your precious bandwidth because all security scans happen on your web server which makes them very fast."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Wordfence Security fully supports WordPress Multi-Site which means you can security scan every blog in your Multi-Site installation with one click."
+msgstr ""
+
+#. Found in faq list item.
+msgid "Wordfence Security includes Two-Factor authentication, the most secure way to stop brute force attackers in their tracks. "
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "<a href=\"http://support.wordfence.com/?utm_source=repo&amp;utm_medium=web&amp;utm_campaign=pluginDesc\">Visit our support website which contains a FAQ and knowledgebase which is more comprehensive and updated frequently.</a>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes. WordPress MU or Multi-Site as it's called now is fully supported. Using Wordfence Security you can security scan every blog in your network with one click. If one of your customers posts a page or post with a known malware URL that threatens your whole domain with being blacklisted by Google, we will tell you within a maximum of one hour which is how often scans occur."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes! Simply visit the Options page, click on advanced options and enable or disable the security features you want."
+msgstr ""

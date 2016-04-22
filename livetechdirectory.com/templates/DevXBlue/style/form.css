@@ -1,0 +1,440 @@
+﻿/* -- PHPLD FORM -- */
+.phpld-form,.phpld-form fieldset{
+    overflow:hidden
+}
+.phpld-form div{
+    position:relative
+}
+.phpld-form label,.phpld-form .phpld-message{
+    position:relative;
+    display:block
+}
+.phpld-form .phpld-fbox-check label{
+    display:inline
+}
+.phpld-form input,.phpld-form textarea{
+    cursor:text
+}
+.phpld-form input[type="checkbox"],.phpld-form input[type="radio"],.phpld-form select,.phpld-form label{
+    cursor:pointer
+}
+.phpld-form textarea{
+    overflow:auto
+}
+.phpld-form input[type=hidden]{
+    display:none!important
+}
+.phpld-form .phpld-fbox-text:before,.phpld-form .phpld-fbox-select:before,.phpld-form .phpld-fbox-check:before,.phpld-form .phpld-fbox-button:before{
+    content:"";
+    display:table
+}
+.phpld-form .phpld-fbox-text:after,.phpld-form .phpld-fbox-select:after,.phpld-form .phpld-fbox-check:after,.phpld-form .phpld-fbox-button:after{
+    clear:both;
+    content:".";
+    display:block;
+    font-size:0;
+    height:0;
+    visibility:hidden
+}
+.phpld-form select,.phpld-form input,.phpld-form textarea{
+    display:block;
+    position:relative;
+    width:58.5%
+}
+.phpld-form .phpld-fbox-check input{
+    display:inline;
+    width:auto
+}
+.phpld-form .phpld-fbox-button input{
+    display:inline;
+    overflow:visible;
+    width:auto
+}
+.phpld-form .phpld-fbox-check input:focus,.phpld-form .phpld-fbox-check input:hover,.phpld-form .phpld-fbox-check input:active{
+    border:0 none
+}
+.phpld-full .phpld-fbox-select select,.phpld-full .phpld-fbox-text input,.phpld-full .phpld-fbox-text textarea{
+    width:94.2%;
+    margin-right:-3px
+}
+.phpld-fbox-text input.text{padding: 3px;width:auto;}
+.phpld-columnar .phpld-fbox-text label,.phpld-columnar .phpld-fbox-select label{
+    display:inline;
+    float:left;
+    width:30%
+}
+.phpld-columnar .phpld-fbox-check{
+    position:relative
+}
+
+
+.phpld-label{
+    display:block;
+    float: left;
+    margin: 4px 5px 0px 0px;
+    color:#000000;
+    font-size:11px;
+}
+.phpld-columnar .phpld-fbox-check .phpld-label{
+    position:absolute;
+    top:0
+}
+.phpld-columnar .phpld-fbox-check input,.phpld-columnar .phpld-error .phpld-message{
+    margin-left:30%
+}
+.phpld-columnar fieldset .phpld-fbox-button,fieldset.phpld-columnar .phpld-fbox-button{
+    padding-left:30%
+}
+.phpld-columnar .phpld-fbox-select select,.phpld-columnar .phpld-fbox-text input,.phpld-columnar .phpld-fbox-text textarea{
+    float:left;width:67.2%;margin-right:-3px
+}
+.phpld-fbox-select select{
+    width:60%
+}
+.phpld-full .phpld-fbox-select select{
+    width:94.8%
+}
+.phpld-columnar .phpld-fbox-select select{
+    width:auto;
+}
+.phpld-form input,
+.phpld-form input,
+.phpld-form textarea,
+.phpld-form select {
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -ms-box-sizing: border-box;
+        box-sizing: border-box;
+        width:60%;
+}
+.phpld-columnar label {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.phpld-columnar .phpld-fbox-select select,
+.phpld-columnar .phpld-fbox-text input,
+.phpld-columnar .phpld-fbox-text textarea { width:auto; }
+
+.phpld-full .phpld-fbox-select select,
+.phpld-full .phpld-fbox-text input,
+.phpld-full .phpld-fbox-text textarea { width:100%; }
+.phpld-form {
+    /*background:#f4f4f4;*/
+    /*border:2px #fff solid;*/
+    margin: 1.5em 0 0 0;
+    padding: 0;
+}
+.phpld-form fieldset {
+    position:static;
+    background:transparent;
+    margin: 0.75em 0 0.75em 0;
+    padding: 0 0.5em;
+}
+.phpld-form legend {
+    background:transparent;
+    color:#000;
+    font-size:1.2em;
+    line-height:1.25em;
+    font-weight:bold;
+    padding:0 0.5em;
+}
+.phpld-form label {
+    color:#666;
+    line-height: 1.5em;
+}
+.phpld-label {
+    color: #666;
+    padding-top: 0.25em;
+}
+.phpld-form .phpld-form div.phpld-fbox-check:focus + label {
+    color:#000;
+}
+.phpld-form div.phpld-fbox-text,
+.phpld-form div.phpld-fbox-select,
+.phpld-form div.phpld-fbox-check,
+.phpld-form div.phpld-fbox-button {
+    padding: 0.3em 1em;
+    margin-bottom: 0.5em;
+}
+.phpld-form div.phpld-fbox-button {
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-top: 2px;
+    background:none;
+    border-top:0px;
+    margin:0px auto;
+}
+
+
+.phpld-form div.phpld-fbox-button .nopadding *{
+    margin:0px;
+}
+.phpld-form div.phpld-fbox-button:hover{background:none;}
+.phpld-form .phpld-fbox-button .float-right{
+    padding:0px;
+    margin:0px;
+}
+.phpld-form .phpld-gbox {
+    padding: 0 0.5em;
+    margin-right: 0;
+}
+.phpld-form h6 {
+    color: #000;
+    margin: 1em 0 0 1em;
+}
+.phpld-form .phpld-fbox-text input,
+.phpld-form .phpld-fbox-text textarea {
+    line-height: 1em;
+    padding: 0.25em 0.3em;
+    margin-top: -2px;
+}
+.phpld-form .phpld-fbox-select select {
+    line-height: 1em;
+    padding: 0.25em 2px 0.25em 1px;
+    margin-top: -2px;
+}
+.phpld-form input,
+.phpld-form textarea,
+.phpld-form select,
+.phpld-form optgroup {
+    font-family:Arial, Helvetica, sans-serif;
+        -webkit-box-shadow: inset 0 0 4px #eee;
+        -moz-box-shadow: inset 0 0 4px #eee;
+        box-shadow: inset 0 0 4px #eee;
+    }
+.phpld-form optgroup {
+        font-style:normal;
+        font-weight:bold;
+}
+.phpld-form .phpld-fbox-text input,
+.phpld-form .phpld-fbox-text textarea,
+.phpld-form .phpld-fbox-select select {
+    border:1px solid #ddd;
+	background:lightblue !important;
+}
+.phpld-form .phpld-message {
+        color:#666;
+        margin-bottom:0.5em;
+}
+.phpld-form .phpld-required {
+        color:#800;
+        font-weight:bold;
+    }
+
+.phpld-form input:valid,
+.phpld-form textarea:valid { background-color: #fff; }
+.phpld-form input:invalid,
+.phpld-form textarea:invalid { background-color: #fdd; }
+
+.phpld-form .phpld-error label {
+        color:#800;
+        font-weight:normal;
+}
+.phpld-form .phpld-error input,
+.phpld-form .phpld-error select,
+.phpld-form .phpld-error textarea {
+    border: 1px #800 solid;
+}
+.phpld-form .phpld-error input:hover,
+.phpld-form .phpld-error input:focus,
+.phpld-form .phpld-error select:hover,
+.phpld-form .phpld-error select:focus,
+.phpld-form .phpld-error textarea:hover,
+.phpld-form .phpld-error textarea:focus {
+        border: 1px #800 solid !important;
+}
+.phpld-form .phpld-error .phpld-message {
+        color:#800;
+        font-weight: bold;
+        margin-top: 0;
+}
+.phpld-form div.phpld-fbox-text input:focus,
+.phpld-form div select:focus,
+.phpld-form div textarea:focus,
+.phpld-form div.phpld-fbox-text input:hover,
+.phpld-form div select:hover,
+.phpld-form div textarea:hover,
+.phpld-form div.phpld-fbox-text input:active,
+.phpld-form div select:active,
+.phpld-form div textarea:active {
+        border:1px #888 solid;
+        background:#fff;
+}
+
+.phpld-button,
+.phpld-form button,
+.phpld-form input[type="button"],
+.phpld-form input[type="reset"],
+.phpld-form input[type="submit"] {
+    display: inline-block;
+    white-space: nowrap;
+    background-color: #0099cc;
+    border: 1px solid #777;
+    -webkit-border-radius: .2em;
+    -moz-border-radius: .2em;
+    border-radius: .2em;
+    -webkit-box-shadow: 0 0 1px 1px rgba(255,255,255,.8) inset, 0 1px 0 rgba(0,0,0,.15);
+    -moz-box-shadow: 0 0 1px 1px rgba(255,255,255,.8) inset, 0 1px 0 rgba(0,0,0,.15);
+    box-shadow: 0 0 1px 1px rgba(255,255,255,.8) inset, 0 1px 0 rgba(0,0,0,.15);
+    color: #fff !important;
+    cursor: pointer;
+    font: normal 1em/2em Arial, Helvetica;
+    margin: 1.5em 0.75em 0 0;
+    padding: 0 1.5em;
+    overflow: visible; 
+    text-decoration: none !important;
+}
+.phpld-form button:hover,
+.phpld-form input[type="button"]:hover,
+.phpld-form input[type="reset"]:hover,
+.phpld-form input[type="submit"]:hover,
+.phpld-button:hover {
+    background-color: #333;
+}
+
+.phpld-form button:active,
+.phpld-form input[type="button"]:active,
+.phpld-form input[type="reset"]:active,
+.phpld-form input[type="submit"]:active,
+.phpld-button:active {
+    background-color: #bbb;
+    background-image: -webkit-linear-gradient(top, #ccc, #bbb);
+    background-image: -moz-linear-gradient(top, #ccc, #bbb);
+    background-image: -ms-linear-gradient(top, #ccc, #bbb);
+    background-image: -o-linear-gradient(top, #ccc, #bbb);
+    background-image: linear-gradient(top, #ccc, #bbb);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#cccccc', EndColorStr='#bbbbbb');
+    box-shadow: 2px 2px 3px rgba(0,0,0,.2) inset;
+    position: relative;
+    top: 1px;
+	color:#000;
+}
+
+.phpld-form button:focus,
+.phpld-form input[type="button"]:focus,
+.phpld-form input[type="reset"]:focus,
+.phpld-form input[type="submit"]:focus,
+.phpld-button:focus {
+    outline: 0;
+    background: #fafafa;
+	color:#000 !important;
+}
+
+.phpld-form button:before,
+.phpld-button:before {
+    background: #ccc;
+    background: rgba(0,0,0,.1);
+    float: left;
+    width: 1em;
+    text-align: center;
+    font-size: 1.5em;
+    margin: 0 1em 0 -1em;
+    padding: 0 .2em;
+    -moz-box-shadow: 1px 0 0 rgba(0,0,0,.5), 2px 0 0 rgba(255,255,255,.5);
+    -webkit-box-shadow: 1px 0 0 rgba(0,0,0,.5), 2px 0 0 rgba(255,255,255,.5);
+    box-shadow: 1px 0 0 rgba(0,0,0,.5), 2px 0 0 rgba(255,255,255,.5);
+    -moz-border-radius: .15em 0 0 .15em;
+    -webkit-border-radius: .15em 0 0 .15em;
+    border-radius: .15em 0 0 .15em;
+    pointer-events: none;
+}
+
+.phpld-form button::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+}
+
+    
+.phpld-form input[type=button]::-moz-focus-inner,
+.phpld-form input[type=reset]::-moz-focus-inner,
+.phpld-form input[type=submit]::-moz-focus-inner {
+    padding: .4em;
+}
+
+    
+.phpld-form button[disabled],
+.phpld-form button[disabled]:hover,
+.phpld-form input[type=button][disabled],
+.phpld-form input[type=button][disabled]:hover,
+.phpld-form input[type=reset][disabled],
+.phpld-form input[type=reset][disabled]:hover,
+.phpld-form input[type=submit][disabled],
+.phpld-form input[type=submit][disabled]:hover{
+        background: #eee;
+        color: #aaa !important;
+        border-color: #aaa;
+        cursor: default;
+        text-shadow: none;
+        position: static;
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
+}
+
+* html .phpld-button,
+* html .phpld-form button {
+        display: inline-block;
+        white-space: nowrap;
+        background-color: #ccc;
+        filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#eeeeee', EndColorStr='#cccccc');
+        border: 1px solid #777;
+        color: #333 !important;
+        cursor: pointer;
+        font: normal 1em/2em Arial, Helvetica;
+        margin: 1.5em 0.75em 0 0;
+        padding: 0 1.5em;
+        overflow: visible; 
+        text-decoration: none !important;
+}
+
+* html .phpld-form button:focus,
+* html .phpld-button:focus {
+    outline: 0;
+    background: #fafafa;
+}
+
+* html .phpld-form button:hover,
+* html .phpld-button:hover {
+    background-color: #ddd;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#fafafa', EndColorStr='#dddddd');
+}
+
+* html .phpld-form button:active,
+* html .phpld-button:active {
+    background-color: #bbb;
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#cccccc', EndColorStr='#bbbbbb');
+    position: relative;
+    top: 1px;
+}
+#submitForm, .phpld-form{
+    padding-left:10px;
+    margin-top:0em;
+    padding-bottom: 10px;
+    overflow: visible;
+}
+#submitForm .phpld-columnar .phpld-label {text-align:right;}
+#submitForm .phpld-columnar .float-left{margin-top:0.5em;}
+.formPage {
+    margin: 0 auto;
+    color: #2E2E2E;
+}
+.formPage .info-box{margin-top:8px;}
+.formPage .phpld-columnar{margin-top: 3px !important;}
+
+
+#submit_form .phpld-columnar .float-left{margin-top:0.5em;}
+#submit_form .phpld-columnar .phpld-label {width:30%;text-align:right;}
+
+#submitForm .phpld-equalize>.phpld-label{width:15%;}
+#submitForm .phpld-equalize .field{width:70%;}
+
+#submitForm .phpld-equalize .field .phpld-fbox-text{width:100%;padding-left: 0px;}
+#submitForm .phpld-equalize .field .phpld-fbox-text input, #submitForm .phpld-equalize .field  textarea{width:100%;}
+
+.submiItems .phpld-label {margin-top:0px;padding-top: 0px;}
+.submiItems ul.multicheckbox {margin-top: 0;}
+.submiItems .submitItem {margin: 5px 0;}
+
+/* END PHPLD FORM*/

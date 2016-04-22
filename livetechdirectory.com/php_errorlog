@@ -1,0 +1,10 @@
+[24-Nov-2015 18:30:21 UTC] PHP Fatal error:  Call to undefined method DetailsController::registerAction() in /home/mylivete/public_html/livetechdirectory.com/code/App.php on line 113
+[24-Nov-2015 18:30:38 UTC] PHP Fatal error:  Call to undefined method DetailsController::newaccountAction() in /home/mylivete/public_html/livetechdirectory.com/code/App.php on line 113
+[25-Nov-2015 01:42:09 UTC] PHP Fatal error:  Call to undefined method DetailsController::recommendAction() in /home/mylivete/public_html/livetechdirectory.com/code/App.php on line 113
+[25-Nov-2015 01:42:25 UTC] PHP Fatal error:  Call to undefined method ContactController::recommendAction() in /home/mylivete/public_html/livetechdirectory.com/code/App.php on line 113
+[25-Nov-2015 15:21:51 UTC] PHP Fatal error:  Call to undefined method DetailsController::recommendAction() in /home/mylivete/public_html/livetechdirectory.com/code/App.php on line 113
+[26-Nov-2015 01:31:23 UTC] PHP Fatal error:  Call to undefined method UserController::wp-login.phpAction() in /home/mylivete/public_html/livetechdirectory.com/code/App.php on line 113
+[26-Nov-2015 01:31:24 UTC] PHP Fatal error:  Call to undefined method UserController::administratorAction() in /home/mylivete/public_html/livetechdirectory.com/code/App.php on line 113
+[26-Nov-2015 07:36:36 UTC] PHP Fatal error:  Call to undefined method DetailsController::recommendAction() in /home/mylivete/public_html/livetechdirectory.com/code/App.php on line 113
+[26-Nov-2015 07:36:52 UTC] PHP Fatal error:  Call to undefined method ContactController::recommendAction() in /home/mylivete/public_html/livetechdirectory.com/code/App.php on line 113
+[26-Nov-2015 08:34:31 UTC] PHP Fatal error:  Call to undefined method DetailsController::recommendAction() in /home/mylivete/public_html/livetechdirectory.com/code/App.php on line 113

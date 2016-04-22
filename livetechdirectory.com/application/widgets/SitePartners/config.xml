@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget>
+	<zonetype>VERTICAL</zonetype>
+	<description>Allows you to show a list of site parners</description>
+	<works_with>4.x</works_with>
+	<setting>
+		<name>Widget Title</name>
+		<identifier>TITLE</identifier>
+		<value>Our Partners</value>
+		<allowed></allowed>
+	</setting>
+	<setting>
+		<name>Open In new Window</name>
+		<identifier>NEW_WINDOW</identifier>
+		<value>Yes</value>
+		<allowed>Yes,No</allowed>
+	</setting>
+	<setting>
+		<name>Partner 1 Url</name>
+		<identifier>PARTNER1_URL</identifier>
+		<value></value>
+		<allowed></allowed>
+	</setting>
+	
+	<setting>
+		<name>Partner 1 Url Title</name>
+		<identifier>PARTNER1_TITLE</identifier>
+		<value></value>
+		<allowed></allowed>
+	</setting>
+		<setting>
+		<name>Partner 2 Url</name>
+		<identifier>PARTNER2_URL</identifier>
+		<value></value>
+		<allowed></allowed>
+	</setting>
+	<setting>
+		<name>Partner 2 Url Title</name>
+		<identifier>PARTNER2_TITLE</identifier>
+		<value></value>
+		<allowed></allowed>
+	</setting>
+	<setting>
+		<name>Partner 3 Url</name>
+		<identifier>PARTNER3_URL</identifier>
+		<value></value>
+		<allowed></allowed>
+	</setting>
+	<setting>
+		<name>Partner 3 Url Title</name>
+		<identifier>PARTNER3_TITLE</identifier>
+		<value></value>
+		<allowed></allowed>
+	</setting>	
+	<setting>
+		<name>Partner 4 Url</name>
+		<identifier>PARTNER4_URL</identifier>
+		<value></value>
+		<allowed></allowed>
+	</setting>
+	<setting>
+		<name>Partner 4 Url Title</name>
+		<identifier>PARTNER4_TITLE</identifier>
+		<value></value>
+	<allowed></allowed>
+	</setting>	
+	<setting>
+		<name>Partner 5 Url</name>
+		<identifier>PARTNER5_URL</identifier>
+		<value></value>
+	<allowed></allowed>
+	</setting>
+	<setting>
+		<name>Partner 5 Url Title</name>
+		<identifier>PARTNER5_TITLE</identifier>
+		<value></value>
+	</setting>	<setting>
+		<name>Partner 6 Url</name>
+		<identifier>PARTNER6_URL</identifier>
+		<value></value>
+	<allowed></allowed>
+	</setting>
+	<setting>
+		<name>Partner 6 Url Title</name>
+		<identifier>PARTNER6_TITLE</identifier>
+		<value></value>
+	<allowed></allowed>
+	</setting>
+	<setting>
+		<name>Partner 7 Url</name>
+		<identifier>PARTNER7_URL</identifier>
+		<value></value>
+	<allowed></allowed>
+	</setting>
+	<setting>
+		<name>Partner 7 Url Title</name>
+		<identifier>PARTNER7_TITLE</identifier>
+		<value></value>
+	<allowed></allowed>
+	</setting>	
+	<setting>
+		<name>Partner 8 Url</name>
+		<identifier>PARTNER8_URL</identifier>
+		<value></value>
+	<allowed></allowed>
+	</setting>
+	<setting>
+		<name>Partner 8 Url Title</name>
+		<identifier>PARTNER8_TITLE</identifier>
+		<value></value>
+	<allowed></allowed>
+	</setting>	
+	<setting>
+		<name>Partner 9 Url</name>
+		<identifier>PARTNER9_URL</identifier>
+		<value></value>
+	<allowed></allowed>
+	</setting>
+	<setting>
+		<name>Partner 9 Url Title</name>
+		<identifier>PARTNER9_TITLE</identifier>
+		<value></value>
+	<allowed></allowed>
+	</setting>
+	<setting>
+		<name>Partner 10 Url</name>
+		<identifier>PARTNER10_URL</identifier>
+		<value></value>
+	<allowed></allowed>
+	</setting>
+	<setting>
+		<name>Partner 10 Url Title</name>
+		<identifier>PARTNER10_TITLE</identifier>
+		<value></value>
+	<allowed></allowed>
+	</setting>
+	<author>PhpLD</author>
+	<author_url>http://www.phplinkdirectory.com</author_url>
+	<version>1.0</version>
+</widget>

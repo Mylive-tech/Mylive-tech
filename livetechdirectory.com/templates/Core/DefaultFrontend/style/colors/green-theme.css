@@ -1,0 +1,162 @@
+.phpld-hlist{
+    background: #009900;
+}
+
+#toggleCategTree {
+    color:#009900;
+}
+
+
+/*Latest Links begin*/
+/*
+.phpld-column .phpld-col3>.phpld-cbox{
+    border:1px solid #009900;
+}
+*/
+a:active, a:link, a:visited {
+    color: #009900;
+}
+
+a:hover {
+    color: #CA0002;
+}
+
+a.link:active, a.link:link, a.link:visited {
+    color: #3E81B4;
+}
+
+a.link:hover {
+    color: #CA0002;
+}
+
+a.readMore:link, a.readMore:active, a.readMore:visited {
+    color: #CA0002;
+}
+
+a.readMoreFeat:link, a.readMoreFeat:active, a.readMoreFeat:visited {
+    color: #3E81B4;
+}
+
+a.readMoreFeat:hover {
+    color: #CA0002;
+}
+.small{
+    color: #909090;
+}
+
+#submitted_message .phpld-message .phpld-label{
+    color:#CA0002;
+    background: #F0F0F0;
+    border: 1px solid #CECECE;
+}
+/*Submit Article end*/
+/*Details begin*/
+.phpld-grid .float-left{
+    margin-top:0px;
+}
+/*Details end*/
+
+/*LinkEdit part begin*/
+#edit_link_form .phpld-columnar .float-left{
+    margin-top:0.5em;
+
+}
+#edit_link_form{
+    margin-left:130px;
+}
+#edit_link_form .phpld-columnar .phpld-label{
+    /*width:100px;*/
+    text-align:right;
+}
+#edit_link_form #addCategories{
+    margin-left:60px;
+}
+
+
+/*LinkEdit part end*/
+
+.footer > a{
+    color: #AAA;
+}
+
+
+.boxTopCenter {
+    color: #707070;
+}
+
+
+
+.phpld-gbox.comment{
+    border-bottom: 1px #009900 solid;
+}
+
+
+
+.phpld-button,
+.phpld-form button,
+.phpld-form input[type="button"],
+.phpld-form input[type="reset"],
+.phpld-form input[type="submit"] {
+    background-color: #090;
+    background-image: -webkit-linear-gradient(top, #eee, #090);
+    background-image: -moz-linear-gradient(top, #eee, #090);
+    background-image: -ms-linear-gradient(top, #eee, #090);
+    background-image: -o-linear-gradient(top, #eee, #090);
+    background-image: linear-gradient(top, #eee, #090);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#eeeeee', EndColorStr='#009900');
+    border: 1px solid #777;
+    -webkit-box-shadow: 0 0 1px 1px rgba(255,255,255,.8) inset, 0 1px 0 rgba(0,0,0,.15);
+    -moz-box-shadow: 0 0 1px 1px rgba(255,255,255,.8) inset, 0 1px 0 rgba(0,0,0,.15);
+    box-shadow: 0 0 1px 1px rgba(255,255,255,.8) inset, 0 1px 0 rgba(0,0,0,.15);
+    color: #FFF !important;
+    text-shadow: 0 1px 0 rgba(255,255,255,.8);
+}
+
+.phpld-form button:hover,
+.phpld-form input[type="button"]:hover,
+.phpld-form input[type="reset"]:hover,
+.phpld-form input[type="submit"]:hover,
+.phpld-button:hover {
+    background-color: #ddd;
+    background-image: -webkit-linear-gradient(top, #0A0, #eee);
+    background-image: -moz-linear-gradient(top, #0A0, #eee);
+    background-image: -ms-linear-gradient(top, #0A0, #eee);
+    background-image: -o-linear-gradient(top, #0A0, #eee);
+    background-image: linear-gradient(top, #0A0, #eee);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#00AA00', EndColorStr='#eeeeee');
+}
+
+.phpld-form button:active,
+.phpld-form input[type="button"]:active,
+.phpld-form input[type="reset"]:active,
+.phpld-form input[type="submit"]:active,
+.phpld-button:active {
+    background-color: #900;
+    background-image: -webkit-linear-gradient(top, #090, #0A0);
+    background-image: -moz-linear-gradient(top, #090, #0A0);
+    background-image: -ms-linear-gradient(top, #090, #0A0);
+    background-image: -o-linear-gradient(top, #090, #0A0);
+    background-image: linear-gradient(top, #090, #0A0);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorStr='#009900', EndColorStr='#00AA00');
+    box-shadow: 2px 2px 3px rgba(0,0,0,.2) inset;
+    position: relative;
+    top: 1px;
+}
+
+.phpld-form button:focus,
+.phpld-form input[type="button"]:focus,
+.phpld-form input[type="reset"]:focus,
+.phpld-form input[type="submit"]:focus,
+.phpld-button:focus {
+    outline: 0;
+    background: #fafafa;
+}
+
+.header a:link,.header a:visited,.header a:hover, .header a {
+    color:#009900;
+    text-decoration: none;
+}
+
+.select2-container .select2-results .select2-no-results{
+    background-color:#009900 !important;
+}

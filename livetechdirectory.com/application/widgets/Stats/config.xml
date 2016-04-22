@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget>
+	<zonetype>VERTICAL</zonetype>
+	<description>Generates detailed database statistics regarding link count, category count, article count, etc.</description>
+	<works_with>4.0</works_with>
+	<setting>
+		<name>TITLE</name>
+		<identifier>TITLE</identifier>
+		<value>Statistics</value>
+		<allowed></allowed>
+		<info>This title shows at top of the widget's generated content.</info>
+	</setting>
+	<setting>
+		<name>ACTIVE LINKS</name>
+		<identifier>ACTIVE_LINKS</identifier>
+		<value>Yes</value>
+		<allowed>Yes,No</allowed>
+		<info>"Yes" if you want the number of active links to show up in stats, otherwise "No".</info>
+	</setting>
+	<setting>
+		<name>PENDING LINKS</name>
+		<identifier>PENDING_LINKS</identifier>
+		<value>Yes</value>
+		<allowed>Yes,No</allowed>
+		<info>"Yes" if you want the number of pending links to show up in stats, otherwise "No".</info>
+	</setting>
+	<setting>
+		<name>TODAY LINKS</name>
+		<identifier>TODAY_LINKS</identifier>
+		<value>Yes</value>
+		<allowed>Yes,No</allowed>
+		<info>"Yes" if you want the number of today's links to show up in stats, otherwise set "No".</info>
+	</setting>
+	<setting>
+		<name>TOTAL CATEGORIES</name>
+		<identifier>TOTAL_CATEGORIES</identifier>
+		<value>Yes</value>
+		<allowed>Yes,No</allowed>
+		<info>"Yes" if you want the total number of categories to show up in stats, otherwise "No".</info>
+	</setting>
+	<setting>
+		<name>SUBCATEGORIES</name>
+		<identifier>SUBCATEGORIES</identifier>
+		<value>Yes</value>
+		<allowed>Yes,No</allowed>
+		<info>"Yes" if you want the number of subcategories to show up in stats, otherwise "No".</info>
+	</setting>
+	<setting>
+		<name>CACHE RESULTS</name>
+		<identifier>CACHE_RESULTS</identifier>
+		<value>No</value>
+		<allowed>Yes,No</allowed>
+		<info>"Yes" if you want the results to be cached, "No" if not.</info>
+	</setting>
+	
+	
+	<author>PhpLD</author>
+	<author_url>www.phplinkdirectory.com</author_url>
+	<version>1.0</version>
+</widget>

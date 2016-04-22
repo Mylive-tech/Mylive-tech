@@ -1,0 +1,78 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Advanced Review Gatherer v0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-04-24 14:08:38+0000\n"
+"Last-Translator: larskoudal <lars@koudal.dk>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Danish\n"
+"X-Poedit-Country: DENMARK\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: includes/class-wc-advanced-review-gatherer.php:42
+#@ wc-review-reminder
+msgid "We would love your feedback"
+msgstr ""
+
+#: includes/class-wc-advanced-review-gatherer.php:43
+#@ wc-review-reminder
+msgid "Please help us by reviewing"
+msgstr ""
+
+#: includes/class-wc-advanced-review-gatherer.php:143
+#@ wc-review-reminder
+msgid "Enable/Disable"
+msgstr "Slå til/fra"
+
+#: includes/class-wc-advanced-review-gatherer.php:145
+#@ wc-review-reminder
+msgid "Enable this review notifications"
+msgstr ""
+
+#: includes/class-wc-advanced-review-gatherer.php:149
+#@ wc-review-reminder
+msgid "Day(s) after order"
+msgstr "Dage efter ordren"
+
+#: includes/class-wc-advanced-review-gatherer.php:151
+#@ default
+msgid "You can choose how many days after a order has been completed before a reminder email is sent."
+msgstr ""
+
+#: includes/class-wc-advanced-review-gatherer.php:156
+#@ wc-review-reminder
+msgid "Email subject"
+msgstr ""
+
+#: includes/class-wc-advanced-review-gatherer.php:163
+#@ wc-review-reminder
+msgid "Email Content"
+msgstr ""
+
+#: includes/class-wc-advanced-review-gatherer.php:165
+#@ default
+msgid "This is the email template"
+msgstr ""
+
+#: includes/class-wc-advanced-review-gatherer.php:167
+#@ wc-review-reminder
+msgid ""
+"Hello {customer_name}\\r\n"
+"Thank you for buying from our shop, we would love if you could help us out by reviewing your products.\\r\n"
+"It only takes a minute and it would really help us and other people finding the best products available.\\r\n"
+"{order_list}\\r\n"
+"Thank you and have a nice day.\\r\n"
+"<a href='{blacklist_link}'>Click here to stop recieving these emails.</a>"
+msgstr ""
+

@@ -1,0 +1,13 @@
+#################################################
+## PHP Link Directory - Apache Server Settings                       ##
+#################################################
+
+# Protect all files and directories
+Order deny,allow
+Deny from all
+
+# Allow cached images
+<Files ~ "^(.*)\.(png|gif|jp[e]?g)$">
+  Order deny,allow
+  Allow from all
+</Files>

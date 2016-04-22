@@ -1,0 +1,6 @@
+/* HR fix */
+hr {
+	height: 40px;
+	zoom: 25%;
+	background: transparent url(../images/texture_dark_strips.png);
+}

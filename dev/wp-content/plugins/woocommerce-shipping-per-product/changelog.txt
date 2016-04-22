@@ -1,0 +1,72 @@
+*** Shipping Per Product Changelog ***
+
+2015.07.14 - version 2.2.4
+* Fix - Improve save methods + 2.4 compatibility.
+
+2015.06.24 - version 2.2.2
+* Fix - Prevent rules from deleting when per product shipping is disabled
+* Fix - Enable per product checkbox was deselecting itself after save
+* Remove - Authorship information in main plugin file
+
+2015.06.04 - version 2.2.1
+* Improve variation checkbox saving.
+* Fix focus on mobile.
+
+2015.03.16 - version 2.2.0
+* Refactor.
+* Fix variation JS.
+
+2015.01.28 - version 2.1.0
+* Added links to docs.
+* Added language files.
+* Tweaked styling.
+
+2014.06.30 - version 2.0.6
+* Correctly compare zero cost in standalone method.
+
+2014.05.07 - version 2.0.5
+* hide per product variation shipping option when product is virtual.
+
+2014.03.11 - version 2.0.4
+* woocommerce_per_product_shipping_skip_free_method filter.
+
+2014.02.24 - version 2.0.3
+* For standalone, NO default and nothing found = abort.
+
+2014.02.23 - version 2.0.2
+* WPML compat.
+
+2014.02.13 - version 2.0.1
+* Fix notice on save.
+
+2013.10.06 - version 2.0.0
+* Complete overhaul of per-product shipping.
+* Add per-product rates for specific country, state and postal codes.
+* Define per-line and per-item costs.
+* Add costs to other shipping methods *or*
+* Can be used as its own standalone shipping method (optionally).
+* Compatible with variations.
+* Import and Export rates via CSV files.
+
+2012.06.19 - version 1.0.6
+* Fix write panel display.
+* Woo updater.
+
+2012.04.15 - version 1.0.5
+* Save hook for WC 1.5.4
+
+2012.02.01 - version 1.0.4
+* Use correct shipping name on the frontend
+
+2012.02.01 - version 1.0.3
+* Using WC 1.4 Class names
+
+2012.01.26 - version 1.0.2
+* WC 1.4 Compatibility
+* Added Woo Updater
+
+2011.11.15 - version 1.0.1
+* Changed textdomain
+
+2011.09.27 - version 1.0
+* First Release

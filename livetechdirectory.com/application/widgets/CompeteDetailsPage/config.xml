@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget>
+	<zonetype>CENTRAL</zonetype>
+	<description>Displays Compete Rankings on the listing details page</description>
+	<works_with>4.0</works_with>
+	<setting>
+			<name>TITLE</name>
+		<identifier>TITLE</identifier>
+		<value>Compete Ranking</value>
+		<allowed></allowed>
+		<info>This title shows at top of the widget's generated content.</info>
+	</setting>
+	<setting>
+		<name>API KEY</name>
+		<identifier>API_KEY</identifier>
+		<value>5</value>
+		<allowed></allowed>
+		<info>Api Key from Compete.com.</info>
+	</setting>
+	<author>PhpLD</author>
+	<author_url>www.phplinkdirectory.com</author_url>
+	<version>1.0</version>
+</widget>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget>
+    <zonetype>CENTRAL</zonetype>
+    <description>Displays Main Page Text.</description>
+    <works_with>5.0</works_with>
+    <allowed_zones>HOMEPAGE</allowed_zones>
+    <setting>
+        <name>TITLE</name>
+        <identifier>TITLE</identifier>
+        <value>Home Page</value>
+        <allowed></allowed>
+        <info>This title shows at top of the widget's generated content.</info>
+    </setting>
+    <author>PhpLD</author>
+    <author_url>www.phplinkdirectory.com</author_url>
+    <version>1.0</version>
+</widget>

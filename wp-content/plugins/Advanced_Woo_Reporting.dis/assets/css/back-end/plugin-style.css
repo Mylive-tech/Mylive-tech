@@ -1,0 +1,211 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,700);
+
+/* CSS Document */
+
+.toplevel_page_wcx_wcreport_plugin_dashboard input[type=text],
+.woo-reporting_page_wcx_wcreport_plugin_products select,
+.woo-reporting_page_wcx_wcreport_plugin_products input[type=search],
+.woo-reporting_page_wcx_wcreport_plugin_products input[type=text],
+.woo-reporting_page_wcx_wcreport_plugin_orders select,
+.woo-reporting_page_wcx_wcreport_plugin_orders input[type=search],
+.woo-reporting_page_wcx_wcreport_plugin_orders input[type=text],
+.woo-reporting_page_wcx_wcreport_plugin_categories select,
+.woo-reporting_page_wcx_wcreport_plugin_categories input[type=search],
+.woo-reporting_page_wcx_wcreport_plugin_categories input[type=text],
+.woo-reporting_page_wcx_wcreport_plugin_customers select,
+.woo-reporting_page_wcx_wcreport_plugin_customers input[type=search],
+.woo-reporting_page_wcx_wcreport_plugin_customers input[type=text],
+.woo-reporting_page_wcx_wcreport_plugin_billingcountries select,
+.woo-reporting_page_wcx_wcreport_plugin_billingcountries input[type=search],
+.woo-reporting_page_wcx_wcreport_plugin_billingcountries input[type=text],
+.woo-reporting_page_wcx_wcreport_plugin_billingstates select,
+.woo-reporting_page_wcx_wcreport_plugin_billingstates input[type=search],
+.woo-reporting_page_wcx_wcreport_plugin_billingstates input[type=text],
+.woo-reporting_page_wcx_wcreport_plugin_paymentgateways select,
+.woo-reporting_page_wcx_wcreport_plugin_paymentgateways input[type=search],
+.woo-reporting_page_wcx_wcreport_plugin_paymentgateways input[type=text],
+.woo-reporting_page_wcx_wcreport_plugin_orderstatuses select,
+.woo-reporting_page_wcx_wcreport_plugin_orderstatuses input[type=search],
+.woo-reporting_page_wcx_wcreport_plugin_orderstatuses input[type=text],
+.woo-reporting_page_wcx_wcreport_plugin_coupons select,
+.woo-reporting_page_wcx_wcreport_plugin_coupons input[type=search],
+.woo-reporting_page_wcx_wcreport_plugin_coupons input[type=text],
+.woo-reporting_page_wcx_wcreport_plugin_stock select,
+.woo-reporting_page_wcx_wcreport_plugin_stock input[type=search],
+.woo-reporting_page_wcx_wcreport_plugin_stock input[type=text],
+.woo-reporting_page_wcx_wcreport_plugin_projected select,
+.woo-reporting_page_wcx_wcreport_plugin_projected input[type=search],
+.woo-reporting_page_wcx_wcreport_plugin_projected input[type=text],
+.woo-reporting_page_wcx_wcreport_plugin_preferences select,
+.woo-reporting_page_wcx_wcreport_plugin_preferences input[type=search],
+.woo-reporting_page_wcx_wcreport_plugin_preferences input[type=text]{-moz-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;line-height:25px;height:30px;}
+.toplevel_page_wcx_wcreport_plugin_dashboard .postbox ,
+.woo-reporting_page_wcx_wcreport_plugin_products .postbox,
+.woo-reporting_page_wcx_wcreport_plugin_orders .postbox,
+.woo-reporting_page_wcx_wcreport_plugin_categories .postbox,
+.woo-reporting_page_wcx_wcreport_plugin_customers .postbox,
+.woo-reporting_page_wcx_wcreport_plugin_billingcountries .postbox,
+.woo-reporting_page_wcx_wcreport_plugin_billingstates .postbox,
+.woo-reporting_page_wcx_wcreport_plugin_paymentgateways .postbox,
+.woo-reporting_page_wcx_wcreport_plugin_orderstatuses .postbox,
+.woo-reporting_page_wcx_wcreport_plugin_coupons .postbox,
+.woo-reporting_page_wcx_wcreport_plugin_stock .postbox,
+.woo-reporting_page_wcx_wcreport_plugin_projected .postbox{font-family:'Raleway',sans-serif;}
+.toplevel_page_wcx_wcreport_plugin_dashboard .postbox,
+.woo-reporting_page_wcx_wcreport_plugin_products .postbox,.woo-reporting_page_wcx_wcreport_plugin_orders .postbox,
+.postbox,.woo-reporting_page_wcx_wcreport_plugin_categories .postbox,
+.postbox,.woo-reporting_page_wcx_wcreport_plugin_customers .postbox,
+.postbox,.woo-reporting_page_wcx_wcreport_plugin_billingcountries .postbox,
+.postbox,.woo-reporting_page_wcx_wcreport_plugin_billingstates .postbox,
+.postbox,.woo-reporting_page_wcx_wcreport_plugin_paymentgateways .postbox,
+.postbox,.woo-reporting_page_wcx_wcreport_plugin_orderstatuses .postbox,
+.postbox,.woo-reporting_page_wcx_wcreport_plugin_coupons .postbox,
+.postbox,.woo-reporting_page_wcx_wcreport_plugin_stock .postbox,
+.postbox,.woo-reporting_page_wcx_wcreport_plugin_projected .postbox{border:none;}
+.toplevel_page_wcx_wcreport_plugin_dashboard .postbox .hndle,
+.woo-reporting_page_wcx_wcreport_plugin_products .postbox .hndle,
+.woo-reporting_page_wcx_wcreport_plugin_products .postbox .hndle,
+.woo-reporting_page_wcx_wcreport_plugin_categories .postbox .hndle,
+.woo-reporting_page_wcx_wcreport_plugin_customers .postbox .hndle,
+.woo-reporting_page_wcx_wcreport_plugin_billingcountries .postbox .hndle,
+.woo-reporting_page_wcx_wcreport_plugin_billingstates .postbox .hndle,
+.woo-reporting_page_wcx_wcreport_plugin_paymentgateways .postbox .hndle,
+.woo-reporting_page_wcx_wcreport_plugin_orderstatuses .postbox .hndle,
+.woo-reporting_page_wcx_wcreport_plugin_coupons .stock .hndle,
+.woo-reporting_page_wcx_wcreport_plugin_projected .postbox .hndle{text-transform:uppercase;background:#4d4d4d;color:#fff;}
+.woo-reporting_page_wcx_wcreport_plugin_products select[multiple],
+.woo-reporting_page_wcx_wcreport_plugin_orders select[multiple],
+.woo-reporting_page_wcx_wcreport_plugin_categories select[multiple],
+.woo-reporting_page_wcx_wcreport_plugin_customers select[multiple],
+.woo-reporting_page_wcx_wcreport_plugin_billingcountries select[multiple],
+.woo-reporting_page_wcx_wcreport_plugin_billingstates select[multiple],
+.woo-reporting_page_wcx_wcreport_plugin_paymentgateways select[multiple],
+.woo-reporting_page_wcx_wcreport_plugin_orderstatuses select[multiple],
+.woo-reporting_page_wcx_wcreport_plugin_coupons select[multiple],
+.woo-reporting_page_wcx_wcreport_plugin_stock select[multiple],
+.woo-reporting_page_wcx_wcreport_plugin_projected select[multiple]{padding:8px;}
+.woo-reporting_page_wcx_wcreport_plugin_products select[multiple] option,
+.woo-reporting_page_wcx_wcreport_plugin_orders select[multiple] option,
+.woo-reporting_page_wcx_wcreport_plugin_categories select[multiple] option,
+.woo-reporting_page_wcx_wcreport_plugin_customers select[multiple] option,
+.woo-reporting_page_wcx_wcreport_plugin_billingcountries select[multiple] option,
+.woo-reporting_page_wcx_wcreport_plugin_billingstates select[multiple] option,
+.woo-reporting_page_wcx_wcreport_plugin_orderstatuses select[multiple] option,
+.woo-reporting_page_wcx_wcreport_plugin_coupons select[multiple] option,
+.woo-reporting_page_wcx_wcreport_plugin_stock select[multiple] option,
+.woo-reporting_page_wcx_wcreport_plugin_projected select[multiple] option,{height:20px;}
+.ui-datepicker{display:none;}
+.my-page{margin:0 auto;text-align:center;color:#fff;}
+.my-title{padding-left:15px;}
+.my-boxes{background-color:#FFFFFF;height:145px;margin-top:10px;text-align:left;border:1px solid #ddd;padding:6px;}
+.col-md-2{width:23.8333%;}
+.wr-title{position:relative;margin:10px 0;margin-top:30px;}
+.wr-title:before{position:absolute;content:'';top:50%;width:100%;height:1px;background-color:#ddd;}
+.wr-title span{position:relative;z-index:99;background-color:#fff;padding:0 20px 0 10px;font-weight:bold;text-transform:uppercase;}
+.my-boxes h2{background-color:#343434;padding:10px;color:#FFFFFF;height:50px;font-size:20px;padding-right:70px;}
+.my-boxes.c1 h2{background-color:#343434;}
+.my-boxes.c1 li:first-of-type{background-color:#494949;}
+.my-boxes.c1 .my-header{background-color:#1E1E1E;}
+.my-boxes h2 span{font-size:16px;display:block;}
+.my-boxes ul{margin:0px;margin-top:0px;width:100%;}
+.my-boxes li{margin:0;padding:0;list-style:none;height:30px;padding-top:7px;font-size:14px;color:#575757;background-color:#ffffff;font-weight:bold;padding-left:7px;}
+.my-boxes li:first-of-type{margin:0;padding:0;list-style:none;height:30px;padding-top:5px;font-size:20px;color:#575757;background-color:#494949;color:#F1F1F1;padding-top:7px;padding-left:7px;font-weight:bold;}
+.my-header{height:70px;width:70px;background-color:#1E1E1E;margin-right:13px;position:absolute;z-index:5;right:0px;}
+.my-headers{}
+.charkh{margin:15px;color:#F1F1F1;}
+.my-footer{height:9px;}
+.postbox .inside{overflow-x:visible;overflow-y:hidden;}
+.postbox h3{padding-left:15px;margin-top:0px;padding-bottom:10px;padding-top:10px;margin-bottom:0px;cursor:move;-moz-user-select:none;border-bottom:1px solid #EEE;line-height:1.4em;}
+.alldetails input[type=text]{width:300px;}
+.alldetails option{width:265px;}
+.sor{padding-top:10px;}
+.my-menu{float:right;}
+.multicharted .my-menu{margin-top:-43px;}
+.my-menu span div{width:43px;height:43px;line-height:43px;display:inline-block;background-color:#0073aa;margin-left:-4px;color:#ffffff;text-align:center;cursor:pointer;vertical-align:0;-webkit-transition:0.3s ease;-moz-transition:0.3s ease;-o-transition:0.3s ease;transition:0.3s ease;transition:.4s ease 0;}
+.choose{padding:0 10px;}
+.eleman{color:#32373c;display:inline;}
+.eleman:hover{color:#4d4d4d;}
+.showtable{}
+.eleman.actived{color:#ffffff;background-color:#0688C7;}
+.eleman.actived:hover{color:#fff;}
+.msel{display:none;}
+.multicharted .my-menu span div{width:auto;height:25px;line-height:25px;margin-top:8px;padding:0 10px;border-radius:100px;margin-right:5px;display:inline-block;background-color:#4BB2C5;margin-left:-4px;color:#fff;text-align:center;cursor:pointer;}
+.col-md-12{min-height:40px;margin-top:20px;}
+div.DTTT_container{margin-top:-55px;}
+a.DTTT_button{width:auto;height:25px;line-height:25px;margin-top:8px;padding:0 10px;border-radius:100px;margin-right:10px;display:inline-block;background:#fff;margin-left:-4px;text-align:center;cursor:pointer;border:1px solid #ddd!important;box-shadow:none;}
+a.DTTT_button:hover{background:#4BB2C5;opacity:0.8;}
+.paginate_button.previous{border-right:none;border-radius:5px 0 0 5px;}
+.paginate_button.next{border-right:none;border-radius:0 5px 5px 0;}
+.dataTables_wrapper .dataTables_paginate .paginate_button.current{background:#fff !important;border:1px solid #eee!important;}
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover{background:#f9f9f9 !important;border:1px solid #eee!important;color:#888!important;}
+.dataTables_wrapper .dataTables_paginate .paginate_button{background:#fff !important;border:1px solid #eee!important;margin:0!important;}
+.dataTables_info{box-sizing:border-box;display:inline-block;min-width:1.5em;padding:0.5em 1em 0.9em;margin-top:2px;text-align:center;text-decoration:none !important;border:1px solid transparent;background:#fff !important;border:none;color:#888!important;text-transform:uppercase;}
+table.dataTable.display{background:white;border-radius:3px;border-collapse:collapse;margin:auto;padding:5px;width:100%;animation:float 5s infinite;}
+table.dataTable.display thead th{color:#888;background-color:#fff;border-bottom:none;border-right:none;text-transform:capitalize;font-size:13px;padding:15px 10px;text-align:left;vertical-align:middle;}
+table.dataTable.display tfoot th{color:#888;background-color:#fff;border-top:none;border-bottom:none;border-right:none;text-transform:capitalize;font-size:13px;padding:15px 10px;text-align:left;vertical-align:middle;}
+table.dataTable.display tr{border-top:none;border-bottom:none;color:#666B85;text-shadow:0 1px 1px rgba(256, 256, 256, 0.1);}
+table.dataTable.display tr:hover td{background:#4c4c4c!important;color:#FFFFFF;}
+table.dataTable.display tr:first-child{border-top:none;}
+table.dataTable.display tr:last-child{border-bottom:none;}
+table.dataTable.display tr:nth-child(odd) td{background:#f5f5f5;}
+table.dataTable.display tr:nth-child(odd):hover td{background:#4c4c4c;}
+table.dataTable.display tr:last-child td:first-child{border-bottom-left-radius:3px;}
+table.dataTable.display tr:last-child td:last-child{border-bottom-right-radius:3px;}
+table.dataTable.display td{background:#FFFFFF;padding:8px 5px;text-align:left;vertical-align:middle;border-top:none!important;text-shadow:-1px -1px 1px rgba(0, 0, 0, 0.1);}
+table.dataTable.display td:last-child{border-right:0px;}
+.dataTable a{color:#0073AA;text-decoration:none;}
+table.dataTable.display tr:hover td a{color:#489DDA;}
+.exportpdf,.exportcsv,.exportxls,.exportprint{display:none;}
+.my-boxes.c1 h2{background-color:#6785BA;}
+.my-boxes.c1 li:first-of-type{background-color:#6B8DC4;}
+.my-boxes.c1 .my-header{background-color:#5772A6;}
+.my-boxes.c2 h2{background-color:#EE334E;}
+.my-boxes.c2 li:first-of-type{background-color:#F83A56;}
+.my-boxes.c2 .my-header{background-color:#D7213B;}
+.my-boxes.c3 h2{background-color:#27A5DA;}
+.my-boxes.c3 li:first-of-type{background-color:#2BADE4;}
+.my-boxes.c3 .my-header{background-color:#1792C6;}
+.my-boxes.c4 h2{background-color:#1DD49E;}
+.my-boxes.c4 li:first-of-type{background-color:#21E1A8;}
+.my-boxes.c4 .my-header{background-color:#14BF8D;}
+.my-boxes.c5 h2{background-color:#FA9B4E;}
+.my-boxes.c5 li:first-of-type{background-color:#FEA45C;}
+.my-boxes.c5 .my-header{background-color:#EA8E43;}
+.my-boxes.c6 h2{background-color:#0DC49E;}
+.my-boxes.c6 li:first-of-type{background-color:#11D1A8;}
+.my-boxes.c6 .my-header{background-color:#04BF8D;}
+.my-boxes.c7 h2{background-color:#CE332E;}
+.my-boxes.c7 li:first-of-type{background-color:#D83A36;}
+.my-boxes.c7 .my-header{background-color:#B7211B;}
+.my-boxes.c8 h2{background-color:#2785BA;}
+.my-boxes.c8 li:first-of-type{background-color:#2B8DC4;}
+.my-boxes.c8 .my-header{background-color:#1772A6;}
+.my-boxes.c9 h2{background-color:#AB8465;}
+.my-boxes.c9 li:first-of-type{background-color:#B58B6D;}
+.my-boxes.c9 .my-header{background-color:#947252;}
+.my-boxes.c10 h2{background-color:#D3577B;}
+.my-boxes.c10 li:first-of-type{background-color:#DD5E83;}
+.my-boxes.c10 .my-header{background-color:#C3476B;}
+.my-boxes.c11 h2{background-color:#74B749;}
+.my-boxes.c11 li:first-of-type{background-color:#7EBE51;}
+.my-boxes.c11 .my-header{background-color:#64A739;}
+.my-boxes.c12 h2{background-color:#A42E33;}
+.my-boxes.c12 li:first-of-type{background-color:#AE353B;}
+.my-boxes.c12 .my-header{background-color:#941E23;}
+.my-boxes.c13 h2{background-color:#A55483;}
+.my-boxes.c13 li:first-of-type{background-color:#AF5B8B;}
+.my-boxes.c13 .my-header{background-color:#954473;}
+.my-boxes.c14 h2{background-color:#667EA3;}
+.my-boxes.c14 li:first-of-type{background-color:#7085AB;}
+.my-boxes.c14 .my-header{background-color:#566E93;}
+.my-boxes.c15 h2{background-color:#959801;}
+.my-boxes.c15 li:first-of-type{background-color:#9F9F09;}
+.my-boxes.c15 .my-header{background-color:#858801;}
+.my-boxes.c16 h2{background-color:#F35958;}
+.my-boxes.c16 li:first-of-type{background-color:#FD6060;}
+.my-boxes.c16 .my-header{background-color:#E34948;}
+.fullview{margin-left:0px !important;}
+@media (max-width:991px){.col-md-2{width:100%;}
+.my-menu span div{width:45px;height:45px;line-height:45px;}
+.multicharted .my-menu{margin-top:0;margin-left:10px;margin-bottom:20px;float:none;}
+}

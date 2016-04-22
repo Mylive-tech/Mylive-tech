@@ -1,0 +1,2166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Point of Sale v2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-10-23 21:56+0200\n"
+"PO-Revision-Date: 2015-07-13 08:39+0200\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.2\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Last-Translator: \n"
+"Language: es_ES\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ wc_point_of_sale
+# @ woocommerce-pos
+#: includes/admin-init.php:36 includes/admin-init.php:37
+#: includes/classes/class-wc-pos-users.php:107 includes/views/header.php:8
+msgid "Point of Sale"
+msgstr "Punto de Venta"
+
+# @ wc_point_of_sale
+#: includes/admin-init.php:42
+#: includes/classes/class-wc-pos-outlets-table.php:56
+#: includes/wc-pos-register.php:20
+msgid "Registers"
+msgstr "Registradoras"
+
+# @ wc_point_of_sale
+#: includes/admin-init.php:44 includes/wc-pos-outlets.php:17
+msgid "Outlets"
+msgstr "Tiendas"
+
+# @ wc_point_of_sale
+# @ woocommerce
+#: includes/admin-init.php:45 includes/classes/class-wc-pos-grids.php:420
+#: includes/settings/wc-pos-settings-layout.php:82
+msgid "Product Grids"
+msgstr "Cuadrículas de Productos"
+
+# @ wc_point_of_sale
+#: includes/admin-init.php:55 includes/wc-pos-receipt.php:16
+msgid "Receipts"
+msgstr "Tickets"
+
+# @ wc_point_of_sale
+#: includes/admin-init.php:57 includes/wc-pos-users.php:19
+msgid "Users"
+msgstr "Usuarios"
+
+# @ wc_point_of_sale
+#: includes/admin-init.php:59 includes/classes/class-wc-pos-barcodes.php:73
+#: includes/classes/class-wc-pos-barcodes.php:139
+msgid "Barcode"
+msgstr "Código de Barras"
+
+# @ wc_point_of_sale
+#: includes/admin-init.php:61
+msgid "Settings"
+msgstr "Ajustes"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-ajax.php:142
+#: includes/classes/class-wc-pos-ajax.php:154
+msgid "User already exists."
+msgstr "El usuario ya existe."
+
+# @ woocommerce
+#: includes/classes/class-wc-pos-ajax.php:857
+#: includes/classes/class-wc-pos-ajax.php:983
+#: includes/views/html-admin-registers-product-item.php:6
+msgid "Product ID:"
+msgstr "ID de Producto:"
+
+# @ woocommerce
+#: includes/classes/class-wc-pos-ajax.php:858
+#: includes/views/html-admin-registers-product-item.php:9
+msgid "Variation ID:"
+msgstr "ID Variación:"
+
+# @ woocommerce
+#: includes/classes/class-wc-pos-ajax.php:862
+#: includes/classes/class-wc-pos-ajax.php:987
+#: includes/views/html-admin-registers-product-item.php:12
+msgid "Product SKU:"
+msgstr "REF:"
+
+# @ woocommerce
+#: includes/classes/class-wc-pos-ajax.php:1044
+#: includes/classes/class-wc-pos-ajax.php:1053 includes/wc-pos-tiles.php:189
+#: includes/wc-pos-tiles.php:202
+msgid "No default"
+msgstr "No existe por defecto"
+
+# @ woocommerce
+#: includes/classes/class-wc-pos-barcodes.php:48
+#: includes/classes/class-wc-pos-barcodes.php:57
+#: includes/classes/class-wc-pos-grids.php:48
+#: includes/classes/class-wc-pos-grids.php:57
+#: includes/classes/class-wc-pos-outlets.php:49
+#: includes/classes/class-wc-pos-outlets.php:58
+#: includes/classes/class-wc-pos-receipts.php:48
+#: includes/classes/class-wc-pos-receipts.php:57
+#: includes/classes/class-wc-pos-registers.php:48
+#: includes/classes/class-wc-pos-registers.php:57
+#: includes/classes/class-wc-pos-tiles.php:48
+#: includes/classes/class-wc-pos-tiles.php:57
+#: includes/classes/class-wc-pos-users.php:48
+#: includes/classes/class-wc-pos-users.php:57 woocommerce-point-of-sale.php:97
+#: woocommerce-point-of-sale.php:106
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatin&#8217; huh?"
+
+# @ default
+#: includes/classes/class-wc-pos-barcodes.php:76
+#: includes/classes/class-wc-pos-receipts.php:167
+#: includes/classes/class-wc-pos-receipts.php:514
+#: includes/classes/class-wc-pos-users.php:81
+msgid ""
+"<strong>Connection lost.</strong> Saving has been disabled until you&#8217;"
+"re reconnected."
+msgstr ""
+"<strong>Conexión Perdida.</strong> Guardar ha sido deshabilitado hasta "
+"&#8217;reconectar."
+
+# @ default
+#: includes/classes/class-wc-pos-barcodes.php:77
+#: includes/classes/class-wc-pos-receipts.php:168
+#: includes/classes/class-wc-pos-receipts.php:515
+#: includes/classes/class-wc-pos-users.php:82
+msgid "We&#8217;re backing up this post in your browser, just in case."
+msgstr ""
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-barcodes.php:92
+#: includes/classes/class-wc-pos-tiles-table.php:48
+#: includes/classes/class-wc-pos-tiles.php:131
+#: includes/classes/class-wc-pos-tiles.php:574
+#: includes/classes/class-wc-pos-tiles.php:614
+msgid "Product"
+msgstr "Producto"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-barcodes.php:96
+#: includes/classes/class-wc-pos-tiles.php:154
+#: includes/classes/class-wc-pos-tiles.php:633
+msgid "Search for a product&hellip;"
+msgstr "Buscar producto&hellip;"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-barcodes.php:103
+msgid "Variation"
+msgstr "Variación"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-barcodes.php:107
+#: includes/classes/class-wc-pos-barcodes.php:186
+msgid "Select variation"
+msgstr "Seleccionar Variación"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-barcodes.php:114
+msgid "Number of Labels"
+msgstr "Numero de Etiquetas"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-barcodes.php:122
+msgid "Label Type"
+msgstr "Etiqueta tipo"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-barcodes.php:126
+msgid "Continuous Feed"
+msgstr "Alimentación de Papel continua"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-barcodes.php:127
+msgid "A4"
+msgstr "A4"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-barcodes.php:128
+msgid "Letter"
+msgstr "Carta"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-barcodes.php:134
+msgid "Choose which fields to print"
+msgstr "Elige que campos imprimir"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-barcodes.php:137
+#: includes/views/html-print-receipt.php:90
+#: includes/views/html-print-receipt.php:149
+msgid "Price"
+msgstr "Precio"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-barcodes.php:138
+msgid "Product Name"
+msgstr "Nombre de Producto"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-barcodes.php:140
+msgid "SKU"
+msgstr "REF"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-barcodes.php:151
+msgid "Barcode Preview"
+msgstr "Previsualizar Código de Barras"
+
+# @ default
+#: includes/classes/class-wc-pos-barcodes.php:389
+msgid "Barcode Template created."
+msgstr "Plantilla de Código de Barras creada"
+
+# @ default
+#: includes/classes/class-wc-pos-barcodes.php:390
+msgid "Barcode Template updated."
+msgstr "Plantilla de Código de Barras actualizada"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-grids-table.php:24
+msgid "grid-table"
+msgstr "grid-table"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-grids-table.php:25
+msgid "grids-table"
+msgstr "grids-table"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-grids-table.php:52
+msgid "No Product Grids currently exist."
+msgstr "No existen cuadrículas de producto"
+
+# @ wc_point_of_sale
+# @ woocommerce
+#: includes/classes/class-wc-pos-grids-table.php:73
+#: includes/classes/class-wc-pos-grids.php:384
+#: includes/classes/class-wc-pos-grids.php:443
+#: includes/classes/class-wc-pos-outlets.php:205
+#: includes/classes/class-wc-pos-outlets.php:380
+#: includes/classes/class-wc-pos-registers.php:76
+msgid "Name"
+msgstr "Nombre"
+
+# @ wc_point_of_sale
+# @ woocommerce
+#: includes/classes/class-wc-pos-grids-table.php:74
+#: includes/classes/class-wc-pos-grids.php:394
+#: includes/classes/class-wc-pos-grids.php:449
+msgid "Slug"
+msgstr "Slug"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-grids-table.php:75
+#: includes/wc-pos-tiles.php:15
+msgid "Tiles"
+msgstr "Baldosas"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-grids-table.php:97
+#: includes/classes/class-wc-pos-outlets-table.php:77
+#: includes/classes/class-wc-pos-receipts-table.php:73
+#: includes/classes/class-wc-pos-registers-table.php:79
+#: includes/classes/class-wc-pos-tiles-table.php:56
+msgid "Delete"
+msgstr "Eliminar"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-grids-table.php:135
+msgid "Configure Tiles"
+msgstr "Configurar baldosas"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-grids.php:72
+msgid "Point Of Sale"
+msgstr "Punto de Venta"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-grids.php:180
+#: includes/classes/class-wc-pos-grids.php:183
+#: includes/classes/class-wc-pos-grids.php:185
+msgid "Add New Product Grid "
+msgstr "Add New Product Grid"
+
+# @ woocommerce
+#: includes/classes/class-wc-pos-grids.php:250
+msgid "Please, provide an grid name, slug and type."
+msgstr "Introduce nombre de cuadrícula, slug y tipo."
+
+# @ woocommerce
+#: includes/classes/class-wc-pos-grids.php:252
+#, php-format
+msgid "Slug “%s” is too long (28 characters max). Shorten it, please."
+msgstr "Slug “%s” es demasiado largo."
+
+# @ woocommerce
+#: includes/classes/class-wc-pos-grids.php:254
+#, php-format
+msgid ""
+"Slug “%s” is not allowed because it is a reserved term. Change it, please."
+msgstr ""
+"Slug “%s” no es permitido porque es un termino reservado. Cámbialo por favor."
+
+# @ woocommerce
+#: includes/classes/class-wc-pos-grids.php:259
+#: includes/classes/class-wc-pos-grids.php:265
+#, php-format
+msgid "Slug “%s” is already in use. Change it, please."
+msgstr "Slug “%s” ya esta en uso. Cambialo, por favor."
+
+# @ woocommerce
+#: includes/classes/class-wc-pos-grids.php:378
+msgid "Edit Product Grid"
+msgstr "Editar cuadricula de productos"
+
+# @ woocommerce
+#: includes/classes/class-wc-pos-grids.php:388
+msgid "Name for the grid (shown on the front-end)."
+msgstr "Nombre para la cuadrícula (para front-end)"
+
+# @ woocommerce
+#: includes/classes/class-wc-pos-grids.php:398
+#: includes/classes/class-wc-pos-grids.php:451
+msgid "Unique slug/reference for the grid; must be shorter than 28 characters."
+msgstr ""
+
+# @ woocommerce
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-grids.php:404
+#: includes/classes/class-wc-pos-outlets.php:320
+#: includes/classes/class-wc-pos-registers.php:271
+msgid "Update"
+msgstr "Actualizar"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-grids.php:439
+msgid "Add New Product Grid"
+msgstr "Añadir nueva cuadricula de productos"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-grids.php:440
+msgid ""
+"Product grids lets you define the products that you want to show on each "
+"register. Using tiles which represent a produce, you can customise the "
+"product grid layout."
+msgstr ""
+"Las cuadriculas te permiten definir los producto que quieres mostrar en cada "
+"registradora. Puedes personalizar la familia de producto para cada "
+"cuadrícula."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-grids.php:445
+msgid "Name for the grid (shown when configuring and viewing the register)"
+msgstr "Nombre para la cuadrícula (para configuración y vista de registradora)"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-grids.php:454
+msgid "Add Product Grid"
+msgstr "Añadir cuadricula de productos"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-grids.php:465
+msgid "Are you sure you want to delete this grid?"
+msgstr "Estas seguro de eliminar esta cuadricula?"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-order-list.php:24
+msgid "order"
+msgstr "pedido"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-order-list.php:25
+msgid "orders"
+msgstr "pedidos"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-order-list.php:36
+msgid "No orders data found."
+msgstr "No se han encontrado pedidos"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-order-list.php:60
+#: includes/views/html-admin-registers-sale_report_overlay.php:31
+msgid "Order"
+msgstr "Pedido"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-order-list.php:61
+msgid "Purchased"
+msgstr "Comprado"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-order-list.php:62
+msgid "Ship to"
+msgstr "Enviar a"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-order-list.php:63
+msgid "Customer Message"
+msgstr "Mensaje al cliente"
+
+# @ wc_point_of_sale
+# @ woocommerce
+#: includes/classes/class-wc-pos-order-list.php:64
+#: includes/classes/class-wc-pos-registers-order.php:90
+msgid "Order Notes"
+msgstr "Notas del Pedido"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-order-list.php:65
+msgid "Date"
+msgstr "Fecha"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-order-list.php:66
+#: includes/classes/class-wc-pos-receipts.php:127
+#: includes/views/html-admin-registers-sale_report_overlay.php:34
+#: includes/views/html-admin-registers.php:347
+#: includes/views/html-print-receipt.php:190
+msgid "Total"
+msgstr "Total"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-order-list.php:67
+msgid "Actions"
+msgstr "Acciones"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-order-list.php:97
+msgid "Load Order"
+msgstr "Cargar Pedido"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets-table.php:24
+msgid "outlets_table"
+msgstr "outlets_table"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets-table.php:25
+msgid "outlets_tables"
+msgstr "outlets_tables"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets-table.php:32
+msgid "Outlets not found. Try to adjust the filter."
+msgstr "No se han encontrado tiendas. Ajusta el filtro."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets-table.php:54
+#: includes/classes/class-wc-pos-registers-table.php:57
+#: includes/classes/class-wc-pos-registers.php:100
+#: includes/classes/class-wc-pos-users-table.php:72
+#: includes/classes/class-wc-pos-users.php:110
+msgid "Outlet"
+msgstr "Tienda"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets-table.php:55
+msgid "Contact & Social Details"
+msgstr "Contacto y detalles sociales"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets.php:80
+msgid "Select a country…"
+msgstr "Selecciona un Pais"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets.php:86
+msgid "Select a state…"
+msgstr "Seleccionar Comunidad…"
+
+# @ woocommerce
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets.php:98
+#: includes/classes/class-wc-pos-receipts.php:118
+msgid "Email"
+msgstr "Email"
+
+# @ woocommerce
+#: includes/classes/class-wc-pos-outlets.php:102
+msgid "Phone"
+msgstr "Telf"
+
+# @ woocommerce
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets.php:105
+#: includes/classes/class-wc-pos-receipts.php:117
+msgid "Fax"
+msgstr "Fax"
+
+# @ woocommerce
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets.php:108
+#: includes/classes/class-wc-pos-receipts.php:119
+msgid "Website"
+msgstr "Web"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets.php:114
+msgid "Twitter"
+msgstr "Twitter"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets.php:116
+msgid ""
+"The Twitter name of the outlet e.g. for twitter.com/acme enter just \"acme\"."
+msgstr ""
+"Nombre de Twitter de la tienda. Por ejemplo, para twitter.com/acme introduce "
+"\"acme\"."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets.php:119
+msgid "Facebook"
+msgstr "Facebook"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets.php:121
+msgid ""
+"The Facebook page of the outlet e.g. for facebook.com/acme enter just \"acme"
+"\"."
+msgstr ""
+"La página en Facebook de la tienda. Por ejemplo, para facebook.com/acme solo "
+"introduce \"acme\"."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets.php:146
+#: includes/classes/class-wc-pos-outlets.php:149
+msgid "Search Outlets"
+msgstr "Buscar Tiendas"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets.php:194
+msgid "Edit Outlet"
+msgstr "Editar tienda"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets.php:213
+#: includes/classes/class-wc-pos-outlets.php:386
+msgid "The name of the outlet as it appears when opening a register."
+msgstr "El nombre de la tienda como aparecerá al abrir una registradora."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets.php:254
+#: includes/classes/class-wc-pos-outlets.php:412
+msgid "Contact Details"
+msgstr "Detalles de Contacto"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets.php:255
+#: includes/classes/class-wc-pos-outlets.php:413
+msgid ""
+"Enter the contact details of the outlet as this will appear on receipts that "
+"are printed from registers at this outlet."
+msgstr "Detalles de contacto de tienda para recibos"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets.php:293
+#: includes/classes/class-wc-pos-outlets.php:433
+msgid "Social Details"
+msgstr "Detalles RRSS"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets.php:294
+#: includes/classes/class-wc-pos-outlets.php:434
+msgid ""
+"Enter the social details of the outlet as this will appear on receipts that "
+"are printed from registers at this outlet."
+msgstr "Detalles de RRS de esta tienda para recibos"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets.php:371
+msgid ""
+"Outlets for your store can be managed here. Outlets can be added using the "
+"form below. To edit an outlet, simply hover over the outlet and click on "
+"Edit."
+msgstr "Administración de tiendas."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets.php:373
+msgid "Outlet Details"
+msgstr "Detalles de tienda"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets.php:410
+msgid "The address of the outlet at which the register will be located."
+msgstr "La dirección de la tienda donde estará localizada esta registradora."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets.php:456
+msgid "Add New Outlet"
+msgstr "Añadir nueva Tienda"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets.php:527
+msgid "Outlet added."
+msgstr "Tienda Añadida"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets.php:531
+msgid "Outlet updated."
+msgstr "Tienda actualizada."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-outlets.php:535
+msgid "Outlet deleted."
+msgstr "Tienda eliminada."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts-table.php:24
+msgid "receipts_table"
+msgstr "receipts_table"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts-table.php:25
+msgid "receipts_tables"
+msgstr "receipts_tables"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts-table.php:33
+msgid "Receipts not found. Try to adjust the filter."
+msgstr "Recibos no encontrados"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts-table.php:52
+#: includes/classes/class-wc-pos-receipts.php:120
+msgid "Receipt"
+msgstr "Recibo"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:116
+msgid "Tel"
+msgstr "Telf"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:121
+msgid "Order Number"
+msgstr "Num. de Pedido"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:122
+msgid "Order Date"
+msgstr "Fecha Pedido"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:125
+msgid "Served by"
+msgstr "Atendido por"
+
+# @ wc_point_of_sale
+# @ woocommerce
+#: includes/classes/class-wc-pos-receipts.php:126
+#: includes/settings/wc-pos-settings-tax.php:27
+#: includes/views/html-admin-registers.php:328
+msgid "Tax"
+msgstr "Impuestos"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:128
+#: includes/views/html-admin-registers-sale_report_overlay.php:26
+msgid "Sales"
+msgstr "Ventas"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:130
+msgid "Number of Items"
+msgstr "Numero de Artículos"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:133
+msgid "Tax Number"
+msgstr "NIF"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:158
+msgid "Edit Receipt Template"
+msgstr "Editar plantilla de recibo"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:159
+#: includes/classes/class-wc-pos-receipts.php:507
+msgid "Add New"
+msgstr "Nuevo"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:162
+msgid "Add New Receipt Template"
+msgstr "Añadir nueva plantilla para recibos"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:182
+msgid "General Details"
+msgstr "Detalles Generales"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:188
+msgid "Receipt Name"
+msgstr "Nombre del recibo"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:196
+msgid "Print Outlet Address"
+msgstr "Imprimir dirección de Tienda"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:204
+msgid "Print Outlet Contact Details"
+msgstr "Imprimir Detalles de Contacto de Tienda"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:212
+msgid "Telephone Label"
+msgstr "Etiqueta Telf"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:220
+msgid "Fax Label"
+msgstr "Etiqueta Fax"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:228
+msgid "Email Label"
+msgstr "Etiqueta Email"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:236
+msgid "Website Label"
+msgstr "Etiqueta Web"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:244
+msgid "Receipt Title"
+msgstr "Nombre de recibo"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:252
+msgid "Order Number Label"
+msgstr "Etiqueta Número de Pedido"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:260
+msgid "Order Date Label"
+msgstr "Etiqueta Fecha de Pedido"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:268
+msgid "Print Order Time"
+msgstr "Imprimir Hora de Pedido"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:276
+msgid "Print Server"
+msgstr "Imprimir Servidor"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:284
+msgid "Served By Label"
+msgstr "Etiqueta atendido por"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:292
+msgid "Tax Label"
+msgstr "Etiqueta impuestos"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:300
+msgid "Total Label"
+msgstr "Etiqueta Total"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:308
+msgid "Payment Label"
+msgstr "Etiqueta de Pago"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:316
+msgid "Print Number of Items"
+msgstr "Imprimir número de Artículos"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:324
+msgid "Number of Items Label"
+msgstr "Numero de Etiquetas por Articulo"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:332
+msgid "Print Order Barcode"
+msgstr "Imprimir Código de Barras"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:340
+msgid "Print Tax Number"
+msgstr "Imprimir NIF"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:348
+msgid "Tax Number Label"
+msgstr "Etiqueta NIF"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:360
+msgid "Header Text"
+msgstr "Texto Encabezado"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:380
+msgid "Footer Text"
+msgstr "Texto Pie"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:403
+msgid "Receipt Logo"
+msgstr "Logo para recibo"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:408
+#: includes/classes/class-wc-pos-receipts.php:416
+#: includes/classes/class-wc-pos-receipts.php:417
+msgid "Set Receipt Logo"
+msgstr "Establecer logo para recibo"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:413
+#: includes/classes/class-wc-pos-receipts.php:414
+msgid "Remove Receipt Logo"
+msgstr "Eliminar Logo de recibo"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:425
+#: includes/classes/class-wc-pos-tiles-table.php:49
+#: includes/classes/class-wc-pos-tiles.php:263
+#: includes/classes/class-wc-pos-tiles.php:717
+msgid "Preview"
+msgstr "Pre-Visualizar"
+
+# @ default
+#: includes/classes/class-wc-pos-receipts.php:454
+msgid "Receipt Template created."
+msgstr "Plantilla de recibo creada."
+
+# @ default
+#: includes/classes/class-wc-pos-receipts.php:455
+msgid "Receipt Template updated."
+msgstr "Plantilla de recibo actualizada."
+
+# @ default
+#: includes/classes/class-wc-pos-receipts.php:456
+msgid "Receipt Template deleted."
+msgstr "Plantilla de recibo eliminada."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-receipts.php:506
+msgid "Receipt Templates"
+msgstr "Plantillas de recibo"
+
+# @ default
+#: includes/classes/class-wc-pos-receipts.php:509
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Buscar resultados para &#8220;%s&#8221;"
+
+# @ woocommerce
+#: includes/classes/class-wc-pos-registers-order.php:91
+msgctxt "placeholder"
+msgid "Notes about your order, e.g. special notes for delivery."
+msgstr "Notas sobre este pedido."
+
+# @ woocommerce
+#: includes/classes/class-wc-pos-registers-order.php:137
+#, php-format
+msgid "Order &ndash; %s"
+msgstr "Pedido &ndash; %s"
+
+# @ woocommerce
+#: includes/classes/class-wc-pos-registers-order.php:137
+msgctxt "Order date parsed by strftime"
+msgid "%b %d, %Y @ %I:%M %p"
+msgstr "%b %d, %Y @ %I:%M %p"
+
+# @ woocommerce
+#: includes/classes/class-wc-pos-registers-order.php:262
+msgid "Backordered"
+msgstr "Pendiente de entrega"
+
+# @ woocommerce
+#: includes/classes/class-wc-pos-registers-order.php:425
+msgid "Please add products."
+msgstr "Por favor añade productos"
+
+# @ woocommerce
+#: includes/classes/class-wc-pos-registers-order.php:523
+#, php-format
+msgid ""
+"Unfortunately <strong>we do not ship to %s</strong>. Please enter an "
+"alternative shipping address."
+msgstr ""
+
+# @ woocommerce
+#: includes/classes/class-wc-pos-registers-order.php:532
+msgid "Invalid shipping method."
+msgstr "Metodo de envío inválido."
+
+# @ woocommerce
+#: includes/classes/class-wc-pos-registers-order.php:545
+msgid "Invalid payment method."
+msgstr "Método de pago invalido."
+
+# @ woocommerce
+#: includes/classes/class-wc-pos-registers-order.php:600
+msgid "Point of Sale transaction completed."
+msgstr "Tpv transacción completada."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers-order.php:601
+#: includes/classes/class-wc-pos-registers-order.php:684
+msgid "Order saved."
+msgstr "Pedido Guardado"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers-order.php:666
+#: includes/views/html-admin-registers.php:140
+msgid "Printing&hellip;"
+msgstr "Imprimir&hellip;"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers-table.php:24
+msgid "registers_table"
+msgstr "registers_table"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers-table.php:25
+msgid "registers_tables"
+msgstr "registers_tables"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers-table.php:32
+msgid "Registers not found. Try to adjust the filter."
+msgstr "Registradora no encontrada. Ajusta el filtro."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers-table.php:56
+#: includes/views/html-admin-registers.php:81
+msgid "Register"
+msgstr "Registradora"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers-table.php:58
+msgid "Access"
+msgstr "Acceder"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers-table.php:166
+#: includes/classes/class-wc-pos-registers-table.php:183
+#: includes/classes/class-wc-pos-registers-table.php:189
+msgid "Open"
+msgstr "Abrir"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers-table.php:168
+msgid "Enter"
+msgstr "Entrar"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers-table.php:192
+msgid "Closed"
+msgstr "Cerrada"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers.php:77
+msgid "The name of the register that will appear when opening it."
+msgstr "El nombre de la registradora."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers.php:80
+#: woocommerce-point-of-sale.php:616
+msgid "Product Grid"
+msgstr "Cuadrícula de Productos"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers.php:83
+msgid "Select the product grid that this register will use."
+msgstr "Selecciona la cuadricula que utilizara esta registradora."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers.php:86
+msgid "Receipt Template"
+msgstr "Plantilla de recibo"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers.php:89
+msgid "Select the receipt template that this register will use."
+msgstr "Selecciona la plantilla para recibos que utilizara esta registradora."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers.php:92
+msgid "Prefix"
+msgstr "Prefijo"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers.php:93
+msgid "Enter the prefix of the orders from this register."
+msgstr "Prefijo de pedidos para esta registradora"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers.php:96
+msgid "Suffix"
+msgstr "Sufijo"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers.php:97
+msgid "Enter the suffix of the orders from this register."
+msgstr "Sufijo para pedidos de esta registradora"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers.php:103
+msgid "Select the outlet that this register is assigned to."
+msgstr "Seleccionar la tienda asignada a esta registradora"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers.php:108
+msgid "Change User"
+msgstr "Cambiar Usuario"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers.php:112
+msgid "Select whether user to be changed at end of sale."
+msgstr ""
+"Selecciona cuando es necesario cambiar de usuario al final de la venta."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers.php:115
+msgid "Email Receipt"
+msgstr "Recibo por email"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers.php:119
+msgid "Select whether to email receipt at end of sale."
+msgstr "Selecciona cuando enviar un Email al final de la venta."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers.php:122
+msgid "Print Receipt"
+msgstr "Imprimir Ticket"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers.php:126
+msgid "Select whether to print receipt at end of sale."
+msgstr "Selecciona cuando imprimir un recibo al final de la venta."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers.php:129
+msgid "Note Request"
+msgstr "Solicitar Nota"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers.php:132
+msgid "Select whether to add a note at end of sale."
+msgstr "Selecciona cuando añadir una nota al final de la venta."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers.php:166
+#: includes/classes/class-wc-pos-registers.php:169
+msgid "Search Registers"
+msgstr "Buscar Registradoras"
+
+# @ wc_point_of_sale
+# @ default
+#: includes/classes/class-wc-pos-registers.php:211
+#: includes/views/html-admin-registers.php:54
+msgid "Edit Register"
+msgstr "Editar registradora"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers.php:245
+#: includes/classes/class-wc-pos-registers.php:319
+msgid "End Of Sale"
+msgstr "Finalizar Venta"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers.php:292
+msgid ""
+"Registers for your store can be managed here. Registers can be added using "
+"the form below. To edit an register, simply hover over the register and "
+"click on Edit."
+msgstr ""
+"Las registradoras para tu tienda pueden ser gestionadas aquí. Puedes añadir "
+"registradoras utilizando el formulario más bajo pulsando el botón “Editar”."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers.php:294
+msgid "Register Details"
+msgstr "Detalles de registradora"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers.php:341
+msgid "Add New Register"
+msgstr "Añadir nueva registradora"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers.php:466
+msgid "New register added."
+msgstr "Nueva registradora añadida"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers.php:470
+msgid "Register updated."
+msgstr "Registradora Actualizada"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-registers.php:474
+msgid "Register deleted."
+msgstr "Registradora Eliminada"
+
+# @ woocommerce
+#: includes/classes/class-wc-pos-settings.php:51
+msgid "Action failed. Please refresh the page and retry."
+msgstr "Error. Por favor refresca la página y vuelve a intentarlo"
+
+# @ woocommerce
+#: includes/classes/class-wc-pos-settings.php:58
+msgid "Your settings have been saved."
+msgstr "Tu configuración ha sido guardada."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-settings.php:135
+msgid ""
+"Good news, the tax configuration of WooCommerce is set up, you can use "
+"automated tax calculation for the POS system."
+msgstr ""
+"Configuración de impuestos en Woocommerce lista. Puedes utilizarla para el "
+"calculo de impuestos automático en el Tpv."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-settings.php:137
+msgid ""
+"Unfortunately, the tax configuration of WooCommerce is not set up/enabled, "
+"tax calculation features are limited."
+msgstr ""
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles-table.php:24
+msgid "tiles_table"
+msgstr "tiles_table"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles-table.php:25
+msgid "tiles_tables"
+msgstr "tiles_tables"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles-table.php:32
+msgid "Tiles not found."
+msgstr "Baldosas no encontradas"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles-table.php:47
+#: includes/classes/class-wc-pos-tiles.php:172
+#: includes/classes/class-wc-pos-tiles.php:646
+msgid "Image"
+msgstr "Imagen"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles-table.php:133
+#: includes/classes/class-wc-pos-tiles-table.php:136
+#: includes/classes/class-wc-pos-tiles.php:218
+#: includes/classes/class-wc-pos-tiles.php:673 includes/functions.php:558
+msgid "No Default Selection"
+msgstr "No existe selección por defecto"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles.php:116
+msgid "Edit Tile"
+msgstr "Editar baldosa"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles.php:159
+#: includes/classes/class-wc-pos-tiles.php:195
+#: includes/classes/class-wc-pos-tiles.php:638
+msgid "Select the product which this tile will represent."
+msgstr "Selecciona el producto que representara esta baldosa."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles.php:165
+#: includes/classes/class-wc-pos-tiles.php:641
+msgid "Tile Style"
+msgstr "Estilo de baldosa."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles.php:178
+#: includes/classes/class-wc-pos-tiles.php:652
+msgid "Colour"
+msgstr "Color"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles.php:186
+#: includes/classes/class-wc-pos-tiles.php:658
+msgid "Background Color"
+msgstr "Color de fondo"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles.php:200
+#: includes/classes/class-wc-pos-tiles.php:663
+msgid "Text Color"
+msgstr "Color de Texto"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles.php:208
+#: includes/classes/class-wc-pos-tiles.php:665
+msgid "Select the text colour for this tile."
+msgstr "Selecciona el color del texto para esta baldosa."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles.php:214
+#: includes/classes/class-wc-pos-tiles.php:668
+msgid "Dafault Selection"
+msgstr "Selección por defecto"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles.php:258
+#: includes/classes/class-wc-pos-tiles.php:713
+msgid "Selection the Default Section for this using variations."
+msgstr "Selecciona la sección por defecto para esto usando variaciones."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles.php:276
+msgid "Save Your Tile"
+msgstr "Guardar Baldosa"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles.php:339
+msgid "Please select category."
+msgstr "Selecciona Categoría"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles.php:395
+msgid "Please select product."
+msgstr "Selecciona un producto."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles.php:401
+msgid "Selected product is already added. Change it, please."
+msgstr "El producto seleccionado ya ha sido añadido. Cámbialo por favor."
+
+#: includes/classes/class-wc-pos-tiles.php:438
+#: includes/classes/class-wc-pos-tiles.php:468
+#: includes/views/html-admin-registers.php:197
+msgid " Layout"
+msgstr "Catálogo"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles.php:466
+msgid "Grid Preview "
+msgstr "Previsualización de cuadricula"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles.php:542
+#: includes/views/html-admin-registers.php:209
+msgid "Previous"
+msgstr "Anteriores"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles.php:544
+#: includes/views/html-admin-registers.php:211
+msgid "Next"
+msgstr "Siguiente"
+
+#: includes/classes/class-wc-pos-tiles.php:567
+msgid "Add New "
+msgstr "Añadir Nuevo"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles.php:580
+#: includes/classes/class-wc-pos-tiles.php:588
+msgid "Category"
+msgstr "Categoría"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles.php:599
+msgid "Select category"
+msgstr "Seleccionar Categoría"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles.php:609
+msgid ""
+"Select the product category which contains the products you want to add."
+msgstr ""
+"Selecciona la categoría de producto que contenga los productos que deseas "
+"añadir."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles.php:660
+msgid "Select the background colour for this tile."
+msgstr "Color de fondo para archivo"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles.php:728
+msgid "Add New Tile"
+msgstr "Añadir nueva baldosa"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles.php:742
+msgid "Tile updated."
+msgstr "Baldosa actualizada."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles.php:745
+msgid "Selected product is already a tile."
+msgstr "El producto seleccionado ya es una baldosa."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles.php:748
+msgid "Tile added successfully."
+msgstr "Baldosa añadida con éxito."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-tiles.php:751
+msgid "Tile deleted successfully."
+msgstr "Baldosa borrada con éxito."
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-users-table.php:25
+msgid "users_table"
+msgstr "users_table"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-users-table.php:26
+msgid "users_tables"
+msgstr "users_tables"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-users-table.php:34
+msgid "Users not found."
+msgstr "Usuarios no encontrados"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-users-table.php:70
+msgid "Display Name"
+msgstr "Mostrar Nombre"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-users-table.php:71
+msgid "Username"
+msgstr "Nombre de Usuario"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-users-table.php:73
+msgid "Orders"
+msgstr "Pedidos"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-users-table.php:74
+msgid "Last Login"
+msgstr "Ultimo Acceso"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-users-table.php:75
+msgid "Logged In"
+msgstr "Sesión Iniciada"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-users.php:86
+msgid "Below are the users who have an outlet assigned to them."
+msgstr "A continuación los usuarios que tienen una tienda asignada"
+
+# @ wc_point_of_sale
+#: includes/classes/class-wc-pos-users.php:113
+msgid "Ensure the user is logged out before changing the outlet."
+msgstr "El usuario debe de cerrar la sesión antes de cambiar de tienda"
+
+# @ wc_point_of_sale
+#: includes/functions.php:269
+msgid "All Registers"
+msgstr "Todas las registradoras"
+
+# @ wc_point_of_sale
+#: includes/functions.php:281
+msgid "You do not have permission to access this register."
+msgstr "No tienes permiso para acceder a esta registradora."
+
+#: includes/functions.php:311
+msgid "This register currently has a user ("
+msgstr "Esta registradora ya tiene un usuario"
+
+# @ default
+#: includes/functions.php:313
+#, php-format
+msgid "If you take over, %s will be blocked from continuing to edit."
+msgstr ""
+
+# @ default
+#: includes/functions.php:323
+msgid "Take over"
+msgstr "Llevar"
+
+# @ default
+#: includes/functions.php:337
+msgid "Loading..."
+msgstr "Cargando…"
+
+# @ woocommerce-gateway-stripe
+#: includes/functions.php:472
+msgid "Please accept the terms and conditions first"
+msgstr "Por favor, acepta los términos y condiciones"
+
+# @ wc_point_of_sale
+#: includes/functions.php:553
+msgid "Are you sure you want to remove the selected items?"
+msgstr "Estas seguro de eliminar los artículos seleccionados?"
+
+# @ wc_point_of_sale
+#: includes/functions.php:554
+msgid "Are you sure you want to clear all fields and start from scratch?"
+msgstr "Estas seguro de eliminar todos los campos y empezar?"
+
+# @ wc_point_of_sale
+#: includes/functions.php:555
+msgid "Order Discount. This is the total discount applied after tax."
+msgstr "Descuento de Pedido. Total después de impuestos."
+
+# @ wc_point_of_sale
+#: includes/functions.php:556
+msgid "No SKU, for this product, please define an SKU to print barcodes."
+msgstr ""
+"No existe referencia para este producto. Define la referencia para imprimir "
+"códigos de barras."
+
+# @ wc_point_of_sale
+#: includes/functions.php:557
+msgid "No SKU, for this variation, please define an SKU to print barcodes."
+msgstr ""
+"No existe referencia para esta talla. Define la referencia para imprimir "
+"códigos de barras."
+
+# @ wc_point_of_sale
+#: includes/functions.php:559
+msgid "This register is already open in another tab."
+msgstr "Esta registradora ya esta en abierta otra pestaña."
+
+# @ wc_point_of_sale
+#: includes/functions.php:560
+#: includes/views/html-admin-registers-customer.php:15
+#: includes/views/html-admin-registers-customer.php:24
+#: includes/views/html-admin-registers-product-item.php:85
+msgid "Remove"
+msgstr "Eliminar"
+
+# @ wc_point_of_sale
+#: includes/functions.php:561
+msgid ""
+"You cannot add that amount of \"%NAME%\" to the cart because there is not "
+"enough stock (%COUNT% remaining)."
+msgstr ""
+"No puedes añadir esa cantidad \"%NAME%\" al pedido porque no existe "
+"suficiente stock (%COUNT% remaining)."
+
+# @ wc_point_of_sale
+#: includes/functions.php:562
+msgid "Sorry, this product cannot be purchased."
+msgstr "Este producto no puede ser comprado."
+
+# @ woocommerce
+#: includes/settings/wc-pos-settings-general.php:27
+msgid "General"
+msgstr "General"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-general.php:48
+msgid "General Options"
+msgstr "Opciones Generales"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-general.php:51
+msgid "Ready To Scan"
+msgstr "Preparado para escanear"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-general.php:55
+msgid ""
+"Check this box if you'd like the register to always be ready for barcode "
+"scanning."
+msgstr ""
+"Activa esta opción si deseas que la registradora esté siempre disponible "
+"para el escaneo de códigos de barras"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-general.php:62
+msgid "Credit Card Scanning"
+msgstr "Escaneo de tarjeta de crédito"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-general.php:66
+msgid ""
+"Check this box if you would like to enable credit card scanning. Currently "
+"supported on RealEx, Stripe and Braintree."
+msgstr ""
+"Activa esta casilla si deseas permitir el escaneo de tarjetas de crédito. "
+"Soporta Stripe, RealEx y Braintree."
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-general.php:73
+msgid "Discount Presets"
+msgstr "Descuentos Pre-Definidos"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-general.php:80
+msgid "5%"
+msgstr "5%"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-general.php:81
+msgid "10%"
+msgstr "10%"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-general.php:82
+msgid "15%"
+msgstr "15%"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-general.php:83
+msgid "20%"
+msgstr "20%"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-general.php:84
+msgid "25%"
+msgstr "25%"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-general.php:85
+msgid "30%"
+msgstr "30%"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-general.php:86
+msgid "35%"
+msgstr "35%"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-general.php:87
+msgid "40%"
+msgstr "40%"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-general.php:88
+msgid "45%"
+msgstr "45%"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-general.php:89
+msgid "50%"
+msgstr "50%"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-general.php:90
+msgid "55%"
+msgstr "55%"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-general.php:91
+msgid "60%"
+msgstr "60%"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-general.php:92
+msgid "65%"
+msgstr "65%"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-general.php:93
+msgid "70%"
+msgstr "70%"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-general.php:94
+msgid "75%"
+msgstr "75%"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-general.php:95
+msgid "80%"
+msgstr "80%"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-general.php:96
+msgid "85%"
+msgstr "85%"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-general.php:97
+msgid "90%"
+msgstr "90%"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-general.php:98
+msgid "95%"
+msgstr "95%"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-general.php:99
+msgid "100%"
+msgstr "100%"
+
+# @ woocommerce
+#: includes/settings/wc-pos-settings-general.php:105
+msgid "Order Status"
+msgstr "Estado del Pedido"
+
+# @ woocommerce
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-layout.php:27
+#: includes/wc-pos-tiles.php:140
+msgid "Layout"
+msgstr "Catálogo"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-layout.php:46
+msgid "Company Logo"
+msgstr "Logo"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-layout.php:74
+msgid "Register Layout"
+msgstr "Catálogo de Registradora"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-layout.php:79
+msgid "Select the layout for the register."
+msgstr "Seleccionar Catàlogo para la registradora"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-layout.php:83
+msgid "Company Image"
+msgstr "Logo"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-layout.php:84
+#: includes/settings/wc-pos-settings-layout.php:92
+msgid "Text"
+msgstr "Texto"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-layout.php:85
+msgid "Company Image + Text"
+msgstr "Logo + Texto"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-layout.php:99
+msgid "WordPress Admin Bar"
+msgstr "WordPress Admin"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-layout.php:104
+msgid "Hide"
+msgstr "Ocultar"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-layout.php:105
+msgid ""
+"Choose whether to show or hide the WordPress admin bar when the Registers "
+"are open."
+msgstr ""
+"Elige mostrar u ocultar la barra de administrador de Wordpress cuando las "
+"registradoras están abiertas."
+
+# @ woocommerce
+#: includes/settings/wc-pos-settings-payment_methods.php:27
+msgid "Payment Methods"
+msgstr "Métodos de Pago"
+
+# @ woocommerce
+#: includes/settings/wc-pos-settings-payment_methods.php:55
+msgid "Enabled"
+msgstr "Activado"
+
+# @ woocommerce
+#: includes/settings/wc-pos-settings-payment_methods.php:56
+msgid "Gateway"
+msgstr "Pasarela"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-payment_methods.php:97
+msgid ""
+"To configure each payment gateway, please go to the Checkout tab under "
+"WooCommerce > Settings or click <a href=\"admin.php?page=wc-"
+"settings&tab=checkout\">here</a>"
+msgstr ""
+"To configure each payment gateway, please go to the Checkout tab under "
+"WooCommerce > Settings or click <a href=\"admin.php?page=wc-"
+"settings&tab=checkout\">here</a>"
+
+# @ woocommerce
+#: includes/settings/wc-pos-settings-payment_methods.php:112
+msgid "Payment Gateways"
+msgstr "Pasarelas de Pago"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-tax.php:49
+msgid "Tax Calculation"
+msgstr "Calculo de Impuestos"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-tax.php:56
+msgid "Enabled (using WooCommerce configurations)"
+msgstr "Activado (Utilizando configuración Woocommerce)"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-tax.php:57
+msgid "Disabled"
+msgstr "Desactivado"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-tax.php:61
+msgid "Calculate Tax Based On"
+msgstr "Calcular impuestos en base a"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-tax.php:67
+msgid "Default WooCommerce"
+msgstr "Por de defecto Woocommerce"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-tax.php:68
+msgid "Customer shipping address"
+msgstr "Dirección de Envío del Cliente"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-tax.php:69
+msgid "Customer billing address"
+msgstr "Dirección de facturación de cliente"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-tax.php:70
+msgid "Shop address"
+msgstr "Dirección de Tienda"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-tax.php:71
+msgid "Outlet address"
+msgstr "Dirección de Tienda"
+
+# @ wc_point_of_sale
+#: includes/settings/wc-pos-settings-tax.php:77
+msgid "Tax Options"
+msgstr "Opciones de Impuestos"
+
+# @ default
+#: includes/views/header.php:103
+msgid "Skip to main content"
+msgstr "Saltar a contenido principal"
+
+# @ woocommerce
+#: includes/views/html-admin-cart-shipping.php:7
+#, php-format
+msgid "Shipping #%d"
+msgstr "Envío #%d"
+
+# @ woocommerce
+#: includes/views/html-admin-cart-shipping.php:9
+msgid "Shipping and Handling"
+msgstr "Manipulado y Envío"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-cart-shipping.php:27
+msgid "No Shipping"
+msgstr "Sin Envío"
+
+# @ woocommerce
+#: includes/views/html-admin-cart-shipping.php:37
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+"Utiliza la calculadora de envío para ver los métodos de envío disponibles."
+
+# @ woocommerce
+#: includes/views/html-admin-cart-shipping.php:41
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+"Continua para finalizar compra e introduce tu dirección completa para ver "
+"los métodos de envío disponibles."
+
+# @ woocommerce
+#: includes/views/html-admin-cart-shipping.php:48
+msgid ""
+"There doesn&lsquo;t seem to be any available shipping methods. Please double "
+"check your address, or contact us if you need any help."
+msgstr "Parece que no existen métodos de envío válidos."
+
+# @ woocommerce
+#: includes/views/html-admin-cart-shipping.php:61
+msgid "Shipping"
+msgstr "Envío"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers-sale_report_overlay.php:4
+msgid "Report"
+msgstr "Informe"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers-sale_report_overlay.php:10
+msgid "Register name:"
+msgstr "Nombre de Registradora:"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers-sale_report_overlay.php:14
+msgid "Outlet name:"
+msgstr "Nombre de Tienda:"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers-sale_report_overlay.php:18
+msgid "Opened:"
+msgstr "Abierta:"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers-sale_report_overlay.php:22
+msgid "Closed:"
+msgstr "Cerrada:"
+
+# @ woocommerce
+#: includes/views/html-admin-registers-sale_report_overlay.php:82
+msgid "Guest"
+msgstr "Invitado"
+
+# @ woocommerce
+#: includes/views/html-admin-registers-sale_report_overlay.php:86
+#, php-format
+msgid "%s by %s"
+msgstr "%s por %s"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers-sale_report_overlay.php:116
+msgid "Payments"
+msgstr "Pagos"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers-sale_report_overlay.php:121
+msgid "Type"
+msgstr "Tipo"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers-sale_report_overlay.php:124
+#: includes/views/html-print-receipt.php:91
+#: includes/views/html-print-receipt.php:150
+msgid "Amount"
+msgstr "Cantidad"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers.php:82
+#: includes/views/html-admin-registers.php:546
+msgid "Retrieve Sales"
+msgstr "Recuperar Ventas"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers.php:83
+msgid "Close Register"
+msgstr "Cerrar Registradora"
+
+# @ woocommerce
+#: includes/views/html-admin-registers.php:134
+msgid "Point of Sale transaction completed. "
+msgstr "Tpv transacción completada."
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers.php:252
+msgid "Void Order"
+msgstr "Anular Pedido"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers.php:252
+msgid "Void"
+msgstr "Anular"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers.php:253
+msgid "Save Order"
+msgstr "Guardar Pedidos"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers.php:253
+msgid "Save"
+msgstr "Guardar"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers.php:254
+msgid "Add A Note"
+msgstr "Añadir Nota"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers.php:254
+msgid "Note"
+msgstr "Nota"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers.php:255
+msgid "Apply Discount"
+msgstr "Aplicar DTO"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers.php:255
+#: includes/views/html-admin-registers.php:402
+#: includes/views/html-print-receipt.php:194
+msgid "Discount"
+msgstr "Descuento"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers.php:256
+msgid "Accept Payment"
+msgstr "Aceptar Pago"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers.php:256
+msgid "Pay"
+msgstr "Pagar"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers.php:265
+msgid "Search or Scan Products"
+msgstr "Buscar o escanear productos"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers.php:311
+#: includes/views/html-print-receipt.php:187
+msgid "Subtotal"
+msgstr "Subtotal"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers.php:359
+msgid "Search customer…"
+msgstr "Buscar Cliente…"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers.php:361
+msgid "Add Customer"
+msgstr "Añadir Cliente"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers.php:371
+msgid "Customer Name"
+msgstr "Nombre del cliente"
+
+# @ woocommerce
+#: includes/views/html-admin-registers.php:392
+msgid "Notes"
+msgstr "Notas"
+
+#: includes/views/html-admin-registers.php:405
+#, php-format
+msgid "This is the total discount (% or "
+msgstr "DTO total (% o"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers.php:406
+#, php-format
+msgid "20% or 2.50"
+msgstr "20% o 2.50"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers.php:410
+msgid "Clear"
+msgstr "Borrar"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers.php:411
+msgid "Add Discount"
+msgstr "Añadir Descuento"
+
+# @ woocommerce
+#: includes/views/html-admin-registers.php:426
+msgid "Payment"
+msgstr "Pago"
+
+# @ woocommerce
+#: includes/views/html-admin-registers.php:491
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+"Rellena tus detalles a continuación para ver los métodos de pago disponibles"
+
+# @ woocommerce
+#: includes/views/html-admin-registers.php:493
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr "Lo sentimos, parece que no existen métodos de pago para tu estado."
+
+# @ woocommerce
+#: includes/views/html-admin-registers.php:500
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+
+# @ woocommerce
+#: includes/views/html-admin-registers.php:500
+msgid "Update totals"
+msgstr "Actualizar Totales"
+
+# @ woocommerce
+#: includes/views/html-admin-registers.php:513
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+"He leído los <a href=\"%s\" target=\"_blank\">términos y condiciones.</a>"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers.php:554
+msgid "All"
+msgstr "Todo"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers.php:555
+msgid "This Register"
+msgstr "Esta registradora"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers.php:563
+msgid "Load"
+msgstr "Cargar"
+
+# @ wc_point_of_sale
+#: includes/views/html-admin-registers.php:574
+msgid "Select Options"
+msgstr "Seleccionar Variación"
+
+# @ woocommerce
+#: includes/views/html-admin-registers.php:602
+msgid "Billing Details"
+msgstr "Detalles de Facturación"
+
+# @ woocommerce
+#: includes/views/html-admin-registers.php:617
+msgid "Create an account?"
+msgstr "Crear cuenta?"
+
+# @ woocommerce
+#: includes/views/html-admin-registers.php:639
+msgid "Shipping Address"
+msgstr "Dirección de Envío"
+
+# @ woocommerce
+#: includes/views/html-admin-settings.php:20
+msgid "Save changes"
+msgstr "Guardar Cambios"
+
+# @ wc_point_of_sale
+#: includes/views/html-print-receipt.php:4
+msgid "<span class=\"receipt-outlet_label\">Outlet Name</h4>"
+msgstr "<span class=\"receipt-outlet_label\">Nombre de Tienda</h4>"
+
+# @ wc_point_of_sale
+#: includes/views/html-print-receipt.php:5
+msgid ""
+"<span>Outlet Address</span><br><span>Address Line 2</span><br><span>Town/"
+"City</span><br><span>County, </span><span>Postcode/Zip</"
+"span><br><span>Country</span>"
+msgstr ""
+"<span>Dirección Tienda</span><br><span>Dirección Linea 2</"
+"span><br><span>Localidad/Ciudad</span><br><span>Pais, </span><span>Código "
+"Postal</span><br><span>Pais</span>"
+
+# @ wc_point_of_sale
+#: includes/views/html-print-receipt.php:88
+#: includes/views/html-print-receipt.php:147
+msgid "Qty"
+msgstr "Cantidad"
+
+# @ wc_point_of_sale
+#: includes/views/html-print-receipt.php:89
+#: includes/views/html-print-receipt.php:148
+msgid "Description"
+msgstr "Descripción"
+
+# @ wc_point_of_sale
+#: includes/views/html-print-receipt.php:263
+msgid "Change"
+msgstr "Cambio"
+
+# @ wc_point_of_sale
+#: includes/wc-pos-grids.php:16
+msgid "Layouts"
+msgstr "Catálogos"
+
+# @ wc_point_of_sale
+#: woocommerce-point-of-sale.php:491
+msgid "Show all users "
+msgstr "Ver todos los Usuarios"
+
+# @ wc_point_of_sale
+#: woocommerce-point-of-sale.php:521
+msgid "Show all outlets"
+msgstr "Ver todas las Tiendas"
+
+# @ wc_point_of_sale
+#: woocommerce-point-of-sale.php:539
+msgid "Show all users"
+msgstr "Ver todos los Usuarios"
+
+# @ wc_point_of_sale
+#: woocommerce-point-of-sale.php:590
+msgid ""
+"<span class=\"order-type tips\" data-tip=\"Order Type\">Order Type</span>"
+msgstr ""
+"<span class=\"order-type tips\" data-tip=\"Order Type\">Tipo de Pedido</span>"
+
+# @ wc_point_of_sale
+#: woocommerce-point-of-sale.php:603
+msgid ""
+"<span class=\"order-type-web tips\" data-tip=\"Website Order\">web<span>"
+msgstr ""
+"<span class=\"order-type-web tips\" data-tip=\"Website Order\">Web<span>"
+
+# @ wc_point_of_sale
+#: woocommerce-point-of-sale.php:605
+msgid ""
+"<span class=\"order-type-pos tips\" data-tip=\"Point of Sale Order"
+"\">pos<span>"
+msgstr ""
+"<span class=\"order-type-pos tips\" data-tip=\"Point of Sale Order"
+"\">Tpv<span>"
+
+# @ wc_point_of_sale
+#: woocommerce-point-of-sale.php:651 woocommerce-point-of-sale.php:653
+#, php-format
+msgid "Add to %s"
+msgstr "Añadir %s"
+
+# @ wc_point_of_sale
+#: woocommerce-point-of-sale.php:714
+msgid "Show all types"
+msgstr "Ver todos los tipos"
+
+# @ wc_point_of_sale
+#: woocommerce-point-of-sale.php:716 woocommerce-point-of-sale.php:719
+#: woocommerce-point-of-sale.php:723
+msgid "Online"
+msgstr "Online"
+
+# @ wc_point_of_sale
+#: woocommerce-point-of-sale.php:717 woocommerce-point-of-sale.php:720
+#: woocommerce-point-of-sale.php:724
+msgid "POS"
+msgstr "Tpv"
+
+# @ wc_point_of_sale
+#: woocommerce-point-of-sale.php:758
+msgid "Reprint receipts"
+msgstr "Re-Imprimir Recibos"

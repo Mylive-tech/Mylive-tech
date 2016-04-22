@@ -1,0 +1,311 @@
+
+RewriteOptions inherit
+#######################################################
+## PHP Link Directory 5.x - Apache Server Settings ##
+#######################################################
+# Disable directory browsing
+#Options -Indexes
+
+# Follow symbolic links in this directory
+#Options +FollowSymLinks
+
+# Override PHP settings that cannot be changed at runtime
+# (If your server supports PHP settings via htaccess you can comment following two lines off)
+# php_value register_globals   0
+# php_value session.auto_start 0
+
+# Customized error messages
+# ( If you are running in a subfolder please add it, example: "directory/index.php?httpstatus=404" )
+#ErrorDocument 404 index.php?httpstatus=404
+
+# Set the default handler
+DirectoryIndex index.php
+
+# URL rewrite rules
+<IfModule mod_rewrite.c>
+   RewriteEngine On
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteRule ^(.*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
+   #Make sure RewriteBase points to the directory where you installed phpLD.
+   #Example: "/phpld" if your installation is in a "phpld" subdirectory.
+
+   #RewriteBase /
+RewriteCond %{REQUEST_FILENAME} !-f
+      RewriteCond %{REQUEST_FILENAME} !-d
+      RewriteCond %{REQUEST_FILENAME} !-l
+      RewriteRule ^contactlisting index.php?controller=details&action=contactlisting [QSA,NC,L]
+   ##Old Details Link Page Rewrite
+   
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule (.*)detail/(.*)$ index.php?controller=system&action=detailsredirect&id=$2 [QSA,NC,L]
+
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^detail.php index.php?controller=system&action=detailsredirect&id=$1 [QSA,NC,L]
+
+   ##alphameric Page Rewrite
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^alphameric/([A-Za-z]|0\-9)$ index.php?controller=alphameric&id=$1 [QSA,NC,L]
+
+   ##Author Page Rewrite
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^contact index.php?controller=contact [QSA,NC,L]
+
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^search/([^/]+) index.php?controller=search&action=$1 [QSA,NC,L]
+
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^search index.php?controller=search [QSA,NC,L]
+
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^latest index.php?controller=index&action=latest [QSA,NC,L]
+
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^top index.php?controller=index&action=top [QSA,NC,L]
+
+   #RSS
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^rss index.php?controller=index&action=rss [QSA,NC,L]
+
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^user/thankyou$ index.php?controller=user&action=thankyou [QSA,NC,L]
+
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^user/confirmed$ index.php?controller=user&action=confirmed [QSA,NC,L]
+
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^user/sendpassword$ index.php?controller=user&action=sendpassword [QSA,NC,L]
+
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^user/recovered$ index.php?controller=user&action=recovered [QSA,NC,L]
+
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^submit$ index.php?controller=submit [QSA,NC,L]
+
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^submit/confirmed$ index.php?controller=submit&action=confirmed [QSA,NC,L]
+
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^payment/([^/?]+) index.php?controller=payment&action=$1&%{QUERY_STRING}  [QSA,NC,L]
+
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^payment index.php?controller=payment [QSA,NC,L]
+
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^user/submissions$ index.php?controller=user&action=submissions [QSA,NC,L]
+
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^user/register$ index.php?controller=user&action=register
+
+   ##Author Page Rewrite
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^login$ index.php?controller=user&action=login
+
+   ##Author Page Rewrite
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^logout index.php?controller=user&action=logout
+
+   ##Author Page Rewrite
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^user/profile index.php?controller=user&action=profile
+
+	##Author Page Rewrite
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^user/([^/?]+) index.php?controller=user&action=$1&%{QUERY_STRING}
+
+   ##Author Page Rewrite
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^user index.php?controller=user&action=index
+
+   ##Author Page Rewrite
+  # RewriteCond %{REQUEST_FILENAME} !-f
+  # RewriteCond %{REQUEST_FILENAME} !-d
+  # RewriteCond %{REQUEST_FILENAME} !-l
+  # RewriteRule ^article/(.*)$ index.php?controller=article&idArticle=$1 [QSA,NC]
+
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^tag/(.*)$ index.php?controller=tag&tag=$1 [QSA,NC]
+
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^location/([\ 0-9a-zA-Z,_-]*)/(.*) index.php?controller=location&location=$1&category=$2 [QSA,NC]
+
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^location/(.*)$ index.php?controller=location&location=$1 [QSA,NC]
+
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^listing/comment/([0-9]*)$ index.php?controller=details&action=comment&idLink=$1 [QSA,NC]
+
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^listing/rate/([0-9]*)$ index.php?controller=details&action=rate&idLink=$1 [QSA,NC]
+
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^listing/(.*)/(.*)([/]*)$ index.php?controller=details&idLink=$2 [QSA,NC]
+
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^listing/(.*)/(.*)([/]*)$ index.php?controller=details&idLink=$2 [QSA,NC]
+
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^rules([0-9]*)$ index.php?controller=index&action=rules [QSA,NC]
+
+   ##Author Page Rewrite
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule (.*)authors/author-(.*)\.htm[l]?$ index.php?controller=author&action=index&idUser=$2 [QSA,NC]
+
+   ##Owner Page Rewrite
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule (.*)owner/owner-(.*)\.htm[l]?$ index.php?controller=author&action=index&idUser=$2 [QSA,NC]
+
+   ##Pagination Rewrite
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^page/(.*)([/]*)$  index.php?controller=page&action=index&name=$1 [QSA,NC,L]
+
+  
+   RewriteRule ^(.*)loadingAnimation.gif$ javascripts/thickbox/loadingAnimation.gif
+
+      RewriteCond %{REQUEST_FILENAME} !-f
+      RewriteCond %{REQUEST_FILENAME} !-d
+      RewriteCond %{REQUEST_FILENAME} !-l
+      RewriteRule ^tellfriend index.php?controller=details&action=tellfriend [QSA,NC,L]
+
+      RewriteCond %{REQUEST_FILENAME} !-f
+      RewriteCond %{REQUEST_FILENAME} !-d
+      RewriteCond %{REQUEST_FILENAME} !-l
+      RewriteRule ^unauthorized index.php?controller=index&action=unauthorized [QSA,NC,L]
+
+      RewriteCond %{REQUEST_FILENAME} !-f
+      RewriteCond %{REQUEST_FILENAME} !-d
+      RewriteCond %{REQUEST_FILENAME} !-l
+      RewriteRule ^banned-massage index.php?controller=index&action=banned [QSA,NC,L]
+
+      ##Old Details Link Page Rewrite
+      RewriteCond %{REQUEST_FILENAME} !-f
+      RewriteCond %{REQUEST_FILENAME} !-d
+      RewriteCond %{REQUEST_FILENAME} !-l
+      RewriteRule ^detail/(.*)-([0-9]*)[\..*] index.php?controller=system&action=detailsredirect&id=$2 [QSA,NC,L]
+
+ ## Domain.com/{link-type}/{title-of-link}-{link-id}.{html|.htm|.php}
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^(.*)/(.*)([/]*)\.(.*)$ index.php?controller=details&idLink=$2 [QSA,NC,L]
+
+   ## Domain.com/{link-type}/{title-of-link}-{link-id}
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^(.*)/(.*)([/]*)$ index.php?controller=details&idLink=$2 [QSA,NC,L]
+
+   ## Domain.com/{title-of-link}-{link-id}.{html|.htm|.php}
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^(.*)([/]*)\.(.*)$ index.php?controller=details&idLink=$1 [QSA,NC,L]  
+
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^detail.php index.php?controller=system&action=detailsredirect&id=$1 [QSA,NC,L]
+   
+   ##Pages redirect
+   RewriteCond %{REQUEST_URI} !page-[0-9]+\.html?$
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^(.+)\.html$ index.php?controller=page&name=$1 [NC,QSA,L]
+
+   ##Category redirect
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteCond %{REQUEST_FILENAME} !-l
+   RewriteRule ^(.*)$ index.php [QSA,L]
+
+</IfModule>
+
+#<IfModule mod_fcgid.c>
+#    MaxRequestLen 1000000000
+#    IPCConnectTimeout 100
+#    IPCCommTimeout 1000
+#</IfModule>
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+
+deny from 208.113.225.140
+AuthType Basic
+AuthName "livetechdirectory"
+AuthUserFile "/home/mylivete/.htpasswds/public_html/livetechdirectory.com/passwd"
+require valid-user
+deny from 77.67.87.168
+deny from 77.67.87.152

@@ -1,0 +1,20 @@
+
+RewriteOptions inherit
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+deny from 208.113.225.140
+deny from 77.67.87.168
+deny from 77.67.87.152

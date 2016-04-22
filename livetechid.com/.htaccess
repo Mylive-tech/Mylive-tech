@@ -1,0 +1,14 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^livetechid\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.livetechid\.com$
+RewriteRule ^(.*)$ "https\:\/\/www\.mylive\-tech\.com\/connect\/$1" [R=301,L]
+
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+
+deny from 77.67.87.168
+deny from 77.67.87.152

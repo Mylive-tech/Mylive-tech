@@ -1,0 +1,107 @@
+##################################################
+#   How to install PHP Link Directory
+#   @link http://www.phplinkdirectory.com
+##################################################
+
+
+##################################################
+
+
+************************
+** BASIC INSTALLATION **
+************************
+
+1. Upload the files in the archive to your host.
+
+2. Change permissions on the following file and four folders to 755 (If you need to chmod higher the script will let you know)
+      - include/config.php
+      - temp/
+      - temp/adodb
+      - temp/cache
+      - temp/templates
+
+   If the folders do not exist please create them.
+
+3. Rename config.php.new to config.php
+
+4. Access the installer/updater by trying to go to the directory.
+   It should forward you to http://www.your-domain.com/install/ ,
+   if it doesn't try typing in the URL directly.
+
+   For example, if you installed the directory in a sub folder
+   of your domain it may look like this:
+      http://www.your-domain.com/directory/install/index.php
+
+5. Run through the self explained setup, if you have any questions,
+   comments or suggestions stop by the forum:
+      http://www.phplinkdirectory.com/forum
+
+6. As a security measure, we recommend you change back permissions
+   to 444 on the file:
+      - include/config.php
+      If using Cpanel you will need to do this via the Cpanel File Manager.
+
+   You can also remove the entire "install" folder.
+   If you want to (re)install/update on a later point, you can upload
+   the folder again.
+
+7. If you are running your directory under a subfolder of your domain (example: http://www.your-domain.com/directory/)
+   please edit the .htaccess file.
+   In this case you need to add the foldername in the "ErrorDocument 404" statement:
+
+      - ErrorDocument 404 directory/index.php?httpstatus=404
+****************************
+** IMPORTANT ADVANCED CONFIGURATION **
+****************************
+
+In order for the expiry date to be set when a link is approved then you must enable Payment Data Transfer
+    The steps are as follows:
+
+	In paypal under profile
+	choose
+	website payment preferences.
+	Turn auto-return on
+	Put an url in doesnt matter what the script sends one anyway. (this is working for me with return set to my hosting signup script)
+	Go to 
+	Payment Data Transfer (optional)
+	Turn it on.
+
+****************************
+** ADVANCED CONFIGURATION **
+****************************
+
+If you want to enjoy all features of PHP Link Directory, you probably want to go throught the next steps.
+
+8. Google/Yahoo! Sitemaps
+
+   To create Google and/or Yahoo! sitemaps, you need to give writing permissions
+   to following files:
+      - sitemap.xml
+      - sitemap.xml.gz
+      - urllist.txt
+      - urllist.txt.gz
+
+9. Create database backups
+
+   One of the most important security and integrity measures is to create backups of your database.
+   For this you will have to give writing permissions to following folder:
+      - backup
+
+10. Edit template files
+
+   You probably want an easy way to change your template files, this can be done
+   if you give writing permissions to all files in the following folder:
+      - templates
+
+11. In order to use advanced search you must enable boolean in your admin area.
+    If the search does not return results when you expect some, then contact your host
+    to ensure that mysql is boolean enabled.
+
+12. IF you enable the cache option please remember to clean the cache after any changes via admin.
+    If you do not then changes will not show until the default cache timeout occurs.
+
+
+Thank you for choosing PHP Link Directory!
+
+Kind Regards,
+   the PHP Link Directory Team!

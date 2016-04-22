@@ -1,0 +1,19 @@
+/*
+Theme Name: LTE_v3
+Theme URI: #
+Author: Tush
+Author URI: #
+Description: V3 WordPress Theme.
+Version: 3
+License: GNU General Public License version 3.0
+License URI: #
+Tags: blue
+*/
+
+@import url("css/reset.css");
+@import url("css/main.css");
+@import url("css/buttons.css");
+@import url("css/shortcodes.css");
+
+/* Additional CSS in custom.css */
+@import url("css/custom.css");

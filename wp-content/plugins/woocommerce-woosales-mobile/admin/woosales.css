@@ -1,0 +1,61 @@
+.woosalescontent {
+	margin-top: 50px;
+}
+.woosalescontent .woosalesinfo {
+	width: 200px;
+	float: right;
+	display: inline;
+	border-left: 1px solid #cccccc;
+	padding-left: 20px;
+	margin-left: 20px;
+	text-align: center;
+	margin-right: 20px;
+}
+.woosalescontent .woosalesinfo h3 {
+	margin-top: 0;
+	font-size: 16px;
+}
+.woosalescontent .woosalesinfo img {
+	width: 200px;
+	height: 200px;
+	background: #f4f4f4;
+	border: 0;
+}
+.woosalescontent .woosalesinfo .woosalesread {
+	border-bottom: 1px solid #cccccc;
+	margin-bottom: 15px;
+	padding-bottom: 15px;
+	display: block;
+}
+.woosalescontent .woosalesinfo .woosalesread.last {
+	border-bottom: 0px;
+	margin-bottom: 15px;
+	padding-bottom: 15px;
+	display: block;
+}
+.tablewrapper .orderstable {
+}
+.tablewrapper .orderstable td {
+	padding: 7px 14px !important;
+}
+.tablewrapper .orderstable .in td {
+	background: #e4e4e4 !important;
+}
+.tablewrapper .orderstable .head td {
+	background: #a46497 !important;
+	color: #ffffff !important;
+	text-transform: uppercase !important;
+}
+.tablewrapper {
+}
+
+
+
+
+
+
+
+
+
+
+

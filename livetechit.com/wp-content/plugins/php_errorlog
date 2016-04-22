@@ -1,0 +1,4 @@
+[23-Jan-2016 05:59:09 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/mylivete/public_html/livetechit.com/wp-content/plugins/hello.php on line 60
+[20-Feb-2016 16:26:26 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/mylivete/public_html/livetechit.com/wp-content/plugins/hello.php on line 60
+[15-Mar-2016 14:56:43 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/mylivete/public_html/livetechit.com/wp-content/plugins/hello.php on line 60
+[15-Mar-2016 14:57:05 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/mylivete/public_html/livetechit.com/wp-content/plugins/hello.php on line 60

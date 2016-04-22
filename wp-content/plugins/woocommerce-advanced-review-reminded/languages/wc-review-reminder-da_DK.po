@@ -1,0 +1,420 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Advanced Review Reminder v1.6.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-20 11:33-0500\n"
+"PO-Revision-Date: 2015-05-20 11:39-0500\n"
+"Last-Translator: Lars Koudal <lars@koudal.dk>\n"
+"Language-Team: \n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:15
+msgid "We would love your feedback"
+msgstr "Vi vil være meget glade for dit feedback"
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:16
+msgid "Please help us by reviewing"
+msgstr "Hjælp os ved at skrive en anmeldelse"
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:97
+msgid "WooCommerce Advanced Review Reminder"
+msgstr "WooCommerce Advanced Review Reminder"
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:98
+msgid "Click here to read the documentation"
+msgstr "Klik her for at læse dokumentationen (Engelsk)"
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:107
+msgid "Send Test Email"
+msgstr "Send test email"
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:115
+#: includes/class-wc-advanced-review-reminder.php:119
+msgid "Email Recipient"
+msgstr "Email modtager"
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:121
+msgid "Enter a valid email to send a test email."
+msgstr "Udfyld indtastningsfeltet med en email hvis du vil sende en test."
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:140
+msgid "Logs"
+msgstr "Log"
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:144
+#: includes/class-wc-advanced-review-reminder.php:158
+msgid "Time"
+msgstr "Tidspunkt"
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:145
+#: includes/class-wc-advanced-review-reminder.php:159
+msgid "Event"
+msgstr "Begivenhed"
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:170
+msgid "Scheduled Emails"
+msgstr "Planlagte E-mails"
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:216
+#: includes/class-wc-advanced-review-reminder.php:218
+#: includes/class-wc-advanced-review-reminder.php:220
+msgid "Replaced with the customers name."
+msgstr "Skiftes ud med kundens navn."
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:222
+msgid "Replaced with the customer email."
+msgstr "Skiftes ud med kundens e-mail."
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:224
+msgid "Replaced with the site title."
+msgstr "Skiftes ud med hjemmesidens titel."
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:226
+msgid "Replaced with the order id."
+msgstr "Skiftes ud med ordre nummeret."
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:228
+msgid "Replaced with the date and time of the order."
+msgstr "Skiftes ud med dato og tidspunkt for købet."
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:230
+msgid "Replaced with the date the order was marked completed."
+msgstr "Skiftes ud med datoen ordren blev markeret som gennemført."
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:232
+msgid "Replaced with a link to stop recieving email review reminders."
+msgstr "Skiftes ud med et link til ikke længere at modtage emails om reviews."
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:234
+msgid "Replaced with a list of products purchased but not reviewed."
+msgstr ""
+"Skiftes ud med en liste af købte produkter som kunden ikke har anmeldt."
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:236
+msgid ""
+"Replaced with a nice looking table with product images and short description."
+msgstr "Skiftes ud med en tabel med produktbilleder og kort beskrivelse."
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:238
+msgid "Replaced with the number of days ago the order was made."
+msgstr "Skiftes ud med antal dage siden ordren blev lavet."
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:246
+msgid "Enable/Disable"
+msgstr "Slå til/fra"
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:248
+msgid "Enable this email notification"
+msgstr "Slå denne e-mail notifikation til."
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:252
+msgid "Day(s) after order"
+msgstr "Antal dage efter"
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:254
+msgid ""
+"You can choose how many days after a order has been completed before a "
+"reminder email is sent."
+msgstr ""
+"Du kan vælge hvor mange dage efter en ordre er markeret som gennemført før "
+"en påmindelses e-mail sendes afsted."
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:261
+msgid "Customize Email Content"
+msgstr "Tilpas E-mail indhold"
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:264
+msgid "Email subject"
+msgstr "E-mail emne"
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:266
+msgid "The email subject line."
+msgstr "E-mail emne linie."
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:268
+msgid "[{site_title}] Review recently purchased products"
+msgstr "[{site_title}] Skriv en anmeldelse af dine indkøb"
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:271
+msgid "Email Content"
+msgstr "E-mail indhold"
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:273
+msgid "This is the email template"
+msgstr "Dette er e-mail skabelonen."
+
+#: includes/class-wc-advanced-review-reminder.php:275
+msgid ""
+"Hello {customer_name},\n"
+"\n"
+"Thank you for purchasing items from the {site_title} shop!\n"
+"\n"
+"We would love if you could help us and other customers by reviewing the "
+"products you recently purchased.  It only takes a minute and it would really "
+"help others by giving them an idea of your experience.  Click the link below "
+"for each product and review the product under the 'Reviews' tab.\n"
+"\n"
+"{order_table}\n"
+"\n"
+"Much appreciated,\n"
+"\n"
+"{site_title}.\n"
+"\n"
+"{stop_emails_link}"
+msgstr ""
+"Hej {customer_name}, tak, fordi du køber varer fra {site_title}-shop!\n"
+"\n"
+"Vi ville elske hvis du kunne hjælpe os og andre kunder ved at gennemgå de "
+"produkter, du lige har købt.  Det tager kun et minut, og det ville virkelig "
+"hjælpe andre ved at give dem en idé om din oplevelse.  Klik på linket "
+"nedenfor for hvert produkt og anmeld produkt under fanen ‘Anmeldelser’.\n"
+"\n"
+"{order_table}\n"
+"\n"
+"Mange tak, {site_title}.\n"
+"\n"
+"{stop_emails_link}"
+
+#: includes/class-wc-advanced-review-reminder.php:278
+msgid "Button Background Color"
+msgstr "Knap baggrundsfarve"
+
+#: includes/class-wc-advanced-review-reminder.php:281
+msgid ""
+"Background color for Review Now buttons in email. Default <code>#ad74a2</"
+"code>."
+msgstr ""
+"Baggrundsfarve for knapper i e-mail. Standard er <code>#ad74a2</code> ."
+
+#: includes/class-wc-advanced-review-reminder.php:286
+msgid "Button Text Color"
+msgstr "Knap tekstfarve"
+
+#: includes/class-wc-advanced-review-reminder.php:289
+msgid ""
+"Font color for Review Now buttons in email. Default <code>#ffffff</code>."
+msgstr "Skriftsfarve for knapper i e-mail. Standard er <code>#ffffff </code> ."
+
+#: includes/class-wc-advanced-review-reminder.php:294
+msgid "Text on button"
+msgstr "Tekst på knap"
+
+#: includes/class-wc-advanced-review-reminder.php:296
+msgid ""
+"If you use the <code>{product_table}</code> macro you can change the text on "
+"the button here. Default <code>Review Now</code>."
+msgstr ""
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:297
+msgid "Review Now"
+msgstr "Bedøm produktet"
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:303
+msgid "Unsubscribe Options"
+msgstr "Frameldelse indstillinger"
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:307
+#: includes/class-wc-advanced-review-reminder.php:315
+msgid "Stop Receiving Emails Text"
+msgstr "Stop e-mails tekst"
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:309
+msgid ""
+"This text will be made in to a clickable link you can used with the "
+"<code>{stop_emails_link}</code> macro."
+msgstr ""
+"Denne tekst bliver lavet til et klikbart link du kan bruge i e-mail "
+"skabelonen med <code>{stop_emails_link}</code> makroen."
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:311
+msgid "Unsubscribe from review emails"
+msgstr "Frameld emails om anmeldelser"
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:317
+msgid ""
+"This will be the subject line in the unsubscribe confirmation email. Macros "
+"can not be used in this subject line."
+msgstr ""
+"Dette er emnefeltet i den e-mail, der sendes til brugere, der framelder sig "
+"flere påmindelser. Makroerne kan ikke bruges i denne felt."
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:319
+msgid "You are now unsubscribed"
+msgstr "Du er nu frameldt"
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:323
+msgid "Unsubscribe message"
+msgstr "Afmeldelses besked"
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:325
+msgid ""
+"This is the email template that will be sent to users who unsubscribe. "
+"Macros can not be used in this email."
+msgstr ""
+"Dette er den e-mail-skabelon, der sendes til brugere, der framelder sig "
+"flere påmindelse. Makroerne kan ikke bruges i denne e-mail."
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:327
+#, fuzzy
+msgid ""
+"Hello\n"
+"\n"
+"You are now unsubscribed from further emails requesting product reviews."
+msgstr ""
+"Hej\\r\n"
+"Du er nu afmeldt og vil ikke modtage flere emails om at anmelde produkter."
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:331
+msgid "Email blocklist"
+msgstr "Email blokeret liste"
+
+# @ wc-review-reminder
+#: includes/class-wc-advanced-review-reminder.php:333
+msgid ""
+"Comma separated list of emails that have asked not to recieve any more "
+"review reminders."
+msgstr ""
+"Komma separeret liste over emails der ikke længere ønsker at modtage email "
+"om at skrive anmeldelser."
+
+# @ wc-review-reminder
+#: includes/update-notifier.php:58
+msgid "New Updates"
+msgstr "Nye opdateringer"
+
+# @ wc-review-reminder
+#: woocommerce-advanced-review-reminder.php:172
+msgid "Email Review Request"
+msgstr "Email anmeldelse"
+
+# @ wc-review-reminder
+#: woocommerce-advanced-review-reminder.php:184
+msgid ""
+"Send a request to review this order immediately. Any scheduled emails will "
+"still be sent."
+msgstr ""
+"Send en email om at gennemgå denne ordre omgående. Alle planlagte e-mails "
+"vil stadig blive sendt."
+
+# @ wc-review-reminder
+#: woocommerce-advanced-review-reminder.php:189
+msgid "Send reminder now"
+msgstr "Send påmindelse nu"
+
+# @ wc-review-reminder
+#: woocommerce-advanced-review-reminder.php:240
+#, php-format
+msgid "Order %s has changed status. Not completed, no e-mails scheduled."
+msgstr ""
+"Ordre %s har ændret status. Ikke færdig endnu, så ingen emails planlagt."
+
+# @ wc-review-reminder
+#: woocommerce-advanced-review-reminder.php:271
+#, php-format
+msgid ""
+"Order # %s marked as completed. Scheduled emails to be sent to %s on "
+"following dates: %s"
+msgstr ""
+"Ordre # %s markeret som gennemført. Der er planlagt email udsendelse til %s "
+"de følgende dage: %s"
+
+#: woocommerce-advanced-review-reminder.php:341
+#, php-format
+msgid ""
+"%s was added to the blocklist and an email confirmation was sent. Process "
+"took %s sec"
+msgstr ""
+"%s blev føjet til blocklist og en bekræftelse blev sendt via e-mail. "
+"Processen tog %s sek"
+
+# @ wc-review-reminder
+#: woocommerce-advanced-review-reminder.php:562
+msgid "Example Product Review Link #1"
+msgstr "Eksempel produkt review link #1"
+
+# @ wc-review-reminder
+#: woocommerce-advanced-review-reminder.php:562
+msgid "Example Product Review Link #2"
+msgstr "Eksempel produkt review link #2"
+
+# @ wc-review-reminder
+#: woocommerce-advanced-review-reminder.php:608
+#, fuzzy, php-format
+msgid "(Order #%s) E-mail sent to %s - Day %s reminder. Took %s sec."
+msgstr "(Ordre #%s) email sendt til %s - Dag %s påmindelse."
+
+# @ wc-review-reminder
+#: woocommerce-advanced-review-reminder.php:610
+#, fuzzy, php-format
+msgid ""
+"Review reminder sent by Advanced Review Reminder - Day %s reminder. Took %s "
+"sec"
+msgstr "Påmindelse afsendt - dag %s påmindelse."
+
+# @ wc-review-reminder
+#: woocommerce-advanced-review-reminder.php:613
+#, php-format
+msgid "(Order #%s) E-mail sent to %s - Manual request. Took %s sec."
+msgstr "(Ordre #%s) Manuel E-mail afsendt til %s. Det tog %s sek."
+
+# @ wc-review-reminder
+#: woocommerce-advanced-review-reminder.php:614
+#, php-format
+msgid ""
+"Manual request for review sent by Advanced Review Reminder. Took %s sec."
+msgstr ""
+"Manuel anmodning om anmeldelse sendt af Advanced Review Reminder. Processen "
+"tog %s sek."

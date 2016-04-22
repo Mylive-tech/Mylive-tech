@@ -1,0 +1,15 @@
+Copyright: Georgiy Vasylyev, 2008-2012 | http://wp-pal.com
+-----------------------------------------------------------
+ 
+Easy Contact Forms
+ 
+For details and latest version and other products, please visit us at http://wp-pal.com;
+
+This product is distributed under terms of the GNU General Public License (http://www.gnu.org/licenses/gpl-2.0.txt).
+ 
+Please contact us at support@wp-pal.com if you encounter any issues. Anyone is welcome.
+ 
+We welcome collaboration with the product translators. if you feel you may translate the product into your  
+native language, please contact us at george@wp-pal.com.  
+ 
+Thank you for using Easy Contact Forms.

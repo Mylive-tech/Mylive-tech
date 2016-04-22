@@ -1,0 +1,66 @@
+#files-listing-wccm img {
+	width: 64px;
+	height: 64px;
+	float:left;
+	margin-right: 8px;
+	margin-top: 4px;
+}
+#files-listing-wccm {
+	list-style: none;
+}
+#wccm_uploader_select {
+	float:left;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+#response_wccm {
+	float: right;
+	clear: left;
+	margin-top: -25px;
+}
+#wccm_make_smaller {
+	font-size: 80%;
+}
+#wccm_save_order_submit {
+	margin-bottom: 30px;
+}
+
+.file_upload_delete:before{
+	content: "\f182";
+	font-family: dashicons;
+	margin-right: 5px;
+}
+.file_upload_account:before{
+	content: "\f317";
+	font-family: dashicons;
+	margin-right: 5px;
+}
+.wooccm-btn{
+	display: inline-block;
+	padding: 6px 12px;
+	margin-bottom: 0;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 1.42857143;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	cursor: pointer;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	background-image: none;
+	border: 1px solid transparent;
+	border-radius: 4px;
+}
+.wooccm-btn-primary {
+	color: #fff;
+	background-color: #428bca;
+	border-color: #357ebd;
+}
+.wooccm-btn-danger {
+	color: #fff;
+	background-color: #d9534f;
+	border-color: #d43f3a;
+}

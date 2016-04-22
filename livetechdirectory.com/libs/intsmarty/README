@@ -1,0 +1,12 @@
+IntSmarty for the Smarty Templating Engine <http://smarty.php.net>
+
+This is a internationalization layer for Smarty written by John
+Coggeshall <http://www.coggeshall.org/>. Please consult LICENSE
+for terms of use or visit <http://www.coggeshall.org/oss/license.php>
+for the license. 
+
+Currently, the only documentation for using IntSmarty is available
+in the April, 2004 of php|architect available at <http://www.phparch.com/>.
+I plan on writing real docs, but I just don't have time right now.
+
+Please report any bugs to <mailto:john@coggeshall.org>.

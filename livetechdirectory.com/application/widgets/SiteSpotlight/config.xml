@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget>
+	<zonetype>VERTICAL</zonetype>
+	<description>Generates Site Spotlight.</description>
+	<works_with>4.0</works_with>
+	<setting>
+		<name>TITLE</name>
+		<identifier>TITLE</identifier>
+		<value>Site Spotlight</value>
+		<allowed></allowed>
+		<info>This title shows at top of the widget's generated content.</info>
+	</setting>
+	<setting>
+		<name>Site ID</name>
+		<identifier>SITE_ID</identifier>
+		<value>2</value>
+		<allowed></allowed>
+		<info>The ID number of the site you wish to spotlight.</info>
+	</setting>
+	<setting>
+		<name>CACHE RESULTS</name>
+		<identifier>CACHE_RESULTS</identifier>
+		<value>No</value>
+		<allowed>Yes,No</allowed>
+		<info>"Yes" if you want the results to be cached, "No" if not.</info>
+	</setting>
+	<author>PhpLD</author>
+	<author_url>www.phplinkdirectory.com</author_url>
+	<version>1.0</version>
+</widget>

@@ -1,0 +1,239 @@
+# Copyright (C) 2014 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Broken Link Manager\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/broken-link-manager\n"
+"POT-Creation-Date: 2014-10-10 07:56+0100\n"
+"PO-Revision-Date: 2014-10-10 09:23+0100\n"
+"Last-Translator: Hulya Kocak <info@k-78.de>\n"
+"Language-Team: K78 <huseyin.kocak@k-78.de>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;_\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: config/class/broken_url.php:13 config/class/log_url.php:14
+#: config/class/redirected_url.php:12
+msgid "url"
+msgstr "Bağlantı"
+
+#: config/class/broken_url.php:14 config/class/log_url.php:15
+#: config/class/redirected_url.php:13
+msgid "urls"
+msgstr "Bağlantılar"
+
+#: config/class/broken_url.php:35 config/class/log_url.php:39
+#: config/class/redirected_url.php:32
+msgid "No urls found, dude."
+msgstr "Bağlantı bulunamadı"
+
+#: config/class/broken_url.php:63 config/class/redirected_url.php:60
+#: wblm-broken-url.php:18 wblm-broken-url.php:28 wblm-dashboard.php:156
+msgid "Broken URLs"
+msgstr "Kırık Bağlantılar"
+
+#: config/class/broken_url.php:64
+msgid "Add Redirect Link"
+msgstr "Yönlendirme Linki Ekle"
+
+#: config/class/broken_url.php:65 config/class/redirected_url.php:62
+msgid "HIT"
+msgstr "HIT"
+
+#: config/class/log_url.php:102
+msgid "Date"
+msgstr "Tarih"
+
+#: config/class/log_url.php:103
+msgid "Referer"
+msgstr "Referer"
+
+#: config/class/log_url.php:104
+msgid "User Agent"
+msgstr "Ziyaretçi Bilgileri"
+
+#: config/class/log_url.php:105
+msgid "IP"
+msgstr "IP"
+
+#: config/class/log_url.php:106
+msgid "Statu"
+msgstr "Statu"
+
+#: config/class/redirected_url.php:61 wblm-redirect-url.php:18
+#: wblm-redirect-url.php:28
+msgid "Redirected URLs"
+msgstr "Yönlendirilen Bağlantılar"
+
+#: config/functions.php:29 config/functions.php:50
+msgid "Updated "
+msgstr "Güncellendi"
+
+#: config/functions.php:65
+msgid "added "
+msgstr "Eklendi"
+
+#: wblm-dashboard.php:21
+msgid "Dashboard"
+msgstr "Gösterge Paneli"
+
+#: wblm-dashboard.php:36
+msgid "Total Broken URLs!"
+msgstr "Toplam Kırık Link"
+
+#: wblm-dashboard.php:42 wblm-dashboard.php:64 wblm-dashboard.php:86
+#: wblm-dashboard.php:108
+msgid "View Details"
+msgstr "Ayrıntıları Görüntüle"
+
+#: wblm-dashboard.php:58
+msgid "Redirected (301) URLS!"
+msgstr "Yönlendirilen (301) Bağlantı"
+
+#: wblm-dashboard.php:80
+msgid "Broken (404) URLs!"
+msgstr "Kırık (404) Bağlantı"
+
+#: wblm-dashboard.php:102
+msgid "Total Broken URLs Hits!"
+msgstr "Toplam Kırık Bağlantı hitti"
+
+#: wblm-dashboard.php:121
+msgid "Impressions"
+msgstr "Görüntüleme"
+
+#: wblm-dashboard.php:125
+msgid "Period"
+msgstr "Periyot"
+
+#: wblm-dashboard.php:129
+msgid "Yearly"
+msgstr "Yıllık"
+
+#: wblm-dashboard.php:131
+msgid "Monthly"
+msgstr "Aylık"
+
+#: wblm-dashboard.php:133
+msgid "Daily"
+msgstr "Günlük"
+
+#: wblm-dashboard.php:136
+msgid "Default (Last 15 days)"
+msgstr "Varsayılan (Son 15 Gün)"
+
+#: wblm-settings.php:14
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: wblm-settings.php:29
+msgid "General Settings"
+msgstr "Genel Ayarlar"
+
+#: wblm-settings.php:35
+msgid "Send E-mail"
+msgstr "E-mail Gönder"
+
+#: wblm-settings.php:43
+msgid "Save the broken URLs"
+msgstr "Kırık Bağlantıyı kaydet"
+
+#: wblm-settings.php:52
+msgid "Save URL hit"
+msgstr "URL Hit kayıt"
+
+#: wblm-settings.php:60
+msgid "Save URL Log"
+msgstr "URL LOG Kayıt"
+
+#: wblm-settings.php:69
+msgid "Redirect default URL"
+msgstr "Varsayılan Bağlantıya Yönlendir"
+
+#: wblm-settings.php:105
+msgid "E-mail Settings"
+msgstr "E-mail Ayarları"
+
+#: wblm-settings.php:109
+msgid "From E-mail"
+msgstr "Gönderen E-mail"
+
+#: wblm-settings.php:120
+msgid "To E-mail"
+msgstr "Alıcı E-mail"
+
+#: wblm-settings.php:130
+msgid "CC"
+msgstr "CC"
+
+#: wblm-settings.php:134
+msgid "Copy to e-mail adress (Optimal)"
+msgstr "Kopya e-mail adresi"
+
+#: wblm-settings.php:140
+msgid "BCC"
+msgstr "BCC"
+
+#: wblm-settings.php:144
+msgid "Hidden copy to e-mail adress (Optimal)"
+msgstr "Gizli kopya e-mail adresi (opsiyonel)"
+
+#: wblm-settings.php:172 wblm-settings.php:176 wblm-settings.php:180
+msgid "Default URL"
+msgstr "Varsayılan URL"
+
+#: wblm-settings.php:179
+msgid "URL"
+msgstr "URL"
+
+#: wblm-settings.php:202
+msgid "SAVE"
+msgstr "KAYDET"
+
+#: wblm-url-add.php:13
+msgid "Add URL"
+msgstr "Url Ekle"
+
+#: wblm-url-add.php:22
+msgid "Add New URL"
+msgstr "Yeni Url Ekle"
+
+#: wblm-url-add.php:25 wblm-url-edit.php:36
+msgid "Old Url"
+msgstr "Eski Url"
+
+#: wblm-url-add.php:27 wblm-url-add.php:33 wblm-url-edit.php:38
+#: wblm-url-edit.php:44
+msgid "http://"
+msgstr "http://"
+
+#: wblm-url-add.php:31 wblm-url-edit.php:42
+msgid "New Url "
+msgstr "Yeni Url"
+
+#: wblm-url-add.php:47
+msgid " ADD URL "
+msgstr " URL EKLE"
+
+#: wblm-url-edit.php:19 wblm-url-edit.php:32
+msgid "Edit URL"
+msgstr "URL düzenle"
+
+#: wblm-url-edit.php:59
+msgid " UPDATE "
+msgstr " GÜNCELLE"
+
+#: wblm-url-log.php:29
+msgid "LOG"
+msgstr "LOG"
+
+#: wblm.php:290
+msgid "Warning! Broken Link "
+msgstr "Uyarı! Kırık Link"

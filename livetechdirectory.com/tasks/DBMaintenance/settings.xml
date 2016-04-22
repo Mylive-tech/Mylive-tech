@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task>
+	<setting>
+		<name>Image Verification Expires After (days)</name>
+		<description>Image Verification Expires After (days)</description>
+		<id>IM_VER_EXP</id>
+		<available>1,5,10,20,30,60,90</available>
+		<value>10</value>
+	</setting>
+</task>

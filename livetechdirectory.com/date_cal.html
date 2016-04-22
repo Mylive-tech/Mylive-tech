@@ -1,0 +1,80 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Release Date</title>
+<script type="text/javascript" src="libs/yui/build/yahoo/yahoo.js"></script>
+   <script type="text/javascript" src="libs/yui/build/event/event.js"></script>
+   <script type="text/javascript" src="libs/yui/build/dom/dom.js"></script>
+   <script type="text/javascript" src="libs/yui/build/calendar/calendar.js"></script>
+   
+   <link type="text/css" rel="stylesheet" href="libs/yui/build/calendar/assets/calendar.css">
+	
+
+</head>
+<body>
+<div id="cal1Container" style="margin-top: 0px; margin-bottom: 0px; display: block;"></div>
+
+<script type="text/javascript">
+                			               			
+YAHOO.namespace("example.calendar");
+
+function init() 
+{
+	YAHOO.example.calendar.cal1=new YAHOO.widget.Calendar("cal1","cal1Container");
+	YAHOO.example.calendar.cal1.render();
+	//YAHOO.example.calendar.cal1.cfg.setProperty("MONTHS_LONG",   ["Janvier", "Février", "Mars", "Avril", "Mai", "Juin", "Juillet", "Août", "Septembre", "Octobre", "Novembre", "Décembre"]); 
+	//YAHOO.example.calendar.cal1.cfg.setProperty("WEEKDAYS_SHORT",   ["Di", "Lu", "Ma", "Me", "Je", "Ve", "Sa"]);
+	YAHOO.example.calendar.cal1.cfg.setProperty("START_WEEKDAY",   ["1"]);
+	
+	//getting current date
+	
+	var mydate= new Date()
+	var theyear=mydate.getFullYear()
+	var themonth=mydate.getMonth()+1
+	var thetoday=mydate.getDate()
+
+	var today = themonth+"/"+thetoday+"/"+theyear;
+	
+			
+	//making passed dates (ones before today) unselectable
+	
+	YAHOO.example.calendar.cal1.cfg.setProperty("mindate", today);
+	
+	
+	var mySelectHandler = function(type,args,obj) {
+	
+		var dates=args[0];
+		var date=dates[0];
+		var year=date[0],month=date[1],day=date[2];
+		if (month.toString().length == 1) {
+			month = '0' + month;
+		}
+		if (day.toString().length == 1) {
+			day = '0' + day;
+		}
+		var startDate=year+"-"+month+"-"+day;
+		var startD =  year+"/"+month+"/"+day;
+		
+		window.opener.document.forms['edit_article_form'].RELEASE_DATE.value = startDate;
+		
+		window.close();
+		
+	}
+
+
+
+	YAHOO.example.calendar.cal1.selectEvent.subscribe(mySelectHandler,YAHOO.example.calendar.cal1, true);
+	YAHOO.example.calendar.cal1.render();
+	
+	
+}
+
+
+
+YAHOO.util.Event.addListener(window,"load",init);
+ 			
+</script>
+</div>
+</body>
+</html>

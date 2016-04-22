@@ -1,0 +1,2391 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Visual Form Builder Pro v2.3.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-05-26 16:18:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Romanian\n"
+"X-Poedit-Country: ROMANIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: email-preview.php:38
+#: form-preview.php:40
+#@ default
+msgid "You do not have sufficient permissions to view the preview for this site."
+msgstr ""
+
+#: includes/admin-form-creator.php:83
+#: includes/admin-form-creator.php:88
+#@ visual-form-builder-pro
+msgid "Form Name"
+msgstr "Numele formularului"
+
+#: includes/admin-form-creator.php:561
+#@ visual-form-builder-pro
+msgid "Save Form"
+msgstr "Salvaţi formularul"
+
+#: includes/admin-form-creator.php:134
+#@ visual-form-builder-pro
+msgid "General"
+msgstr "Generale"
+
+#: includes/admin-form-creator.php:139
+#@ visual-form-builder-pro
+msgid "Label Alignment"
+msgstr "Eticheta aliniere"
+
+#: includes/admin-form-creator.php:144
+#@ visual-form-builder-pro
+msgid "Top Aligned"
+msgstr "Aliniaţi de sus"
+
+#: includes/admin-form-creator.php:145
+#@ visual-form-builder-pro
+msgid "Left Aligned"
+msgstr "Aliniat la stânga"
+
+#: includes/admin-form-creator.php:146
+#@ visual-form-builder-pro
+msgid "Right Aligned"
+msgstr "Aliniat la dreapta"
+
+#: includes/admin-form-creator.php:153
+#@ visual-form-builder-pro
+msgid "Display SPAM Verification"
+msgstr "Verificarea de spam-ul de afişare"
+
+#: includes/admin-form-creator.php:158
+#@ visual-form-builder-pro
+msgid "Yes (Recommended)"
+msgstr "Da (recomandat)"
+
+#: includes/admin-form-creator.php:159
+#: visual-form-builder-pro.php:3129
+#@ visual-form-builder-pro
+msgid "No"
+msgstr "nu"
+
+#: includes/admin-form-creator.php:166
+#@ visual-form-builder-pro
+msgid "Entries Allowed"
+msgstr "Intrările de permis"
+
+#: includes/admin-form-creator.php:176
+#@ visual-form-builder-pro
+msgid "Schedule Start Date"
+msgstr "Data de începere a programului"
+
+#: includes/admin-form-creator.php:185
+#@ visual-form-builder-pro
+msgid "Schedule End Date"
+msgstr "Data de terminare program"
+
+#: includes/admin-form-creator.php:196
+#@ visual-form-builder-pro
+msgid "Allow only unique entries based on IP"
+msgstr "Permite numai unic intrările bazate pe IP"
+
+#: includes/admin-form-creator.php:204
+#: visual-form-builder-pro.php:3089
+#@ visual-form-builder-pro
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/admin-form-creator.php:207
+#@ visual-form-builder-pro
+msgid "The forms you build here will send information to one or more email addresses when submitted by a user on your site.  Use the fields below to customize the details of that email."
+msgstr "Forme construi aici va trimite informaţii la una sau mai multe adrese de e-mail atunci când transmise de un utilizator pe site-ul dvs.  Utilizaţi câmpurile de mai jos pentru a particulariza detalii cu privire la acest e-mail."
+
+#: includes/admin-form-creator.php:212
+#: includes/admin-form-creator.php:402
+#: includes/admin-new-form.php:32
+#@ visual-form-builder-pro
+msgid "E-mail Subject"
+msgstr "Subiectul e-mail"
+
+#: includes/admin-form-creator.php:223
+#: includes/admin-new-form.php:17
+#@ visual-form-builder-pro
+msgid "Your Name or Company"
+msgstr "Numele sau firma dvs"
+
+#: includes/admin-form-creator.php:231
+#@ visual-form-builder-pro
+msgid "User's Name (optional)"
+msgstr "Numele de utilizator (opțional)"
+
+#: includes/admin-form-creator.php:235
+#@ visual-form-builder-pro
+msgid "No required text fields detected"
+msgstr "Nici câmpurile necesare detectate"
+
+#: includes/admin-form-creator.php:253
+#: includes/admin-form-creator.php:373
+#: includes/admin-new-form.php:24
+#@ visual-form-builder-pro
+msgid "Reply-To E-mail"
+msgstr "Răspuns la E-mail"
+
+#: includes/admin-form-creator.php:261
+#@ visual-form-builder-pro
+msgid "User's E-mail (optional)"
+msgstr "Utilizatorului de poştă electronică (opţional)"
+
+#: includes/admin-form-creator.php:265
+#: includes/admin-form-creator.php:386
+#@ visual-form-builder-pro
+msgid "No required email fields detected"
+msgstr "Niciun câmp de e-mail necesare detectate"
+
+#: includes/admin-form-creator.php:291
+#@ visual-form-builder-pro
+msgid "E-mail(s) To"
+msgstr "E-mail(s) pentru"
+
+#: includes/admin-form-creator.php:310
+#@ visual-form-builder-pro
+msgid "Confirmation"
+msgstr "Confirmarea"
+
+#: includes/admin-form-creator.php:312
+#@ visual-form-builder-pro
+msgid "After someone submits a form, you can control what is displayed. By default, it's a message but you can send them to another WordPress Page or a custom URL."
+msgstr "După ce cineva depune un formular, puteţi controla ceea ce este afişat. În mod implicit, acesta este un mesaj, dar le puteţi trimite la un alt WordPress Page sau un URL personalizat."
+
+#: includes/admin-form-creator.php:315
+#@ visual-form-builder-pro
+msgid "Text"
+msgstr "Textul"
+
+#: includes/admin-form-creator.php:319
+#@ visual-form-builder-pro
+msgid "Page"
+msgstr "Filme"
+
+#: includes/admin-form-creator.php:323
+#@ visual-form-builder-pro
+msgid "Redirect"
+msgstr "Redirecţionare"
+
+#: includes/admin-form-creator.php:332
+#@ visual-form-builder-pro
+msgid "Your form was successfully submitted. Thank you for contacting us."
+msgstr "Formularul a fost prezentat cu succes. Vă mulţumim pentru a ne contacta."
+
+#: includes/admin-form-creator.php:342
+#@ visual-form-builder-pro
+msgid "Select a Page"
+msgstr "Selectați o pagină"
+
+#: includes/admin-form-creator.php:353
+#@ visual-form-builder-pro
+msgid "Notification"
+msgstr "Notificare"
+
+#: includes/admin-form-creator.php:355
+#@ visual-form-builder-pro
+msgid "When a user submits their entry, you can send a customizable notification email."
+msgstr "Atunci când un utilizator prezintă intrarea lor, puteţi trimite un e-mail de notificare personalizabile."
+
+#: includes/admin-form-creator.php:358
+#@ visual-form-builder-pro
+msgid "Send Confirmation Email to User"
+msgstr "Trimite E-mail de confirmare pentru utilizator"
+
+#: includes/admin-form-creator.php:364
+#@ visual-form-builder-pro
+msgid "Sender Name or Company"
+msgstr "Numele expeditorului sau companie"
+
+#: includes/admin-form-creator.php:382
+#: includes/admin-new-form.php:39
+#@ visual-form-builder-pro
+msgid "E-mail To"
+msgstr "E-mail de la"
+
+#: includes/admin-form-creator.php:410
+#@ visual-form-builder-pro
+msgid "Message"
+msgstr "Mesaj"
+
+#: includes/admin-form-creator.php:418
+#@ visual-form-builder-pro
+msgid "Include a Copy of the User's Entry"
+msgstr "Includeţi o copie a utilizatorului de intrare"
+
+#: includes/admin-form-creator.php:424
+#@ visual-form-builder-pro
+msgid "PayPal"
+msgstr "PayPal"
+
+#: includes/admin-form-creator.php:429
+#@ visual-form-builder-pro
+msgid "Forward successful form submissions to PayPal to collect simple payments, such as registration fees."
+msgstr "Transmite depuneri forma de succes la PayPal pentru a colecta plăţi simplă, precum taxele de înregistrare."
+
+#: includes/admin-form-creator.php:433
+#@ visual-form-builder-pro
+msgid "Use this form as a PayPal form"
+msgstr "Folosiţi acest formular ca o formă de PayPal"
+
+#: includes/admin-form-creator.php:439
+#@ visual-form-builder-pro
+msgid "Account Email"
+msgstr "Cont de E-mail"
+
+#: includes/admin-form-creator.php:448
+#@ visual-form-builder-pro
+msgid "Currency"
+msgstr "Moneda"
+
+#: includes/admin-form-creator.php:465
+#@ visual-form-builder-pro
+msgid "Shipping"
+msgstr "De transport maritim"
+
+#: includes/admin-form-creator.php:474
+#@ visual-form-builder-pro
+msgid "Tax Rate"
+msgstr "Rata de impozitare"
+
+#: includes/admin-form-creator.php:483
+#@ visual-form-builder-pro
+msgid "Item Name"
+msgstr "Numele elementului"
+
+#: includes/admin-form-creator.php:491
+#@ visual-form-builder-pro
+msgid "Assign Prices"
+msgstr "Atribui preţuri"
+
+#: includes/admin-form-creator.php:495
+#@ visual-form-builder-pro
+msgid "No select, radio, or checkbox fields detected"
+msgstr "Niciun câmp selectaţi, radio sau de selectare a detectat"
+
+#: includes/admin-form-creator.php:549
+#@ visual-form-builder-pro
+msgid "Warning &mdash; Missing Fieldset"
+msgstr "Avertizare &mdash; lipsesc Fieldset"
+
+#: includes/admin-form-creator.php:549
+#@ visual-form-builder-pro
+msgid "Your form may not function or display correctly. Please be sure to add or move a Fieldset to the beginning of your form."
+msgstr "Formularul nu funcţionează sau afişa corect. Vă rugăm să asiguraţi-vă că pentru a adăuga sau de a muta un set de câmpuri la începutul formularului."
+
+#: includes/admin-new-form.php:5
+#@ visual-form-builder-pro
+msgid "Create a form"
+msgstr "Creaţi un formular"
+
+#: includes/admin-new-form.php:10
+#@ visual-form-builder-pro
+msgid "Name the form"
+msgstr "Numele formularului"
+
+#: includes/admin-new-form.php:13
+#@ visual-form-builder-pro
+msgid "Required. This name is used for admin purposes."
+msgstr "Necesare. Acest nume este folosit pentru scopuri de admin."
+
+#: includes/admin-new-form.php:20
+#@ visual-form-builder-pro
+msgid "Required. This is who your emails will come from."
+msgstr "Necesare. Acest lucru este cine e-mailurile dumneavoastră va veni din."
+
+#: includes/admin-new-form.php:27
+#@ visual-form-builder-pro
+msgid "Required. Replies to your email will go here."
+msgstr "Necesare. Raspunsuri la email-ul va merge aici."
+
+#: includes/admin-new-form.php:28
+#@ visual-form-builder-pro
+msgid "Tip: for best results, use an email that exists on this domain."
+msgstr "Sfat: pentru rezultate optime, utilizaţi un e-mail care există pe acest domeniu."
+
+#: includes/admin-new-form.php:35
+#: includes/admin-new-form.php:42
+#@ visual-form-builder-pro
+msgid "Optional (for now) - you can change this later"
+msgstr "Opţional (de acum) - puteţi schimba acest lucru mai târziu"
+
+#: includes/admin-new-form.php:48
+#@ visual-form-builder-pro
+msgid "Create Form"
+msgstr "Crearea forma"
+
+#: includes/admin-new-form.php:52
+#@ visual-form-builder-pro
+msgid "Need more help?"
+msgstr "Aveţi nevoie de mai mult ajutor?"
+
+#: includes/admin-new-form.php:54
+#@ visual-form-builder-pro
+msgid "Click on the Help tab"
+msgstr "Faceţi clic pe fila de ajutor"
+
+#: includes/admin-new-form.php:61
+#@ visual-form-builder-pro
+msgid "Follow me on Twitter"
+msgstr "Urmaţi-mă pe Twitter"
+
+#: includes/class-analytics.php:41
+#@ visual-form-builder-pro
+msgid "Select which form analytics to view"
+msgstr "Selectaţi care constituie analytics pentru Vezi"
+
+#: includes/class-analytics.php:63
+#: includes/class-email-designer.php:83
+#@ visual-form-builder-pro
+msgid "Select"
+msgstr "Selectaţi"
+
+#: includes/class-analytics.php:75
+#: includes/class-entries-list.php:440
+#@ visual-form-builder-pro
+msgid "Filter"
+msgstr "Filtru"
+
+#: includes/class-analytics.php:83
+#: includes/class-forms-list.php:102
+#@ visual-form-builder-pro
+msgid "Entries Total"
+msgstr "Total intrări"
+
+#: includes/class-analytics.php:87
+#@ visual-form-builder-pro
+msgid "Average per Day"
+msgstr "Medie pe zi"
+
+#: includes/class-analytics.php:91
+#@ visual-form-builder-pro
+msgid "Your Busiest Day"
+msgstr "Ziua ta mai aglomerate"
+
+#: includes/class-analytics.php:93
+#: includes/class-export.php:112
+#: includes/class-forms-list.php:141
+#: includes/class-forms-order.php:192
+#: visual-form-builder-pro.php:3370
+#: visual-form-builder-pro.php:3541
+#: visual-form-builder-pro.php:3606
+#@ visual-form-builder-pro
+msgid "Entries"
+msgstr "Intrări"
+
+#: includes/class-analytics.php:98
+#@ visual-form-builder-pro
+msgid "Daily"
+msgstr "Zilnic"
+
+#: includes/class-analytics.php:100
+#: includes/class-analytics.php:104
+#@ visual-form-builder-pro
+msgid "Loading"
+msgstr "Încărcare"
+
+#: includes/class-analytics.php:102
+#@ visual-form-builder-pro
+msgid "Monthly"
+msgstr "Lunar"
+
+#: includes/class-analytics.php:144
+#: includes/class-entries-list.php:482
+#: includes/class-export.php:1076
+#, php-format
+#@ default
+msgid "%1$s %2$d"
+msgstr ""
+
+#: includes/class-email-designer.php:39
+#@ visual-form-builder-pro
+msgid "Select email to design:"
+msgstr "Selectaţi e-mail să design:"
+
+#: includes/class-email-designer.php:92
+#@ visual-form-builder-pro
+msgid "Colors"
+msgstr "Culori"
+
+#: includes/class-email-designer.php:96
+#: includes/class-email-designer.php:295
+#: includes/class-forms-list.php:87
+#: includes/class-forms-order.php:220
+#@ visual-form-builder-pro
+msgid "Preview"
+msgstr "Previzualizare"
+
+#: includes/class-email-designer.php:102
+#@ visual-form-builder-pro
+msgid "Header Image"
+msgstr "Antetul imagine"
+
+#: includes/class-email-designer.php:108
+#@ visual-form-builder-pro
+msgid "Remove Header Image"
+msgstr "Elimina antet imagine"
+
+#: includes/class-email-designer.php:111
+#@ visual-form-builder-pro
+msgid "Images of exactly <strong>600 x 137</strong> pixels will be used as-is."
+msgstr "Imagini de exact <strong>600 x 137</strong> pixeli va fi folosit ca-este."
+
+#: includes/class-email-designer.php:115
+#@ visual-form-builder-pro
+msgid "Header Text"
+msgstr "Text antet"
+
+#: includes/class-email-designer.php:118
+#@ visual-form-builder-pro
+msgid "Form Subject is used by default. To reset to Form Subject, leave Header Text blank."
+msgstr "Forma subiectul este utilizat în mod implicit. Pentru a reseta forma subiectul, lăsa textul antetului."
+
+#: includes/class-email-designer.php:122
+#@ visual-form-builder-pro
+msgid "Body Background Color"
+msgstr "Culoarea de fundal corpului"
+
+#: includes/class-email-designer.php:128
+#@ visual-form-builder-pro
+msgid "Header Background Color"
+msgstr "Culoarea de fundal antet"
+
+#: includes/class-email-designer.php:134
+#@ visual-form-builder-pro
+msgid "Header Text Color"
+msgstr "Culoare de Text antet"
+
+#: includes/class-email-designer.php:140
+#@ visual-form-builder-pro
+msgid "Fieldset Text Color"
+msgstr "Setul de câmpuri Text de culoare"
+
+#: includes/class-email-designer.php:146
+#@ visual-form-builder-pro
+msgid "Section Background Color"
+msgstr "Culoarea de fundal secţiunea"
+
+#: includes/class-email-designer.php:152
+#@ visual-form-builder-pro
+msgid "Section Text Color"
+msgstr "Secţiunea Text de culoare"
+
+#: includes/class-email-designer.php:158
+#@ visual-form-builder-pro
+msgid "Text Color"
+msgstr "Culoarea textului"
+
+#: includes/class-email-designer.php:164
+#@ visual-form-builder-pro
+msgid "Link Color"
+msgstr "Link-ul de culoare"
+
+#: includes/class-email-designer.php:170
+#@ visual-form-builder-pro
+msgid "Row Background Color"
+msgstr "Culoarea de fundal rând"
+
+#: includes/class-email-designer.php:176
+#@ visual-form-builder-pro
+msgid "Alternate Row Background Color"
+msgstr "Culoarea de fundal supleant rând"
+
+#: includes/class-email-designer.php:182
+#@ visual-form-builder-pro
+msgid "Row Border Color"
+msgstr "Culoare de frontieră rând"
+
+#: includes/class-email-designer.php:188
+#@ visual-form-builder-pro
+msgid "Footer Color"
+msgstr "Subsol de culoare"
+
+#: includes/class-email-designer.php:194
+#@ visual-form-builder-pro
+msgid "Footer Text Color"
+msgstr "Culoare de Text subsol"
+
+#: includes/class-email-designer.php:201
+#@ visual-form-builder-pro
+msgid "Fonts"
+msgstr "Fonturi"
+
+#: includes/class-email-designer.php:204
+#@ visual-form-builder-pro
+msgid "Font Family"
+msgstr "Familia de fonturi"
+
+#: includes/class-email-designer.php:216
+#@ visual-form-builder-pro
+msgid "Header Font Size"
+msgstr "Dimensiune de Font antet"
+
+#: includes/class-email-designer.php:224
+#@ visual-form-builder-pro
+msgid "Fieldset Font Size"
+msgstr "Dimensiunea fontului fieldset"
+
+#: includes/class-email-designer.php:232
+#@ visual-form-builder-pro
+msgid "Section Font Size"
+msgstr "Secţiunea Mãrime"
+
+#: includes/class-email-designer.php:240
+#@ visual-form-builder-pro
+msgid "Text Font Size"
+msgstr "Dimensiune de Font text"
+
+#: includes/class-email-designer.php:248
+#@ visual-form-builder-pro
+msgid "Footer Font Size"
+msgstr "Dimensiune de Font subsol"
+
+#: includes/admin-form-creator.php:121
+#: includes/class-email-designer.php:257
+#: visual-form-builder-pro.php:406
+#@ visual-form-builder-pro
+msgid "Settings"
+msgstr "Setări"
+
+#: includes/class-email-designer.php:260
+#@ visual-form-builder-pro
+msgid "Email Format"
+msgstr "Poştă electronică Format"
+
+#: includes/class-email-designer.php:273
+#@ visual-form-builder-pro
+msgid "Link back to Visual Form Builder?"
+msgstr "Link-ul înapoi la constructor de formă vizuală?"
+
+#: includes/class-email-designer.php:286
+#@ visual-form-builder-pro
+msgid "Additional Footer Text"
+msgstr "Suplimentar subsol Text"
+
+#: includes/class-email-designer.php:292
+#@ visual-form-builder-pro
+msgid "Save Changes"
+msgstr "Salvaţi modificările"
+
+#: includes/class-email-designer.php:296
+#@ visual-form-builder-pro
+msgid "Save options to view your recent changes."
+msgstr "Salva de opţiuni pentru a vizualiza modificările recente."
+
+#: includes/class-entries-detail.php:30
+#@ visual-form-builder-pro
+msgid "Back to Entries"
+msgstr "Înapoi la intrări"
+
+#: includes/class-entries-detail.php:44
+#@ visual-form-builder-pro
+msgid "Entry"
+msgstr "Intrare"
+
+#: includes/class-entries-detail.php:61
+#@ visual-form-builder-pro
+msgid "Details"
+msgstr "Detalii"
+
+#: includes/class-entries-detail.php:67
+#: visual-form-builder-pro.php:2806
+#@ visual-form-builder-pro
+msgid "Form Title"
+msgstr "Formularul titlului"
+
+#: includes/class-entries-detail.php:70
+#: includes/class-entries-list.php:120
+#: includes/class-export.php:20
+#@ visual-form-builder-pro
+msgid "Date Submitted"
+msgstr "Data prezentării"
+
+#: includes/class-entries-detail.php:73
+#: includes/class-entries-list.php:119
+#: includes/class-export.php:21
+#: visual-form-builder-pro.php:2807
+#@ visual-form-builder-pro
+msgid "IP Address"
+msgstr "Adresă IP"
+
+#: includes/class-entries-detail.php:76
+#: includes/class-entries-list.php:115
+#@ visual-form-builder-pro
+msgid "Email Subject"
+msgstr "Subiect"
+
+#: includes/class-entries-detail.php:79
+#: includes/class-entries-list.php:116
+#: includes/class-export.php:23
+#@ visual-form-builder-pro
+msgid "Sender Name"
+msgstr "Numele expeditorului"
+
+#: includes/class-entries-detail.php:82
+#: includes/class-entries-list.php:117
+#: includes/class-export.php:24
+#@ visual-form-builder-pro
+msgid "Sender Email"
+msgstr "Expeditorul Email"
+
+#: includes/class-entries-detail.php:85
+#: includes/class-entries-list.php:118
+#: includes/class-export.php:25
+#@ visual-form-builder-pro
+msgid "Emailed To"
+msgstr "Prin e-mail la"
+
+#: includes/class-entries-detail.php:88
+#@ visual-form-builder-pro
+msgid "Notes"
+msgstr "Note"
+
+#: includes/class-entries-list.php:68
+#: includes/class-forms-list.php:57
+#@ visual-form-builder-pro
+msgid "Edit"
+msgstr "Editare"
+
+#: includes/class-entries-list.php:65
+#: includes/class-entries-list.php:76
+#@ visual-form-builder-pro
+msgid "View"
+msgstr "Vezi"
+
+#: includes/class-entries-list.php:70
+#@ visual-form-builder-pro
+msgid "Spam"
+msgstr "Spam-ul"
+
+#: includes/class-entries-list.php:78
+#: includes/class-entries-list.php:325
+#@ visual-form-builder-pro
+msgid "Not Spam"
+msgstr "Nu spam-ul"
+
+#: includes/class-entries-list.php:81
+#: includes/class-entries-list.php:90
+#: includes/class-entries-list.php:320
+#: includes/class-entries-list.php:328
+#: includes/class-forms-list.php:283
+#@ visual-form-builder-pro
+msgid "Delete Permanently"
+msgstr "Şterge permanent"
+
+#: includes/class-entries-list.php:87
+#@ visual-form-builder-pro
+msgid "Trash"
+msgstr "Coşul de gunoi"
+
+#: includes/class-entries-list.php:89
+#: includes/class-entries-list.php:319
+#@ visual-form-builder-pro
+msgid "Restore"
+msgstr "Restaurare"
+
+#: includes/class-entries-list.php:114
+#: includes/class-export.php:125
+#: includes/class-forms-list.php:139
+#@ visual-form-builder-pro
+msgid "Form"
+msgstr "Forma"
+
+#: includes/class-entries-list.php:121
+#@ visual-form-builder-pro
+msgid "Entry ID"
+msgstr "ID-ul intrării"
+
+#: includes/class-entries-list.php:223
+#: includes/class-forms-list.php:184
+#, php-format
+#@ visual-form-builder-pro
+msgid "All <span class=\"count\">(<span class=\"pending-count\">%s</span>)</span>"
+msgid_plural "All <span class=\"count\">(<span class=\"pending-count\">%s</span>)</span>"
+msgstr[0] "All <span class=\"count\">(<span class=\"pending-count\">%s</span>)</span>"
+msgstr[1] "All <span class=\"count\">(<span class=\"pending-count\">%s</span>)</span>"
+
+#: includes/class-entries-list.php:224
+#, php-format
+#@ visual-form-builder-pro
+msgid "Spam <span class=\"count\">(<span class=\"spam-count\">%s</span>)</span>"
+msgid_plural "Spam <span class=\"count\">(<span class=\"spam-count\">%s</span>)</span>"
+msgstr[0] "Spam <span class=\"count\">(<span class=\"spam-count\">%s</span>)</span>"
+msgstr[1] "Spam <span class=\"count\">(<span class=\"spam-count\">%s</span>)</span>"
+
+#: includes/class-entries-list.php:225
+#, php-format
+#@ visual-form-builder-pro
+msgid "Trash <span class=\"count\">(<span class=\"trash-count\">%s</span>)</span>"
+msgid_plural "Trash <span class=\"count\">(<span class=\"trash-count\">%s</span>)</span>"
+msgstr[0] "Coşul de gunoi <span class=\"count\">(<span class=\"trash-count\">%s</span>)</span>"
+msgstr[1] "Coşul de gunoi <span class=\"count\">(<span class=\"trash-count\">%s</span>)</span>"
+
+#: includes/class-entries-list.php:315
+#@ visual-form-builder-pro
+msgid "Move to Trash"
+msgstr "Mutaţi în coşul de gunoi"
+
+#: includes/class-entries-list.php:316
+#@ visual-form-builder-pro
+msgid "Mark as Spam"
+msgstr "Marcare ca Spam"
+
+#: includes/class-entries-list.php:433
+#@ visual-form-builder-pro
+msgid "View all forms"
+msgstr "Vezi toate formele"
+
+#: includes/class-entries-list.php:470
+#@ default
+msgid "Show all dates"
+msgstr ""
+
+#: includes/class-entries-list.php:675
+#: includes/class-forms-list.php:508
+#@ default
+msgid "Go to the first page"
+msgstr ""
+
+#: includes/class-entries-list.php:683
+#: includes/class-forms-list.php:516
+#@ default
+msgid "Go to the previous page"
+msgstr ""
+
+#: includes/class-entries-list.php:692
+#: includes/class-forms-list.php:525
+#@ default
+msgid "Current page"
+msgstr ""
+
+#: includes/class-entries-list.php:698
+#: includes/class-forms-list.php:531
+#, php-format
+#@ default
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr ""
+
+#: includes/class-entries-list.php:702
+#: includes/class-forms-list.php:535
+#@ default
+msgid "Go to the next page"
+msgstr ""
+
+#: includes/class-entries-list.php:710
+#: includes/class-forms-list.php:543
+#@ default
+msgid "Go to the last page"
+msgstr ""
+
+#: includes/class-export.php:19
+#@ visual-form-builder-pro
+msgid "Entries ID"
+msgstr "ID intrări"
+
+#: includes/class-export.php:22
+#@ visual-form-builder-pro
+msgid "Subject"
+msgstr "Subiect"
+
+#: includes/class-export.php:67
+#: includes/class-export.php:898
+#@ visual-form-builder-pro
+msgid "No entries to pull field names from."
+msgstr "Nici o intrare pentru a trage numele câmpurilor din."
+
+#: includes/class-export.php:83
+#@ visual-form-builder-pro
+msgid "Backup and save some or all of your Visual Form Builder Pro data."
+msgstr "De backup şi de a salva unele sau toate datele vizuale forma Builder Pro."
+
+#: includes/class-export.php:84
+#@ visual-form-builder-pro
+msgid "Once you have saved the file, you will be able to import Visual Form Builder Pro data from this site into another site."
+msgstr "Odată ce aţi salvat fişierul, vă va fi capabil de a importa date vizuale forma Builder Pro de pe acest site într-un alt site."
+
+#: includes/class-export.php:85
+#@ visual-form-builder-pro
+msgid "Choose what to export"
+msgstr "Alege ce să exporte"
+
+#: includes/class-export.php:87
+#@ visual-form-builder-pro
+msgid "All data"
+msgstr "Toate datele"
+
+#: includes/class-export.php:88
+#@ visual-form-builder-pro
+msgid "This will contain all of your forms, fields, entries, and email design settings."
+msgstr "Acest lucru va conţine toate formele, domeniile, intrări, şi setările de proiectare e-mail."
+
+#: includes/class-export.php:90
+#: includes/class-export.php:95
+#@ visual-form-builder-pro
+msgid "Forms"
+msgstr "Acest lucru va conţine toate formele, domeniile, intrări, şi setările de proiectare e-mail."
+
+#: includes/class-export.php:93
+#@ visual-form-builder-pro
+msgid "This will contain all of your forms, fields, and email design settings."
+msgstr "Acest lucru va conţine toate formele, câmpuri, şi setările de proiectare e-mail."
+
+#: includes/class-export.php:115
+#@ visual-form-builder-pro
+msgid "This will export entries in either .csv, .txt, or .xls and cannot be used with the Import.  If you need to import entries on another site, please use the All data option above."
+msgstr "Acest lucru va exporta intrările în format .csv, .txt sau .xls şi nu pot fi utilizate cu importul.  Dacă aveţi nevoie să importe intrări de pe un alt site, vă rugăm să folosiţi opţiunea toate datele de mai sus."
+
+#: includes/class-export.php:117
+#@ visual-form-builder-pro
+msgid "Format"
+msgstr "Formatul"
+
+#: includes/class-export.php:119
+#@ visual-form-builder-pro
+msgid "Comma Separated (.csv)"
+msgstr "Separate prin virgulă (.csv)"
+
+#: includes/class-export.php:120
+#@ visual-form-builder-pro
+msgid "Tab Delimited (.txt)"
+msgstr "Delimitat prin tabulator (.txt)"
+
+#: includes/class-export.php:121
+#@ visual-form-builder-pro
+msgid "Excel (.xls)"
+msgstr "Excel (.xls)"
+
+#: includes/class-export.php:140
+#@ visual-form-builder-pro
+msgid "Date Range"
+msgstr "Intervalul de date"
+
+#: includes/class-export.php:155
+#@ visual-form-builder-pro
+msgid "Page to Export"
+msgstr "Pagina pentru Export"
+
+#: includes/class-export.php:163
+#@ visual-form-builder-pro
+msgid "A large number of entries have been detected for this form. Only 1000 entries can be exported at a time."
+msgstr "Un număr mare de înregistrări au fost detectate pentru acest formular. Numai 1000 intrări pot fi exportate într-un moment."
+
+#: includes/class-export.php:169
+#@ visual-form-builder-pro
+msgid "Fields"
+msgstr "Câmpuri"
+
+#: includes/class-export.php:171
+#@ visual-form-builder-pro
+msgid "Select All"
+msgstr "Selectaţi toate"
+
+#: includes/class-export.php:192
+#@ visual-form-builder-pro
+msgid "Download Export File"
+msgstr "Descarcă de Export"
+
+#: includes/class-import.php:51
+#@ visual-form-builder-pro
+msgid "Select a Visual Form Builder Pro backup file (.xml), then click Upload file and import."
+msgstr "Selectaţi un fişier copie de rezervă vizual forma Builder Pro (.xml), apoi faceţi clic pe încărcaţi fişierul şi de import."
+
+#: includes/class-import.php:93
+#: includes/class-import.php:102
+#: includes/class-import.php:554
+#: includes/class-import.php:559
+#: includes/class-import.php:569
+#: includes/class-import.php:597
+#@ visual-form-builder-pro
+msgid "Sorry, there has been an error."
+msgstr "Ne pare rau, a fost o eroare."
+
+#: includes/class-import.php:94
+#@ visual-form-builder-pro
+msgid "The file does not exist, please try again."
+msgstr "Fişierul nu există, vă rugăm să încercaţi din nou."
+
+#: includes/class-import.php:127
+#@ visual-form-builder-pro
+msgid "All done."
+msgstr "Toate făcut."
+
+#: includes/class-import.php:127
+#@ visual-form-builder-pro
+msgid "View Forms"
+msgstr "Vezi formulare"
+
+#: includes/class-import.php:142
+#@ visual-form-builder-pro
+msgid "Importing forms..."
+msgstr "Importul de forme..."
+
+#: includes/class-import.php:179
+#@ visual-form-builder-pro
+msgid "Form ID already exists. Assigning a new form ID."
+msgstr "Forma ID există deja. Asocierea ID-ul un nou formular."
+
+#: includes/class-import.php:185
+#, php-format
+#@ visual-form-builder-pro
+msgid "<strong>Error: </strong> The %s form could not be imported."
+msgstr "Forma ID există deja. Asocierea ID-ul un nou formular."
+
+#: includes/class-import.php:191
+#@ visual-form-builder-pro
+msgid "Form import process complete."
+msgstr "Procesul de import de formă completă."
+
+#: includes/class-import.php:208
+#@ visual-form-builder-pro
+msgid "Importing fields..."
+msgstr "Importul de domenii..."
+
+#: includes/class-import.php:249
+#, php-format
+#@ visual-form-builder-pro
+msgid "<strong>Error: </strong> The %s field could not be imported."
+msgstr "<strong>Eroare:</strong> Câmpul %s nu s-au importat."
+
+#: includes/class-import.php:296
+#@ visual-form-builder-pro
+msgid "Field import process complete."
+msgstr "Câmp de import procesul complet."
+
+#: includes/class-import.php:313
+#@ visual-form-builder-pro
+msgid "Importing entries..."
+msgstr "Importul de intrări..."
+
+#: includes/class-import.php:344
+#@ visual-form-builder-pro
+msgid "<strong>Error: </strong> An entry could not be imported."
+msgstr "<strong>Eroare:</strong> Nu s-au importat o intrare."
+
+#: includes/class-import.php:347
+#@ visual-form-builder-pro
+msgid "Entries import process complete."
+msgstr "Intrările de import procesul complet."
+
+#: includes/class-import.php:560
+#, php-format
+#@ visual-form-builder-pro
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr "Fişierul exportul nu a putut fi găsită la <code>%s</code> . Este probabil că acest lucru a fost cauzat de o problemă de permisiuni."
+
+#: includes/class-import.php:578
+#, php-format
+#@ visual-form-builder-pro
+msgid "This Visual Form Builder Pro export file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr "Acest fişier de exportul vizual forma Builder Pro (versiunea %s) nu poate fi acceptat de această versiune a importatorului. Vă rugăm să ia în considerare actualizarea."
+
+#: includes/class-import.php:630
+#@ visual-form-builder-pro
+msgid "There was an error when reading this Visual Form Builder Pro export file"
+msgstr "A existat o eroare atunci când lectură acest fişier export vizual forma Builder Pro"
+
+#: includes/class-import.php:634
+#@ visual-form-builder-pro
+msgid "This does not appear to be an XML file, missing/invalid Visual Form Builder Pro version number"
+msgstr "Acest lucru nu pare să fie un fişier XML, numărul de versiune Visual forma Builder Pro lipsă/nevalidă"
+
+#: includes/class-import.php:639
+#@ visual-form-builder-pro
+msgid "This does not appear to be a XML file, missing/invalid Visual Form Builder Pro version number"
+msgstr "Acest lucru nu pare să fie un fişier XML, numărul de versiune Visual forma Builder Pro lipsă/nevalidă"
+
+#: includes/email.php:16
+#@ visual-form-builder-pro
+msgid "Security check: hidden spam field should be blank."
+msgstr "Controlul de securitate: câmp ascuns spam-ul ar trebui să fie gol."
+
+#: includes/email.php:18
+#@ visual-form-builder-pro
+msgid "Security check: failed secret question. Please try again!"
+msgstr "Controlul de securitate: a eşuat întrebarea secretă. Vă rugăm să încercaţi din nou!"
+
+#: includes/email.php:34
+#@ visual-form-builder-pro
+msgid "Security check: looks like you are a SPAM bot. If you think this is an error, please email the site owner."
+msgstr "Controlul de securitate: se pare ca esti un bot de SPAM. Dacă credeţi că aceasta este o eroare, vă rugăm să e-mail proprietarul site-ului."
+
+#: includes/email.php:258
+#, php-format
+#@ visual-form-builder-pro
+msgid "File size exceeds %dMB. Most email providers will reject emails with attachments larger than %dMB. Please decrease the file size and try again."
+msgstr "Dimensiunea fişierului depăşeşte %dMB. Majoritatea furnizorilor de email va respinge e-mailuri cu atasamente mai mari decât %dMB. Vă rugăm să reduce dimensiunea fișierului și încercați din nou."
+
+#: includes/email.php:577
+#@ visual-form-builder-pro
+msgid "Your responses look too much like spam and could not be sent at this time."
+msgstr "Răspunsurile dumneavoastră arata prea mult ca spam-ul şi nu a trimis în acest moment."
+
+#: includes/form-output.php:73
+#@ visual-form-builder-pro
+msgid "Sorry, but this form is no longer accepting submissions."
+msgstr "Ne pare rau, dar acest formular nu mai este acceptarea de depuneri."
+
+#: includes/form-output.php:74
+#@ visual-form-builder-pro
+msgid "Sorry, this form only accepts one submission per user."
+msgstr "Ne pare rău, acest formular acceptă doar o singură depunere per utilizator."
+
+#: includes/form-output.php:276
+#, php-format
+#@ visual-form-builder-pro
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. Verification not required."
+msgstr "Ne pare rău, acest formular acceptă doar o singură depunere per utilizator."
+
+#: includes/form-output.php:351
+#, php-format
+#@ visual-form-builder-pro
+msgid "Must be between %s and %s words. Total words: %s"
+msgstr "Trebuie să fie între %s și %s cuvinte. Total de cuvinte: %s"
+
+#: includes/form-output.php:352
+#, php-format
+#@ visual-form-builder-pro
+msgid "Maximum words allowed: %s. Total words: %s"
+msgstr "Cuvinte maxim permis: %s. cuvinte Total: %s"
+
+#: includes/form-output.php:353
+#, php-format
+#@ visual-form-builder-pro
+msgid "Minimum words allowed: %s. Total words: %s"
+msgstr "Cuvinte minimă permisă: %s. cuvinte Total: %s"
+
+#: includes/form-output.php:512
+#@ visual-form-builder-pro
+msgid "Address"
+msgstr "Adresa"
+
+#: includes/form-output.php:516
+#@ visual-form-builder-pro
+msgid "Address Line 2"
+msgstr "Adresa linia 2"
+
+#: includes/form-output.php:520
+#@ visual-form-builder-pro
+msgid "City"
+msgstr "City"
+
+#: includes/form-output.php:524
+#@ visual-form-builder-pro
+msgid "State / Province / Region"
+msgstr "Stat / provincie / regiune"
+
+#: includes/form-output.php:528
+#@ visual-form-builder-pro
+msgid "Postal / Zip Code"
+msgstr "Poştal / Zip Code"
+
+#: includes/form-output.php:532
+#@ visual-form-builder-pro
+msgid "Country"
+msgstr "Tara"
+
+#: includes/form-output.php:715
+#@ visual-form-builder-pro
+msgid "Title"
+msgstr "Titlu"
+
+#: includes/form-output.php:716
+#@ visual-form-builder-pro
+msgid "First"
+msgstr "Prima"
+
+#: includes/form-output.php:717
+#@ visual-form-builder-pro
+msgid "Last"
+msgstr "Ultima"
+
+#: includes/form-output.php:718
+#@ visual-form-builder-pro
+msgid "Suffix"
+msgstr "Sufix"
+
+#: includes/form-output.php:798
+#@ visual-form-builder-pro
+msgid "Password Strength"
+msgstr "Puterea parola"
+
+#: includes/form-output.php:1078
+#@ visual-form-builder-pro
+msgid "Verification"
+msgstr "Verificarea"
+
+#: includes/form-output.php:1080
+#@ visual-form-builder-pro
+msgid "Please enter any two digits with <strong>no</strong> spaces (Example: 12)"
+msgstr "Vă rugăm să introduceţi orice două cifre <strong>fără</strong> spaţii (exemplu: 12)"
+
+#: includes/form-output.php:1089
+#@ visual-form-builder-pro
+msgid "This box is for spam protection - <strong>please leave it blank</strong>"
+msgstr "Această casetă este pentru protecţie spam - <strong>vă rugăm să lăsaţi-l gol</strong>"
+
+#: visual-form-builder-pro.php:433
+#@ visual-form-builder-pro
+msgid "Recent Visual Form Builder Pro Entries"
+msgstr "Intrările recente formă vizuală Builder Pro"
+
+#: visual-form-builder-pro.php:456
+#@ visual-form-builder-pro
+msgid "You currently do not have any forms."
+msgstr "În prezent nu aveţi orice forme."
+
+#: visual-form-builder-pro.php:458
+#@ visual-form-builder-pro
+msgid "Get started!"
+msgstr "A începe!"
+
+#: visual-form-builder-pro.php:472
+#@ visual-form-builder-pro
+msgid "You currently do not have any entries."
+msgstr "În prezent nu aveţi orice intrări."
+
+#: visual-form-builder-pro.php:521
+#@ visual-form-builder-pro
+msgid "Number of entries to show:"
+msgstr "Numărul de intrări pentru a arăta:"
+
+#: visual-form-builder-pro.php:598
+#@ visual-form-builder-pro
+msgid "Show advanced properties"
+msgstr "Afișare proprietăți avansate"
+
+#: visual-form-builder-pro.php:600
+#@ default
+msgid "Merge Tag"
+msgstr ""
+
+#: visual-form-builder-pro.php:621
+#@ visual-form-builder-pro
+msgid "Entries per page"
+msgstr "Intrari pe pagina de"
+
+#: visual-form-builder-pro.php:671
+#@ visual-form-builder-pro
+msgid "Quick Switch"
+msgstr "Comutator rapid"
+
+#: visual-form-builder-pro.php:672
+#@ visual-form-builder-pro
+msgid "Form Items"
+msgstr "Elemente de formular"
+
+#: visual-form-builder-pro.php:673
+#@ visual-form-builder-pro
+msgid "Display Forms"
+msgstr "Forme de afişare"
+
+#: visual-form-builder-pro.php:714
+#@ visual-form-builder-pro
+msgid "Click or Drag"
+msgstr "Faceţi clic sau trageţi"
+
+#: visual-form-builder-pro.php:714
+#@ visual-form-builder-pro
+msgid "to Add a Field"
+msgstr "pentru a adăuga un câmp"
+
+#: visual-form-builder-pro.php:716
+#@ visual-form-builder-pro
+msgid "Standard"
+msgstr "Standardul"
+
+#: visual-form-builder-pro.php:717
+#@ visual-form-builder-pro
+msgid "Advanced"
+msgstr "Avansate"
+
+#: visual-form-builder-pro.php:784
+#@ visual-form-builder-pro
+msgid "Add forms to your Posts or Pages by locating the icon shown below in the area above your post/page editor."
+msgstr "Adăugaţi forme la posturi sau pagini prin localizarea pictograma prezentate mai jos în zona de deasupra editorul de post/pagina."
+
+#: visual-form-builder-pro.php:787
+#@ visual-form-builder-pro
+msgid "You may also manually insert the shortcode into a post/page or the template tag into a template file."
+msgstr "Se poate insera, de asemenea, manual shortcode într-un post/pagină sau într-un fişier şablon şablon de tag-ul."
+
+#: visual-form-builder-pro.php:788
+#@ visual-form-builder-pro
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: visual-form-builder-pro.php:789
+#@ visual-form-builder-pro
+msgid "Template Tag"
+msgstr "Şablon tag-ul"
+
+#: visual-form-builder-pro.php:1460
+#: visual-form-builder-pro.php:1470
+#@ default
+msgid "Image could not be processed.  Please go back and try again."
+msgstr ""
+
+#: visual-form-builder-pro.php:1460
+#: visual-form-builder-pro.php:1470
+#@ default
+msgid "Image Processing Error"
+msgstr ""
+
+#: visual-form-builder-pro.php:2124
+#@ visual-form-builder-pro
+msgid "A Checkbox, Select, or Radio field is needed in order to perform conditional logic."
+msgstr "Un câmp casetă de selectare, selectaţi sau Radio este necesară pentru a efectua logica condiţionată."
+
+#: visual-form-builder-pro.php:2132
+#@ visual-form-builder-pro
+msgid "Enable Conditional Rule for this field"
+msgstr "Activaţi regula condiţională pentru acest câmp"
+
+#: visual-form-builder-pro.php:2138
+#: visual-form-builder-pro.php:2183
+#@ visual-form-builder-pro
+msgid "Show"
+msgstr "Arată"
+
+#: visual-form-builder-pro.php:2139
+#: visual-form-builder-pro.php:2184
+#@ visual-form-builder-pro
+msgid "Hide"
+msgstr "Ascunde"
+
+#: visual-form-builder-pro.php:2142
+#: visual-form-builder-pro.php:2187
+#@ visual-form-builder-pro
+msgid "all"
+msgstr "toate"
+
+#: visual-form-builder-pro.php:2143
+#: visual-form-builder-pro.php:2188
+#@ visual-form-builder-pro
+msgid "any"
+msgstr "orice"
+
+#: visual-form-builder-pro.php:2158
+#: visual-form-builder-pro.php:2199
+#@ visual-form-builder-pro
+msgid "is"
+msgstr "este"
+
+#: visual-form-builder-pro.php:2159
+#: visual-form-builder-pro.php:2200
+#@ visual-form-builder-pro
+msgid "is not"
+msgstr "nu este"
+
+#: includes/admin-form-creator.php:297
+#: visual-form-builder-pro.php:2176
+#: visual-form-builder-pro.php:2213
+#: visual-form-builder-pro.php:2890
+#@ visual-form-builder-pro
+msgid "Add"
+msgstr "Adauga"
+
+#: includes/admin-form-creator.php:126
+#: includes/admin-form-creator.php:297
+#: includes/class-forms-list.php:82
+#: includes/class-forms-order.php:217
+#: visual-form-builder-pro.php:2176
+#: visual-form-builder-pro.php:2213
+#: visual-form-builder-pro.php:2890
+#: visual-form-builder-pro.php:3242
+#@ visual-form-builder-pro
+msgid "Delete"
+msgstr "Ştergeţi"
+
+#: includes/class-forms-order.php:213
+#@ visual-form-builder-pro
+msgid "Edit Form"
+msgstr "Editare formular"
+
+#: includes/class-forms-order.php:220
+#@ visual-form-builder-pro
+msgid "Preview the Form"
+msgstr "Examinați formularul"
+
+#: visual-form-builder-pro.php:2733
+#@ visual-form-builder-pro
+msgid "Edit Field Item"
+msgstr "Editare element al câmpului"
+
+#: visual-form-builder-pro.php:2752
+#: visual-form-builder-pro.php:2842
+#: visual-form-builder-pro.php:3223
+#@ visual-form-builder-pro
+msgid "CSS Classes"
+msgstr "Clase CSS"
+
+#: visual-form-builder-pro.php:2763
+#: visual-form-builder-pro.php:2783
+#: visual-form-builder-pro.php:2832
+#@ visual-form-builder-pro
+msgid "Name"
+msgstr "nume"
+
+#: visual-form-builder-pro.php:2772
+#@ visual-form-builder-pro
+msgid "Description (HTML tags allowed)"
+msgstr "Descriere (taguri HTML permise)"
+
+#: visual-form-builder-pro.php:2792
+#@ visual-form-builder-pro
+msgid "Dynamic Variable"
+msgstr "Dinamică variabilă"
+
+#: visual-form-builder-pro.php:2804
+#@ visual-form-builder-pro
+msgid "Select a Variable or Custom to create your own"
+msgstr "Selectaţi o variabilă sau personalizat pentru a crea propriul"
+
+#: includes/class-forms-list.php:140
+#: visual-form-builder-pro.php:2805
+#@ visual-form-builder-pro
+msgid "Form ID"
+msgstr "Forma ID"
+
+#: visual-form-builder-pro.php:2808
+#@ visual-form-builder-pro
+msgid "Unique ID"
+msgstr "ID unic"
+
+#: visual-form-builder-pro.php:2809
+#@ visual-form-builder-pro
+msgid "Post/Page ID"
+msgstr "Post/pagina ID"
+
+#: visual-form-builder-pro.php:2810
+#@ visual-form-builder-pro
+msgid "Post/Page Title"
+msgstr "Post/pagina titlu"
+
+#: visual-form-builder-pro.php:2812
+#@ visual-form-builder-pro
+msgid "Custom"
+msgstr "Personalizat"
+
+#: visual-form-builder-pro.php:2819
+#@ visual-form-builder-pro
+msgid "Static Variable"
+msgstr "Variabile statice"
+
+#: visual-form-builder-pro.php:2852
+#@ visual-form-builder-pro
+msgid "Description"
+msgstr "Descriere"
+
+#: visual-form-builder-pro.php:2865
+#@ visual-form-builder-pro
+msgid "Options"
+msgstr "Opţiuni"
+
+#: visual-form-builder-pro.php:2897
+#@ visual-form-builder-pro
+msgid "Bulk Add Options"
+msgstr "Vrac adăugaţi opţiuni"
+
+#: visual-form-builder-pro.php:2912
+#@ visual-form-builder-pro
+msgid "Allow Other"
+msgstr "Permiteţi celorlalţi"
+
+#: visual-form-builder-pro.php:2936
+#@ visual-form-builder-pro
+msgid "Minimum Words"
+msgstr "Minim de cuvinte"
+
+#: visual-form-builder-pro.php:2944
+#@ visual-form-builder-pro
+msgid "Maximum Words"
+msgstr "Maxim de cuvinte"
+
+#: visual-form-builder-pro.php:2961
+#: visual-form-builder-pro.php:2978
+#@ visual-form-builder-pro
+msgid "Minimum Value"
+msgstr "Valoarea minimă"
+
+#: visual-form-builder-pro.php:2963
+#: visual-form-builder-pro.php:2980
+#@ visual-form-builder-pro
+msgid "Maximum Value"
+msgstr "Valoarea maximă"
+
+#: visual-form-builder-pro.php:3003
+#@ visual-form-builder-pro
+msgid "Accepted File Extensions"
+msgstr "Extensii de fişiere acceptate"
+
+#: visual-form-builder-pro.php:3033
+#@ visual-form-builder-pro
+msgid "Name Format"
+msgstr "Formatul numelui"
+
+#: visual-form-builder-pro.php:3040
+#@ visual-form-builder-pro
+msgid "Normal"
+msgstr "Normal"
+
+#: visual-form-builder-pro.php:3041
+#@ visual-form-builder-pro
+msgid "Extra"
+msgstr "Suplimentar"
+
+#: visual-form-builder-pro.php:3050
+#@ visual-form-builder-pro
+msgid "Custom Field Key"
+msgstr "Câmp particularizat cheie"
+
+#: visual-form-builder-pro.php:3073
+#@ visual-form-builder-pro
+msgid "Validation"
+msgstr "Validare"
+
+#: visual-form-builder-pro.php:3079
+#@ visual-form-builder-pro
+msgid "12 Hour Format"
+msgstr "Format de 12 ore"
+
+#: visual-form-builder-pro.php:3080
+#@ visual-form-builder-pro
+msgid "24 Hour Format"
+msgstr "Format de 24 ore"
+
+#: visual-form-builder-pro.php:3082
+#@ visual-form-builder-pro
+msgid "IPv4"
+msgstr "IPv4"
+
+#: visual-form-builder-pro.php:3083
+#@ visual-form-builder-pro
+msgid "IPv6"
+msgstr "IPv6"
+
+#: visual-form-builder-pro.php:3085
+#: visual-form-builder-pro.php:3092
+#@ visual-form-builder-pro
+msgid "Number"
+msgstr "Număr"
+
+#: visual-form-builder-pro.php:3086
+#: visual-form-builder-pro.php:3093
+#@ visual-form-builder-pro
+msgid "Digits"
+msgstr "Cifre"
+
+#: visual-form-builder-pro.php:3088
+#@ visual-form-builder-pro
+msgid "None"
+msgstr "Nici unul"
+
+#: visual-form-builder-pro.php:3090
+#@ visual-form-builder-pro
+msgid "URL"
+msgstr "URL-UL"
+
+#: visual-form-builder-pro.php:3091
+#@ visual-form-builder-pro
+msgid "Date"
+msgstr "Data"
+
+#: visual-form-builder-pro.php:3094
+#@ visual-form-builder-pro
+msgid "Phone"
+msgstr "Telefon"
+
+#: visual-form-builder-pro.php:3125
+#@ visual-form-builder-pro
+msgid "Required"
+msgstr "Necesare"
+
+#: visual-form-builder-pro.php:3130
+#@ visual-form-builder-pro
+msgid "Yes"
+msgstr "da"
+
+#: visual-form-builder-pro.php:3139
+#@ visual-form-builder-pro
+msgid "Size"
+msgstr "Dimensiune"
+
+#: visual-form-builder-pro.php:3143
+#@ visual-form-builder-pro
+msgid "Small"
+msgstr "Mici"
+
+#: visual-form-builder-pro.php:3144
+#@ visual-form-builder-pro
+msgid "Medium"
+msgstr "Mediu"
+
+#: visual-form-builder-pro.php:3145
+#@ visual-form-builder-pro
+msgid "Large"
+msgstr "Mare"
+
+#: visual-form-builder-pro.php:3154
+#@ visual-form-builder-pro
+msgid "Options Layout"
+msgstr "Opţiuni de aspect"
+
+#: visual-form-builder-pro.php:3158
+#@ visual-form-builder-pro
+msgid "One Column"
+msgstr "O singură coloană"
+
+#: visual-form-builder-pro.php:3159
+#@ visual-form-builder-pro
+msgid "Two Columns"
+msgstr "Două coloane"
+
+#: visual-form-builder-pro.php:3160
+#@ visual-form-builder-pro
+msgid "Three Columns"
+msgstr "Trei coloane"
+
+#: visual-form-builder-pro.php:3161
+#@ visual-form-builder-pro
+msgid "Auto Width"
+msgstr "Lăţime auto"
+
+#: visual-form-builder-pro.php:3170
+#@ visual-form-builder-pro
+msgid "Field Layout"
+msgstr "Câmp machetă"
+
+#: visual-form-builder-pro.php:3175
+#@ visual-form-builder-pro
+msgid "Default"
+msgstr "În mod implicit"
+
+#: visual-form-builder-pro.php:3177
+#@ visual-form-builder-pro
+msgid "Left Half"
+msgstr "Jumătatea stângă"
+
+#: visual-form-builder-pro.php:3178
+#@ visual-form-builder-pro
+msgid "Right Half"
+msgstr "Jumătatea dreaptă"
+
+#: visual-form-builder-pro.php:3181
+#@ visual-form-builder-pro
+msgid "Left Third"
+msgstr "Treia stânga"
+
+#: visual-form-builder-pro.php:3182
+#@ visual-form-builder-pro
+msgid "Middle Third"
+msgstr "Treimea"
+
+#: visual-form-builder-pro.php:3183
+#@ visual-form-builder-pro
+msgid "Right Third"
+msgstr "Treia dreapta"
+
+#: visual-form-builder-pro.php:3186
+#@ visual-form-builder-pro
+msgid "Left Two Thirds"
+msgstr "Stânga două treimi"
+
+#: visual-form-builder-pro.php:3187
+#@ visual-form-builder-pro
+msgid "Right Two Thirds"
+msgstr "Chiar două treimi"
+
+#: visual-form-builder-pro.php:3197
+#@ visual-form-builder-pro
+msgid "Default Value"
+msgstr "Valoare implicită"
+
+#: visual-form-builder-pro.php:3207
+#@ visual-form-builder-pro
+msgid "Default Country"
+msgstr "Ţară implicită"
+
+#: visual-form-builder-pro.php:3250
+#@ visual-form-builder-pro
+msgid "Conditional Logic"
+msgstr "Logica condiţionată"
+
+#: visual-form-builder-pro.php:3359
+#: visual-form-builder-pro.php:3540
+#: visual-form-builder-pro.php:3586
+#@ visual-form-builder-pro
+msgid "Add New Form"
+msgstr "Adauga formular nou"
+
+#: includes/class-forms-list.php:62
+#: includes/class-forms-order.php:200
+#: visual-form-builder-pro.php:3381
+#: visual-form-builder-pro.php:3542
+#: visual-form-builder-pro.php:3642
+#@ visual-form-builder-pro
+msgid "Email Design"
+msgstr "E-mail Design"
+
+#: includes/class-forms-list.php:67
+#: includes/class-forms-order.php:201
+#: visual-form-builder-pro.php:3392
+#: visual-form-builder-pro.php:3543
+#: visual-form-builder-pro.php:3661
+#@ visual-form-builder-pro
+msgid "Analytics"
+msgstr "Analiză"
+
+#: visual-form-builder-pro.php:3403
+#: visual-form-builder-pro.php:3544
+#: visual-form-builder-pro.php:3681
+#@ visual-form-builder-pro
+msgid "Import"
+msgstr "De import"
+
+#: visual-form-builder-pro.php:3414
+#: visual-form-builder-pro.php:3545
+#: visual-form-builder-pro.php:3700
+#@ visual-form-builder-pro
+msgid "Export"
+msgstr "Exportul"
+
+#: visual-form-builder-pro.php:3436
+#@ visual-form-builder-pro
+msgid "Display Entries"
+msgstr "Afişează intrările"
+
+#: includes/class-export.php:185
+#: visual-form-builder-pro.php:3447
+#@ visual-form-builder-pro
+msgid "Form Design"
+msgstr "Forma Design"
+
+#: visual-form-builder-pro.php:3464
+#@ visual-form-builder-pro
+msgid "The form has been successfully created."
+msgstr "Formularul a fost creat cu succes."
+
+#: visual-form-builder-pro.php:3467
+#, php-format
+#@ visual-form-builder-pro
+msgid "The %s form has been updated. <a href=\"%s\" target=\"_blank\">View the Preview</a> to see how it looks."
+msgstr "Formularul de %s a fost actualizat. <a href=\"%s\" target=\"_blank\">Vezi previzualizare</a> pentru a vedea cum arată."
+
+#: visual-form-builder-pro.php:3470
+#@ visual-form-builder-pro
+msgid "The form has been successfully deleted."
+msgstr "Formularul a fost şters cu succes."
+
+#: visual-form-builder-pro.php:3473
+#@ visual-form-builder-pro
+msgid "The form has been successfully duplicated."
+msgstr "Formularul a fost duplicată cu succes."
+
+#: visual-form-builder-pro.php:3479
+#@ visual-form-builder-pro
+msgid "You have successfully migrated to Visual Form Builder Pro!"
+msgstr "Cu succes migrarea la vizual forma Builder Pro!"
+
+#: visual-form-builder-pro.php:3482
+#, php-format
+#@ visual-form-builder-pro
+msgid "Email design has been updated. <a href=\"%s\" target=\"_blank\">View the Preview</a> to see how it looks."
+msgstr "E-mail de design a fost actualizat. <a href=\"%s\" target=\"_blank\">Vezi previzualizare</a> pentru a vedea cum arată."
+
+#: visual-form-builder-pro.php:3485
+#@ visual-form-builder-pro
+msgid "Entry has been successfully updated."
+msgstr "Intrarea a fost actualizat cu succes."
+
+#: visual-form-builder-pro.php:3516
+#@ visual-form-builder-pro
+msgid "The free version of Visual Form Builder is still active. In order for Visual Form Builder Pro to function and render correctly, you must deactivate the free version."
+msgstr "Drum liber traducere de Visual forma Builder este încă activ. Pentru a forma vizuală Builder Pro să funcționeze și să redea corect, trebuie să dezactivați versiunea gratuită."
+
+#: visual-form-builder-pro.php:3536
+#: visual-form-builder-pro.php:3538
+#: visual-form-builder-pro.php:3729
+#@ visual-form-builder-pro
+msgid "Visual Form Builder Pro"
+msgstr "Formă vizuală Builder Pro"
+
+#: visual-form-builder-pro.php:3538
+#@ visual-form-builder-pro
+msgid "All Forms"
+msgstr "Toate formele"
+
+#: visual-form-builder-pro.php:3540
+#: visual-form-builder-pro.php:3732
+#@ visual-form-builder-pro
+msgid "Add New"
+msgstr "Adăuga noi"
+
+#: visual-form-builder-pro.php:3610
+#: visual-form-builder-pro.php:3736
+#, php-format
+#@ visual-form-builder-pro
+msgid "Search results for \"%s\""
+msgstr "Rezultatele cautarii pentru \"%s\""
+
+#: includes/class-forms-list.php:452
+#: includes/class-forms-order.php:236
+#@ visual-form-builder-pro
+msgid "Custom Order"
+msgstr "Ordine particularizată"
+
+#: visual-form-builder-pro.php:3938
+#@ visual-form-builder-pro
+msgid "Not a valid email address"
+msgstr "Nu o adresa de email valida"
+
+#: visual-form-builder-pro.php:3944
+#@ visual-form-builder-pro
+msgid "Not a valid number"
+msgstr "Nu este un număr valid"
+
+#: visual-form-builder-pro.php:3951
+#@ visual-form-builder-pro
+msgid "Not a valid phone number. Most US/Canada and International formats accepted."
+msgstr "Nu un număr de telefon valabil. Majoritatea U.S. / Canada şi internaţional formate acceptate."
+
+#: visual-form-builder-pro.php:3956
+#@ visual-form-builder-pro
+msgid "Not a valid URL."
+msgstr "Nu este un URL valid."
+
+#: includes/admin-form-creator.php:123
+#: includes/class-forms-list.php:77
+#: visual-form-builder-pro.php:3246
+#@ visual-form-builder-pro
+msgid "Duplicate"
+msgstr "Duplicat"
+
+#: includes/admin-form-creator.php:129
+#@ visual-form-builder-pro
+msgid "Save"
+msgstr "Salvaţi"
+
+#: includes/admin-form-creator.php:84
+#: includes/admin-form-creator.php:89
+#@ visual-form-builder-pro
+msgid "Enter form name here"
+msgstr "Introduceţi aici numele de formă"
+
+#: includes/admin-form-creator.php:140
+#@ visual-form-builder-pro
+msgid "About Label Alignment"
+msgstr "Despre eticheta aliniere"
+
+#: includes/admin-form-creator.php:140
+#@ visual-form-builder-pro
+msgid "Set the field labels for this form to be aligned either on top, to the left, or to the right.  By default, all labels are aligned on top of the inputs."
+msgstr "Setaţi etichetele de câmp pentru acest formular pentru a fi aliniat fie pe partea de sus, la stânga sau la dreapta.  În mod implicit, toate etichetele sunt aliniate pe intrări."
+
+#: includes/admin-form-creator.php:154
+#@ visual-form-builder-pro
+msgid "About Display SPAM Verification"
+msgstr "Despre verificarea de spam-ul de afişare"
+
+#: includes/admin-form-creator.php:154
+#@ visual-form-builder-pro
+msgid "The verification section ensures that your form is filled out by actual users and not spammers. It works by asking a simple logic captcha question at the end of your form."
+msgstr "Secţiunea de verificare asigură că formularul este completat de real utilizatori şi nu spam. Acesta acţionează prin a pune o întrebare de captcha logică simplă la sfârşitul formularului."
+
+#: includes/admin-form-creator.php:167
+#@ visual-form-builder-pro
+msgid "About Entries Allowed"
+msgstr "Despre intrările permis"
+
+#: includes/admin-form-creator.php:167
+#@ visual-form-builder-pro
+msgid "This is the number of total entries you want your form to accept. Once your form has collected that many entries, the form will stop accepting submissions. Leave this blank if you want unlimited entries."
+msgstr "Acest lucru este numărul de total intrări vrei formular să accepte. Odată formularul a colectat că multe intrări, forma va opri acceptarea de depuneri. Lasi aceasta necompletat dacă doriţi ca intrările nelimitat."
+
+#: includes/admin-form-creator.php:177
+#@ visual-form-builder-pro
+msgid "About Schedule Start Date"
+msgstr "Despre programul Start data"
+
+#: includes/admin-form-creator.php:177
+#@ visual-form-builder-pro
+msgid "Set a date and time to automatically make your form become active. A blank value here means the form will always be active."
+msgstr "Setaţi data şi ora pentru a face automat formularul devin active. O valoare necompletată aici înseamnă forma va fi întotdeauna activ."
+
+#: includes/admin-form-creator.php:186
+#@ visual-form-builder-pro
+msgid "About Schedule End Date"
+msgstr "Despre data de terminare program"
+
+#: includes/admin-form-creator.php:186
+#@ visual-form-builder-pro
+msgid "Set a date and time to automatically make your form become inactive. A blank value here means the form will always be active, depending on a start date."
+msgstr "Setaţi data şi ora pentru a face automat formularul deveni inactiv. O valoare necompletată aici înseamnă forma va fi întotdeauna activ, în funcţie de data de începere."
+
+#: includes/admin-form-creator.php:197
+#@ visual-form-builder-pro
+msgid "About Unique Entry"
+msgstr "Despre unic de intrare"
+
+#: includes/admin-form-creator.php:197
+#@ visual-form-builder-pro
+msgid "This option will ensure your forms are only completed once per user. The IP address is used to detect multiple submissions from the same computer. Please note that the same user can go to another computer to complete the form again."
+msgstr "Această opţiune va asigura formularele sunt completate doar o singură dată per utilizator. Adresa IP este folosit pentru a detecta mai multe depuneri de la acelaşi computer. Vă rugăm să reţineţi că acelaşi utilizator poate merge la un alt computer pentru a completa formularul din nou."
+
+#: includes/admin-form-creator.php:213
+#: includes/admin-form-creator.php:403
+#@ visual-form-builder-pro
+msgid "About E-mail Subject"
+msgstr "Despre subiect de E-mail"
+
+#: includes/admin-form-creator.php:213
+#@ visual-form-builder-pro
+msgid "This option sets the subject of the email that is sent to the emails you have set in the E-mail(s) To field."
+msgstr "Această opţiune setează obiectul de e-mail care este trimis e-mailuri setat în câmpul mesajelor către."
+
+#: includes/admin-form-creator.php:224
+#@ visual-form-builder-pro
+msgid "About Your Name or Company"
+msgstr "Despre numele sau firma"
+
+#: includes/admin-form-creator.php:224
+#@ visual-form-builder-pro
+msgid "This option sets the From display name of the email that is sent to the emails you have set in the E-mail(s) To field."
+msgstr "Această opţiune setează numele afişat de e-mail care este trimis e-mailuri setat în câmpul mesajelor către."
+
+#: includes/admin-form-creator.php:232
+#@ visual-form-builder-pro
+msgid "About User's Name"
+msgstr "Despre numele utilizatorului"
+
+#: includes/admin-form-creator.php:232
+#@ visual-form-builder-pro
+msgid "Select a required text field from your form to use as the From display name in the email."
+msgstr "Selectaţi un câmp text necesare la formular pentru a utiliza ca nume afişat la în e-mail."
+
+#: includes/admin-form-creator.php:254
+#: includes/admin-form-creator.php:374
+#@ visual-form-builder-pro
+msgid "About Reply-To Email"
+msgstr "Despre răspuns la E-mail"
+
+#: includes/admin-form-creator.php:254
+#: includes/admin-form-creator.php:374
+#@ visual-form-builder-pro
+msgid "Manually set the email address that users will reply to."
+msgstr "Setaţi manual adresa de e-mail pe care utilizatorii vor răspunde la."
+
+#: includes/admin-form-creator.php:262
+#@ visual-form-builder-pro
+msgid "About User's Email"
+msgstr "Despre utilizatorul pe E-mail"
+
+#: includes/admin-form-creator.php:262
+#@ visual-form-builder-pro
+msgid "Select a required email field from your form to use as the Reply-To email."
+msgstr "Selectați un câmp de e-mail necesare din formularul de a folosi ca răspuns la e-mail."
+
+#: includes/admin-form-creator.php:292
+#@ visual-form-builder-pro
+msgid "About E-mail(s) To"
+msgstr "Despre mesajelor la"
+
+#: includes/admin-form-creator.php:292
+#@ visual-form-builder-pro
+msgid "This option sets single or multiple emails to send the submitted form data to. At least one email is required."
+msgstr "Această opţiune setează unice sau multiple email-uri pentru a trimite datele prezentate forma. Cel puţin un e-mail este necesară."
+
+#: includes/admin-form-creator.php:297
+#@ visual-form-builder-pro
+msgid "Add an Email"
+msgstr "Adauga un E-mail"
+
+#: includes/admin-form-creator.php:297
+#@ default
+msgid "Delete Email"
+msgstr ""
+
+#: includes/admin-form-creator.php:365
+#@ visual-form-builder-pro
+msgid "About Sender Name or Company"
+msgstr "Despre numele expeditorului sau companie"
+
+#: includes/admin-form-creator.php:365
+#@ visual-form-builder-pro
+msgid "Enter the name you would like to use for the email notification."
+msgstr "Introduceţi numele pe care doriţi să utilizaţi pentru notificări e-mail."
+
+#: includes/admin-form-creator.php:383
+#@ visual-form-builder-pro
+msgid "About E-mail To"
+msgstr "Despre E-mail"
+
+#: includes/admin-form-creator.php:383
+#@ visual-form-builder-pro
+msgid "Select a required email field from your form to send the notification email to."
+msgstr "Selectați un câmp de e-mail necesare din formularul pentru a trimite e-mail de notificare pentru a."
+
+#: includes/admin-form-creator.php:403
+#@ visual-form-builder-pro
+msgid "This option sets the subject of the email that is sent to the emails you have set in the E-mail To field."
+msgstr "Această opţiune setează obiectul de e-mail care este trimis e-mailuri pe care aţi setat în câmpul de E-mail pentru a."
+
+#: includes/admin-form-creator.php:411
+#@ visual-form-builder-pro
+msgid "About Message"
+msgstr "Despre mesaj"
+
+#: includes/admin-form-creator.php:411
+#@ visual-form-builder-pro
+msgid "Insert a message to the user. This will be inserted into the beginning of the email body."
+msgstr "Introduceţi un mesaj la utilizator. Acest lucru va fi inserat în începutul de organismul de e-mail."
+
+#: includes/admin-form-creator.php:440
+#@ visual-form-builder-pro
+msgid "About Account Email"
+msgstr "Despre contul de Email"
+
+#: includes/admin-form-creator.php:440
+#@ visual-form-builder-pro
+msgid "Insert your PayPal account email. This is not displayed to users."
+msgstr "Introduceţi e-mail cont PayPal. Acest lucru nu este afişat utilizatorilor."
+
+#: includes/admin-form-creator.php:449
+#@ visual-form-builder-pro
+msgid "About Currency"
+msgstr "Despre moneda"
+
+#: includes/admin-form-creator.php:449
+#@ visual-form-builder-pro
+msgid "Change the currency type to your region of choice. By default, it is set to U.S Dollars"
+msgstr "Schimba tipul de monedă regiunea dumneavoastră de alegere. În mod implicit, acesta este setat la dolari SUA"
+
+#: includes/admin-form-creator.php:466
+#@ visual-form-builder-pro
+msgid "About Shipping"
+msgstr "Despre livrare"
+
+#: includes/admin-form-creator.php:466
+#@ visual-form-builder-pro
+msgid "If shipping charges are required for your item, insert the amount here."
+msgstr "În cazul în care taxele de transport sunt necesare pentru elementul, introduci suma aici."
+
+#: includes/admin-form-creator.php:475
+#@ visual-form-builder-pro
+msgid "About Tax Rate"
+msgstr "Despre rata de impozitare"
+
+#: includes/admin-form-creator.php:475
+#@ visual-form-builder-pro
+msgid "If you need to charge taxes on your item, insert the tax rate here. The % symbol is not necessary here."
+msgstr "Dacă aveţi nevoie să perceapă taxe pe elementul, inserarea taxei aici. % Simbol nu este necesară aici."
+
+#: includes/admin-form-creator.php:484
+#@ visual-form-builder-pro
+msgid "About Item Name"
+msgstr "Despre numele elementului"
+
+#: includes/admin-form-creator.php:484
+#@ visual-form-builder-pro
+msgid "This option inserts an item name when the user is checking out through PayPal."
+msgstr "Această opţiune inserează un nume de element atunci când utilizatorul este verificat prin intermediul PayPal."
+
+#: includes/admin-form-creator.php:492
+#@ visual-form-builder-pro
+msgid "About Assign Prices"
+msgstr "Despre preţurile de atribuire"
+
+#: includes/admin-form-creator.php:492
+#@ visual-form-builder-pro
+msgid "Assign prices to a field from your form.  Allowed field types are Text, Select, Radio, and Checkbox. Text inputs will automatically use the amount entered by the user.  Select, Radio, and Checkbox fields will allow you to enter amounts for the different options from those respective fields."
+msgstr "Atribui preţuri la un câmp din formular.  Tipuri de permise câmpuri sunt Text, selectaţi, Radio, şi caseta de selectare. Textul intrări va utiliza automat suma introduse de utilizator.  Selectaţi, Radio, şi caseta de selectare domenii vă va permite să introduceţi sume pentru diferite opţiuni din domeniile respective."
+
+#: includes/class-entries-list.php:654
+#, php-format
+#@ default
+msgid "1 entry"
+msgid_plural "%s entries"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-export.php:189
+#: includes/class-forms-list.php:72
+#: includes/class-forms-order.php:203
+#: visual-form-builder-pro.php:3425
+#@ visual-form-builder-pro
+msgid "Payments"
+msgstr "Plăţi"
+
+#: includes/class-forms-list.php:103
+#: includes/class-forms-order.php:193
+#@ visual-form-builder-pro
+msgid "Total"
+msgstr "Totalul"
+
+#: includes/class-forms-list.php:113
+#@ visual-form-builder-pro
+msgid "Entries Today"
+msgstr "Intrări de astăzi"
+
+#: includes/class-forms-list.php:114
+#: includes/class-forms-order.php:194
+#@ visual-form-builder-pro
+msgid "Today"
+msgstr "Astăzi"
+
+#: includes/class-forms-list.php:453
+#: includes/class-forms-order.php:237
+#@ visual-form-builder-pro
+msgid "List View"
+msgstr "Vezi lista"
+
+#: includes/class-forms-list.php:487
+#: includes/class-forms-order.php:271
+#, php-format
+#@ default
+msgid "1 form"
+msgid_plural "%s forms"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-forms-order.php:188
+#@ visual-form-builder-pro
+msgid "Drag to reorder"
+msgstr "Trageţi pentru a reordona"
+
+#: includes/email.php:26
+#@ visual-form-builder-pro
+msgid "Security check: referal URL does not appear to be set."
+msgstr "Controlul de securitate: trimitere URL-ul nu pare să fi setat."
+
+#: includes/email.php:30
+#@ visual-form-builder-pro
+msgid "Security check: referal does not match this site."
+msgstr "Controlul de securitate: trimitere nu se potriveşte cu acest site."
+
+#: visual-form-builder-pro.php:420
+#@ visual-form-builder-pro
+msgid "Add Visual Form Builder form"
+msgstr "Adauga formă vizuală forma Builder"
+
+#: visual-form-builder-pro.php:420
+#@ visual-form-builder-pro
+msgid "Add Form"
+msgstr "Adauga formă"
+
+#: visual-form-builder-pro.php:637
+#@ visual-form-builder-pro
+msgid "Forms per page"
+msgstr "Forme per pagină"
+
+#: visual-form-builder-pro.php:2764
+#: visual-form-builder-pro.php:2784
+#: visual-form-builder-pro.php:2833
+#@ visual-form-builder-pro
+msgid "About Name"
+msgstr "Despre numele"
+
+#: visual-form-builder-pro.php:2764
+#: visual-form-builder-pro.php:2784
+#: visual-form-builder-pro.php:2833
+#@ visual-form-builder-pro
+msgid "A field's name is the most visible and direct way to describe what that field is for."
+msgstr "Numele unui câmp este modul cel mai vizibil şi directă pentru a descrie ceea ce este pentru acel câmp."
+
+#: visual-form-builder-pro.php:2773
+#@ visual-form-builder-pro
+msgid "About Instructions Description"
+msgstr "Despre instrucţiuni Descriere"
+
+#: visual-form-builder-pro.php:2773
+#@ visual-form-builder-pro
+msgid "The Instructions field allows for long form explanations, typically seen at the beginning of Fieldsets or Sections. HTML tags are allowed."
+msgstr "Câmpul de instrucţiuni permite pentru mult timp forma explicaţii, de obicei văzută la începutul seturile de câmpuri sau secţiuni. Tag-uri HTML sunt permise."
+
+#: visual-form-builder-pro.php:2793
+#@ visual-form-builder-pro
+msgid "About Dynamic Variable"
+msgstr "Despre dinamică variabilă"
+
+#: visual-form-builder-pro.php:2793
+#@ visual-form-builder-pro
+msgid "A Dynamic Variable will use a pre-populated value that is determined either by the form, the user, or the post/page viewed."
+msgstr "O dinamică variabilă va folosi o valoare pre-populated, care este determinat de forma, utilizatorul sau post/pagina au văzut."
+
+#: visual-form-builder-pro.php:2811
+#@ visual-form-builder-pro
+msgid "Post/Page URL"
+msgstr "URL-ul post/pagina"
+
+#: visual-form-builder-pro.php:2820
+#@ visual-form-builder-pro
+msgid "About Static Variable"
+msgstr "Despre variabile statice"
+
+#: visual-form-builder-pro.php:2820
+#@ visual-form-builder-pro
+msgid "A Static Variable will always use the value that you enter."
+msgstr "O variabilă Static va utiliza întotdeauna valoarea pe care le introduceţi."
+
+#: visual-form-builder-pro.php:2843
+#: visual-form-builder-pro.php:3224
+#@ visual-form-builder-pro
+msgid "For each field, you can insert your own CSS class names which can be used in your own stylesheets."
+msgstr "Pentru fiecare câmp, aveţi posibilitatea să inseraţi propriul nume de clasa CSS, care pot fi utilizate în propriul stil."
+
+#: visual-form-builder-pro.php:2843
+#: visual-form-builder-pro.php:3224
+#@ visual-form-builder-pro
+msgid "About CSS Classes"
+msgstr "Despre clase CSS"
+
+#: visual-form-builder-pro.php:2853
+#@ visual-form-builder-pro
+msgid "About Description"
+msgstr "Despre Descriere"
+
+#: visual-form-builder-pro.php:2853
+#@ visual-form-builder-pro
+msgid "A description is an optional piece of text that further explains the meaning of this field. Descriptions are displayed below the field. HTML tags are allowed."
+msgstr "O descriere este o piesă opţional de text care explică în continuare în sensul de acest domeniu. Descrieri sunt afişate sub câmpul. Tag-uri HTML sunt permise."
+
+#: visual-form-builder-pro.php:2866
+#@ visual-form-builder-pro
+msgid "About Options"
+msgstr "Despre opţiunile de"
+
+#: visual-form-builder-pro.php:2866
+#@ visual-form-builder-pro
+msgid "This property allows you to set predefined options to be selected by the user.  Use the plus and minus buttons to add and delete options.  At least one option must exist."
+msgstr "Această proprietate vă permite să setaţi opţiunile predefinite pentru a fi selectate de utilizator.  Utilizaţi plus şi minus butoanele pentru a adăuga şi şterge opţiuni.  Trebuie să existe cel puțin o opțiune."
+
+#: visual-form-builder-pro.php:2890
+#@ visual-form-builder-pro
+msgid "Add an Option"
+msgstr "Adaugă o opţiune"
+
+#: visual-form-builder-pro.php:2890
+#@ visual-form-builder-pro
+msgid "Delete Option"
+msgstr "Şterge opţiune"
+
+#: visual-form-builder-pro.php:2910
+#@ visual-form-builder-pro
+msgid "About Allow Other"
+msgstr "Despre permiteţi celorlalţi"
+
+#: visual-form-builder-pro.php:2910
+#@ visual-form-builder-pro
+msgid "Select this option if you want the last option to be a text field."
+msgstr "Selectaţi această opţiune dacă doriţi ultima opţiune să fie un câmp de text."
+
+#: visual-form-builder-pro.php:2937
+#@ visual-form-builder-pro
+msgid "About Minimum Word Count"
+msgstr "Numărul de cuvinte despre minim"
+
+#: visual-form-builder-pro.php:2937
+#@ visual-form-builder-pro
+msgid "Set a minimum number of words allowed in this field. For an unlimited number, leave blank or set to zero."
+msgstr "Stabilit un număr minim de cuvinte este permis în acest domeniu. Pentru un număr nelimitat, lăsaţi necompletată sau setat la zero."
+
+#: visual-form-builder-pro.php:2945
+#@ visual-form-builder-pro
+msgid "About Maximum Word Count"
+msgstr "Despre numărul de cuvinte maxim"
+
+#: visual-form-builder-pro.php:2945
+#@ visual-form-builder-pro
+msgid "Set a maximum number of words allowed in this field. For an unlimited number, leave blank or set to zero."
+msgstr "Stabilit un număr maxim de cuvinte este permis în acest domeniu. Pentru un număr nelimitat, lăsaţi necompletată sau setat la zero."
+
+#: visual-form-builder-pro.php:2985
+#@ visual-form-builder-pro
+msgid "About Minimum/Maxium Value"
+msgstr "Despre valoarea minimă/Maxium"
+
+#: visual-form-builder-pro.php:2985
+#@ visual-form-builder-pro
+msgid "Set a minimum and/or maximum value users must enter in order to successfully complete the field."
+msgstr "Minim și valoarea maximă utilizatorii trebuie să introduceţi pentru a finaliza cu succes de câmp."
+
+#: visual-form-builder-pro.php:3016
+#@ visual-form-builder-pro
+msgid "About Accepted File Extensions"
+msgstr "Despre extensiile de fişiere acceptate"
+
+#: visual-form-builder-pro.php:3016
+#@ visual-form-builder-pro
+msgid "Control the types of files allowed.  Enter file extentsions separated by commas."
+msgstr "Control de tipuri de fişiere permise.  Introduceţi fişierul extentsions separate prin virgule."
+
+#: visual-form-builder-pro.php:3037
+#@ visual-form-builder-pro
+msgid "About Name Format"
+msgstr "Despre formatul numelui"
+
+#: visual-form-builder-pro.php:3037
+#@ visual-form-builder-pro
+msgid "Choose from either a simple name format with only a First and Last Name or a more complex format that adds a Title and Suffix."
+msgstr "Alegeţi un format simplu nume cu numai primul şi ultimul nume sau un format mai complexe, care adaugă un titlu şi un sufix."
+
+#: visual-form-builder-pro.php:3057
+#@ visual-form-builder-pro
+msgid "About Custom Field Key"
+msgstr "Despre câmp particularizat cheie"
+
+#: visual-form-builder-pro.php:3057
+#@ visual-form-builder-pro
+msgid "Enter a new or existing meta key. Data entered will be inserted as a Custom Field into the post created."
+msgstr "Introduceţi o cheie de meta noi sau existente. Datele introduse va fi inserat ca un câmp personalizat în post creat."
+
+#: visual-form-builder-pro.php:3074
+#@ visual-form-builder-pro
+msgid "About Validation"
+msgstr "Despre validare"
+
+#: visual-form-builder-pro.php:3074
+#@ visual-form-builder-pro
+msgid "Ensures user-entered data is formatted properly. For more information on Validation, refer to the Help tab at the top of this page."
+msgstr "Asigură date introduse de utilizator este formatat corect. Pentru mai multe informaţii despre validare, se referă la fila de ajutor din partea de sus a acestei pagini."
+
+#: visual-form-builder-pro.php:3126
+#@ visual-form-builder-pro
+msgid "About Required"
+msgstr "Despre necesare"
+
+#: visual-form-builder-pro.php:3126
+#@ visual-form-builder-pro
+msgid "Requires the field to be completed before the form is submitted. By default, all fields are set to No."
+msgstr "Necesită câmpul să fie finalizate înainte de a forma este prezentat. În mod implicit, toate câmpurile sunt setate la nr."
+
+#: visual-form-builder-pro.php:3140
+#@ visual-form-builder-pro
+msgid "About Size"
+msgstr "Despre dimensiunea"
+
+#: visual-form-builder-pro.php:3140
+#@ visual-form-builder-pro
+msgid "Control the size of the field.  By default, all fields are set to Medium."
+msgstr "Controlează dimensiunea câmpului.  În mod implicit, toate câmpurile sunt setate la mediu."
+
+#: visual-form-builder-pro.php:3155
+#@ visual-form-builder-pro
+msgid "About Options Layout"
+msgstr "Despre opţiunile de aspect"
+
+#: visual-form-builder-pro.php:3155
+#@ visual-form-builder-pro
+msgid "Control the layout of radio buttons or checkboxes.  By default, options are arranged in One Column."
+msgstr "Controla aspectul de butoane radio sau casetele de selectare.  În mod implicit, opţiunile sunt aranjate într-o singură coloană."
+
+#: visual-form-builder-pro.php:3171
+#@ visual-form-builder-pro
+msgid "About Field Layout"
+msgstr "Despre câmp machetă"
+
+#: visual-form-builder-pro.php:3171
+#@ visual-form-builder-pro
+msgid "Used to create advanced layouts. Align fields side by side in various configurations."
+msgstr "Folosit pentru a crea machete avansate. Aliniaţi câmpurile alăturate în diverse configuraţii."
+
+#: visual-form-builder-pro.php:3198
+#@ visual-form-builder-pro
+msgid "About Default Value"
+msgstr "Despre valoarea implicită"
+
+#: visual-form-builder-pro.php:3198
+#@ visual-form-builder-pro
+msgid "Set a default value that will be inserted automatically."
+msgstr "Seta o valoare implicită care va fi inserate automat."
+
+#: visual-form-builder-pro.php:3208
+#@ visual-form-builder-pro
+msgid "About Default Country"
+msgstr "Despre ţară implicită"
+
+#: visual-form-builder-pro.php:3208
+#@ visual-form-builder-pro
+msgid "Select the country you would like to be displayed by default."
+msgstr "Selectaţi ţara în care doriţi să fie afişate în mod implicit."
+
+#: includes/class-import.php:364
+#@ visual-form-builder-pro
+msgid "Importing form design settings..."
+msgstr "Importul setărilor de proiectare formular..."
+
+#: includes/class-import.php:382
+#@ visual-form-builder-pro
+msgid "Form Design ID already exists. Assigning a new ID."
+msgstr "Forma Design ID există deja. Atribuind o noua identitate."
+
+#: includes/class-import.php:388
+#, php-format
+#@ visual-form-builder-pro
+msgid "<strong>Error: </strong> Form design settings for form ID %d could not be imported."
+msgstr "<strong>Eroare:</strong> Setările de proiectare formular pentru forma ID %d nu s-au importat."
+
+#: includes/class-import.php:392
+#@ visual-form-builder-pro
+msgid "Form Design import process complete."
+msgstr "Forma Design importa proces complet."
+
+#: includes/class-import.php:409
+#@ visual-form-builder-pro
+msgid "Importing payment settings..."
+msgstr "Importul setărilor de plată..."
+
+#: includes/class-import.php:433
+#@ visual-form-builder-pro
+msgid "Payment ID already exists. Assigning a new ID."
+msgstr "Plata ID există deja. Atribuind o noua identitate."
+
+#: includes/class-import.php:439
+#, php-format
+#@ visual-form-builder-pro
+msgid "<strong>Error: </strong> Payments settings for form ID %d could not be imported."
+msgstr "<strong>Eroare:</strong> Setările de plăţi pentru forma ID %d nu s-au importat."
+
+#: includes/class-import.php:443
+#@ visual-form-builder-pro
+msgid "Payments import process complete."
+msgstr "Plăţile de import procesul complet."
+
+#: visual-form-builder-pro.php:3499
+#@ visual-form-builder-pro
+msgid "A version of Visual Form Builder has been detected. To copy your forms and data to Visual Form Builder Pro, click the Migrate Forms button below"
+msgstr "S-a detectat o versiune Visual forma Builder. Pentru a copia dumneavoastră forme şi date vizuale forma Builder Pro, faceţi clic pe butonul migrează formele mai jos"
+
+#: visual-form-builder-pro.php:3502
+#@ visual-form-builder-pro
+msgid "<strong>Note</strong>: It is recommended that you perform this action <em>before</em> you begin adding forms."
+msgstr "<strong>Notă</strong>: este recomandat ca efectuaţi această acţiune <em>înainte</em> de a începe adăugarea de forme."
+
+#: visual-form-builder-pro.php:3505
+#@ visual-form-builder-pro
+msgid "Migrate Forms"
+msgstr "Migra forme"
+
+#: visual-form-builder-pro.php:3506
+#@ visual-form-builder-pro
+msgid "Dismiss"
+msgstr "Respingerea"
+
+#: visual-form-builder-pro.php:3932
+#@ visual-form-builder-pro
+msgid "This field is required and cannot be empty."
+msgstr "Acest câmp este necesar şi nu poate fi gol."
+

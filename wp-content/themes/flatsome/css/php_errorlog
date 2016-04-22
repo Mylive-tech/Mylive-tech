@@ -1,0 +1,1 @@
+[25-Dec-2015 03:36:21 CST6CDT] PHP Fatal error:  Call to undefined function is_active_sidebar() in /home/mylivete/public_html/wp-content/themes/flatsome/css/footer.php on line 21

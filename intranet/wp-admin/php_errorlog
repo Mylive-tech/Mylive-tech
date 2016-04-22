@@ -1,0 +1,8 @@
+[04-Mar-2016 20:38:17 UTC] PHP Fatal error:  Cannot redeclare ipt_kb_scripts() (previously declared in /home/mylivete/public_html/intranet/wp-content/themes/wp-knowledge-base-child/functions.php:53) in /home/mylivete/public_html/intranet/wp-content/themes/wp-knowledge-base/functions.php on line 185
+[07-Mar-2016 22:16:49 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/mylivete/public_html/intranet/wp-content/themes/wp-knowledge-base-child/functions.php on line 58
+[07-Mar-2016 22:25:50 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/mylivete/public_html/intranet/wp-content/themes/wp-knowledge-base-child/functions.php on line 89
+[07-Mar-2016 22:26:50 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/mylivete/public_html/intranet/wp-content/themes/wp-knowledge-base-child/functions.php on line 89
+[07-Mar-2016 22:27:51 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/mylivete/public_html/intranet/wp-content/themes/wp-knowledge-base-child/functions.php on line 89
+[07-Mar-2016 23:12:34 UTC] PHP Fatal error:  Cannot redeclare rl_redirect() (previously declared in /home/mylivete/public_html/intranet/wp-content/themes/wp-knowledge-base-child/functions.php:17) in /home/mylivete/public_html/intranet/wp-content/plugins/wp-require-login/wp-require-login.php on line 108
+[08-Mar-2016 18:38:10 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/mylivete/public_html/intranet/wp-content/themes/wp-knowledge-base-child/functions.php on line 153
+[08-Mar-2016 18:38:25 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/mylivete/public_html/intranet/wp-content/themes/wp-knowledge-base-child/functions.php on line 153

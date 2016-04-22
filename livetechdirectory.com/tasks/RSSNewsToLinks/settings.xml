@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task>
+	<setting>
+		<name>RSS Feed URL</name>
+		<description>Enter your RSS Feed URL</description>
+		<id>RSS_URL</id>
+		<available></available>
+		<value></value>
+	</setting>
+	<setting>
+		<name>Category</name>
+		<description>Select Category where you want to import RSS News</description>
+		<id>RSS_CATEGORY</id>
+		<available>CAT</available>
+		<value></value>
+	</setting>
+	<setting>
+		<name>Link Type</name>
+		<description>Assign Link Type to Imported Links</description>
+		<id>RSS_LINK_TYPE</id>
+		<available>LINK_TYPE</available>
+		<value></value>
+	</setting>
+	<setting>
+		<name>Keep Only New</name>
+		<description>Select if you want to have only new links from RSS Feed, all older will be deleted on each update.</description>
+		<id>RSS_KEEP_NEW</id>
+		<value></value>
+		<available>yes,no</available>
+	</setting>
+	<setting>
+		<name>Number To Import</name>
+		<description>Select Links Number to Import</description>
+		<id>RSS_LINKS_NUM</id>
+		<available>5,10,15,20,30,40,50,60,All</available>
+		<value></value>
+	</setting>
+</task>

@@ -1,0 +1,232 @@
+@CHARSET "ISO-8859-1";
+
+
+
+.more{
+	
+	color:#ca7700;
+	font-family:Verdana,Geneva,sans-serif;
+	font-size:11px;"
+	
+}
+
+.foo_con{
+
+font-family:Verdana,Geneva,sans-serif;
+font-size:11px;
+font-weight:normal;
+font-style:normal;
+color:#222222;
+width:140px;
+height:auto;
+}
+
+.image_carousel {
+	padding: 0px 0 0px 40px;
+	position: relative;
+	/*background:#FFF9AE;*/
+}
+.image_carousel img {
+	/*border: 1px solid #ccc;
+	background-color: white;*/
+	padding: 9px;
+	margin:5px 10px;;"
+	display: block;
+	float: left;
+	
+}
+a.prev, a.next {
+	/*background: url('miscellaneous_sprite.png') no-repeat transparent;
+	width: 45px;
+	height: 50px;
+	display: block;
+	position: absolute;
+	top: 65px;*/
+}
+
+#foo_content{
+	
+	padding: 0 0 10px 0;
+	margin: 0px;
+	display: block;
+	float: left;
+	height:auto;
+
+	width:210px;
+	min-height:auto;	
+	
+}
+
+#foo_content h5{ font-weight:normal !important; line-height:1.33333 !important; text-align:left !important; width:100% !important; font-size:12px !important; float:left; color:#0050BA !important; margin-bottom:0px !important;}
+
+
+a.prev {			left: 0px;
+					background-position: 0 0; }
+a.prev:hover {		background-position: 0 -50px; }
+a.next {			right: 0px;
+					background-position: -50px 0; }
+a.next:hover {		background-position: -50px -50px; }
+
+a.prev span, a.next span {
+	display: none;
+}
+.clearfix {
+	float: none;
+	clear: both;
+}
+
+
+@media only screen and (max-width: 320px) {
+.image_carousel img { width:60% !important;}
+
+}
+
+@media only screen and (max-width: 640px) {
+.image_carousel img { width:60% !important;}
+
+}
+@media only screen and (max-width: 768px) {
+.image_carousel img { width:60% !important;}
+
+}
+
+
+/* Home scroller */
+.cbp-so-scroller {
+    margin-top: 50px;
+    overflow: hidden;
+}
+ 
+.cbp-so-section {
+    margin-bottom: 15em;
+    position: relative;
+}
+ 
+/* Clear floats of children */
+.cbp-so-section:before,
+.cbp-so-section:after {
+    content: " ";
+    display: table;
+}
+ 
+.cbp-so-section:after {
+    clear: both;
+}
+ 
+/* Text styling */
+.cbp-so-section h2 {
+    font-size: 5em;
+    font-weight: 300;
+    line-height: 1;
+}
+ 
+.cbp-so-section p {
+    font-size: 2em;
+    font-weight: 300;
+}
+ 
+/* Sides */
+.cbp-so-side {
+    width: 50%;
+    float: left;
+    margin: 0;
+    padding: 3em 4%;
+    overflow: hidden;
+    min-height: 12em;
+}
+ 
+/* Clear floats of children */
+.cbp-so-side:before,
+.cbp-so-side:after {
+    content: " ";
+    display: table;
+}
+ 
+.cbp-so-side:after {
+    clear: both;
+}
+ 
+.cbp-so-side-right {
+    text-align: left;
+}
+ 
+.cbp-so-side-left {
+    text-align: right;
+}
+ 
+.cbp-so-side-right img {
+    float: left;
+}
+ 
+.cbp-so-side-left img {
+    float: right;
+}
+ 
+/* Initial state (hidden or anything else) */
+.cbp-so-init .cbp-so-side {
+    opacity: 0;
+    -webkit-transition: none;
+    -moz-transition: none;
+    transition: none;
+}
+ 
+.cbp-so-init .cbp-so-side-left {
+    -webkit-transform: translateX(-80px);
+    -moz-transform: translateX(-80px);
+    transform: translateX(-80px);
+}
+ 
+.cbp-so-init .cbp-so-side-right {
+    -webkit-transform: translateX(80px);
+    -moz-transform: translateX(80px);
+    transform: translateX(80px);
+}
+ 
+/* Animated state */
+/* add you final states (transition) or your effects (animations) for each side */
+.cbp-so-section.cbp-so-animate .cbp-so-side-left,
+.cbp-so-section.cbp-so-animate .cbp-so-side-right {
+    -webkit-transition: -webkit-transform 0.5s, opacity 0.5s;
+    -moz-transition: -moz-transform 0.5s, opacity 0.5s;
+    transition: transform 0.5s, opacity 0.5s;
+    -webkit-transform: translateX(0px);
+    -moz-transform: translateX(0px);
+    transform: translateX(0px);
+    opacity: 1;
+}
+ 
+/* For example, add a delay for the right side:
+.cbp-so-section.cbp-so-animate .cbp-so-side-right {
+    -webkit-transition-delay: 0.2s;
+    -moz-transition-delay: 0.2s;
+    transition-delay: 0.2s;
+}
+*/
+ 
+/* Example media queries */
+ 
+@media screen and (max-width: 73.5em) {
+    .cbp-so-scroller {
+        font-size: 65%;
+    }
+ 
+    .cbp-so-section h2 {
+        margin: 0;
+    }
+ 
+    .cbp-so-side img {
+        max-width: 120%;
+    }
+}
+ 
+@media screen and (max-width: 41.125em) {
+    .cbp-so-side {
+        float: none;
+        width: 100%;
+    }
+ 
+    .cbp-so-side img {
+        max-width: 100%;
+    }
+}
+

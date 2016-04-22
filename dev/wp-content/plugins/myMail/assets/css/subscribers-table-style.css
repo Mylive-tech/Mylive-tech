@@ -1,0 +1,91 @@
+.row-actions{margin-left: 15px;}
+.get-more-referer{margin-left: 15px}
+.nowrap{white-space:nowrap;text-overflow:ellipsis;overflow:hidden;display:inline-block;width:100%;}
+.tiny{font-size:10px;}
+
+
+.widefat .column-avatar{width:46px;}
+.widefat .column-email{width:260px;}
+.widefat .column-emails{width:50px;text-align:right;}
+.widefat .column-status{width:100px;}
+.mymail-avatar-40{
+	display: block;
+	width:40px;
+	height:40px;
+	padding: 2px;
+	border: 1px solid #D3D6DB;
+	background-color: #FFF;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: 40px 40px;
+	margin-bottom: 4px;
+}
+.branch-3-3 .mymail-avatar-40.wp-user:before,.branch-3-4 .mymail-avatar-40.wp-user:before,.branch-3-5 .mymail-avatar-40.wp-user:before,.branch-3-6 .mymail-avatar-40.wp-user:before,.branch-3-7 .mymail-avatar-40.wp-user:before{
+	content :'';
+	background-image:url(../../../../../wp-includes/images/admin-bar-sprite.png);
+	display: block;
+	width: 20px;
+	height: 20px;
+	background-position: 0 -76px;
+	margin-top: 24px;
+}
+.mymail-avatar-40.wp-user:before{
+	font-family: 'dashicons';
+	content: '\f120';
+	margin-left: 28px;
+	line-height: 69px;
+	font-size: 100%;
+	background-color: rgba(255,255,255,0.9);
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+}
+.wp-list-table ul{
+	margin: 0;
+}
+
+.wp-list-table th.manage-column span{
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	max-width: 85%;
+}
+.branch-3-3 #icon-edit.icon32,.branch-3-4 #icon-edit.icon32,.branch-3-5 #icon-edit.icon32,.branch-3-6 #icon-edit.icon32,.branch-3-7 #icon-edit.icon32{
+	background:url(../img/icons/subscriber.png) no-repeat left top;
+}
+
+
+a.name{
+	font-weight: 700;
+	font-size: 1.2em;
+	line-height: 1.6em;
+	color: #555;
+}
+a.email{
+	font-size:0.85em;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	width: 100%;
+	display: inline-block;
+}
+@media only screen and (-webkit-min-device-pixel-ratio:1.5),
+	only screen and (-o-min-device-pixel-ratio:32),
+	only screen and (min--moz-device-pixel-ratio:1.5),
+	only screen and (min-device-pixel-ratio:1.5) {
+
+	.branch-3-3 .mymail-avatar-40.wp-user:before,.branch-3-4 .mymail-avatar-40.wp-user:before,.branch-3-5 .mymail-avatar-40.wp-user:before,.branch-3-6 .mymail-avatar-40.wp-user:before,.branch-3-7 .mymail-avatar-40.wp-user:before{
+		content :'';
+		background-image:url(../../../../../wp-includes/images/admin-bar-sprite-2x.png);
+		-webkit-background-size:20px 220px;
+		-moz-background-size:20px 220px;
+		background-size:20px 220px;
+	}
+
+	.branch-3-3 #icon-edit.icon32,.branch-3-4 #icon-edit.icon32,.branch-3-5 #icon-edit.icon32,.branch-3-6 #icon-edit.icon32,.branch-3-7 #icon-edit.icon32{
+		background:url(../img/icons/subscriber_2x.png) no-repeat left top;
+		-webkit-background-size:32px 32px;
+		-moz-background-size:32px 32px;
+		background-size:32px 32px;
+	}
+
+}

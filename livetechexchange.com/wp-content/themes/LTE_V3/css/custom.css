@@ -1,0 +1,254 @@
+/* If you want to add your own css code, please do it in this file */
+
+.colorpicker {
+    z-index: 1011;
+}
+
+#configurator, #configurator h4 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#configurator {
+    width: 550px;
+    border: 3px solid #d5d4d9;
+    border-top: 0;
+    position: absolute;
+    left: -556px;
+    top: 50px;
+    background: #fff;
+    z-index: 1010;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    color: #515E6C;
+    line-height: 21px;
+    font-size: 13px;
+}
+
+#configurator .configurator_inside {
+    position: relative;
+}
+
+#configurator .configurator_inside a {
+    color: #45a1df;
+}
+
+#configurator input[type =
+"text"], #configurator select {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #fafafa url(../images/colorpicker/bg_input.png) no-repeat left top;
+    border: 1px solid #e5e5e5;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    color: #7789a1;
+    padding: 4px;
+    display: block;
+    float: left;
+    margin-right: 8px;
+}
+
+#configurator input[type =
+"checkbox"] {
+    display: block;
+    float: left;
+}
+
+#configurator p.input_label {
+    color: #a5a6a7;
+    font-size: 12px;
+    line-height: 26px;
+    margin-right: 8px;
+}
+
+#configurator select {
+    width: 220px;
+}
+
+#configurator .of-color {
+    width: 70px;
+}
+
+#configurator .configurator_inside p {
+    margin: 0;
+}
+
+#configurator .configurator_inside p, {font-family:Arial, Helvetica, sans-serif;
+}
+
+#configurator .configurator_inside .header {
+    background: url(../images/colorpicker/configurator_header.png) repeat-x;
+    color: #47505e;
+    line-height: 17px;
+    font-size: 17px;
+    text-shadow: 1px 1px 0 #f9f9fa;
+    text-align: center;
+    padding: 23px 0;
+    font-weight: bold;
+}
+
+#configurator .configurator_inside .content {
+    padding: 0px;
+}
+
+#configurator .configurator_inside .box {
+    padding: 10px 20px;
+    border-bottom: 1px solid #f2f2f2;
+    background: url(../images/colorpicker/box_bg.png) repeat-x;
+}
+
+#configurator .configurator_inside p.config_info {
+    color: #515E6C;
+    line-height: 21px;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+#configurator .configurator_inside h4 {
+    font-size: 14px;
+    color: #3a4550;
+    line-height: 14px;
+    margin: 0 0 7px 0;
+    padding: 0;
+    font-weight: bold;
+    width: 100%;
+    display: block;
+}
+
+#configurator .configurator_inside .colorSelector {
+    position: relative;
+    width: 27px;
+    height: 27px;
+    background: url(../images/colorpicker/select.png);
+    float: left;
+    margin-right: 8px;
+}
+
+#configurator a.control {
+    background: url(../images/colorpicker/configurator_control.png) no-repeat;
+    display: block;
+    overflow: hidden;
+    text-indent: -9999px;
+    width: 64px;
+    height: 79px;
+    position: absolute;
+    right: -67px;
+    top: 75px;
+}
+
+#configurator .configurator_inside .colours {
+    overflow: hidden;
+}
+
+#configurator .configurator_inside .colours .item {
+    overflow: hidden;
+    width: 50%;
+    float: left;
+    margin-bottom: 5px;
+}
+
+#configurator .configurator_inside .typography {
+    overflow: hidden;
+}
+
+#configurator .configurator_inside .typography p {
+    margin-bottom: 10px;
+}
+
+#configurator .configurator_inside .typography .item p {
+    margin-bottom: 0px;
+}
+
+#configurator .configurator_inside .typography .item {
+    overflow: hidden;
+    margin-bottom: 5px;
+}
+
+#configurator .configurator_inside .typography .item select {
+    display: block;
+    float: left;
+    margin-right: 8px;
+}
+
+#configurator .configurator_inside .typography .item select.font {
+    width: 150px;
+}
+
+#configurator .configurator_inside .typography .item select.style {
+    width: 100px;
+}
+
+#configurator a.button-medium-green {
+    margin-top: 5px;
+}
+
+#configurator a.button-medium-gray {
+    margin-top: 5px;
+}
+
+/* Medium */
+#configurator a.button-medium {
+    background: url(../images/buttons/sprite_buttons.png) no-repeat;
+    display: inline-block;
+    height: 40px;
+    padding-right: 25px;
+    text-decoration: none;
+    margin-right: 5px;
+}
+
+#configurator a.button-medium span {
+    background: url(../images/buttons/sprite_buttons_span.png) no-repeat;
+    display: inline-block;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding-left: 25px;
+    line-height: 40px;
+    height: 40px;
+    font-weight: bold;
+    float: left;
+    cursor: pointer;
+}
+
+/* Gray medium */
+#configurator a.button-medium-gray {
+    background-position: right -60px;
+}
+
+#configurator a.button-medium-gray span {
+    background-position: 0 -60px;
+    color: #414a58;
+    text-shadow: 1px 1px 0 #e2e8f0;
+}
+
+#configurator a.button-medium-gray:hover, a.button-medium-gray:active {
+    background-position: right -100px;
+    outline: none;
+}
+
+#configurator a.button-medium-gray:hover span, a.button-medium-gray:active span {
+    background-position: 0 -100px;
+    color: #18263a;
+    text-shadow: 1px 1px 0 #e2e8f0;
+}
+
+/* Green medium */
+#configurator a.button-medium-green {
+    background-position: right -290px;
+}
+
+#configurator a.button-medium-green span {
+    background-position: 0 -290px;
+    color: #485d22;
+    text-shadow: 1px 1px 0 #d6eda5;
+}
+
+#configurator a.button-medium-green:hover, a.button-medium-green:active {
+    background-position: right -330px;
+    outline: none;
+}
+
+#configurator a.button-medium-green:hover span, a.button-medium-green:active span {
+    background-position: 0 -330px;
+    color: #303f14;
+    text-shadow: 1px 1px 0 #c2e778;
+}

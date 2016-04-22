@@ -1,0 +1,828 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Reporting\n"
+"POT-Creation-Date: 2015-06-25 18:48+0330\n"
+"PO-Revision-Date: 2015-06-25 18:48+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: main.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class/custommenu.php:8
+msgid "Dashboard"
+msgstr ""
+
+#: class/custommenu.php:9
+msgid "Products Details"
+msgstr ""
+
+#: class/custommenu.php:9 class/custommenu.php:1650
+msgid "Products"
+msgstr ""
+
+#: class/custommenu.php:10
+msgid "Orders Details"
+msgstr ""
+
+#: class/custommenu.php:10 class/custommenu.php:3251
+msgid "Orders"
+msgstr ""
+
+#: class/custommenu.php:11
+msgid "Categories Details"
+msgstr ""
+
+#: class/custommenu.php:11 class/custommenu.php:2126
+msgid "Categories"
+msgstr ""
+
+#: class/custommenu.php:12
+msgid "Customers Details"
+msgstr ""
+
+#: class/custommenu.php:12 class/custommenu.php:2247
+msgid "Customers"
+msgstr ""
+
+#: class/custommenu.php:13
+msgid "Billing Countries Details"
+msgstr ""
+
+#: class/custommenu.php:13 class/custommenu.php:2409
+msgid "Billing Countries"
+msgstr ""
+
+#: class/custommenu.php:14
+msgid "Billing States Details"
+msgstr ""
+
+#: class/custommenu.php:14 class/custommenu.php:2557
+msgid "Billing States"
+msgstr ""
+
+#: class/custommenu.php:15
+msgid "Payment Gateways Details"
+msgstr ""
+
+#: class/custommenu.php:15 class/custommenu.php:2671
+msgid "Payment Gateways"
+msgstr ""
+
+#: class/custommenu.php:16
+msgid "Order Statuses Details"
+msgstr ""
+
+#: class/custommenu.php:16 class/custommenu.php:2785
+msgid "Order Statuses"
+msgstr ""
+
+#: class/custommenu.php:17
+msgid "Coupons Details"
+msgstr ""
+
+#: class/custommenu.php:17 class/custommenu.php:2899
+msgid "Coupons"
+msgstr ""
+
+#: class/custommenu.php:18
+msgid "Stock Details"
+msgstr ""
+
+#: class/custommenu.php:18 class/custommenu.php:1660
+#: class/custommenu.php:1671 class/custommenu.php:1903
+#: class/custommenu.php:1915 class/custommenu.php:1935
+msgid "Stock"
+msgstr ""
+
+#: class/custommenu.php:19 class/custommenu.php:3007
+msgid "Projected Vs. Actual Sales"
+msgstr ""
+
+#: class/custommenu.php:19
+msgid "Projected Vs. Actual"
+msgstr ""
+
+#: class/custommenu.php:20 class/custommenu.php:3385
+msgid "Preferences"
+msgstr ""
+
+#: class/custommenu.php:30
+msgid "WC Reporting"
+msgstr ""
+
+#: class/custommenu.php:128
+msgid "Views"
+msgstr ""
+
+#: class/custommenu.php:149 class/custommenu.php:1483
+#: class/custommenu.php:1621 class/custommenu.php:1732
+#: class/custommenu.php:1873 class/custommenu.php:2029
+#: class/custommenu.php:3136 class/custommenu.php:3215
+msgid "Completed"
+msgstr ""
+
+#: class/custommenu.php:149 class/custommenu.php:1483
+#: class/custommenu.php:1620 class/custommenu.php:1732
+#: class/custommenu.php:1872 class/custommenu.php:2029
+#: class/custommenu.php:3136 class/custommenu.php:3214
+msgid "On Hold"
+msgstr ""
+
+#: class/custommenu.php:149 class/custommenu.php:1483
+#: class/custommenu.php:1622 class/custommenu.php:1732
+#: class/custommenu.php:1874 class/custommenu.php:2029
+#: class/custommenu.php:3136 class/custommenu.php:3216
+msgid "Cancelled"
+msgstr ""
+
+#: class/custommenu.php:149 class/custommenu.php:1483
+#: class/custommenu.php:1623 class/custommenu.php:1732
+#: class/custommenu.php:1875 class/custommenu.php:2029
+#: class/custommenu.php:3136 class/custommenu.php:3217
+msgid "Refunded"
+msgstr ""
+
+#: class/custommenu.php:149 class/custommenu.php:1483
+#: class/custommenu.php:1624 class/custommenu.php:1732
+#: class/custommenu.php:1876 class/custommenu.php:2029
+#: class/custommenu.php:3136 class/custommenu.php:3218
+msgid "Failed"
+msgstr ""
+
+#: class/custommenu.php:149 class/custommenu.php:1483
+#: class/custommenu.php:1732 class/custommenu.php:2029
+#: class/custommenu.php:3136
+msgid "Pending"
+msgstr ""
+
+#: class/custommenu.php:149 class/custommenu.php:1483
+#: class/custommenu.php:1619 class/custommenu.php:1732
+#: class/custommenu.php:1871 class/custommenu.php:2029
+#: class/custommenu.php:3136 class/custommenu.php:3213
+msgid "Processing"
+msgstr ""
+
+#: class/custommenu.php:161
+msgid "At A Glance"
+msgstr ""
+
+#: class/custommenu.php:170
+msgid "Total Sales"
+msgstr ""
+
+#: class/custommenu.php:183 class/custommenu.php:245
+msgid "Proj. Sales"
+msgstr ""
+
+#: class/custommenu.php:195
+msgid "Year Sales"
+msgstr ""
+
+#: class/custommenu.php:208 class/custommenu.php:269
+msgid "Avg. Sales/Order"
+msgstr ""
+
+#: class/custommenu.php:220 class/custommenu.php:257
+msgid "Avg. Sales/Day"
+msgstr ""
+
+#: class/custommenu.php:232
+msgid "Month Sales"
+msgstr ""
+
+#: class/custommenu.php:281
+msgid "Forecasted Sales"
+msgstr ""
+
+#: class/custommenu.php:293
+msgid "Total Refund"
+msgstr ""
+
+#: class/custommenu.php:306
+msgid "Order Tax"
+msgstr ""
+
+#: class/custommenu.php:319
+msgid "Order Shipping Tax"
+msgstr ""
+
+#: class/custommenu.php:332
+msgid "Total Tax"
+msgstr ""
+
+#: class/custommenu.php:344
+msgid "Order Shipping Total"
+msgstr ""
+
+#: class/custommenu.php:356
+msgid "Last Order Date"
+msgstr ""
+
+#: class/custommenu.php:382
+msgid "Total Coupons"
+msgstr ""
+
+#: class/custommenu.php:395
+msgid "Total Registered Customers"
+msgstr ""
+
+#: class/custommenu.php:407
+msgid "Total Guest Customers"
+msgstr ""
+
+#: class/custommenu.php:423
+msgid "Todays Total Sales"
+msgstr ""
+
+#: class/custommenu.php:436
+msgid "Todays Avg. Sales"
+msgstr ""
+
+#: class/custommenu.php:448
+msgid "Todays Total Refund"
+msgstr ""
+
+#: class/custommenu.php:461
+msgid "Todays Order Tax"
+msgstr ""
+
+#: class/custommenu.php:474
+msgid "Todays Order Shipping Tax"
+msgstr ""
+
+#: class/custommenu.php:487
+msgid "Todays Total Tax"
+msgstr ""
+
+#: class/custommenu.php:501
+msgid "Sales By Months"
+msgstr ""
+
+#: class/custommenu.php:502
+msgid "Sales By Days"
+msgstr ""
+
+#: class/custommenu.php:503
+msgid "Sales By Week"
+msgstr ""
+
+#: class/custommenu.php:504
+msgid "Top Products By Sale"
+msgstr ""
+
+#: class/custommenu.php:505
+msgid "Top Products By View"
+msgstr ""
+
+#: class/custommenu.php:507
+msgid "Sales Overview"
+msgstr ""
+
+#: class/custommenu.php:515 class/custommenu.php:521 class/custommenu.php:720
+#: class/custommenu.php:737 class/custommenu.php:911
+#: class/custommenu.php:3017 class/custommenu.php:3034
+msgid "Month"
+msgstr ""
+
+#: class/custommenu.php:516 class/custommenu.php:522 class/custommenu.php:558
+#: class/custommenu.php:564 class/custommenu.php:599 class/custommenu.php:605
+#: class/custommenu.php:722 class/custommenu.php:739
+#: class/custommenu.php:3019 class/custommenu.php:3036
+msgid "Actual Sales"
+msgstr ""
+
+#: class/custommenu.php:557 class/custommenu.php:563 class/custommenu.php:598
+#: class/custommenu.php:604
+msgid "Day"
+msgstr ""
+
+#: class/custommenu.php:639 class/custommenu.php:646 class/custommenu.php:677
+#: class/custommenu.php:683 class/custommenu.php:1006
+#: class/custommenu.php:1013 class/custommenu.php:1065
+msgid "Item Name"
+msgstr ""
+
+#: class/custommenu.php:640 class/custommenu.php:647 class/custommenu.php:955
+#: class/custommenu.php:962 class/custommenu.php:1007
+#: class/custommenu.php:1014 class/custommenu.php:1059
+#: class/custommenu.php:1066 class/custommenu.php:1111
+#: class/custommenu.php:1118 class/custommenu.php:1160
+#: class/custommenu.php:1167 class/custommenu.php:1352
+#: class/custommenu.php:1360 class/custommenu.php:1398
+#: class/custommenu.php:1405 class/custommenu.php:1442
+#: class/custommenu.php:1449
+msgid "Qty"
+msgstr ""
+
+#: class/custommenu.php:641 class/custommenu.php:648 class/custommenu.php:956
+#: class/custommenu.php:963 class/custommenu.php:1008
+#: class/custommenu.php:1015 class/custommenu.php:1060
+#: class/custommenu.php:1067 class/custommenu.php:1112
+#: class/custommenu.php:1119 class/custommenu.php:1161
+#: class/custommenu.php:1168 class/custommenu.php:1353
+#: class/custommenu.php:1361 class/custommenu.php:1399
+#: class/custommenu.php:1406 class/custommenu.php:1443
+#: class/custommenu.php:1450
+msgid "Amount"
+msgstr ""
+
+#: class/custommenu.php:678 class/custommenu.php:684
+msgid "views"
+msgstr ""
+
+#: class/custommenu.php:714
+msgid "Summary Of The Year"
+msgstr ""
+
+#: class/custommenu.php:721 class/custommenu.php:738
+#: class/custommenu.php:3018 class/custommenu.php:3035
+msgid "Projected Sales"
+msgstr ""
+
+#: class/custommenu.php:723 class/custommenu.php:740
+#: class/custommenu.php:3020 class/custommenu.php:3037
+msgid "Difference"
+msgstr ""
+
+#: class/custommenu.php:724 class/custommenu.php:741
+#: class/custommenu.php:3021 class/custommenu.php:3038
+msgid "%"
+msgstr ""
+
+#: class/custommenu.php:725 class/custommenu.php:742
+#: class/custommenu.php:3022 class/custommenu.php:3039
+msgid "Total % to Sales"
+msgstr ""
+
+#: class/custommenu.php:726 class/custommenu.php:743
+#: class/custommenu.php:3023 class/custommenu.php:3040
+msgid "Refund Amt."
+msgstr ""
+
+#: class/custommenu.php:727 class/custommenu.php:744
+#: class/custommenu.php:3024 class/custommenu.php:3041
+msgid "Part Refund Amount"
+msgstr ""
+
+#: class/custommenu.php:728 class/custommenu.php:745
+#: class/custommenu.php:1214 class/custommenu.php:1232
+#: class/custommenu.php:3025 class/custommenu.php:3042
+#: class/custommenu.php:3264 class/custommenu.php:3282
+msgid "Total Discount Amt."
+msgstr ""
+
+#: class/custommenu.php:729 class/custommenu.php:746
+#: class/custommenu.php:3026 class/custommenu.php:3043
+msgid "Tax Amt."
+msgstr ""
+
+#: class/custommenu.php:730 class/custommenu.php:747
+#: class/custommenu.php:3027 class/custommenu.php:3044
+msgid "Shipping Order Tax"
+msgstr ""
+
+#: class/custommenu.php:731 class/custommenu.php:748
+#: class/custommenu.php:3028 class/custommenu.php:3045
+msgid "Total Shipping Tax"
+msgstr ""
+
+#: class/custommenu.php:778 class/custommenu.php:970
+#: class/custommenu.php:1126 class/custommenu.php:1175
+#: class/custommenu.php:1288 class/custommenu.php:1414
+#: class/custommenu.php:1457 class/custommenu.php:1688
+#: class/custommenu.php:1959 class/custommenu.php:2155
+#: class/custommenu.php:2276 class/custommenu.php:3074
+#: class/custommenu.php:3298
+msgid "N/A"
+msgstr ""
+
+#: class/custommenu.php:832
+msgid "Order Summary"
+msgstr ""
+
+#: class/custommenu.php:838 class/custommenu.php:845
+msgid "Sales Order"
+msgstr ""
+
+#: class/custommenu.php:839 class/custommenu.php:846
+#: class/custommenu.php:2257 class/custommenu.php:2267
+#: class/custommenu.php:2416 class/custommenu.php:2423
+#: class/custommenu.php:2564 class/custommenu.php:2571
+#: class/custommenu.php:2678 class/custommenu.php:2685
+#: class/custommenu.php:2792 class/custommenu.php:2799
+#: class/custommenu.php:2906 class/custommenu.php:2913
+msgid "Count"
+msgstr ""
+
+#: class/custommenu.php:840 class/custommenu.php:847
+msgid "Total"
+msgstr ""
+
+#: class/custommenu.php:858
+msgid "Today"
+msgstr ""
+
+#: class/custommenu.php:873
+msgid "Yesterday"
+msgstr ""
+
+#: class/custommenu.php:900
+msgid "Week"
+msgstr ""
+
+#: class/custommenu.php:922
+msgid "Year"
+msgstr ""
+
+#: class/custommenu.php:948
+msgid "Sales Order Status"
+msgstr ""
+
+#: class/custommenu.php:954 class/custommenu.php:961
+msgid "Order Status"
+msgstr ""
+
+#: class/custommenu.php:1000
+msgid "Top Products"
+msgstr ""
+
+#: class/custommenu.php:1052
+msgid "Top Categories"
+msgstr ""
+
+#: class/custommenu.php:1058
+msgid "Category Name"
+msgstr ""
+
+#: class/custommenu.php:1104
+msgid "Top Billing Countries"
+msgstr ""
+
+#: class/custommenu.php:1110 class/custommenu.php:1117
+#: class/custommenu.php:2371 class/custommenu.php:2415
+#: class/custommenu.php:2422 class/custommenu.php:2519
+msgid "Country"
+msgstr ""
+
+#: class/custommenu.php:1153
+msgid "Top Billing States"
+msgstr ""
+
+#: class/custommenu.php:1159 class/custommenu.php:1166
+#: class/custommenu.php:2563 class/custommenu.php:2570
+#: class/custommenu.php:2677 class/custommenu.php:2684
+#: class/custommenu.php:2791 class/custommenu.php:2798
+#: class/custommenu.php:2912
+msgid "State"
+msgstr ""
+
+#: class/custommenu.php:1201
+msgid "Recent Orders"
+msgstr ""
+
+#: class/custommenu.php:1207 class/custommenu.php:1225
+#: class/custommenu.php:3257 class/custommenu.php:3275
+msgid "Order ID"
+msgstr ""
+
+#: class/custommenu.php:1208 class/custommenu.php:1226
+#: class/custommenu.php:1350 class/custommenu.php:1358
+#: class/custommenu.php:1657 class/custommenu.php:1668
+#: class/custommenu.php:1910 class/custommenu.php:1930
+#: class/custommenu.php:2133 class/custommenu.php:2141
+#: class/custommenu.php:3258 class/custommenu.php:3276
+msgid "Name"
+msgstr ""
+
+#: class/custommenu.php:1209 class/custommenu.php:1227
+#: class/custommenu.php:1351 class/custommenu.php:1359
+#: class/custommenu.php:2256 class/custommenu.php:2266
+#: class/custommenu.php:3259 class/custommenu.php:3277
+msgid "Email"
+msgstr ""
+
+#: class/custommenu.php:1210 class/custommenu.php:1228
+#: class/custommenu.php:3260 class/custommenu.php:3278
+msgid "Date"
+msgstr ""
+
+#: class/custommenu.php:1211 class/custommenu.php:1229
+#: class/custommenu.php:1613 class/custommenu.php:1865
+#: class/custommenu.php:3207 class/custommenu.php:3261
+#: class/custommenu.php:3279
+msgid "Status"
+msgstr ""
+
+#: class/custommenu.php:1212 class/custommenu.php:1230
+#: class/custommenu.php:3262 class/custommenu.php:3280
+msgid "Items"
+msgstr ""
+
+#: class/custommenu.php:1213 class/custommenu.php:1231
+#: class/custommenu.php:3263 class/custommenu.php:3281
+msgid "Gross Amt."
+msgstr ""
+
+#: class/custommenu.php:1215 class/custommenu.php:1233
+#: class/custommenu.php:3265 class/custommenu.php:3283
+msgid "Shipping Amt."
+msgstr ""
+
+#: class/custommenu.php:1216 class/custommenu.php:1234
+#: class/custommenu.php:3266 class/custommenu.php:3284
+msgid "Shipping Tax Amt."
+msgstr ""
+
+#: class/custommenu.php:1217 class/custommenu.php:1235
+#: class/custommenu.php:3267 class/custommenu.php:3285
+msgid "Order Tax Amt."
+msgstr ""
+
+#: class/custommenu.php:1218 class/custommenu.php:1236
+#: class/custommenu.php:3268 class/custommenu.php:3286
+msgid "Part Refund Amt."
+msgstr ""
+
+#: class/custommenu.php:1219 class/custommenu.php:1237
+#: class/custommenu.php:3269 class/custommenu.php:3287
+msgid "Total Tax Amt."
+msgstr ""
+
+#: class/custommenu.php:1220 class/custommenu.php:1238
+#: class/custommenu.php:3270 class/custommenu.php:3288
+msgid "Net Amt."
+msgstr ""
+
+#: class/custommenu.php:1344
+msgid "Top Customers"
+msgstr ""
+
+#: class/custommenu.php:1391
+msgid "Top Coupons"
+msgstr ""
+
+#: class/custommenu.php:1397 class/custommenu.php:1404
+#: class/custommenu.php:2905
+msgid "Coupon Code"
+msgstr ""
+
+#: class/custommenu.php:1435
+msgid "Top Payment Gateways"
+msgstr ""
+
+#: class/custommenu.php:1441 class/custommenu.php:1448
+msgid "Payment Method"
+msgstr ""
+
+#: class/custommenu.php:1558 class/custommenu.php:1808
+#: class/custommenu.php:2082 class/custommenu.php:2203
+#: class/custommenu.php:2348 class/custommenu.php:2496
+#: class/custommenu.php:2627 class/custommenu.php:2741
+#: class/custommenu.php:2855 class/custommenu.php:2972
+#: class/custommenu.php:3194
+msgid "Configuration"
+msgstr ""
+
+#: class/custommenu.php:1566 class/custommenu.php:1817
+#: class/custommenu.php:2089 class/custommenu.php:2210
+#: class/custommenu.php:2355 class/custommenu.php:2503
+#: class/custommenu.php:2634 class/custommenu.php:2748
+#: class/custommenu.php:2862 class/custommenu.php:3201
+msgid "From Date"
+msgstr ""
+
+#: class/custommenu.php:1572 class/custommenu.php:1658
+#: class/custommenu.php:1669 class/custommenu.php:1823
+#: class/custommenu.php:1911 class/custommenu.php:1931
+msgid "Category"
+msgstr ""
+
+#: class/custommenu.php:1576 class/custommenu.php:1590
+#: class/custommenu.php:1617 class/custommenu.php:1827
+#: class/custommenu.php:1842 class/custommenu.php:1869
+#: class/custommenu.php:2375 class/custommenu.php:2523
+#: class/custommenu.php:3211
+msgid "Select All"
+msgstr ""
+
+#: class/custommenu.php:1586 class/custommenu.php:1838
+msgid "Product"
+msgstr ""
+
+#: class/custommenu.php:1606 class/custommenu.php:1858
+#: class/custommenu.php:2097 class/custommenu.php:2218
+#: class/custommenu.php:2363 class/custommenu.php:2511
+#: class/custommenu.php:2642 class/custommenu.php:2756
+#: class/custommenu.php:2870 class/custommenu.php:3224
+msgid "To Date"
+msgstr ""
+
+#: class/custommenu.php:1618 class/custommenu.php:1870
+#: class/custommenu.php:3212
+msgid "Pending Payment"
+msgstr ""
+
+#: class/custommenu.php:1645 class/custommenu.php:1898
+#: class/custommenu.php:2121 class/custommenu.php:2242
+#: class/custommenu.php:2404 class/custommenu.php:2552
+#: class/custommenu.php:2666 class/custommenu.php:2780
+#: class/custommenu.php:2894 class/custommenu.php:3002
+#: class/custommenu.php:3246
+msgid "PDF"
+msgstr ""
+
+#: class/custommenu.php:1646 class/custommenu.php:1899
+#: class/custommenu.php:2122 class/custommenu.php:2243
+#: class/custommenu.php:2405 class/custommenu.php:2553
+#: class/custommenu.php:2667 class/custommenu.php:2781
+#: class/custommenu.php:2895 class/custommenu.php:3003
+#: class/custommenu.php:3247
+msgid "CSV"
+msgstr ""
+
+#: class/custommenu.php:1647 class/custommenu.php:1900
+#: class/custommenu.php:2123 class/custommenu.php:2244
+#: class/custommenu.php:2406 class/custommenu.php:2554
+#: class/custommenu.php:2668 class/custommenu.php:2782
+#: class/custommenu.php:2896 class/custommenu.php:3004
+#: class/custommenu.php:3248
+msgid "XLS"
+msgstr ""
+
+#: class/custommenu.php:1648 class/custommenu.php:1901
+#: class/custommenu.php:2124 class/custommenu.php:2245
+#: class/custommenu.php:2407 class/custommenu.php:2555
+#: class/custommenu.php:2669 class/custommenu.php:2783
+#: class/custommenu.php:2897 class/custommenu.php:3005
+#: class/custommenu.php:3249
+msgid "Print"
+msgstr ""
+
+#: class/custommenu.php:1656 class/custommenu.php:1667
+#: class/custommenu.php:1909 class/custommenu.php:1929
+msgid "Product ID"
+msgstr ""
+
+#: class/custommenu.php:1659 class/custommenu.php:1670
+#: class/custommenu.php:2134 class/custommenu.php:2142
+msgid "Qty."
+msgstr ""
+
+#: class/custommenu.php:1661 class/custommenu.php:1672
+#: class/custommenu.php:1916 class/custommenu.php:1936
+msgid "Price"
+msgstr ""
+
+#: class/custommenu.php:1662 class/custommenu.php:1673
+#: class/custommenu.php:1919 class/custommenu.php:1939
+#: class/custommenu.php:2135 class/custommenu.php:2143
+#: class/custommenu.php:2258 class/custommenu.php:2268
+#: class/custommenu.php:2417 class/custommenu.php:2424
+#: class/custommenu.php:2565 class/custommenu.php:2572
+#: class/custommenu.php:2679 class/custommenu.php:2686
+#: class/custommenu.php:2793 class/custommenu.php:2800
+#: class/custommenu.php:2907 class/custommenu.php:2914
+msgid "Total Amount"
+msgstr ""
+
+#: class/custommenu.php:1912 class/custommenu.php:1932
+msgid "Created Date"
+msgstr ""
+
+#: class/custommenu.php:1913 class/custommenu.php:1933
+msgid "Modified Date"
+msgstr ""
+
+#: class/custommenu.php:1914 class/custommenu.php:1934
+msgid "Sold Qty."
+msgstr ""
+
+#: class/custommenu.php:1917 class/custommenu.php:1937
+msgid "Regular Price"
+msgstr ""
+
+#: class/custommenu.php:1918 class/custommenu.php:1938
+msgid "Sale Price"
+msgstr ""
+
+#: class/custommenu.php:1920 class/custommenu.php:1940
+msgid "Downloadable"
+msgstr ""
+
+#: class/custommenu.php:1921 class/custommenu.php:1941
+msgid "Virtual"
+msgstr ""
+
+#: class/custommenu.php:1922 class/custommenu.php:1942
+msgid "Manage Stock"
+msgstr ""
+
+#: class/custommenu.php:1923 class/custommenu.php:1943
+msgid "Backorder"
+msgstr ""
+
+#: class/custommenu.php:1924 class/custommenu.php:1944
+msgid "Stock Status"
+msgstr ""
+
+#: class/custommenu.php:2132 class/custommenu.php:2140
+msgid "Category ID"
+msgstr ""
+
+#: class/custommenu.php:2253 class/custommenu.php:2263
+msgid "No."
+msgstr ""
+
+#: class/custommenu.php:2254 class/custommenu.php:2264
+msgid "First Name"
+msgstr ""
+
+#: class/custommenu.php:2255 class/custommenu.php:2265
+msgid "Last Name"
+msgstr ""
+
+#: class/custommenu.php:2979 class/custommenu.php:3392
+msgid "Select Year"
+msgstr ""
+
+#: class/custommenu.php:3408
+msgid "January Projected Sales"
+msgstr ""
+
+#: class/custommenu.php:3422
+msgid "February Projected Sales"
+msgstr ""
+
+#: class/custommenu.php:3436
+msgid "March Projected Sales"
+msgstr ""
+
+#: class/custommenu.php:3450
+msgid "April Projected Sales"
+msgstr ""
+
+#: class/custommenu.php:3464
+msgid "May Projected Sales"
+msgstr ""
+
+#: class/custommenu.php:3478
+msgid "June Projected Sales"
+msgstr ""
+
+#: class/custommenu.php:3492
+msgid "July Projected Sales"
+msgstr ""
+
+#: class/custommenu.php:3506
+msgid "August Projected Sales"
+msgstr ""
+
+#: class/custommenu.php:3520
+msgid "September Projected Sales"
+msgstr ""
+
+#: class/custommenu.php:3534
+msgid "October Projected Sales"
+msgstr ""
+
+#: class/custommenu.php:3548
+msgid "November Projected Sales"
+msgstr ""
+
+#: class/custommenu.php:3562
+msgid "December Projected Sales"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Reporting"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This Plugin Is Used For Reporting. Should have WooCommerce Plugin "
+"Installed ..."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pouya Zouravand"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://paydar.org/"
+msgstr ""

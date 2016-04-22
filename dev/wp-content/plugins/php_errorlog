@@ -1,0 +1,1 @@
+[03-Nov-2015 17:44:03 UTC] PHP Fatal error:  Call to undefined method Composer\Autoload\ClassLoader::setPsr4() in /home/mylivete/public_html/wp-content/plugins/wp-statistics/vendor/composer/autoload_real.php on line 33

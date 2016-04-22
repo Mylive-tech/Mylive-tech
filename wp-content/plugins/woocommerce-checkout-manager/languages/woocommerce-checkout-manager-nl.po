@@ -1,0 +1,1051 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woocommerce-checkout-manager\n"
+"POT-Creation-Date: 2014-05-19 05:30-0400\n"
+"PO-Revision-Date: 2015-04-03 11:37+0100\n"
+"Last-Translator: Andre Hesdahl <andre.hesdahl@program-it.nl>\n"
+"Language-Team: Andre Hesdahl <andre.hesdahl@program-it.nl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: _;__;_e;esc_attr_e\n"
+"X-Poedit-Basepath: ../\n"
+"Language: nl_NL\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: field_filters.php:28
+msgid "Select some options"
+msgstr "Kies enkele opties"
+
+#: import.php:234
+msgid "Import CSV"
+msgstr "Import CSV"
+
+#: main_upload.php:189
+msgid "Files was uploaded successfully."
+msgstr "Bestanden zijn succesvol geüpload"
+
+#: main_upload.php:196
+msgid "Order Uploaded files"
+msgstr "Bestel geüploaded bestanden"
+
+#: main_upload.php:242 main_upload.php:417
+msgid "File Image"
+msgstr "Bestand afbeelding"
+
+#: main_upload.php:243 main_upload.php:418
+msgid "Action"
+msgstr "Actie"
+
+#: main_upload.php:244 main_upload.php:419
+msgid "Width x Height"
+msgstr "Breedte x Hoogte"
+
+#: main_upload.php:245 main_upload.php:420
+msgid "Extension"
+msgstr "Extentie"
+
+#: main_upload.php:246 main_upload.php:421
+msgid "ID #"
+msgstr "ID #"
+
+#: main_upload.php:247 main_upload.php:422
+msgid "Link"
+msgstr "Link"
+
+#: main_upload.php:248 main_upload.php:423
+msgid "Name"
+msgstr "naam"
+
+#: main_upload.php:302 main_upload.php:337 main_upload.php:477
+msgid "Delete image"
+msgstr "Verwijder afbeelding"
+
+#: main_upload.php:302 main_upload.php:337 main_upload.php:477
+msgid "Delete"
+msgstr "Verwijder"
+
+#: main_upload.php:337
+msgid "Add Files to Order Gallery"
+msgstr "Voeg bestanden toe aan order gallerij"
+
+#: main_upload.php:337
+msgid "Add to gallery"
+msgstr "Toevoegen aan gallerij"
+
+#: main_upload.php:337
+msgid "Add Order Files"
+msgstr "Toevoegen bestel bestanden"
+
+#: main_upload.php:371
+msgid "Saved Successfully."
+msgstr "Succesvol opgeslagen"
+
+#: main_upload.php:412
+msgid "Order Uploaded Files"
+msgstr "Bestel geüploaded bestanden"
+
+#: main_upload.php:534
+msgid "Saved Successfully"
+msgstr "Succesvol opgeslagen"
+
+#: update.php:87
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?\" onclick="
+"\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"Eeen onverwachte HTTP fout is opgetreden gedurende het API verzoek.</p> <p><a href=\"?\" "
+"onclick=\"document.location.reload(); return false;\">Nogmaals proberen</a>"
+
+#: update.php:92
+msgid "An unknown error occurred"
+msgstr "Er is een onbekende fout opgetreden"
+
+#: upload.php:2
+msgid "Upload Files"
+msgstr "Bestanden uploaden"
+
+#: upload.php:2
+msgid "Max Upload Size"
+msgstr "Max upload grootte"
+
+#: wccm_file_upload.php:9
+msgid "Allow Customers to Upload Files"
+msgstr "Klanten toestaan bestanden te uploaden"
+
+#: wccm_file_upload.php:25
+msgid "Categorize Uploaded Files"
+msgstr "Categoriseer geüploaded bestanden"
+
+#: wccm_file_upload.php:31
+msgid "Changes uploaded files location folder from"
+msgstr "Veranderd geüploaden bestanden folder locatie van"
+
+#: wccm_file_upload.php:33
+msgid "to"
+msgstr "naar"
+
+#: wccm_file_upload.php:47
+msgid "Notification E-mail"
+msgstr "Notofocatie E-mail"
+
+#: wccm_file_upload.php:58
+msgid "Products"
+msgstr "Producten"
+
+#: wccm_file_upload.php:60 wccm_file_upload.php:80
+msgid "Allow File Upload"
+msgstr "Bestanden uploaden toestaan"
+
+#: wccm_file_upload.php:70 wccm_file_upload.php:88
+msgid "Deny File Upload"
+msgstr "Bestanden uploaden weigeren"
+
+#: wccm_file_upload.php:78
+msgid "Categories"
+msgstr "Categorieën"
+
+#: woocommerce-checkout-manager-pro.php:182
+msgid "WooCCM"
+msgstr "WooCCM"
+
+#: woocommerce-checkout-manager-pro.php:190
+msgid "You do not have sufficient permissions to access this page."
+msgstr "U hebt niet voldoende rechten om deze pagina te openen."
+
+#: woocommerce-checkout-manager-pro.php:207
+msgid "Payment Method"
+msgstr "Betaal methode"
+
+#: woocommerce-checkout-manager-pro.php:208
+msgid "Shipping Method"
+msgstr "Verzendmethode"
+
+#: woocommerce-checkout-manager-pro.php:231
+msgid "WooCommerce Checkout Manager Pro"
+msgstr "WooCommerce Checkout Manager Pro"
+
+#: woocommerce-checkout-manager-pro.php:249
+msgid "This is what PRO looks like! Should you have any questions or concerns find us on"
+msgstr "Dit is hoe PRO eruit ziet! Mocht u nog vragen of opmerkingen vind ons op"
+
+#: woocommerce-checkout-manager-pro.php:249
+msgid "Forum."
+msgstr "Forum."
+
+#: woocommerce-checkout-manager-pro.php:442
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: woocommerce-checkout-manager-pro.php:479 woocommerce-checkout-manager-pro.php:671
+msgid "Field Name"
+msgstr "veld Naam"
+
+#: woocommerce-checkout-manager-pro.php:480 woocommerce-checkout-manager-pro.php:672
+msgid "Remove Field Entirely"
+msgstr "Veld volledig verwijderen"
+
+#: woocommerce-checkout-manager-pro.php:481 woocommerce-checkout-manager-pro.php:673
+msgid "Remove Required Attribute"
+msgstr "Verwijder Verplichte attributen"
+
+#: woocommerce-checkout-manager-pro.php:482 woocommerce-checkout-manager-pro.php:674
+msgid "Replace Label Name"
+msgstr "Vervang Label Naam"
+
+#: woocommerce-checkout-manager-pro.php:483 woocommerce-checkout-manager-pro.php:675
+msgid "Replace Placeholder Name"
+msgstr "Vervang voorbeeldtekst Naam"
+
+#: woocommerce-checkout-manager-pro.php:491 woocommerce-checkout-manager-pro.php:683
+msgid "Select All Check boxes in this Column"
+msgstr "Selecteer alle selectievakjes in deze kolom"
+
+#: woocommerce-checkout-manager-pro.php:502 woocommerce-checkout-manager-pro.php:695
+msgid "First Name"
+msgstr "Voornaam"
+
+#: woocommerce-checkout-manager-pro.php:519 woocommerce-checkout-manager-pro.php:712
+msgid "Last Name"
+msgstr "Achternaam"
+
+#: woocommerce-checkout-manager-pro.php:534
+msgid "Phone"
+msgstr "Telefoon"
+
+#: woocommerce-checkout-manager-pro.php:549
+msgid "Email"
+msgstr "E-mail"
+
+#: woocommerce-checkout-manager-pro.php:564 woocommerce-checkout-manager-pro.php:727
+msgid "Company"
+msgstr "Bedijf"
+
+#: woocommerce-checkout-manager-pro.php:581 woocommerce-checkout-manager-pro.php:3367
+msgid "Order Notes"
+msgstr "Bestel notities"
+
+#: woocommerce-checkout-manager-pro.php:597 woocommerce-checkout-manager-pro.php:743
+msgid "Country"
+msgstr "Land"
+
+#: woocommerce-checkout-manager-pro.php:609 woocommerce-checkout-manager-pro.php:754
+msgid "Address 1"
+msgstr "Adres 1"
+
+#: woocommerce-checkout-manager-pro.php:620 woocommerce-checkout-manager-pro.php:766
+msgid "Address 2"
+msgstr "Adres 2"
+
+#: woocommerce-checkout-manager-pro.php:631 woocommerce-checkout-manager-pro.php:778
+msgid "City"
+msgstr "Plaats"
+
+#: woocommerce-checkout-manager-pro.php:642 woocommerce-checkout-manager-pro.php:790
+msgid "Postal Code"
+msgstr "Postcode"
+
+#: woocommerce-checkout-manager-pro.php:655 woocommerce-checkout-manager-pro.php:803
+msgid "State"
+msgstr "Staat"
+
+#: woocommerce-checkout-manager-pro.php:819
+msgid "Disable Address fields: "
+msgstr "Uitschakelen adresvelden:"
+
+#: woocommerce-checkout-manager-pro.php:825
+msgid ""
+"To get product number, goto the listing of WooCoommerce Products then hover over each "
+"product and you will see ID. Example"
+msgstr ""
+"Om een product nummer te zien, ga naar de lijst van WooCommerce producten en plaats uw muis "
+"over het product om het ID te zien. Voorbeeld"
+
+#: woocommerce-checkout-manager-pro.php:835
+msgid "Custom CSS"
+msgstr "Aangepaste CSS"
+
+#: woocommerce-checkout-manager-pro.php:839
+msgid ""
+"CSS language stands for Cascading Style Sheets which is used to style html content. You can "
+"change the fonts size, colours, margins of content, which lines to show or input, adjust "
+"height, width, background images etc."
+msgstr ""
+"CSS taal staat voor Cascading Style Sheets, die wordt gebruikt om de HTML inhoud te "
+"stileren. U kunt de lettertype grootte, kleuren, marges van de inhoud, "
+
+#: woocommerce-checkout-manager-pro.php:841
+msgid "Get help in our"
+msgstr "Krijg hulp in ons"
+
+#: woocommerce-checkout-manager-pro.php:841
+msgid "Support Forum"
+msgstr "Forum"
+
+#: woocommerce-checkout-manager-pro.php:857
+msgid "Position for notification one"
+msgstr "Positie voor notificatie 1"
+
+#: woocommerce-checkout-manager-pro.php:863 woocommerce-checkout-manager-pro.php:892
+msgid "Before Customer Address Fields"
+msgstr "Voort Klant adresvelden"
+
+#: woocommerce-checkout-manager-pro.php:872 woocommerce-checkout-manager-pro.php:900
+msgid "Before Order Summary"
+msgstr "Voor besteloverzicht"
+
+#: woocommerce-checkout-manager-pro.php:877 woocommerce-checkout-manager-pro.php:905
+msgid "Notification text area: You can use class"
+msgstr "Notificatie text gebied. U kunt dezefde klasse gebruiken als"
+
+#: woocommerce-checkout-manager-pro.php:877 woocommerce-checkout-manager-pro.php:905
+msgid "for the same design as WooCommerce Coupon."
+msgstr "voor het ontwerp voor de WooCommerce Coupon."
+
+#: woocommerce-checkout-manager-pro.php:886
+msgid "Position for notification two"
+msgstr "Positie voor notificatie 2"
+
+#: woocommerce-checkout-manager-pro.php:930
+msgid "Vertaal WooCCM Opties paneel"
+msgstr "Vertaal WooCCM Opties scherm"
+
+#: woocommerce-checkout-manager-pro.php:940
+msgid "Auto Create User account"
+msgstr "Automatisch klant account aanmaken"
+
+#: woocommerce-checkout-manager-pro.php:951
+msgid "Retain Fields Information"
+msgstr "Behouden veld informatie"
+
+#: woocommerce-checkout-manager-pro.php:961
+msgid "Before Shipping Form"
+msgstr "Voor verzending formulier"
+
+#: woocommerce-checkout-manager-pro.php:971
+msgid "After Shipping Form"
+msgstr "Na verzending formulier"
+
+#: woocommerce-checkout-manager-pro.php:981
+msgid "Before Billing Form"
+msgstr "Voor factureratie formulier"
+
+#: woocommerce-checkout-manager-pro.php:991
+msgid "After Billing Form"
+msgstr "Na facturatie formulier"
+
+#: woocommerce-checkout-manager-pro.php:1001
+msgid "After Order Notes"
+msgstr "Na bestel notities"
+
+#: woocommerce-checkout-manager-pro.php:1006
+msgid "Payment method used by customer"
+msgstr "Bestaalmethode gekozen door klant"
+
+#: woocommerce-checkout-manager-pro.php:1014
+msgid "Enable display of payment method."
+msgstr "Tonen van bestaalmethode toestaan"
+
+#: woocommerce-checkout-manager-pro.php:1020
+msgid "Shipping method used by customer"
+msgstr "Verzendmethode gekozen door klant"
+
+#: woocommerce-checkout-manager-pro.php:1028
+msgid "Enable display of shipping method."
+msgstr "Tonen verzendmethode toestaan"
+
+#: woocommerce-checkout-manager-pro.php:1035
+msgid "Default sate code for checkout."
+msgstr "Standaard sate code voor betaling"
+
+#: woocommerce-checkout-manager-pro.php:1043
+msgid "Enable default sate code."
+msgstr "Standaard sate code toestaan."
+
+#: woocommerce-checkout-manager-pro.php:1134 woocommerce-checkout-manager-pro.php:1265
+#: woocommerce-checkout-manager-pro.php:1433
+msgid "Change order"
+msgstr "Volgorde wijzigen"
+
+#: woocommerce-checkout-manager-pro.php:1136
+msgid "More"
+msgstr "Meer"
+
+#: woocommerce-checkout-manager-pro.php:1138
+msgid "Hide Field from Product"
+msgstr "Verberg veld voor product"
+
+#: woocommerce-checkout-manager-pro.php:1140
+msgid "Show Field for Product"
+msgstr "Toon veld voor product"
+
+#: woocommerce-checkout-manager-pro.php:1142
+msgid "Hide Field from Category"
+msgstr "Verberg veld voor categorie"
+
+#: woocommerce-checkout-manager-pro.php:1144 woocommerce-checkout-manager-pro.php:1449
+msgid "Show Field for Category"
+msgstr "Toon veld voor categorie"
+
+#: woocommerce-checkout-manager-pro.php:1146
+msgid "Date Format"
+msgstr "Datum formaat"
+
+#: woocommerce-checkout-manager-pro.php:1148
+msgid "Days before"
+msgstr "Dagn voor"
+
+#: woocommerce-checkout-manager-pro.php:1150
+msgid "Days After"
+msgstr "Dagen na"
+
+#: woocommerce-checkout-manager-pro.php:1152
+msgid "Days Enabler"
+msgstr "Dagen activeren"
+
+#: woocommerce-checkout-manager-pro.php:1154
+msgid "Sundays"
+msgstr "Zondags"
+
+#: woocommerce-checkout-manager-pro.php:1156
+msgid "Mondays"
+msgstr "Maandags"
+
+#: woocommerce-checkout-manager-pro.php:1158
+msgid "Tuesdays"
+msgstr "Dinsdags"
+
+#: woocommerce-checkout-manager-pro.php:1160
+msgid "Wednesdays"
+msgstr "Woensdags"
+
+#: woocommerce-checkout-manager-pro.php:1162
+msgid "Thursdays"
+msgstr "Donderdags"
+
+#: woocommerce-checkout-manager-pro.php:1164
+msgid "Fridays"
+msgstr "Vrijdags"
+
+#: woocommerce-checkout-manager-pro.php:1166
+msgid "Satudays"
+msgstr "Zaterdags"
+
+#: woocommerce-checkout-manager-pro.php:1170 woocommerce-checkout-manager-pro.php:1178
+msgid "YY"
+msgstr "JJ"
+
+#: woocommerce-checkout-manager-pro.php:1172 woocommerce-checkout-manager-pro.php:1180
+msgid "MM"
+msgstr "MM"
+
+#: woocommerce-checkout-manager-pro.php:1174 woocommerce-checkout-manager-pro.php:1182
+msgid "DD"
+msgstr "DD"
+
+#: woocommerce-checkout-manager-pro.php:1184
+msgid "Required"
+msgstr "Verplicht"
+
+#: woocommerce-checkout-manager-pro.php:1186
+msgid "Position"
+msgstr "Positie"
+
+#: woocommerce-checkout-manager-pro.php:1188
+msgid "Clear"
+msgstr "Schonen"
+
+#: woocommerce-checkout-manager-pro.php:1190 woocommerce-checkout-manager-pro.php:1511
+msgid "Deny Checkout"
+msgstr "Afrekenen weigeren"
+
+#: woocommerce-checkout-manager-pro.php:1192
+msgid "Remove Tax"
+msgstr "Verwijderen belastingen"
+
+#: woocommerce-checkout-manager-pro.php:1194 woocommerce-checkout-manager-pro.php:1517
+msgid "Deny Receipt"
+msgstr "Factuur weigeren"
+
+#: woocommerce-checkout-manager-pro.php:1196 woocommerce-checkout-manager-pro.php:1520
+msgid "Add Amount"
+msgstr "Aantal toevoegen"
+
+#: woocommerce-checkout-manager-pro.php:1198 woocommerce-checkout-manager-pro.php:1523
+msgid "Amount Name"
+msgstr "Aantal naam"
+
+#: woocommerce-checkout-manager-pro.php:1200
+msgid "Enter Amount"
+msgstr "Geef aantal"
+
+#: woocommerce-checkout-manager-pro.php:1202 woocommerce-checkout-manager-pro.php:1529
+msgid "Conditional Field On"
+msgstr "Conditioneel veld aan"
+
+#: woocommerce-checkout-manager-pro.php:1204 woocommerce-checkout-manager-pro.php:1532
+msgid "Conditional Parent"
+msgstr "Conditionele ouder"
+
+#: woocommerce-checkout-manager-pro.php:1206
+msgid "Label"
+msgstr "label"
+
+#: woocommerce-checkout-manager-pro.php:1208
+msgid "Placeholder"
+msgstr "Voorbeeldtekst"
+
+#: woocommerce-checkout-manager-pro.php:1210
+msgid "Chosen Value"
+msgstr "Geselecteerde waarde"
+
+#: woocommerce-checkout-manager-pro.php:1212
+msgid "Conditional Tie"
+msgstr "Conditionele verbinding"
+
+#: woocommerce-checkout-manager-pro.php:1214 woocommerce-checkout-manager-pro.php:1547
+msgid "Default Color"
+msgstr "Standaard kleur"
+
+#: woocommerce-checkout-manager-pro.php:1216 woocommerce-checkout-manager-pro.php:1550
+msgid "Input Name"
+msgstr "Geef naam"
+
+#: woocommerce-checkout-manager-pro.php:1218 woocommerce-checkout-manager-pro.php:1553
+msgid "Change Name to"
+msgstr "Naam veranderen"
+
+#: woocommerce-checkout-manager-pro.php:1220
+msgid "Checked Value"
+msgstr "Geselecteerde waarde"
+
+#: woocommerce-checkout-manager-pro.php:1222
+msgid "Not Checked Value"
+msgstr "Niet geselecteerde waarde"
+
+#: woocommerce-checkout-manager-pro.php:1224
+msgid "Force Title"
+msgstr "Titel forceren"
+
+#: woocommerce-checkout-manager-pro.php:1226
+msgid "List of Options (Separated by "
+msgstr "Optielijst (gescheiden door"
+
+#: woocommerce-checkout-manager-pro.php:1240
+msgid "Choose Type"
+msgstr "Kies type"
+
+#: woocommerce-checkout-manager-pro.php:1241
+msgid "Abbreviation"
+msgstr "afkorting"
+
+#: woocommerce-checkout-manager-pro.php:1243
+msgid "Remove button"
+msgstr "Verwijder knop"
+
+#: woocommerce-checkout-manager-pro.php:1271 woocommerce-checkout-manager-pro.php:1274
+#: woocommerce-checkout-manager-pro.php:1440 woocommerce-checkout-manager-pro.php:1443
+msgid "Product ID(s) e.g 1674"
+msgstr "Produc ID's bv. 1674"
+
+#: woocommerce-checkout-manager-pro.php:1277 woocommerce-checkout-manager-pro.php:1280
+#: woocommerce-checkout-manager-pro.php:1446 woocommerce-checkout-manager-pro.php:1449
+msgid "Category Slug(s) e.g my-cat"
+msgstr "Categorie slug(s) bv. my-cat"
+
+#: woocommerce-checkout-manager-pro.php:1305 woocommerce-checkout-manager-pro.php:1473
+msgid "Min Date"
+msgstr "Min datum"
+
+#: woocommerce-checkout-manager-pro.php:1308 woocommerce-checkout-manager-pro.php:1319
+#: woocommerce-checkout-manager-pro.php:1476 woocommerce-checkout-manager-pro.php:1487
+msgid "2013"
+msgstr "2013"
+
+#: woocommerce-checkout-manager-pro.php:1308 woocommerce-checkout-manager-pro.php:1319
+#: woocommerce-checkout-manager-pro.php:1476 woocommerce-checkout-manager-pro.php:1487
+msgid "yy"
+msgstr "JJ"
+
+#: woocommerce-checkout-manager-pro.php:1311 woocommerce-checkout-manager-pro.php:1322
+#: woocommerce-checkout-manager-pro.php:1479 woocommerce-checkout-manager-pro.php:1490
+msgid "10"
+msgstr "10"
+
+#: woocommerce-checkout-manager-pro.php:1311 woocommerce-checkout-manager-pro.php:1322
+#: woocommerce-checkout-manager-pro.php:1479 woocommerce-checkout-manager-pro.php:1490
+msgid "mm"
+msgstr "mm"
+
+#: woocommerce-checkout-manager-pro.php:1314 woocommerce-checkout-manager-pro.php:1325
+#: woocommerce-checkout-manager-pro.php:1482 woocommerce-checkout-manager-pro.php:1493
+msgid "25"
+msgstr "25"
+
+#: woocommerce-checkout-manager-pro.php:1314 woocommerce-checkout-manager-pro.php:1325
+#: woocommerce-checkout-manager-pro.php:1482 woocommerce-checkout-manager-pro.php:1493
+msgid "dd"
+msgstr "dd"
+
+#: woocommerce-checkout-manager-pro.php:1316 woocommerce-checkout-manager-pro.php:1484
+msgid "Max Date"
+msgstr "Max datum"
+
+#: woocommerce-checkout-manager-pro.php:1333 woocommerce-checkout-manager-pro.php:1500
+msgid "Left"
+msgstr "Links"
+
+#: woocommerce-checkout-manager-pro.php:1334 woocommerce-checkout-manager-pro.php:1501
+msgid "Right"
+msgstr "Rechts"
+
+#: woocommerce-checkout-manager-pro.php:1335 woocommerce-checkout-manager-pro.php:1502
+msgid "Center"
+msgstr "Gecentreerd"
+
+#: woocommerce-checkout-manager-pro.php:1349 woocommerce-checkout-manager-pro.php:1523
+msgid "My Custom Charge"
+msgstr "Mijn aangepaste kosten"
+
+#: woocommerce-checkout-manager-pro.php:1357 woocommerce-checkout-manager-pro.php:1534
+msgid "My Field Name"
+msgstr "Mijn veld naam"
+
+#: woocommerce-checkout-manager-pro.php:1360 woocommerce-checkout-manager-pro.php:1537
+msgid "Example red"
+msgstr "Voorbeeld tekst"
+
+#: woocommerce-checkout-manager-pro.php:1363 woocommerce-checkout-manager-pro.php:1540
+msgid "Yes"
+msgstr "Ja"
+
+#: woocommerce-checkout-manager-pro.php:1366 woocommerce-checkout-manager-pro.php:1544
+msgid "Parent Abbr. Name"
+msgstr "Ouder afkorting naam"
+
+#: woocommerce-checkout-manager-pro.php:1369 woocommerce-checkout-manager-pro.php:1547
+msgid "#000"
+msgstr "#000"
+
+#: woocommerce-checkout-manager-pro.php:1372 woocommerce-checkout-manager-pro.php:1549
+#: woocommerce-checkout-manager-pro.php:2708
+msgid "Billing Address"
+msgstr "Factuuradres"
+
+#: woocommerce-checkout-manager-pro.php:1375 woocommerce-checkout-manager-pro.php:1552
+msgid "Bill Form"
+msgstr "Fuctuur formulier"
+
+#: woocommerce-checkout-manager-pro.php:1378 woocommerce-checkout-manager-pro.php:1556
+msgid "Yes apple"
+msgstr "Ja appel"
+
+#: woocommerce-checkout-manager-pro.php:1381 woocommerce-checkout-manager-pro.php:1559
+msgid "No apple"
+msgstr "Nee appel"
+
+#: woocommerce-checkout-manager-pro.php:1384 woocommerce-checkout-manager-pro.php:1562
+msgid "Name Guide"
+msgstr "Naam handleiding"
+
+#: woocommerce-checkout-manager-pro.php:1390 woocommerce-checkout-manager-pro.php:1567
+msgid "Options Toggler"
+msgstr "Opties schakelaar"
+
+#: woocommerce-checkout-manager-pro.php:1391 woocommerce-checkout-manager-pro.php:1568
+msgid "Checkbox Toggler"
+msgstr "Selectievakje schakelaar"
+
+#: woocommerce-checkout-manager-pro.php:1392 woocommerce-checkout-manager-pro.php:1569
+msgid "Swapper Toggler"
+msgstr "Opties schakelaar"
+
+#: woocommerce-checkout-manager-pro.php:1393 woocommerce-checkout-manager-pro.php:1570
+msgid "Date Toggler"
+msgstr "Datum schakelaar"
+
+#: woocommerce-checkout-manager-pro.php:1394 woocommerce-checkout-manager-pro.php:1571
+msgid "Show & Hide Toggler"
+msgstr "Toon & verberg schakelaar"
+
+#: woocommerce-checkout-manager-pro.php:1395 woocommerce-checkout-manager-pro.php:1572
+msgid "More Toggler"
+msgstr "Meer schakelaar"
+
+#: woocommerce-checkout-manager-pro.php:1401 woocommerce-checkout-manager-pro.php:1576
+msgid "Text Input"
+msgstr "Tekst invoer"
+
+#: woocommerce-checkout-manager-pro.php:1402 woocommerce-checkout-manager-pro.php:1577
+msgid "Text Area"
+msgstr "Tekst gebied"
+
+#: woocommerce-checkout-manager-pro.php:1403 woocommerce-checkout-manager-pro.php:1578
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: woocommerce-checkout-manager-pro.php:1404 woocommerce-checkout-manager-pro.php:1579
+msgid "Radio Button"
+msgstr "Keuze knop"
+
+#: woocommerce-checkout-manager-pro.php:1405 woocommerce-checkout-manager-pro.php:1580
+msgid "Check Box"
+msgstr "Selectievakje"
+
+#: woocommerce-checkout-manager-pro.php:1406 woocommerce-checkout-manager-pro.php:1581
+msgid "Select Options"
+msgstr "Kies opties"
+
+#: woocommerce-checkout-manager-pro.php:1407 woocommerce-checkout-manager-pro.php:1582
+msgid "Date Picker"
+msgstr "Datum kiezen"
+
+#: woocommerce-checkout-manager-pro.php:1408 woocommerce-checkout-manager-pro.php:1583
+msgid "Time Picker"
+msgstr "Tijd kiezen"
+
+#: woocommerce-checkout-manager-pro.php:1409 woocommerce-checkout-manager-pro.php:1584
+msgid "Text/ Html Swapper"
+msgstr "Tekst / HTML verwisselen"
+
+#: woocommerce-checkout-manager-pro.php:1410 woocommerce-checkout-manager-pro.php:1585
+msgid "Color Picker"
+msgstr "Kleur kiezen"
+
+#: woocommerce-checkout-manager-pro.php:1411 woocommerce-checkout-manager-pro.php:1586
+msgid "Heading"
+msgstr "Kop"
+
+#: woocommerce-checkout-manager-pro.php:1412 woocommerce-checkout-manager-pro.php:1587
+msgid "Multi-Select"
+msgstr "Meerdere selecteren"
+
+#: woocommerce-checkout-manager-pro.php:1423 woocommerce-checkout-manager-pro.php:1595
+msgid "Remove Field"
+msgstr "Veld verwijderen"
+
+#: woocommerce-checkout-manager-pro.php:1437
+msgid "More than two content"
+msgstr "Meer dan twee inhoud"
+
+#: woocommerce-checkout-manager-pro.php:1440
+msgid "Hide field from this Products Only"
+msgstr "Veld alleen voor deze producten verbergen"
+
+#: woocommerce-checkout-manager-pro.php:1443
+msgid "Display Field for these Products Only"
+msgstr "Veld alleen voor deze producten tonen"
+
+#: woocommerce-checkout-manager-pro.php:1446
+msgid "Hide field from Category"
+msgstr "Verberg veld voor categorie"
+
+#: woocommerce-checkout-manager-pro.php:1496
+msgid "Add/Remove Required Attribute"
+msgstr "Toevoegen/verwijderen verplicht attribuut"
+
+#: woocommerce-checkout-manager-pro.php:1507
+msgid "Clear Row"
+msgstr "Rij schonen"
+
+#: woocommerce-checkout-manager-pro.php:1514
+msgid "Remove tax"
+msgstr "Verwijder belasting"
+
+#: woocommerce-checkout-manager-pro.php:1526
+msgid "Add Amount Field"
+msgstr "+ Nieuw aantal veld"
+
+#: woocommerce-checkout-manager-pro.php:1535
+msgid "Label of the New Field"
+msgstr "Label van het nieuwe veld"
+
+#: woocommerce-checkout-manager-pro.php:1538
+msgid "Placeholder - Preview of Data to Input"
+msgstr "Voorbeeldtekst - Voorbeeld van de in te voeren gegevens"
+
+#: woocommerce-checkout-manager-pro.php:1541
+msgid "Gekozen waarde voor conditie"
+msgstr "Gekozen waarde voor conditie"
+
+#: woocommerce-checkout-manager-pro.php:1593
+msgid "Abbreviation (No spaces)"
+msgstr "Afkorting (geen spaties)"
+
+#: woocommerce-checkout-manager-pro.php:1603
+msgid "+ Add New Field"
+msgstr "+ Nieuw veld toevoegen"
+
+#: woocommerce-checkout-manager-pro.php:1618
+msgid "Your License Key is invalid for WooCommerce Checkout Manager Pro."
+msgstr "Uw licentie voor de WooCommerce Checkout Manager Pro is onjuist."
+
+#: woocommerce-checkout-manager-pro.php:1618
+msgid "update"
+msgstr "update"
+
+#: woocommerce-checkout-manager-pro.php:1618
+msgid "your license key."
+msgstr "uw licentie sleutel"
+
+#: woocommerce-checkout-manager-pro.php:1628
+msgid "Settings"
+msgstr "Instellingen"
+
+#: woocommerce-checkout-manager-pro.php:1629
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: woocommerce-checkout-manager-pro.php:1944 woocommerce-checkout-manager-pro.php:1948
+#: woocommerce-checkout-manager-pro.php:3621 woocommerce-checkout-manager-pro.php:3637
+msgid "is a required field."
+msgstr "is een verplicht veld."
+
+#: woocommerce-checkout-manager-pro.php:1974
+msgid "Settings Successfully Reset."
+msgstr "Instellingen succesvol hersteld"
+
+#: woocommerce-checkout-manager-pro.php:1982
+msgid "Please Enter in a Unique"
+msgstr "Geef een unieke"
+
+#: woocommerce-checkout-manager-pro.php:1982
+msgid "Name for"
+msgstr "naam voor"
+
+#: woocommerce-checkout-manager-pro.php:1986
+msgid "Settings Successfully Updated."
+msgstr "Instellingen succesvol geüpdated"
+
+#: woocommerce-checkout-manager-pro.php:2489
+msgid "Apply"
+msgstr "Toepassen"
+
+#: woocommerce-checkout-manager-pro.php:2690
+msgid "Customer details"
+msgstr "Klant gegevens"
+
+#: woocommerce-checkout-manager-pro.php:2694
+msgid "Email:"
+msgstr "E-mail:"
+
+#: woocommerce-checkout-manager-pro.php:2695
+msgid "Telephone:"
+msgstr "Telefoon:"
+
+#: woocommerce-checkout-manager-pro.php:2712 woocommerce-checkout-manager-pro.php:2727
+msgid "N/A"
+msgstr "N/A"
+
+#: woocommerce-checkout-manager-pro.php:2723
+msgid "Shipping Address"
+msgstr "Verzend adres"
+
+#: woocommerce-checkout-manager-pro.php:3349 woocommerce-checkout-manager-pro.php:3358
+msgid "Company Name"
+msgstr "Bedrijfsnaam"
+
+#: woocommerce-checkout-manager-pro.php:3349 woocommerce-checkout-manager-pro.php:3358
+#: woocommerce-checkout-manager-pro.php:3367
+msgid "<strong>"
+msgstr "<strong>"
+
+#: add-on/include/dislawooccm.php:68
+msgid "License Key Installed."
+msgstr "Licentie sleutel geïnstalleerd"
+
+#: add-on/include/dislawooccm.php:73
+msgid "WooCommerce Checkout Manager Pro License"
+msgstr "WooCommerce Checkout Manager Pro Licentie"
+
+#: add-on/include/dislawooccm.php:97
+msgid "Licensing Validator"
+msgstr "Licentie contoleren"
+
+#: add-on/include/dislawooccm.php:104
+msgid "Status"
+msgstr "Status"
+
+#: add-on/include/dislawooccm.php:108
+msgid "Valid"
+msgstr "Juist"
+
+#: add-on/include/dislawooccm.php:112
+msgid "Invalid"
+msgstr "Onjuist"
+
+#: add-on/include/dislawooccm.php:122
+msgid "Installed Key"
+msgstr "Geïnstalleerde sleutel"
+
+#: add-on/include/dislawooccm.php:127
+msgid "Help ?"
+msgstr "Help ?"
+
+#: add-on/include/dislawooccm.php:128
+msgid "Validate"
+msgstr "Controleren"
+
+#~ msgid "Additional Information"
+#~ msgstr "Extra informatie"
+
+#~ msgid "settings saved."
+#~ msgstr "Instellingen opgeslagen."
+
+#~ msgid "Billing Section"
+#~ msgstr "Sectie facturering"
+
+#~ msgid "Order Comments"
+#~ msgstr "Bestel reacties"
+
+#~ msgid "Address Fields and Custom CSS"
+#~ msgstr "Adres velden en aangepaste CSS"
+
+#~ msgid "Product ID - example 2222,1111,4444"
+#~ msgstr "Product ID - bv. 2222,1111,4444"
+
+#~ msgid "What is CSS?"
+#~ msgstr "Wat is CSS?"
+
+#~ msgid "Forum"
+#~ msgstr "Forum"
+
+#~ msgid "Add Checkout Notice"
+#~ msgstr "Voeg afrekenen notitie toe"
+
+#~ msgid "Notice Text 1 - "
+#~ msgstr "Notitie tekst 1 -"
+
+#~ msgid "You can use class"
+#~ msgstr "U kunt de klasse gebruiken"
+
+#~ msgid "Notice Text 2 - "
+#~ msgstr "Notitie tekst 2 -"
+
+#~ msgid "New Fields Position & Switches"
+#~ msgstr "Nieuwe velden positie & schakelaars"
+
+#~ msgid "Enable/ Disable"
+#~ msgstr "Inschakelen / uitschakelen"
+
+#~ msgid "Add New Field Section with Text/ Html Swapper"
+#~ msgstr "Voeg nieuwe veldsectie toe met Tekst/HTML schakelaar"
+
+#~ msgid "Enable Title"
+#~ msgstr "Activeer titel"
+
+#~ msgid "Checkout Details and Email Receipt"
+#~ msgstr "Kassa details en e-mail factuur"
+
+#, fuzzy
+#~ msgid "Option 1"
+#~ msgstr "Optie 1"
+
+#, fuzzy
+#~ msgid "Option 2"
+#~ msgstr "Optie 2"
+
+#~ msgid "Option 3"
+#~ msgstr "Optie 3"
+
+#~ msgid "Option 4"
+#~ msgstr "Optie 4"
+
+#~ msgid "Option 5"
+#~ msgstr "Optie 5"
+
+#~ msgid "Option 6"
+#~ msgstr "Optie 6"
+
+#~ msgid "Option 7"
+#~ msgstr "Optie 7"
+
+#~ msgid "Option 8"
+#~ msgstr "Optie 8"
+
+#~ msgid "Option 9"
+#~ msgstr "Optie 9"
+
+#~ msgid "Option 10"
+#~ msgstr "Optie 10"
+
+#~ msgid "&equiv;"
+#~ msgstr "&equiv;"
+
+#~ msgid "C & P Toggler"
+#~ msgstr "C & P schakelaar"
+
+#~ msgid "First Option Displayed"
+#~ msgstr "Eerste optie getoond"
+
+#~ msgid "Address"
+#~ msgstr "adres"
+
+#~ msgid "Town / City"
+#~ msgstr "Dorp / Stad"
+
+#~ msgid "Postcode / Zip"
+#~ msgstr "Postcode / Zip"
+
+#~ msgid "State / County"
+#~ msgstr "Staat / Provincie"
+
+#~ msgid "Enable Title - Additional information"
+#~ msgstr "Activeer titel - Aanvullende gegevens"
+
+#~ msgid "Example placeholder"
+#~ msgstr "Voorbeeld plaatshouder"
+
+#~ msgid "myfld1"
+#~ msgstr "myfld1"
+
+#~ msgid "Found this Plugin Useful? Why not Buy me a "
+#~ msgstr "Vond u deze plugin nuttig? Koop een"
+
+#~ msgid "beer"
+#~ msgstr "bier"
+
+#~ msgid "to say thanks for the awesome coding."
+#~ msgstr "voor me om me te bedanken voor dit geweldige product."
+
+#~ msgid "Get the "
+#~ msgstr "Verkrijg de "
+
+#~ msgid "PRO VERSION"
+#~ msgstr "PRO VERSIE"
+
+#~ msgid ""
+#~ "to get rid of that pesky (1,0) checkbox (add real values) also add up to 10 (ten) more "
+#~ "options...etc :)"
+#~ msgstr ""
+#~ "om je te ontdoen van dat vervelende (1,0) aanvinkvakje (voeg reële waarden toe) en voeg "
+#~ "ook nog tot 10 (tien) meer opties toe ... etc :)"
+
+#~ msgid "Insert Option B"
+#~ msgstr "Invoegen Optie B"
+
+#~ msgid "Select below"
+#~ msgstr "Selecteer hieronder"
+
+#~ msgid "Receipt Section"
+#~ msgstr "Factuur sectie"
+
+#~ msgid "Replace default footer content of Order Receipt"
+#~ msgstr "Vervang de standaard voettekst van de order factuur"
+
+#~ msgid "Footer Content: "
+#~ msgstr "Voettekst inhoud:"
+
+#~ msgid ""
+#~ "Not adding new fields? Uncheck this box to disable \"Addition information\" title from "
+#~ "checkout details"
+#~ msgstr ""
+#~ "Geen nieuwe velden toegevoegd? Deselecteer het vakje \"Addition informationom de titel "
+#~ "uit te schakelen van de afreken gegevens"
+
+#~ msgid "Deselect Check boxes in this Column"
+#~ msgstr "Deselecteer selectievakjes in deze kolom"
+
+#~ msgid "New Value?"
+#~ msgstr "Nieuwe waarde?"

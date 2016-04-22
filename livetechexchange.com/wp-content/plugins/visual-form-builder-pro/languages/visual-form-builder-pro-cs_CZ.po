@@ -1,0 +1,2410 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Visual Form Builder Pro v2.3.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-06-08 06:25:45+0000\n"
+"Last-Translator: darth-vader <vyborny@landetkovice.cz>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Czech\n"
+"X-Poedit-Country: CZECH REPUBLIC\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: email-preview.php:38
+#: form-preview.php:40
+#@ default
+msgid "You do not have sufficient permissions to view the preview for this site."
+msgstr ""
+
+#: includes/admin-form-creator.php:83
+#: includes/admin-form-creator.php:88
+#@ visual-form-builder-pro
+msgid "Form Name"
+msgstr "Název formuláře"
+
+#: includes/admin-form-creator.php:84
+#: includes/admin-form-creator.php:89
+#@ visual-form-builder-pro
+msgid "Enter form name here"
+msgstr "Zadejte název formuláře"
+
+#: includes/admin-form-creator.php:117
+#: includes/class-email-designer.php:257
+#: visual-form-builder-pro.php:406
+#@ visual-form-builder-pro
+msgid "Settings"
+msgstr "Nastavení"
+
+#: includes/admin-form-creator.php:119
+#: includes/class-forms-list.php:77
+#: visual-form-builder-pro.php:3247
+#@ visual-form-builder-pro
+msgid "Duplicate"
+msgstr "Kopírovat"
+
+#: includes/admin-form-creator.php:122
+#: includes/admin-form-creator.php:293
+#: includes/class-forms-list.php:82
+#: includes/class-forms-order.php:217
+#: visual-form-builder-pro.php:2177
+#: visual-form-builder-pro.php:2214
+#: visual-form-builder-pro.php:2891
+#: visual-form-builder-pro.php:3243
+#@ visual-form-builder-pro
+msgid "Delete"
+msgstr "Smazat"
+
+#: includes/admin-form-creator.php:125
+#@ visual-form-builder-pro
+msgid "Save"
+msgstr "Uložit"
+
+#: includes/admin-form-creator.php:130
+#@ visual-form-builder-pro
+msgid "General"
+msgstr "Hlavní"
+
+#: includes/admin-form-creator.php:135
+#@ visual-form-builder-pro
+msgid "Label Alignment"
+msgstr "Zarovnání popisku"
+
+#: includes/admin-form-creator.php:136
+#@ visual-form-builder-pro
+msgid "About Label Alignment"
+msgstr "Zarovnání popisku"
+
+#: includes/admin-form-creator.php:136
+#@ visual-form-builder-pro
+msgid "Set the field labels for this form to be aligned either on top, to the left, or to the right.  By default, all labels are aligned on top of the inputs."
+msgstr "Nastavení popisku polí ve formuláři. Možnost nastavit zarovnání nahoru, doleva nebo doprava. Defaultně je zarovnání všech popisků nahoru."
+
+#: includes/admin-form-creator.php:140
+#@ visual-form-builder-pro
+msgid "Top Aligned"
+msgstr "Zarovnání nahoru"
+
+#: includes/admin-form-creator.php:141
+#@ visual-form-builder-pro
+msgid "Left Aligned"
+msgstr "Zarovnání vlevo"
+
+#: includes/admin-form-creator.php:142
+#@ visual-form-builder-pro
+msgid "Right Aligned"
+msgstr "Zarovnání vpravo"
+
+#: includes/admin-form-creator.php:149
+#@ visual-form-builder-pro
+msgid "Display SPAM Verification"
+msgstr "Zobrazit SPAM ověření"
+
+#: includes/admin-form-creator.php:150
+#@ visual-form-builder-pro
+msgid "About Display SPAM Verification"
+msgstr "O zobrazení SPAM ověření"
+
+#: includes/admin-form-creator.php:150
+#@ visual-form-builder-pro
+msgid "The verification section ensures that your form is filled out by actual users and not spammers. It works by asking a simple logic captcha question at the end of your form."
+msgstr "Ověření spamu zabrání vyplnění formuláře spammery. Funguje na principu jednoduché logické captcha otázky na konci formuláře."
+
+#: includes/admin-form-creator.php:154
+#@ visual-form-builder-pro
+msgid "Yes (Recommended)"
+msgstr "Ano (Doporučeno)"
+
+#: includes/admin-form-creator.php:155
+#: visual-form-builder-pro.php:3130
+#@ visual-form-builder-pro
+msgid "No"
+msgstr "Ne"
+
+#: includes/admin-form-creator.php:162
+#@ visual-form-builder-pro
+msgid "Entries Allowed"
+msgstr "Povolené vstupy"
+
+#: includes/admin-form-creator.php:163
+#@ visual-form-builder-pro
+msgid "About Entries Allowed"
+msgstr "Povolené vstupy"
+
+#: includes/admin-form-creator.php:163
+#@ visual-form-builder-pro
+msgid "This is the number of total entries you want your form to accept. Once your form has collected that many entries, the form will stop accepting submissions. Leave this blank if you want unlimited entries."
+msgstr "Počet vyplnění formuláře, který akceptujete. Jakmile váš formulář dosáhne tento počet, přestane přijímat další vyplnění. Pokud necháte pole prázdné, počet vyplnění není omezen,"
+
+#: includes/admin-form-creator.php:172
+#@ visual-form-builder-pro
+msgid "Schedule Start Date"
+msgstr "Plánovaný začátek"
+
+#: includes/admin-form-creator.php:173
+#@ visual-form-builder-pro
+msgid "About Schedule Start Date"
+msgstr "Plánovaný začátek"
+
+#: includes/admin-form-creator.php:173
+#@ visual-form-builder-pro
+msgid "Set a date and time to automatically make your form become active. A blank value here means the form will always be active."
+msgstr "Nastavení data a času pro automatický start formuláře. Pokud necháte pole prázdné, formulář bude vždy aktivní."
+
+#: includes/admin-form-creator.php:181
+#@ visual-form-builder-pro
+msgid "Schedule End Date"
+msgstr "Plánovaný konec"
+
+#: includes/admin-form-creator.php:182
+#@ visual-form-builder-pro
+msgid "About Schedule End Date"
+msgstr "Plánovaný konec"
+
+#: includes/admin-form-creator.php:182
+#@ visual-form-builder-pro
+msgid "Set a date and time to automatically make your form become inactive. A blank value here means the form will always be active, depending on a start date."
+msgstr "Nastavení data a času pro automatický konec formuláře. Pokud necháte pole prázdné, formulář bude vždy aktivní v závislosti na poli plánovaný začátek."
+
+#: includes/admin-form-creator.php:192
+#@ visual-form-builder-pro
+msgid "Allow only unique entries based on IP"
+msgstr "Povolit pouze unikátní vyplnění podle IP"
+
+#: includes/admin-form-creator.php:193
+#@ visual-form-builder-pro
+msgid "About Unique Entry"
+msgstr "Unikátní vyplnění"
+
+#: includes/admin-form-creator.php:193
+#@ visual-form-builder-pro
+msgid "This option will ensure your forms are only completed once per user. The IP address is used to detect multiple submissions from the same computer. Please note that the same user can go to another computer to complete the form again."
+msgstr "Tato volba zajistí, že bude formulář vyplněn pouze jednou za každou IP adresu. IP adresa je použita pro detekci vícenásobné vyplnění formuláře ze stejného počítače. Vezměte prosím na vědomí, že stejný uživatel může přejít k jinému počítači a vyplnit formulář znovu."
+
+#: includes/admin-form-creator.php:200
+#: visual-form-builder-pro.php:3090
+#@ visual-form-builder-pro
+msgid "Email"
+msgstr "Email"
+
+#: includes/admin-form-creator.php:203
+#@ visual-form-builder-pro
+msgid "The forms you build here will send information to one or more email addresses when submitted by a user on your site.  Use the fields below to customize the details of that email."
+msgstr "Po vyplnění následujících polí bude odesílán email na adresy vyplněné níže. "
+
+#: includes/admin-form-creator.php:208
+#: includes/admin-form-creator.php:399
+#: includes/admin-new-form.php:32
+#@ visual-form-builder-pro
+msgid "E-mail Subject"
+msgstr "Předmět emailu"
+
+#: includes/admin-form-creator.php:209
+#: includes/admin-form-creator.php:400
+#@ visual-form-builder-pro
+msgid "About E-mail Subject"
+msgstr "Předmět emailu"
+
+#: includes/admin-form-creator.php:209
+#@ visual-form-builder-pro
+msgid "This option sets the subject of the email that is sent to the emails you have set in the E-mail(s) To field."
+msgstr "Vyplněním tohoto pole nastavíte předmět emailu, který bude odeslán na emaily vyplněné níže."
+
+#: includes/admin-form-creator.php:219
+#: includes/admin-new-form.php:17
+#@ visual-form-builder-pro
+msgid "Your Name or Company"
+msgstr "Vaše jméno nebo název společnosti"
+
+#: includes/admin-form-creator.php:220
+#@ visual-form-builder-pro
+msgid "About Your Name or Company"
+msgstr "Vaše jméno nebo název společnosti"
+
+#: includes/admin-form-creator.php:220
+#@ visual-form-builder-pro
+msgid "This option sets the From display name of the email that is sent to the emails you have set in the E-mail(s) To field."
+msgstr "Toto pole nastaví jméno odesílatele zprávy, které se zobrazí příjemci emailu, který je nastaven v poli níže."
+
+#: includes/admin-form-creator.php:227
+#@ visual-form-builder-pro
+msgid "User's Name (optional)"
+msgstr "Uživatelské jméno (volitelné)"
+
+#: includes/admin-form-creator.php:228
+#@ visual-form-builder-pro
+msgid "About User's Name"
+msgstr "Uživatelské jméno"
+
+#: includes/admin-form-creator.php:228
+#@ visual-form-builder-pro
+msgid "Select a required text field from your form to use as the From display name in the email."
+msgstr "Vyberte požadované textové pole z vašeho formuláře pro použití jména odesílatele v emailu."
+
+#: includes/admin-form-creator.php:231
+#@ visual-form-builder-pro
+msgid "No required text fields detected"
+msgstr "Žádné povinné položky nenalezeny"
+
+#: includes/admin-form-creator.php:249
+#: includes/admin-form-creator.php:370
+#: includes/admin-new-form.php:24
+#@ visual-form-builder-pro
+msgid "Reply-To E-mail"
+msgstr "Odpovědět na email"
+
+#: includes/admin-form-creator.php:250
+#: includes/admin-form-creator.php:371
+#@ visual-form-builder-pro
+msgid "About Reply-To Email"
+msgstr "Odpovědět na email"
+
+#: includes/admin-form-creator.php:250
+#: includes/admin-form-creator.php:371
+#@ visual-form-builder-pro
+msgid "Manually set the email address that users will reply to."
+msgstr "Manuální nastavení emailu, na který bude uživatel odpovídat."
+
+#: includes/admin-form-creator.php:257
+#@ visual-form-builder-pro
+msgid "User's E-mail (optional)"
+msgstr "Email uživatele (volitelné)"
+
+#: includes/admin-form-creator.php:258
+#@ visual-form-builder-pro
+msgid "About User's Email"
+msgstr "Email uživatele"
+
+#: includes/admin-form-creator.php:258
+#@ visual-form-builder-pro
+msgid "Select a required email field from your form to use as the Reply-To email."
+msgstr "Vyberte povinnou položku email z vašeho formuláře pro nastavení odpovědět na email."
+
+#: includes/admin-form-creator.php:261
+#: includes/admin-form-creator.php:383
+#@ visual-form-builder-pro
+msgid "No required email fields detected"
+msgstr "Žádné povinné položky nenalezeny"
+
+#: includes/admin-form-creator.php:287
+#@ visual-form-builder-pro
+msgid "E-mail(s) To"
+msgstr "Email (adresát)"
+
+#: includes/admin-form-creator.php:288
+#@ visual-form-builder-pro
+msgid "About E-mail(s) To"
+msgstr "Email (adresát)"
+
+#: includes/admin-form-creator.php:288
+#@ visual-form-builder-pro
+msgid "This option sets single or multiple emails to send the submitted form data to. At least one email is required."
+msgstr "Nastavení jednoho nebo více emailových účtů pro odeslání potvrzených dat z formuláře. Musí být zadán minimálně jeden email."
+
+#: includes/admin-form-creator.php:293
+#@ visual-form-builder-pro
+msgid "Add an Email"
+msgstr "Přidat email"
+
+#: includes/admin-form-creator.php:293
+#: visual-form-builder-pro.php:2177
+#: visual-form-builder-pro.php:2214
+#: visual-form-builder-pro.php:2891
+#@ visual-form-builder-pro
+msgid "Add"
+msgstr "Přidat"
+
+#: includes/admin-form-creator.php:293
+#@ default
+msgid "Delete Email"
+msgstr ""
+
+#: includes/admin-form-creator.php:306
+#@ visual-form-builder-pro
+msgid "Confirmation"
+msgstr "Potvrzení"
+
+#: includes/admin-form-creator.php:308
+#@ visual-form-builder-pro
+msgid "After someone submits a form, you can control what is displayed. By default, it's a message but you can send them to another WordPress Page or a custom URL."
+msgstr "Po odeslání formuláře můžete nastavit akci, která bude zobrazena. V základním nastavení bude zobrazena zpráva, ale můžete nastavit přesměrování na jinou WordPress stránku nebo volitelnou URL."
+
+#: includes/admin-form-creator.php:311
+#@ visual-form-builder-pro
+msgid "Text"
+msgstr "Text"
+
+#: includes/admin-form-creator.php:315
+#@ visual-form-builder-pro
+msgid "Page"
+msgstr "Stránka"
+
+#: includes/admin-form-creator.php:319
+#@ visual-form-builder-pro
+msgid "Redirect"
+msgstr "Přesměrování"
+
+#: includes/admin-form-creator.php:339
+#@ visual-form-builder-pro
+msgid "Select a Page"
+msgstr "Vyberte stránku"
+
+#: includes/admin-form-creator.php:350
+#@ visual-form-builder-pro
+msgid "Notification"
+msgstr "Oznámení"
+
+#: includes/admin-form-creator.php:352
+#@ visual-form-builder-pro
+msgid "When a user submits their entry, you can send a customizable notification email."
+msgstr "Po odeslání vyplněného formuláře můžete poslat upravitelný oznamovací email."
+
+#: includes/admin-form-creator.php:355
+#@ visual-form-builder-pro
+msgid "Send Confirmation Email to User"
+msgstr "Odeslat potvrzovací email"
+
+#: includes/admin-form-creator.php:361
+#@ visual-form-builder-pro
+msgid "Sender Name or Company"
+msgstr "Jméno odesílatele nebo název společnosti"
+
+#: includes/admin-form-creator.php:362
+#@ visual-form-builder-pro
+msgid "About Sender Name or Company"
+msgstr "Jméno odesílatele nebo název společnosti"
+
+#: includes/admin-form-creator.php:362
+#@ visual-form-builder-pro
+msgid "Enter the name you would like to use for the email notification."
+msgstr "Zadejte jméno, které chcete použít v emailovém oznámení."
+
+#: includes/admin-form-creator.php:379
+#: includes/admin-new-form.php:39
+#@ visual-form-builder-pro
+msgid "E-mail To"
+msgstr "Email (adresát)"
+
+#: includes/admin-form-creator.php:380
+#@ visual-form-builder-pro
+msgid "About E-mail To"
+msgstr "Email (adresát)"
+
+#: includes/admin-form-creator.php:380
+#@ visual-form-builder-pro
+msgid "Select a required email field from your form to send the notification email to."
+msgstr "Vyberte povinnou položku email z vašeho formuláře pro nastavení odpovědět na email."
+
+#: includes/admin-form-creator.php:400
+#@ visual-form-builder-pro
+msgid "This option sets the subject of the email that is sent to the emails you have set in the E-mail To field."
+msgstr "Vyplněním tohoto pole nastavíte předmět emailu, který bude odeslán na email vyplnění v poli adresát."
+
+#: includes/admin-form-creator.php:407
+#@ visual-form-builder-pro
+msgid "Message"
+msgstr "Zpráva"
+
+#: includes/admin-form-creator.php:408
+#@ visual-form-builder-pro
+msgid "About Message"
+msgstr "Zpráva"
+
+#: includes/admin-form-creator.php:408
+#@ visual-form-builder-pro
+msgid "Insert a message to the user. This will be inserted into the beginning of the email body."
+msgstr "Zde napište obsah emailu, který chcete uživateli odeslat. Tento text bude vložen na začátek emailu."
+
+#: includes/admin-form-creator.php:415
+#@ visual-form-builder-pro
+msgid "Include a Copy of the User's Entry"
+msgstr "Přiložit kopii vyplněného formuláře"
+
+#: includes/admin-form-creator.php:421
+#@ visual-form-builder-pro
+msgid "PayPal"
+msgstr "PayPal"
+
+#: includes/admin-form-creator.php:426
+#@ visual-form-builder-pro
+msgid "Forward successful form submissions to PayPal to collect simple payments, such as registration fees."
+msgstr "Po úspěšném vyplnění formuláře odeslat platbu přes PayPal. Tuto možnost využijte například pro poplatky za registraci."
+
+#: includes/admin-form-creator.php:430
+#@ visual-form-builder-pro
+msgid "Use this form as a PayPal form"
+msgstr "Použijte PayPal pro tento formulář"
+
+#: includes/admin-form-creator.php:436
+#@ visual-form-builder-pro
+msgid "Account Email"
+msgstr "Emailový účet na PayPal"
+
+#: includes/admin-form-creator.php:437
+#@ visual-form-builder-pro
+msgid "About Account Email"
+msgstr "Emailový účet na PayPal"
+
+#: includes/admin-form-creator.php:437
+#@ visual-form-builder-pro
+msgid "Insert your PayPal account email. This is not displayed to users."
+msgstr "Vložte váš PayPal uživatelský účet. Nebude se zobrazovat uživatelům."
+
+#: includes/admin-form-creator.php:445
+#@ visual-form-builder-pro
+msgid "Currency"
+msgstr "Měna"
+
+#: includes/admin-form-creator.php:446
+#@ visual-form-builder-pro
+msgid "About Currency"
+msgstr "Měna"
+
+#: includes/admin-form-creator.php:446
+#@ visual-form-builder-pro
+msgid "Change the currency type to your region of choice. By default, it is set to U.S Dollars"
+msgstr "Možnost změnit měnu pro platbu. Defaultní hodnota je U.S Dollars"
+
+#: includes/admin-form-creator.php:462
+#@ visual-form-builder-pro
+msgid "Shipping"
+msgstr "Dopravné"
+
+#: includes/admin-form-creator.php:463
+#@ visual-form-builder-pro
+msgid "About Shipping"
+msgstr "Dopravné"
+
+#: includes/admin-form-creator.php:463
+#@ visual-form-builder-pro
+msgid "If shipping charges are required for your item, insert the amount here."
+msgstr "Pokud máte náklady na dopravu, vložte je zde."
+
+#: includes/admin-form-creator.php:471
+#@ visual-form-builder-pro
+msgid "Tax Rate"
+msgstr "DPH sazba"
+
+#: includes/admin-form-creator.php:472
+#@ visual-form-builder-pro
+msgid "About Tax Rate"
+msgstr "DPH sazba"
+
+#: includes/admin-form-creator.php:472
+#@ visual-form-builder-pro
+msgid "If you need to charge taxes on your item, insert the tax rate here. The % symbol is not necessary here."
+msgstr "Využijte pro nastavení DPH sazby. Symbol procenta (%) nevyplňujte."
+
+#: includes/admin-form-creator.php:480
+#@ visual-form-builder-pro
+msgid "Item Name"
+msgstr "Název položky"
+
+#: includes/admin-form-creator.php:481
+#@ visual-form-builder-pro
+msgid "About Item Name"
+msgstr "Název položky"
+
+#: includes/admin-form-creator.php:481
+#@ visual-form-builder-pro
+msgid "This option inserts an item name when the user is checking out through PayPal."
+msgstr "Zvolte název položky, kterou budete prodávat přes PayPal."
+
+#: includes/admin-form-creator.php:488
+#@ visual-form-builder-pro
+msgid "Assign Prices"
+msgstr "Přiřazení cen"
+
+#: includes/admin-form-creator.php:489
+#@ visual-form-builder-pro
+msgid "About Assign Prices"
+msgstr "Přiřazení cen"
+
+#: includes/admin-form-creator.php:489
+#@ visual-form-builder-pro
+msgid "Assign prices to a field from your form.  Allowed field types are Text, Select, Radio, and Checkbox. Text inputs will automatically use the amount entered by the user.  Select, Radio, and Checkbox fields will allow you to enter amounts for the different options from those respective fields."
+msgstr "Přiřazení ceny do pole vašeho formuláře. Povolené typy jsou text, select, radio a checkbox. Textové pole automaticky použije množství vložené uživatelem. Selec, radio a checkbox umožní zadat množství ze zadaných možností."
+
+#: includes/admin-form-creator.php:492
+#@ visual-form-builder-pro
+msgid "No select, radio, or checkbox fields detected"
+msgstr "Žádná položka typu select, radio nebo checkbox nebyla nalezena."
+
+#: includes/admin-form-creator.php:550
+#@ visual-form-builder-pro
+msgid "Warning &mdash; Missing Fieldset"
+msgstr "Varování &mdash; Chybí Fieldset"
+
+#: includes/admin-form-creator.php:550
+#@ visual-form-builder-pro
+msgid "Your form may not function or display correctly. Please be sure to add or move a Fieldset to the beginning of your form."
+msgstr "Váš formulář se možná nebude zobrazovat a fungovat správně. Prosím, přidejte nebo posuňte na začátek vašeho formuláře pole s názvem Fieldset."
+
+#: includes/admin-form-creator.php:562
+#@ visual-form-builder-pro
+msgid "Save Form"
+msgstr "Uložit formulář"
+
+#: includes/admin-new-form.php:5
+#@ visual-form-builder-pro
+msgid "Create a form"
+msgstr "Vytvořit formulář"
+
+#: includes/admin-new-form.php:10
+#@ visual-form-builder-pro
+msgid "Name the form"
+msgstr "Název formuláře"
+
+#: includes/admin-new-form.php:13
+#@ visual-form-builder-pro
+msgid "Required. This name is used for admin purposes."
+msgstr "Povinné. Tento název se používá pro admin účely."
+
+#: includes/admin-new-form.php:20
+#@ visual-form-builder-pro
+msgid "Required. This is who your emails will come from."
+msgstr "Povinné. Příjemci se zobrazí toto pole jako odesílatel emailu."
+
+#: includes/admin-new-form.php:27
+#@ visual-form-builder-pro
+msgid "Required. Replies to your email will go here."
+msgstr "Povinné. Odpovědi na váš email budou chodit zde."
+
+#: includes/admin-new-form.php:28
+#@ visual-form-builder-pro
+msgid "Tip: for best results, use an email that exists on this domain."
+msgstr "Tip: pro nejlepší výsledky, použijte email fungující na této doméně."
+
+#: includes/admin-new-form.php:35
+#: includes/admin-new-form.php:42
+#@ visual-form-builder-pro
+msgid "Optional (for now) - you can change this later"
+msgstr "Volitelné (pro tento okamžik) - můžete změnit později"
+
+#: includes/admin-new-form.php:48
+#@ visual-form-builder-pro
+msgid "Create Form"
+msgstr "Vytvořit formulář"
+
+#: includes/admin-new-form.php:52
+#@ visual-form-builder-pro
+msgid "Need more help?"
+msgstr "Potřebujete poradit?"
+
+#: includes/admin-new-form.php:54
+#@ visual-form-builder-pro
+msgid "Click on the Help tab"
+msgstr "Klikněte na otazník"
+
+#: includes/admin-new-form.php:61
+#@ visual-form-builder-pro
+msgid "Follow me on Twitter"
+msgstr "Následuj mě na Twitteru"
+
+#: includes/class-analytics.php:41
+#@ visual-form-builder-pro
+msgid "Select which form analytics to view"
+msgstr "Vyberte formulář, pro který chcete zobrazit statistiky"
+
+#: includes/class-analytics.php:63
+#: includes/class-email-designer.php:83
+#@ visual-form-builder-pro
+msgid "Select"
+msgstr "Vyber"
+
+#: includes/class-analytics.php:75
+#: includes/class-entries-list.php:440
+#@ visual-form-builder-pro
+msgid "Filter"
+msgstr "Filtr"
+
+#: includes/class-analytics.php:83
+#: includes/class-forms-list.php:102
+#@ visual-form-builder-pro
+msgid "Entries Total"
+msgstr "Vyplněno celkem"
+
+#: includes/class-analytics.php:87
+#@ visual-form-builder-pro
+msgid "Average per Day"
+msgstr "Průměr za den"
+
+#: includes/class-analytics.php:91
+#@ visual-form-builder-pro
+msgid "Your Busiest Day"
+msgstr "Nejvytíženější den"
+
+#: includes/class-analytics.php:93
+#: includes/class-export.php:118
+#: includes/class-forms-list.php:141
+#: includes/class-forms-order.php:192
+#: visual-form-builder-pro.php:3371
+#: visual-form-builder-pro.php:3542
+#: visual-form-builder-pro.php:3607
+#@ visual-form-builder-pro
+msgid "Entries"
+msgstr "Vyplnění "
+
+#: includes/class-analytics.php:98
+#@ visual-form-builder-pro
+msgid "Daily"
+msgstr "Denní statistiky"
+
+#: includes/class-analytics.php:100
+#: includes/class-analytics.php:104
+#@ visual-form-builder-pro
+msgid "Loading"
+msgstr "Načítání"
+
+#: includes/class-analytics.php:102
+#@ visual-form-builder-pro
+msgid "Monthly"
+msgstr "Měsíční statistiky"
+
+#: includes/class-analytics.php:144
+#: includes/class-entries-list.php:482
+#: includes/class-export.php:1081
+#, php-format
+#@ default
+msgid "%1$s %2$d"
+msgstr ""
+
+#: includes/class-email-designer.php:39
+#@ visual-form-builder-pro
+msgid "Select email to design:"
+msgstr "Vyberte email pro návrh:"
+
+#: includes/class-email-designer.php:92
+#@ visual-form-builder-pro
+msgid "Colors"
+msgstr "Barvy"
+
+#: includes/class-email-designer.php:96
+#: includes/class-email-designer.php:295
+#: includes/class-forms-list.php:87
+#: includes/class-forms-order.php:220
+#@ visual-form-builder-pro
+msgid "Preview"
+msgstr "Náhled"
+
+#: includes/class-email-designer.php:102
+#@ visual-form-builder-pro
+msgid "Header Image"
+msgstr "Obrázek hlavičky"
+
+#: includes/class-email-designer.php:108
+#@ visual-form-builder-pro
+msgid "Remove Header Image"
+msgstr "Odstranit obrázek hlavičky"
+
+#: includes/class-email-designer.php:111
+#@ visual-form-builder-pro
+msgid "Images of exactly <strong>600 x 137</strong> pixels will be used as-is."
+msgstr "Obrázky s rozměry <strong>600 x 137</strong> pixelů budou použity tak jak jsou."
+
+#: includes/class-email-designer.php:115
+#@ visual-form-builder-pro
+msgid "Header Text"
+msgstr "Text hlavičky"
+
+#: includes/class-email-designer.php:118
+#@ visual-form-builder-pro
+msgid "Form Subject is used by default. To reset to Form Subject, leave Header Text blank."
+msgstr "Pokud není vyplněno, bude se přebírat předmět z nastavení na formuláři."
+
+#: includes/class-email-designer.php:122
+#@ visual-form-builder-pro
+msgid "Body Background Color"
+msgstr "Barva pozadí"
+
+#: includes/class-email-designer.php:128
+#@ visual-form-builder-pro
+msgid "Header Background Color"
+msgstr "Barva pozadí hlavičky"
+
+#: includes/class-email-designer.php:134
+#@ visual-form-builder-pro
+msgid "Header Text Color"
+msgstr "Barva textu hlavičky"
+
+#: includes/class-email-designer.php:140
+#@ visual-form-builder-pro
+msgid "Fieldset Text Color"
+msgstr "Barva pole Fieldset"
+
+#: includes/class-email-designer.php:146
+#@ visual-form-builder-pro
+msgid "Section Background Color"
+msgstr "Barva pozadí sekce"
+
+#: includes/class-email-designer.php:152
+#@ visual-form-builder-pro
+msgid "Section Text Color"
+msgstr "Barva textu sekce"
+
+#: includes/class-email-designer.php:158
+#@ visual-form-builder-pro
+msgid "Text Color"
+msgstr "Barva textu"
+
+#: includes/class-email-designer.php:164
+#@ visual-form-builder-pro
+msgid "Link Color"
+msgstr "Barva odkazu"
+
+#: includes/class-email-designer.php:170
+#@ visual-form-builder-pro
+msgid "Row Background Color"
+msgstr "Barva pozadí řádku"
+
+#: includes/class-email-designer.php:176
+#@ visual-form-builder-pro
+msgid "Alternate Row Background Color"
+msgstr "Alternativní barva pozadí řádku"
+
+#: includes/class-email-designer.php:182
+#@ visual-form-builder-pro
+msgid "Row Border Color"
+msgstr "Barva rámečku řádku"
+
+#: includes/class-email-designer.php:188
+#@ visual-form-builder-pro
+msgid "Footer Color"
+msgstr "Barva zápatí"
+
+#: includes/class-email-designer.php:194
+#@ visual-form-builder-pro
+msgid "Footer Text Color"
+msgstr "Barva textu zápatí"
+
+#: includes/class-email-designer.php:201
+#@ visual-form-builder-pro
+msgid "Fonts"
+msgstr "Fonty"
+
+#: includes/class-email-designer.php:204
+#@ visual-form-builder-pro
+msgid "Font Family"
+msgstr "Druh fontu"
+
+#: includes/class-email-designer.php:216
+#@ visual-form-builder-pro
+msgid "Header Font Size"
+msgstr "Velikost fontu hlavičky"
+
+#: includes/class-email-designer.php:224
+#@ visual-form-builder-pro
+msgid "Fieldset Font Size"
+msgstr "Velikost fontu v poli Fieldset"
+
+#: includes/class-email-designer.php:232
+#@ visual-form-builder-pro
+msgid "Section Font Size"
+msgstr "Velikost fontu sekce"
+
+#: includes/class-email-designer.php:240
+#@ visual-form-builder-pro
+msgid "Text Font Size"
+msgstr "Velikost fontu textu"
+
+#: includes/class-email-designer.php:248
+#@ visual-form-builder-pro
+msgid "Footer Font Size"
+msgstr "Velikost fontu zápatí"
+
+#: includes/class-email-designer.php:260
+#@ visual-form-builder-pro
+msgid "Email Format"
+msgstr "Formát emailu"
+
+#: includes/class-email-designer.php:273
+#@ visual-form-builder-pro
+msgid "Link back to Visual Form Builder?"
+msgstr "Zobrazit odkaz na Visual Form Builder?"
+
+#: includes/class-email-designer.php:286
+#@ visual-form-builder-pro
+msgid "Additional Footer Text"
+msgstr "Další text v zápatí"
+
+#: includes/class-email-designer.php:292
+#@ visual-form-builder-pro
+msgid "Save Changes"
+msgstr "Uložit změny"
+
+#: includes/class-email-designer.php:296
+#@ visual-form-builder-pro
+msgid "Save options to view your recent changes."
+msgstr "Ulož nastavení pro zobrazení změn."
+
+#: includes/class-entries-detail.php:30
+#@ visual-form-builder-pro
+msgid "Back to Entries"
+msgstr "Zpátky na vstupy"
+
+#: includes/class-entries-detail.php:44
+#@ visual-form-builder-pro
+msgid "Entry"
+msgstr "Vyplnění"
+
+#: includes/class-entries-detail.php:61
+#@ visual-form-builder-pro
+msgid "Details"
+msgstr "Detaily "
+
+#: includes/class-entries-detail.php:67
+#: visual-form-builder-pro.php:2807
+#@ visual-form-builder-pro
+msgid "Form Title"
+msgstr "Název formuláře"
+
+#: includes/class-entries-detail.php:70
+#: includes/class-entries-list.php:120
+#: includes/class-export.php:20
+#@ visual-form-builder-pro
+msgid "Date Submitted"
+msgstr "Datum vložení"
+
+#: includes/class-entries-detail.php:73
+#: includes/class-entries-list.php:119
+#: includes/class-export.php:21
+#: visual-form-builder-pro.php:2808
+#@ visual-form-builder-pro
+msgid "IP Address"
+msgstr "IP Adresa"
+
+#: includes/class-entries-detail.php:76
+#: includes/class-entries-list.php:115
+#@ visual-form-builder-pro
+msgid "Email Subject"
+msgstr "Předmět emailu"
+
+#: includes/class-entries-detail.php:79
+#: includes/class-entries-list.php:116
+#: includes/class-export.php:23
+#@ visual-form-builder-pro
+msgid "Sender Name"
+msgstr "Jméno odesílatele"
+
+#: includes/class-entries-detail.php:82
+#: includes/class-entries-list.php:117
+#: includes/class-export.php:24
+#@ visual-form-builder-pro
+msgid "Sender Email"
+msgstr "Email odesílatele"
+
+#: includes/class-entries-detail.php:85
+#: includes/class-entries-list.php:118
+#: includes/class-export.php:25
+#@ visual-form-builder-pro
+msgid "Emailed To"
+msgstr "Odesláno na email"
+
+#: includes/class-entries-detail.php:88
+#@ visual-form-builder-pro
+msgid "Notes"
+msgstr "Poznámky"
+
+#: includes/class-entries-list.php:65
+#: includes/class-entries-list.php:76
+#@ visual-form-builder-pro
+msgid "View"
+msgstr "Náhled"
+
+#: includes/class-entries-list.php:68
+#: includes/class-forms-list.php:57
+#@ visual-form-builder-pro
+msgid "Edit"
+msgstr "Upravit"
+
+#: includes/class-entries-list.php:70
+#@ visual-form-builder-pro
+msgid "Spam"
+msgstr "Spam"
+
+#: includes/class-entries-list.php:78
+#: includes/class-entries-list.php:325
+#@ visual-form-builder-pro
+msgid "Not Spam"
+msgstr "Není spam"
+
+#: includes/class-entries-list.php:81
+#: includes/class-entries-list.php:90
+#: includes/class-entries-list.php:320
+#: includes/class-entries-list.php:328
+#: includes/class-forms-list.php:283
+#@ visual-form-builder-pro
+msgid "Delete Permanently"
+msgstr "Vymazat navždy"
+
+#: includes/class-entries-list.php:87
+#@ visual-form-builder-pro
+msgid "Trash"
+msgstr "Koš"
+
+#: includes/class-entries-list.php:89
+#: includes/class-entries-list.php:319
+#@ visual-form-builder-pro
+msgid "Restore"
+msgstr "Obnovit"
+
+#: includes/class-entries-list.php:114
+#: includes/class-export.php:133
+#: includes/class-forms-list.php:139
+#@ visual-form-builder-pro
+msgid "Form"
+msgstr "Formulář"
+
+#: includes/class-entries-list.php:121
+#@ visual-form-builder-pro
+msgid "Entry ID"
+msgstr "ID Vyplnění"
+
+#: includes/class-entries-list.php:223
+#: includes/class-forms-list.php:184
+#, php-format
+#@ visual-form-builder-pro
+msgid "All <span class=\"count\">(<span class=\"pending-count\">%s</span>)</span>"
+msgid_plural "All <span class=\"count\">(<span class=\"pending-count\">%s</span>)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-entries-list.php:224
+#, php-format
+#@ visual-form-builder-pro
+msgid "Spam <span class=\"count\">(<span class=\"spam-count\">%s</span>)</span>"
+msgid_plural "Spam <span class=\"count\">(<span class=\"spam-count\">%s</span>)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-entries-list.php:225
+#, php-format
+#@ visual-form-builder-pro
+msgid "Trash <span class=\"count\">(<span class=\"trash-count\">%s</span>)</span>"
+msgid_plural "Trash <span class=\"count\">(<span class=\"trash-count\">%s</span>)</span>"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-entries-detail.php:99
+#: includes/class-entries-list.php:315
+#@ visual-form-builder-pro
+msgid "Move to Trash"
+msgstr "Přesunout do koše"
+
+#: includes/class-entries-list.php:316
+#@ visual-form-builder-pro
+msgid "Mark as Spam"
+msgstr "Označit jako spam"
+
+#: includes/class-entries-list.php:433
+#@ visual-form-builder-pro
+msgid "View all forms"
+msgstr "Zobrazit všechny formuláře"
+
+#: includes/class-entries-list.php:470
+#@ default
+msgid "Show all dates"
+msgstr ""
+
+#: includes/class-entries-list.php:654
+#, php-format
+#@ default
+msgid "1 entry"
+msgid_plural "%s entries"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-entries-list.php:675
+#: includes/class-forms-list.php:508
+#@ default
+msgid "Go to the first page"
+msgstr ""
+
+#: includes/class-entries-list.php:683
+#: includes/class-forms-list.php:516
+#@ default
+msgid "Go to the previous page"
+msgstr ""
+
+#: includes/class-entries-list.php:692
+#: includes/class-forms-list.php:525
+#@ default
+msgid "Current page"
+msgstr ""
+
+#: includes/class-entries-list.php:698
+#: includes/class-forms-list.php:531
+#, php-format
+#@ default
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr ""
+
+#: includes/class-entries-list.php:702
+#: includes/class-forms-list.php:535
+#@ default
+msgid "Go to the next page"
+msgstr ""
+
+#: includes/class-entries-list.php:710
+#: includes/class-forms-list.php:543
+#@ default
+msgid "Go to the last page"
+msgstr ""
+
+#: includes/class-export.php:19
+#@ visual-form-builder-pro
+msgid "Entries ID"
+msgstr "ID Vyplnění"
+
+#: includes/class-export.php:22
+#@ visual-form-builder-pro
+msgid "Subject"
+msgstr "Předmět"
+
+#: includes/class-export.php:67
+#: includes/class-export.php:906
+#@ visual-form-builder-pro
+msgid "No entries to pull field names from."
+msgstr "Žádné vyplnění pro natažení názvu formuláře."
+
+#: includes/class-export.php:83
+#@ visual-form-builder-pro
+msgid "Backup and save some or all of your Visual Form Builder Pro data."
+msgstr "Záloha některých nebo všech dat z Visual Form Builder."
+
+#: includes/class-export.php:84
+#@ visual-form-builder-pro
+msgid "Once you have saved the file, you will be able to import Visual Form Builder Pro data from this site into another site."
+msgstr "Jakmile vyexportujete soubor, můžete ho naimportovat do Visual Form Builder Pro na jiných stránkách."
+
+#: includes/class-export.php:85
+#@ visual-form-builder-pro
+msgid "Choose what to export"
+msgstr "Vyberte co chcete exportovat"
+
+#: includes/class-export.php:87
+#@ visual-form-builder-pro
+msgid "All data"
+msgstr "Všechna data"
+
+#: includes/class-export.php:89
+#@ visual-form-builder-pro
+msgid "This will contain all of your forms, fields, entries, and email design settings."
+msgstr "Obsahuje nastavení všech vašich formulářů, položek, vyplnění a přizpůsobení emailů."
+
+#: includes/class-export.php:96
+#: includes/class-export.php:101
+#@ visual-form-builder-pro
+msgid "Forms"
+msgstr "Formuláře"
+
+#: includes/class-export.php:99
+#@ visual-form-builder-pro
+msgid "This will contain all of your forms, fields, and email design settings."
+msgstr "Obsahuje nastavení všech formulářů, položek a přizpůsobení emailů."
+
+#: includes/class-export.php:121
+#@ visual-form-builder-pro
+msgid "This will export entries in either .csv, .txt, or .xls and cannot be used with the Import.  If you need to import entries on another site, please use the All data option above."
+msgstr "Vyexportuje všechny vyplnění do jednoho .csv, .txt nebo .xls a nebude možné použít tato data pro import. Pokud budete chtít provést import na jiné stránky, prosím, využijte možnosti výše - všechna data."
+
+#: includes/class-export.php:124
+#@ visual-form-builder-pro
+msgid "Format"
+msgstr "Formát"
+
+#: includes/class-export.php:126
+#@ visual-form-builder-pro
+msgid "Comma Separated (.csv)"
+msgstr "Čárkami oddělené (.csv)"
+
+#: includes/class-export.php:127
+#@ visual-form-builder-pro
+msgid "Tab Delimited (.txt)"
+msgstr "Tabulátory (.txt)"
+
+#: includes/class-export.php:128
+#@ visual-form-builder-pro
+msgid "Excel (.xls)"
+msgstr "Excel (.xls)"
+
+#: includes/class-export.php:149
+#@ visual-form-builder-pro
+msgid "Date Range"
+msgstr "Časový rozsah"
+
+#: includes/class-export.php:162
+#@ visual-form-builder-pro
+msgid "Page to Export"
+msgstr "Stránky pro export"
+
+#: includes/class-export.php:170
+#@ visual-form-builder-pro
+msgid "A large number of entries have been detected for this form. Only 1000 entries can be exported at a time."
+msgstr "Bylo označeno velké množství vyplnění pro tento formulář. Můžete vyexportovat pouze 1 000 vyplnění v jednom souboru."
+
+#: includes/class-export.php:174
+#@ visual-form-builder-pro
+msgid "Fields"
+msgstr "Pole"
+
+#: includes/class-export.php:176
+#@ visual-form-builder-pro
+msgid "Select All"
+msgstr "Označit vše"
+
+#: includes/class-export.php:189
+#@ visual-form-builder-pro
+msgid "Download Export File"
+msgstr "Stáhnout soubor exportu"
+
+#: includes/class-forms-list.php:62
+#: includes/class-forms-order.php:200
+#: visual-form-builder-pro.php:3382
+#: visual-form-builder-pro.php:3543
+#: visual-form-builder-pro.php:3643
+#@ visual-form-builder-pro
+msgid "Email Design"
+msgstr "Návrh emailu"
+
+#: includes/class-forms-list.php:67
+#: includes/class-forms-order.php:201
+#: visual-form-builder-pro.php:3393
+#: visual-form-builder-pro.php:3544
+#: visual-form-builder-pro.php:3662
+#@ visual-form-builder-pro
+msgid "Analytics"
+msgstr "Statistiky"
+
+#: includes/class-forms-list.php:72
+#: includes/class-forms-order.php:203
+#: visual-form-builder-pro.php:3426
+#@ visual-form-builder-pro
+msgid "Payments"
+msgstr "Platby"
+
+#: includes/class-forms-list.php:103
+#: includes/class-forms-order.php:193
+#@ visual-form-builder-pro
+msgid "Total"
+msgstr "Celkem"
+
+#: includes/class-forms-list.php:113
+#@ visual-form-builder-pro
+msgid "Entries Today"
+msgstr "Dnešní vyplnění"
+
+#: includes/class-forms-list.php:114
+#: includes/class-forms-order.php:194
+#@ visual-form-builder-pro
+msgid "Today"
+msgstr "Dnes"
+
+#: includes/class-forms-list.php:140
+#: visual-form-builder-pro.php:2806
+#@ visual-form-builder-pro
+msgid "Form ID"
+msgstr "ID Formuláře"
+
+#: includes/class-forms-list.php:452
+#: includes/class-forms-order.php:236
+#@ visual-form-builder-pro
+msgid "Custom Order"
+msgstr "Vlastní pořadí"
+
+#: includes/class-forms-list.php:453
+#: includes/class-forms-order.php:237
+#@ visual-form-builder-pro
+msgid "List View"
+msgstr "Zobrazit seznam"
+
+#: includes/class-forms-list.php:487
+#: includes/class-forms-order.php:271
+#, php-format
+#@ default
+msgid "1 form"
+msgid_plural "%s forms"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
+#: includes/class-forms-order.php:188
+#@ visual-form-builder-pro
+msgid "Drag to reorder"
+msgstr "Uspořádat přetažením"
+
+#: includes/class-forms-order.php:213
+#@ visual-form-builder-pro
+msgid "Edit Form"
+msgstr "Upravit"
+
+#: includes/class-forms-order.php:220
+#@ visual-form-builder-pro
+msgid "Preview the Form"
+msgstr "Náhled formuláře"
+
+#: includes/class-import.php:51
+#@ visual-form-builder-pro
+msgid "Select a Visual Form Builder Pro backup file (.xml), then click Upload file and import."
+msgstr "Vyberte soubor zálohy (.xml), poté klikněte na Nahrát soubor a importovat."
+
+#: includes/class-import.php:93
+#: includes/class-import.php:102
+#: includes/class-import.php:554
+#: includes/class-import.php:559
+#: includes/class-import.php:569
+#: includes/class-import.php:597
+#@ visual-form-builder-pro
+msgid "Sorry, there has been an error."
+msgstr "Vyskytla se chyb, omlouváme se."
+
+#: includes/class-import.php:94
+#@ visual-form-builder-pro
+msgid "The file does not exist, please try again."
+msgstr "Zadaný soubor neexistuje, prosím zkuste znovu."
+
+#: includes/class-import.php:127
+#@ visual-form-builder-pro
+msgid "All done."
+msgstr "Vše hotovo."
+
+#: includes/class-import.php:127
+#@ visual-form-builder-pro
+msgid "View Forms"
+msgstr "Zobrazit formuláře"
+
+#: includes/class-import.php:142
+#@ visual-form-builder-pro
+msgid "Importing forms..."
+msgstr "Importuji formuláře..."
+
+#: includes/class-import.php:179
+#@ visual-form-builder-pro
+msgid "Form ID already exists. Assigning a new form ID."
+msgstr "ID Formuláře již existuje. Přiděluji nové ID."
+
+#: includes/class-import.php:185
+#, php-format
+#@ visual-form-builder-pro
+msgid "<strong>Error: </strong> The %s form could not be imported."
+msgstr "<strong>Chyba: </strong> Formulář %s nelze naimportovat."
+
+#: includes/class-import.php:191
+#@ visual-form-builder-pro
+msgid "Form import process complete."
+msgstr "Import formuláře byl úspěšně dokončen."
+
+#: includes/class-import.php:208
+#@ visual-form-builder-pro
+msgid "Importing fields..."
+msgstr "Importuji pole..."
+
+#: includes/class-import.php:249
+#, php-format
+#@ visual-form-builder-pro
+msgid "<strong>Error: </strong> The %s field could not be imported."
+msgstr "<strong>Chyba: </strong> Pole %s nelze naimportovat."
+
+#: includes/class-import.php:296
+#@ visual-form-builder-pro
+msgid "Field import process complete."
+msgstr "Import polí byl úspěšně dokončen."
+
+#: includes/class-import.php:313
+#@ visual-form-builder-pro
+msgid "Importing entries..."
+msgstr "Importuji vyplnění..."
+
+#: includes/class-import.php:344
+#@ visual-form-builder-pro
+msgid "<strong>Error: </strong> An entry could not be imported."
+msgstr "<strong>Chyba: </strong> Vyplnění nelze naimportovat."
+
+#: includes/class-import.php:347
+#@ visual-form-builder-pro
+msgid "Entries import process complete."
+msgstr "Import vyplnění byl úspěšně dokončen."
+
+#: includes/class-import.php:560
+#, php-format
+#@ visual-form-builder-pro
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr "Soubor exportu nebyl nalezen v <code>%s</code>. Toto bývá způsobeno problémy s právy. "
+
+#: includes/class-import.php:578
+#, php-format
+#@ visual-form-builder-pro
+msgid "This Visual Form Builder Pro export file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr "Tento soubor exportu (verze %s) nemusí být podporován vaší verzí Visual Form Builder Pro. Prosím zvažte update."
+
+#: includes/class-import.php:630
+#@ visual-form-builder-pro
+msgid "There was an error when reading this Visual Form Builder Pro export file"
+msgstr "Došlo k chybě při čtení souboru pro export."
+
+#: includes/class-import.php:634
+#@ visual-form-builder-pro
+msgid "This does not appear to be an XML file, missing/invalid Visual Form Builder Pro version number"
+msgstr "To nevypadá na správný XML soubor, chybějící/špatné číslo verze Visual Form Builder Pro."
+
+#: includes/class-import.php:639
+#@ visual-form-builder-pro
+msgid "This does not appear to be a XML file, missing/invalid Visual Form Builder Pro version number"
+msgstr "To nevypadá na správný XML soubor, chybějící/špatné číslo verze Visual Form Builder Pro."
+
+#: includes/email.php:16
+#@ visual-form-builder-pro
+msgid "Security check: hidden spam field should be blank."
+msgstr "Bezpečnostní kontrola: skryté spam pole musí být prázdná."
+
+#: includes/email.php:18
+#@ visual-form-builder-pro
+msgid "Security check: failed secret question. Please try again!"
+msgstr "Bezpečnostní kontrola: špatná bezpečnostní otázka. Prosím, zkuste to znovu!"
+
+#: includes/email.php:26
+#@ visual-form-builder-pro
+msgid "Security check: referal URL does not appear to be set."
+msgstr "Bezpečnostní kontrola: referal URL není zadána."
+
+#: includes/email.php:30
+#@ visual-form-builder-pro
+msgid "Security check: referal does not match this site."
+msgstr "Bezpečnostní kontrola: referal neodpovídá těmto stránkám."
+
+#: includes/email.php:34
+#@ visual-form-builder-pro
+msgid "Security check: looks like you are a SPAM bot. If you think this is an error, please email the site owner."
+msgstr "Bezpečnostní kontrola: vypadá to, že jsi SPAM bot. Pokud si myslíš, že je to chyba, kontaktuje emailem vlastníka stránek."
+
+#: includes/email.php:258
+#, php-format
+#@ visual-form-builder-pro
+msgid "File size exceeds %dMB. Most email providers will reject emails with attachments larger than %dMB. Please decrease the file size and try again."
+msgstr "Velikost souboru překračuje %dMB. Mnoho poskytovatelů emailu odmítnout email s přílohami většími než %dMB. Prosím, zmenšete velikost souboru a zkuste to znovu."
+
+#: includes/email.php:577
+#@ visual-form-builder-pro
+msgid "Your responses look too much like spam and could not be sent at this time."
+msgstr "Vaše odpovědi vypadají příliš jako spam a nemohly být odeslány v tomto okamžiku."
+
+#: includes/form-output.php:73
+#@ visual-form-builder-pro
+msgid "Sorry, but this form is no longer accepting submissions."
+msgstr "Omlouváme se, ale tento formulář již není aktivní."
+
+#: includes/form-output.php:74
+#@ visual-form-builder-pro
+msgid "Sorry, this form only accepts one submission per user."
+msgstr "Omlouváme se, ale tento formulář můžete vyplnit pouze jednou."
+
+#: includes/form-output.php:275
+#, php-format
+#@ visual-form-builder-pro
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. Verification not required."
+msgstr "Přihlášen jako <a href=\"%1$s\">%2$s</a>. Ověření není potřeba."
+
+#: includes/form-output.php:350
+#, php-format
+#@ visual-form-builder-pro
+msgid "Must be between %s and %s words. Total words: %s"
+msgstr "Musí být mezi %s a %s slovy. Celkem slov: %s"
+
+#: includes/form-output.php:351
+#, php-format
+#@ visual-form-builder-pro
+msgid "Maximum words allowed: %s. Total words: %s"
+msgstr "Maximum povolených slov: %s. Celkem slov: %s"
+
+#: includes/form-output.php:352
+#, php-format
+#@ visual-form-builder-pro
+msgid "Minimum words allowed: %s. Total words: %s"
+msgstr "Minimálně povoleno slov: %s. Celkem slov: %s"
+
+#: includes/form-output.php:511
+#@ visual-form-builder-pro
+msgid "Address"
+msgstr "Adresa"
+
+#: includes/form-output.php:515
+#@ visual-form-builder-pro
+msgid "Address Line 2"
+msgstr "Adresa řádek 2"
+
+#: includes/form-output.php:519
+#@ visual-form-builder-pro
+msgid "City"
+msgstr "Město"
+
+#: includes/form-output.php:523
+#@ visual-form-builder-pro
+msgid "State / Province / Region"
+msgstr "Stát / Provincie / Region"
+
+#: includes/form-output.php:527
+#@ visual-form-builder-pro
+msgid "Postal / Zip Code"
+msgstr "PSČ"
+
+#: includes/form-output.php:531
+#@ visual-form-builder-pro
+msgid "Country"
+msgstr "Země"
+
+#: includes/form-output.php:714
+#@ visual-form-builder-pro
+msgid "Title"
+msgstr "Název"
+
+#: includes/form-output.php:715
+#@ visual-form-builder-pro
+msgid "First"
+msgstr "První"
+
+#: includes/form-output.php:716
+#@ visual-form-builder-pro
+msgid "Last"
+msgstr "Poslední"
+
+#: includes/form-output.php:717
+#@ visual-form-builder-pro
+msgid "Suffix"
+msgstr "Přípona (Suffix)"
+
+#: includes/form-output.php:797
+#@ visual-form-builder-pro
+msgid "Password Strength"
+msgstr "Síla hesla"
+
+#: includes/form-output.php:1076
+#@ visual-form-builder-pro
+msgid "Verification"
+msgstr "Ověření"
+
+#: includes/form-output.php:1078
+#@ visual-form-builder-pro
+msgid "Please enter any two digits with <strong>no</strong> spaces (Example: 12)"
+msgstr "Vložte prosím jakékoliv dvě číslice <strong>bez</strong> mezer (Příklad: 12)"
+
+#: includes/form-output.php:1087
+#@ visual-form-builder-pro
+msgid "This box is for spam protection - <strong>please leave it blank</strong>"
+msgstr "Tato kolonka je pro ochranu proti spamu - <strong>prosím, nechte prázdné</strong>"
+
+#: visual-form-builder-pro.php:420
+#@ visual-form-builder-pro
+msgid "Add Visual Form Builder form"
+msgstr "Přidat Visual Form Builder formulář"
+
+#: visual-form-builder-pro.php:420
+#@ visual-form-builder-pro
+msgid "Add Form"
+msgstr "Přidat"
+
+#: visual-form-builder-pro.php:433
+#@ visual-form-builder-pro
+msgid "Recent Visual Form Builder Pro Entries"
+msgstr "Poslední Visual Form Builder Pro vyplnění"
+
+#: visual-form-builder-pro.php:456
+#@ visual-form-builder-pro
+msgid "You currently do not have any forms."
+msgstr "Momentálně nemáte žádné formuláře."
+
+#: visual-form-builder-pro.php:458
+#@ visual-form-builder-pro
+msgid "Get started!"
+msgstr "Začínáme!"
+
+#: visual-form-builder-pro.php:472
+#@ visual-form-builder-pro
+msgid "You currently do not have any entries."
+msgstr "Momentálně nemáte žádné vyplnění."
+
+#: visual-form-builder-pro.php:521
+#@ visual-form-builder-pro
+msgid "Number of entries to show:"
+msgstr "Počet vyplnění pro ukázku:"
+
+#: visual-form-builder-pro.php:598
+#@ visual-form-builder-pro
+msgid "Show advanced properties"
+msgstr "Zobrazit pokročilé vlastnosti"
+
+#: visual-form-builder-pro.php:600
+#@ default
+msgid "Merge Tag"
+msgstr ""
+
+#: visual-form-builder-pro.php:621
+#@ visual-form-builder-pro
+msgid "Entries per page"
+msgstr "Počet vyplnění na stránku"
+
+#: visual-form-builder-pro.php:637
+#@ visual-form-builder-pro
+msgid "Forms per page"
+msgstr "Formulářů na stránku"
+
+#: visual-form-builder-pro.php:671
+#@ visual-form-builder-pro
+msgid "Quick Switch"
+msgstr "Rychlé přepínání"
+
+#: visual-form-builder-pro.php:672
+#@ visual-form-builder-pro
+msgid "Form Items"
+msgstr "Položky formuláře"
+
+#: visual-form-builder-pro.php:673
+#@ visual-form-builder-pro
+msgid "Display Forms"
+msgstr "Zobrazit formuláře"
+
+#: visual-form-builder-pro.php:714
+#@ visual-form-builder-pro
+msgid "Click or Drag"
+msgstr "Klepnutím nebo přetažením"
+
+#: visual-form-builder-pro.php:714
+#@ visual-form-builder-pro
+msgid "to Add a Field"
+msgstr "přidáte pole"
+
+#: visual-form-builder-pro.php:716
+#@ visual-form-builder-pro
+msgid "Standard"
+msgstr "Standartní"
+
+#: visual-form-builder-pro.php:717
+#@ visual-form-builder-pro
+msgid "Advanced"
+msgstr "Pokročilé"
+
+#: visual-form-builder-pro.php:784
+#@ visual-form-builder-pro
+msgid "Add forms to your Posts or Pages by locating the icon shown below in the area above your post/page editor."
+msgstr "Přidat formuláře do vašich příspěvků nebo stránek můžete kliknutím na ikonu níže."
+
+#: visual-form-builder-pro.php:787
+#@ visual-form-builder-pro
+msgid "You may also manually insert the shortcode into a post/page or the template tag into a template file."
+msgstr "Můžete také manuálně přidat kód formuláře nebo template tag do vašich stránek/příspěvků."
+
+#: visual-form-builder-pro.php:788
+#@ visual-form-builder-pro
+msgid "Shortcode"
+msgstr "Kód formuláře"
+
+#: visual-form-builder-pro.php:789
+#@ visual-form-builder-pro
+msgid "Template Tag"
+msgstr "Template Tag"
+
+#: visual-form-builder-pro.php:1461
+#: visual-form-builder-pro.php:1471
+#@ default
+msgid "Image could not be processed.  Please go back and try again."
+msgstr ""
+
+#: visual-form-builder-pro.php:1461
+#: visual-form-builder-pro.php:1471
+#@ default
+msgid "Image Processing Error"
+msgstr ""
+
+#: visual-form-builder-pro.php:2125
+#@ visual-form-builder-pro
+msgid "A Checkbox, Select, or Radio field is needed in order to perform conditional logic."
+msgstr "Pole checkbox, select nebo radio jsou nutné pro nastavení logické podmínky."
+
+#: visual-form-builder-pro.php:2133
+#@ visual-form-builder-pro
+msgid "Enable Conditional Rule for this field"
+msgstr "Povolení podmínky pro toto pole"
+
+#: visual-form-builder-pro.php:2139
+#: visual-form-builder-pro.php:2184
+#@ visual-form-builder-pro
+msgid "Show"
+msgstr "Ukázat"
+
+#: visual-form-builder-pro.php:2140
+#: visual-form-builder-pro.php:2185
+#@ visual-form-builder-pro
+msgid "Hide"
+msgstr "Skrýt"
+
+#: visual-form-builder-pro.php:2143
+#: visual-form-builder-pro.php:2188
+#@ visual-form-builder-pro
+msgid "all"
+msgstr "všechny"
+
+#: visual-form-builder-pro.php:2144
+#: visual-form-builder-pro.php:2189
+#@ visual-form-builder-pro
+msgid "any"
+msgstr "nějaký"
+
+#: visual-form-builder-pro.php:2159
+#: visual-form-builder-pro.php:2200
+#@ visual-form-builder-pro
+msgid "is"
+msgstr "je"
+
+#: visual-form-builder-pro.php:2160
+#: visual-form-builder-pro.php:2201
+#@ visual-form-builder-pro
+msgid "is not"
+msgstr "není"
+
+#: visual-form-builder-pro.php:2734
+#@ visual-form-builder-pro
+msgid "Edit Field Item"
+msgstr "Upravit položku pole"
+
+#: visual-form-builder-pro.php:2753
+#: visual-form-builder-pro.php:2843
+#: visual-form-builder-pro.php:3224
+#@ visual-form-builder-pro
+msgid "CSS Classes"
+msgstr "CSS třída"
+
+#: visual-form-builder-pro.php:2764
+#: visual-form-builder-pro.php:2784
+#: visual-form-builder-pro.php:2833
+#@ visual-form-builder-pro
+msgid "Name"
+msgstr "Název pole"
+
+#: visual-form-builder-pro.php:2765
+#: visual-form-builder-pro.php:2785
+#: visual-form-builder-pro.php:2834
+#@ visual-form-builder-pro
+msgid "About Name"
+msgstr "Název pole"
+
+#: visual-form-builder-pro.php:2765
+#: visual-form-builder-pro.php:2785
+#: visual-form-builder-pro.php:2834
+#@ visual-form-builder-pro
+msgid "A field's name is the most visible and direct way to describe what that field is for."
+msgstr "Název pole je nejlepší způsob jak vysvětlit k čemu pole je."
+
+#: visual-form-builder-pro.php:2773
+#@ visual-form-builder-pro
+msgid "Description (HTML tags allowed)"
+msgstr "Popis (povoleny HTML značky)"
+
+#: visual-form-builder-pro.php:2774
+#@ visual-form-builder-pro
+msgid "About Instructions Description"
+msgstr "Popis "
+
+#: visual-form-builder-pro.php:2774
+#@ visual-form-builder-pro
+msgid "The Instructions field allows for long form explanations, typically seen at the beginning of Fieldsets or Sections. HTML tags are allowed."
+msgstr "Pole popis instrukce dovoluje dlouhé vysvětlení, které je typicky viditelné na začátku Fieldsetu nebo sekce. HTML značky jsou povolené."
+
+#: visual-form-builder-pro.php:2793
+#@ visual-form-builder-pro
+msgid "Dynamic Variable"
+msgstr "Dynamická proměnná"
+
+#: visual-form-builder-pro.php:2794
+#@ visual-form-builder-pro
+msgid "About Dynamic Variable"
+msgstr "Dynamická proměnná"
+
+#: visual-form-builder-pro.php:2794
+#@ visual-form-builder-pro
+msgid "A Dynamic Variable will use a pre-populated value that is determined either by the form, the user, or the post/page viewed."
+msgstr "Dynamická proměnná používá předvyplněně hodnoty, které jsou určeny formulářem, uživatelem nebo stránkou/příspěvkem."
+
+#: visual-form-builder-pro.php:2805
+#@ visual-form-builder-pro
+msgid "Select a Variable or Custom to create your own"
+msgstr "Vyberte proměnnou nebo si vytvořte vlastní"
+
+#: visual-form-builder-pro.php:2809
+#@ visual-form-builder-pro
+msgid "Unique ID"
+msgstr "Unikátní ID"
+
+#: visual-form-builder-pro.php:2810
+#@ visual-form-builder-pro
+msgid "Post/Page ID"
+msgstr "ID příspěvku/stránky"
+
+#: visual-form-builder-pro.php:2811
+#@ visual-form-builder-pro
+msgid "Post/Page Title"
+msgstr "Nadpis příspěvku/stránky"
+
+#: visual-form-builder-pro.php:2812
+#@ visual-form-builder-pro
+msgid "Post/Page URL"
+msgstr "URL příspěvku/stránky"
+
+#: visual-form-builder-pro.php:2813
+#@ visual-form-builder-pro
+msgid "Custom"
+msgstr "Vlastní"
+
+#: visual-form-builder-pro.php:2820
+#@ visual-form-builder-pro
+msgid "Static Variable"
+msgstr "Statická proměnná"
+
+#: visual-form-builder-pro.php:2821
+#@ visual-form-builder-pro
+msgid "About Static Variable"
+msgstr "Statická proměnná"
+
+#: visual-form-builder-pro.php:2821
+#@ visual-form-builder-pro
+msgid "A Static Variable will always use the value that you enter."
+msgstr "Statická proměnná je hodnota, kterou si sami zvolíte."
+
+#: visual-form-builder-pro.php:2844
+#: visual-form-builder-pro.php:3225
+#@ visual-form-builder-pro
+msgid "For each field, you can insert your own CSS class names which can be used in your own stylesheets."
+msgstr "Pro každé pole můžete vložit vlastní CSS třídu, která je definována ve vašich CSS stylech."
+
+#: visual-form-builder-pro.php:2844
+#: visual-form-builder-pro.php:3225
+#@ visual-form-builder-pro
+msgid "About CSS Classes"
+msgstr "CSS styly"
+
+#: visual-form-builder-pro.php:2853
+#@ visual-form-builder-pro
+msgid "Description"
+msgstr "Popis"
+
+#: visual-form-builder-pro.php:2854
+#@ visual-form-builder-pro
+msgid "About Description"
+msgstr "Popis"
+
+#: visual-form-builder-pro.php:2854
+#@ visual-form-builder-pro
+msgid "A description is an optional piece of text that further explains the meaning of this field. Descriptions are displayed below the field. HTML tags are allowed."
+msgstr "Popis je volitelná položka. Text můžete zadávat včetně HTML značek. Tento text bude zobrazen pod tímto polem."
+
+#: visual-form-builder-pro.php:2866
+#@ visual-form-builder-pro
+msgid "Options"
+msgstr "Možnosti"
+
+#: visual-form-builder-pro.php:2867
+#@ visual-form-builder-pro
+msgid "About Options"
+msgstr "Možnosti"
+
+#: visual-form-builder-pro.php:2867
+#@ visual-form-builder-pro
+msgid "This property allows you to set predefined options to be selected by the user.  Use the plus and minus buttons to add and delete options.  At least one option must exist."
+msgstr "Umožňuje zadat předdefinované možnosti, které si uživatel bude vybírat. Použijte tlačítko plus, mínus a smazat možnost. Musí vždy existovat alespoň jedna možnost."
+
+#: visual-form-builder-pro.php:2891
+#@ visual-form-builder-pro
+msgid "Add an Option"
+msgstr "Přidat"
+
+#: visual-form-builder-pro.php:2891
+#@ visual-form-builder-pro
+msgid "Delete Option"
+msgstr "Smazat"
+
+#: visual-form-builder-pro.php:2898
+#@ visual-form-builder-pro
+msgid "Bulk Add Options"
+msgstr "Hromadně přidat možnosti"
+
+#: visual-form-builder-pro.php:2911
+#@ visual-form-builder-pro
+msgid "About Allow Other"
+msgstr "Povolit ostatní"
+
+#: visual-form-builder-pro.php:2911
+#@ visual-form-builder-pro
+msgid "Select this option if you want the last option to be a text field."
+msgstr "Vyberte tuto možnost, jestli chcete, aby poslední možnost byla textová položka."
+
+#: visual-form-builder-pro.php:2913
+#@ visual-form-builder-pro
+msgid "Allow Other"
+msgstr "Povolit ostatní"
+
+#: visual-form-builder-pro.php:2937
+#@ visual-form-builder-pro
+msgid "Minimum Words"
+msgstr "Minimálně slov"
+
+#: visual-form-builder-pro.php:2938
+#@ visual-form-builder-pro
+msgid "About Minimum Word Count"
+msgstr "Minimálně slov"
+
+#: visual-form-builder-pro.php:2938
+#@ visual-form-builder-pro
+msgid "Set a minimum number of words allowed in this field. For an unlimited number, leave blank or set to zero."
+msgstr "Nastavte minimální počet slov povolených v tomto poli. Pro neomezený počet nechte pole prázdné nebo napište nulu."
+
+#: visual-form-builder-pro.php:2945
+#@ visual-form-builder-pro
+msgid "Maximum Words"
+msgstr "Maximum slov"
+
+#: visual-form-builder-pro.php:2946
+#@ visual-form-builder-pro
+msgid "About Maximum Word Count"
+msgstr "Maximum slov"
+
+#: visual-form-builder-pro.php:2946
+#@ visual-form-builder-pro
+msgid "Set a maximum number of words allowed in this field. For an unlimited number, leave blank or set to zero."
+msgstr "Nastavte maximální počet slov povolených v tomto poli. Pro neomezený počet nechte pole prázdné nebo napište nulu."
+
+#: visual-form-builder-pro.php:2962
+#: visual-form-builder-pro.php:2979
+#@ visual-form-builder-pro
+msgid "Minimum Value"
+msgstr "Minimální hodnota"
+
+#: visual-form-builder-pro.php:2964
+#: visual-form-builder-pro.php:2981
+#@ visual-form-builder-pro
+msgid "Maximum Value"
+msgstr "Maximální hodnota"
+
+#: visual-form-builder-pro.php:2986
+#@ visual-form-builder-pro
+msgid "About Minimum/Maxium Value"
+msgstr "Minimální/maximální hodnota"
+
+#: visual-form-builder-pro.php:2986
+#@ visual-form-builder-pro
+msgid "Set a minimum and/or maximum value users must enter in order to successfully complete the field."
+msgstr "Nastavení minimální a/nebo maximální hodnoty, kterou musí uživatel zadat pro úspěšné vyplnění tohoto pole."
+
+#: visual-form-builder-pro.php:3004
+#@ visual-form-builder-pro
+msgid "Accepted File Extensions"
+msgstr "Povolené přípony souborů"
+
+#: visual-form-builder-pro.php:3017
+#@ visual-form-builder-pro
+msgid "About Accepted File Extensions"
+msgstr "Povolené přípony souborů"
+
+#: visual-form-builder-pro.php:3017
+#@ visual-form-builder-pro
+msgid "Control the types of files allowed.  Enter file extentsions separated by commas."
+msgstr "Pro kontrolu, jaké typy přípon povolíte. Vložte přípony souborů oddělené čárkami. "
+
+#: visual-form-builder-pro.php:3034
+#@ visual-form-builder-pro
+msgid "Name Format"
+msgstr "Formát jména"
+
+#: visual-form-builder-pro.php:3038
+#@ visual-form-builder-pro
+msgid "About Name Format"
+msgstr "Formát jména"
+
+#: visual-form-builder-pro.php:3038
+#@ visual-form-builder-pro
+msgid "Choose from either a simple name format with only a First and Last Name or a more complex format that adds a Title and Suffix."
+msgstr "Zvolte formát jména, který vám bude vyhovovat. Normální obsahuje klasicky jméno a příjmení. Extra formát přidá možnost zadání titulu a přípony."
+
+#: visual-form-builder-pro.php:3041
+#@ visual-form-builder-pro
+msgid "Normal"
+msgstr "Normální"
+
+#: visual-form-builder-pro.php:3042
+#@ visual-form-builder-pro
+msgid "Extra"
+msgstr "Extra"
+
+#: visual-form-builder-pro.php:3051
+#@ visual-form-builder-pro
+msgid "Custom Field Key"
+msgstr "Vlastní kód pole"
+
+#: visual-form-builder-pro.php:3058
+#@ visual-form-builder-pro
+msgid "About Custom Field Key"
+msgstr "Vlastní kód pole"
+
+#: visual-form-builder-pro.php:3058
+#@ visual-form-builder-pro
+msgid "Enter a new or existing meta key. Data entered will be inserted as a Custom Field into the post created."
+msgstr "Vložte nový nebo existující meta klíč. Vložená data budou načteny jako vlastní pole do příspěvku."
+
+#: visual-form-builder-pro.php:3074
+#@ visual-form-builder-pro
+msgid "Validation"
+msgstr "Validace"
+
+#: visual-form-builder-pro.php:3075
+#@ visual-form-builder-pro
+msgid "About Validation"
+msgstr "Validace"
+
+#: visual-form-builder-pro.php:3075
+#@ visual-form-builder-pro
+msgid "Ensures user-entered data is formatted properly. For more information on Validation, refer to the Help tab at the top of this page."
+msgstr "Zajišťuje, aby údaje zadané uživatelem byli správně naformátované. Pro více informací o validaci naleznete na kartě Nápověda v horní části této stránky."
+
+#: visual-form-builder-pro.php:3080
+#@ visual-form-builder-pro
+msgid "12 Hour Format"
+msgstr "12 Hodinový formát"
+
+#: visual-form-builder-pro.php:3081
+#@ visual-form-builder-pro
+msgid "24 Hour Format"
+msgstr "24 hodinový formát"
+
+#: visual-form-builder-pro.php:3083
+#@ visual-form-builder-pro
+msgid "IPv4"
+msgstr "IPv4"
+
+#: visual-form-builder-pro.php:3084
+#@ visual-form-builder-pro
+msgid "IPv6"
+msgstr "IPv6"
+
+#: visual-form-builder-pro.php:3086
+#: visual-form-builder-pro.php:3093
+#@ visual-form-builder-pro
+msgid "Number"
+msgstr "Číslo"
+
+#: visual-form-builder-pro.php:3087
+#: visual-form-builder-pro.php:3094
+#@ visual-form-builder-pro
+msgid "Digits"
+msgstr "Číslice"
+
+#: visual-form-builder-pro.php:3089
+#@ visual-form-builder-pro
+msgid "None"
+msgstr "Žádná"
+
+#: visual-form-builder-pro.php:3091
+#@ visual-form-builder-pro
+msgid "URL"
+msgstr "URL"
+
+#: visual-form-builder-pro.php:3092
+#@ visual-form-builder-pro
+msgid "Date"
+msgstr "Datum"
+
+#: visual-form-builder-pro.php:3095
+#@ visual-form-builder-pro
+msgid "Phone"
+msgstr "Telefonní číslo"
+
+#: visual-form-builder-pro.php:3126
+#@ visual-form-builder-pro
+msgid "Required"
+msgstr "Povinné"
+
+#: visual-form-builder-pro.php:3127
+#@ visual-form-builder-pro
+msgid "About Required"
+msgstr "Povinné"
+
+#: visual-form-builder-pro.php:3127
+#@ visual-form-builder-pro
+msgid "Requires the field to be completed before the form is submitted. By default, all fields are set to No."
+msgstr "Pokud zvolíte ano, tak bude toto pole vyžadováno pro odeslání formuláře. V opačném případě půjde formulář odeslat bez vyplnění tohoto pole. Defaultně je tato možnost nastavena na Ne."
+
+#: visual-form-builder-pro.php:3131
+#@ visual-form-builder-pro
+msgid "Yes"
+msgstr "Ano"
+
+#: visual-form-builder-pro.php:3140
+#@ visual-form-builder-pro
+msgid "Size"
+msgstr "Velikost"
+
+#: visual-form-builder-pro.php:3141
+#@ visual-form-builder-pro
+msgid "About Size"
+msgstr "Velikost"
+
+#: visual-form-builder-pro.php:3141
+#@ visual-form-builder-pro
+msgid "Control the size of the field.  By default, all fields are set to Medium."
+msgstr "Nastavení velikosti pole. Defaultní hodnota velikosti je střední."
+
+#: visual-form-builder-pro.php:3144
+#@ visual-form-builder-pro
+msgid "Small"
+msgstr "Malé"
+
+#: visual-form-builder-pro.php:3145
+#@ visual-form-builder-pro
+msgid "Medium"
+msgstr "Střední"
+
+#: visual-form-builder-pro.php:3146
+#@ visual-form-builder-pro
+msgid "Large"
+msgstr "Velké"
+
+#: visual-form-builder-pro.php:3155
+#@ visual-form-builder-pro
+msgid "Options Layout"
+msgstr "Možnosti rozvržení"
+
+#: visual-form-builder-pro.php:3156
+#@ visual-form-builder-pro
+msgid "About Options Layout"
+msgstr "Možnosti rozvržení"
+
+#: visual-form-builder-pro.php:3156
+#@ visual-form-builder-pro
+msgid "Control the layout of radio buttons or checkboxes.  By default, options are arranged in One Column."
+msgstr "Nastavte rozvržení radio buttons a checkboxů. Defaultně je nastavena hodnota jeden sloupec."
+
+#: visual-form-builder-pro.php:3159
+#@ visual-form-builder-pro
+msgid "One Column"
+msgstr "Jeden sloupec"
+
+#: visual-form-builder-pro.php:3160
+#@ visual-form-builder-pro
+msgid "Two Columns"
+msgstr "Dva sloupce"
+
+#: visual-form-builder-pro.php:3161
+#@ visual-form-builder-pro
+msgid "Three Columns"
+msgstr "Tři sloupce"
+
+#: visual-form-builder-pro.php:3162
+#@ visual-form-builder-pro
+msgid "Auto Width"
+msgstr "Automatická šířka"
+
+#: visual-form-builder-pro.php:3171
+#@ visual-form-builder-pro
+msgid "Field Layout"
+msgstr "Rozvržení pole"
+
+#: visual-form-builder-pro.php:3172
+#@ visual-form-builder-pro
+msgid "About Field Layout"
+msgstr "Rozvržení pole"
+
+#: visual-form-builder-pro.php:3172
+#@ visual-form-builder-pro
+msgid "Used to create advanced layouts. Align fields side by side in various configurations."
+msgstr "Používá se k vytvoření pokročilých rozložení. Můžete zarovnat pole vedle sebe v různých konfiguracích."
+
+#: visual-form-builder-pro.php:3176
+#@ visual-form-builder-pro
+msgid "Default"
+msgstr "Default"
+
+#: visual-form-builder-pro.php:3178
+#@ visual-form-builder-pro
+msgid "Left Half"
+msgstr "Levá polovina"
+
+#: visual-form-builder-pro.php:3179
+#@ visual-form-builder-pro
+msgid "Right Half"
+msgstr "Pravá polovina"
+
+#: visual-form-builder-pro.php:3182
+#@ visual-form-builder-pro
+msgid "Left Third"
+msgstr "Levá třetina"
+
+#: visual-form-builder-pro.php:3183
+#@ visual-form-builder-pro
+msgid "Middle Third"
+msgstr "Prostřední třetina"
+
+#: visual-form-builder-pro.php:3184
+#@ visual-form-builder-pro
+msgid "Right Third"
+msgstr "Pravá třetina"
+
+#: visual-form-builder-pro.php:3187
+#@ visual-form-builder-pro
+msgid "Left Two Thirds"
+msgstr "Levá dvě třetiny"
+
+#: visual-form-builder-pro.php:3188
+#@ visual-form-builder-pro
+msgid "Right Two Thirds"
+msgstr "Pravá dvě třetiny"
+
+#: visual-form-builder-pro.php:3198
+#@ visual-form-builder-pro
+msgid "Default Value"
+msgstr "Defaultní hodnota"
+
+#: visual-form-builder-pro.php:3199
+#@ visual-form-builder-pro
+msgid "About Default Value"
+msgstr "Defaultní hodnota"
+
+#: visual-form-builder-pro.php:3199
+#@ visual-form-builder-pro
+msgid "Set a default value that will be inserted automatically."
+msgstr "Nastavení defaultní hodnoty, která bude vložena automaticky."
+
+#: visual-form-builder-pro.php:3208
+#@ visual-form-builder-pro
+msgid "Default Country"
+msgstr "Defaultní země"
+
+#: visual-form-builder-pro.php:3209
+#@ visual-form-builder-pro
+msgid "About Default Country"
+msgstr "Defaultní země"
+
+#: visual-form-builder-pro.php:3209
+#@ visual-form-builder-pro
+msgid "Select the country you would like to be displayed by default."
+msgstr "Vyberte zemi, která bude zobrazena jako defaultní"
+
+#: visual-form-builder-pro.php:3251
+#@ visual-form-builder-pro
+msgid "Conditional Logic"
+msgstr "Logická podmínka"
+
+#: visual-form-builder-pro.php:3360
+#: visual-form-builder-pro.php:3541
+#: visual-form-builder-pro.php:3587
+#@ visual-form-builder-pro
+msgid "Add New Form"
+msgstr "Přidat nový formulář"
+
+#: visual-form-builder-pro.php:3404
+#: visual-form-builder-pro.php:3545
+#: visual-form-builder-pro.php:3682
+#@ visual-form-builder-pro
+msgid "Import"
+msgstr "Import"
+
+#: visual-form-builder-pro.php:3415
+#: visual-form-builder-pro.php:3546
+#: visual-form-builder-pro.php:3701
+#@ visual-form-builder-pro
+msgid "Export"
+msgstr "Export"
+
+#: visual-form-builder-pro.php:3437
+#@ visual-form-builder-pro
+msgid "Display Entries"
+msgstr "Zobrazit vyplnění"
+
+#: visual-form-builder-pro.php:3448
+#@ visual-form-builder-pro
+msgid "Form Design"
+msgstr "Vzhled formuláře"
+
+#: visual-form-builder-pro.php:3465
+#@ visual-form-builder-pro
+msgid "The form has been successfully created."
+msgstr "Formulář byl úspěšně vytvořen."
+
+#: visual-form-builder-pro.php:3468
+#, php-format
+#@ visual-form-builder-pro
+msgid "The %s form has been updated. <a href=\"%s\" target=\"_blank\">View the Preview</a> to see how it looks."
+msgstr "Formulář %s byl aktualizován. <a href=\"%s\" target=\"_blank\">Zobraz náhled</a> pro ukázku, jak vypadá."
+
+#: visual-form-builder-pro.php:3471
+#@ visual-form-builder-pro
+msgid "The form has been successfully deleted."
+msgstr "Formulář byl úspěšně vymazán."
+
+#: visual-form-builder-pro.php:3474
+#@ visual-form-builder-pro
+msgid "The form has been successfully duplicated."
+msgstr "Formulář byl úspěšně zkopírovaná."
+
+#: visual-form-builder-pro.php:3480
+#@ visual-form-builder-pro
+msgid "You have successfully migrated to Visual Form Builder Pro!"
+msgstr "Migrace na Visual From Builder Pro byla úspěšná."
+
+#: visual-form-builder-pro.php:3483
+#, php-format
+#@ visual-form-builder-pro
+msgid "Email design has been updated. <a href=\"%s\" target=\"_blank\">View the Preview</a> to see how it looks."
+msgstr "Vzhled emailu byl úspěšně změněn. <a href=\"%s\" target=\"_blank\">Zobraz náhlad</a> pro ukázku, jak vypadá."
+
+#: visual-form-builder-pro.php:3486
+#@ visual-form-builder-pro
+msgid "Entry has been successfully updated."
+msgstr "Vyplnění bylo úspěšně aktualizováno."
+
+#: visual-form-builder-pro.php:3500
+#@ visual-form-builder-pro
+msgid "A version of Visual Form Builder has been detected. To copy your forms and data to Visual Form Builder Pro, click the Migrate Forms button below"
+msgstr "Byla nalezen verze plugin Visual Form Builder. Pro zkopírování vašich formulářů a dat do Visual Form Builder Pro, klepněte na tlačítko Migrovat formuláře níže."
+
+#: visual-form-builder-pro.php:3503
+#@ visual-form-builder-pro
+msgid "<strong>Note</strong>: It is recommended that you perform this action <em>before</em> you begin adding forms."
+msgstr "<strong>Poznámka</strong>: Doporučujeme provést tuto akci  <em>před</em> zadáváním nových formulářů."
+
+#: visual-form-builder-pro.php:3506
+#@ visual-form-builder-pro
+msgid "Migrate Forms"
+msgstr "Migrovat formuláře"
+
+#: visual-form-builder-pro.php:3507
+#@ visual-form-builder-pro
+msgid "Dismiss"
+msgstr "Zamítnout"
+
+#: visual-form-builder-pro.php:3517
+#@ visual-form-builder-pro
+msgid "The free version of Visual Form Builder is still active. In order for Visual Form Builder Pro to function and render correctly, you must deactivate the free version."
+msgstr "Free verze pluginu Visual Form Builder je stále aktivní. Pokud chcete, aby plugin Visual Form Builder Pro pracoval korektně, musíte deaktivovat free verzi."
+
+#: visual-form-builder-pro.php:3537
+#: visual-form-builder-pro.php:3539
+#: visual-form-builder-pro.php:3730
+#@ visual-form-builder-pro
+msgid "Visual Form Builder Pro"
+msgstr "Visual Form Builder Pro"
+
+#: visual-form-builder-pro.php:3539
+#@ visual-form-builder-pro
+msgid "All Forms"
+msgstr "Všechny formuláře"
+
+#: visual-form-builder-pro.php:3541
+#: visual-form-builder-pro.php:3733
+#@ visual-form-builder-pro
+msgid "Add New"
+msgstr "Přidat nový"
+
+#: visual-form-builder-pro.php:3611
+#: visual-form-builder-pro.php:3737
+#, php-format
+#@ visual-form-builder-pro
+msgid "Search results for \"%s\""
+msgstr "Výsledky hledání pro  \"%s\""
+
+#: visual-form-builder-pro.php:3946
+#@ visual-form-builder-pro
+msgid "This field is required and cannot be empty."
+msgstr "Vyplnění tohoto pole je povinné."
+
+#: visual-form-builder-pro.php:3952
+#@ visual-form-builder-pro
+msgid "Not a valid email address"
+msgstr "Zadaní emailová adresa není platní"
+
+#: visual-form-builder-pro.php:3958
+#@ visual-form-builder-pro
+msgid "Not a valid number"
+msgstr "Zadané číslo není platné"
+
+#: visual-form-builder-pro.php:3965
+#@ visual-form-builder-pro
+msgid "Not a valid phone number. Most US/Canada and International formats accepted."
+msgstr "Zadané telefonní číslo není platné. Použijte formát +420123123."
+
+#: visual-form-builder-pro.php:3970
+#@ visual-form-builder-pro
+msgid "Not a valid URL."
+msgstr "Zadaná URL adresa není platní."
+
+#: includes/admin-form-creator.php:325
+#@ visual-form-builder-pro
+msgid "Display Entry"
+msgstr "Zobrazit vyplnění"
+
+#: includes/class-entries-detail.php:104
+#@ visual-form-builder-pro
+msgid "Print"
+msgstr "Vytisknout"
+
+#: includes/class-entries-detail.php:108
+#@ visual-form-builder-pro
+msgid "Update"
+msgstr "Aktualizovat"
+
+#: includes/class-export.php:92
+#@ visual-form-builder-pro
+msgid "Add-ons detected. Add-on data will export, too."
+msgstr "Byly nalezeny doplňky. Data z doplňků budou také exportovány"
+
+#: includes/class-import.php:364
+#@ visual-form-builder-pro
+msgid "Importing form design settings..."
+msgstr "Import nastavení pro návrh formulářů ..."
+
+#: includes/class-import.php:382
+#@ visual-form-builder-pro
+msgid "Form Design ID already exists. Assigning a new ID."
+msgstr "ID návrhu formuláře již existuje. Přiděluji nové ID."
+
+#: includes/class-import.php:388
+#, php-format
+#@ visual-form-builder-pro
+msgid "<strong>Error: </strong> Form design settings for form ID %d could not be imported."
+msgstr "<strong>Chyba: </strong> Nastavení návrhu formuláře pro ID formuláře  %d nelze importovat."
+
+#: includes/class-import.php:392
+#@ visual-form-builder-pro
+msgid "Form Design import process complete."
+msgstr "Import návrhu formuláře byl úspěšně dokončen."
+
+#: includes/class-import.php:409
+#@ visual-form-builder-pro
+msgid "Importing payment settings..."
+msgstr "Importuji nastavení plateb..."
+
+#: includes/class-import.php:433
+#@ visual-form-builder-pro
+msgid "Payment ID already exists. Assigning a new ID."
+msgstr "ID platby již existuje. Přiděluji nové ID."
+
+#: includes/class-import.php:439
+#, php-format
+#@ visual-form-builder-pro
+msgid "<strong>Error: </strong> Payments settings for form ID %d could not be imported."
+msgstr "<strong>Chyba: </strong> Nastavení plateb pro ID formuláře %d nelze importovat."
+
+#: includes/class-import.php:443
+#@ visual-form-builder-pro
+msgid "Payments import process complete."
+msgstr "Import plateb byl úspěšně dokončen."
+

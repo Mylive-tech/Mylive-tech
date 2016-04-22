@@ -1,0 +1,365 @@
+.mymail-loading, .mymail-loading *{
+	cursor:progress !important;
+}
+
+module{
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+/*----------------------------------------------------------------------*/
+/* Button
+/*----------------------------------------------------------------------*/
+a.mymail-btn,a.mymail-btn:hover,a.mymail-btn:active{
+	color:#686868;
+	position:absolute;
+	padding: 5px 6px;
+	cursor:pointer;
+	text-decoration:none;
+	font:14px "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight:400;
+	text-align:center;
+	border:1px solid #DFDFDF;
+	background:#f9f9f9;
+	background:#fff;
+	outline: 0;
+	min-width: 10px;
+}
+a.mymail-btn:hover {
+	background:#F5F5F5;
+	z-index:1000;
+}
+a.mymail-btn:before {
+	font-family: 'mymail-icons';
+}
+a.mymail-btn.codeview:before { content: '\e80a'; }
+a.mymail-btn.auto:before { content: '\e818'; }
+a.mymail-btn.add:before { content: '\e81a'; }
+a.mymail-btn.duplicate:before { content: '\e817'; }
+a.mymail-btn.up:before { content: '\e816'; }
+a.mymail-btn.down:before { content: '\e815'; }
+a.mymail-btn.remove:before { content: '\e819'; }
+
+a.mymail-btn.editbutton:before { content: '\e80c'; }
+a.mymail-btn.addbutton:before { content: '\e81a'; }
+a.mymail-btn.addrepeater:before { content: '\e81a'; }
+a.mymail-btn.removerepeater:before { content: '\e81b'; }
+
+#mymail_template a.mymail-btn { padding: 2px 4px; }
+
+.modulebuttons {
+	opacity:0;
+	position: absolute;
+	right:-1px;
+	text-align: right;
+	width: 100%;
+	height:0px;
+	z-index: 100;
+}
+.modulebuttons.main{
+	top:-1px;
+	right:-1px;
+	display: block;
+	opacity:1;
+	width: auto;
+}
+.modulebuttons a.mymail-btn {
+	display:inline-block;
+	position:relative;
+	margin:0;
+	height:14px;
+	border: 0;
+	border-top:1px solid #DFDFDF;
+	border-bottom:1px solid #DFDFDF;
+	line-height: 15px;
+}
+.modulebuttons a.mymail-btn.codeview {
+	left:-3px;
+	top:0px;
+	position: absolute;
+	border-right:1px solid #DFDFDF;
+	font-size: 11px;
+}
+
+.modulebuttons a:first-child {
+	border-left:1px solid #DFDFDF;
+}
+
+.modulebuttons a:last-child {
+	border-right:1px solid #DFDFDF;
+}
+.modulebuttons input.modulelabel {
+	display: block;
+	width: 110px;
+	border: 0;
+	background: none;
+	padding: 3px;
+	outline: none;
+	color: #aaa;
+	margin: 1px 0 0 0;
+	text-align: right;
+	right:0;
+	position: absolute;
+}
+.modulebuttons input.modulelabel:hover, .modulebuttons input.modulelabel:focus {
+	color: #333;
+}
+.modulebuttons input.modulelabel:focus {
+	border: 1px solid #DFDFDF;
+	background: #fff;
+	padding: 2px;
+	color: #333;
+}
+
+
+#moduleselector {
+	margin:0;
+	margin-top:15px;
+	list-style:none;
+	padding:0;
+	position:absolute;
+	right:10px;
+	width:170px;
+	display:none;
+	border:1px solid #DFDFDF;
+}
+#moduleselector span {
+	border-bottom:1px solid #EFEFEF;
+}
+
+#moduleselector li {
+	height:inherit;
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+
+#moduleselector li a.mymail-btn {
+	display:block;
+	white-space:nowrap;
+	overflow:hidden;
+	font-size:12px;
+	line-height:1;
+	padding:4px 5px;
+	position:relative;
+	cursor:pointer;
+	z-index:20;
+	border:0;
+	text-align:center;
+	text-overflow:ellipsis;
+}
+
+#moduleselector li:first-child a.mymail-btn {
+}
+
+#moduleselector li a.mymail-btn.custom-module {
+	background: #F8F8F8;
+}
+
+#moduleselector li a.mymail-btn:hover {
+	background: #f1f1f1;
+}
+
+modules, module, multi {
+	display:block;
+}
+buttons, single {
+	display:inline-block;
+}
+
+module:hover {
+	box-shadow: inset 0 0 0 1px #DFDFDD;
+	background-image:url(../img/modulebg.png);
+}
+
+module:hover .modulebuttons,.ie module .modulebuttons {
+	opacity:1;
+}
+
+module:nth-child(2) .modulebuttons a.up {
+	display:none;
+}
+
+module:last-child .modulebuttons a.down {
+	display:none;
+}
+
+.mymail-highlight, a.mymail-highlight img {
+	overflow: visible;
+	outline: 1px dotted red;
+}
+a.mymail-highlight {
+	outline: none;
+}
+
+multi:hover, single:hover, img[editable]:hover, a[editable]:hover img, table.textbutton a[editable]:hover{
+	outline: 1px dotted red;
+	cursor:pointer;
+}
+body.mymail-loading{
+	opacity: 0.2;
+}
+body.mymail-loading multi:hover, body.mymail-loading single:hover, body.mymail-loading img[editable]:hover, body.mymail-loading a[editable]:hover img, body.mymail-loading table.textbutton a[editable]:hover{
+	outline: none;
+}
+multi, single, img[editable], a[editable] img,  table.textbutton a[editable]{
+	position: relative;
+}
+body:hover single:empty{
+	outline: 1px dotted red;
+	display: inline-block;
+}
+body:hover single:empty:after{
+	content: '\00A0';
+}
+img[editable]{
+	z-index: 10;
+}
+.edit-sign{
+	font-family: 'mymail-icons';
+	position: absolute;
+	background: red;
+	color: #FFF;
+	font-size: 10px;
+	line-height: 1;
+	padding:2px 3px;
+	letter-spacing: 0.01em;
+	opacity:0.6;
+	cursor:pointer;
+	font-size:100%;
+	z-index:99;
+}
+.edit-sign:before{ content: '\e80c'; }
+
+modules.ui-sortable module{
+	-webkit-transition:padding .25s ease-in-out, margin .25s ease-in-out;
+	-moz-transition:padding .25s ease-in-out, margin .25s ease-in-out;
+	-ms-transition:padding .25s ease-in-out, margin .25s ease-in-out;
+	-o-transition:padding .25s ease-in-out, margin .25s ease-in-out;
+	transition:padding .25s ease-in-out, margin .25s ease-in-out;
+}
+modules.ui-sortable.dragging module{
+	padding-top: 3px;
+	padding-bottom: 3px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	-webkit-box-shadow: 0px 0 1px rgba(0, 0, 0, 0.1), 0px 0 3px rgba(0, 0, 0, 0.1);
+	-moz-box-shadow: 0px 0 1px rgba(0, 0, 0, 0.1), 0px 0 3px rgba(0, 0, 0, 0.1);
+	box-shadow: 0px 0 1px rgba(0, 0, 0, 0.1), 0px 0 3px rgba(0, 0, 0, 0.1);
+
+}
+modules.ui-sortable module{
+	cursor:ns-resize;
+	cursor:hand;
+	cursor:grab;
+	cursor:grabbing;
+	cursor:-moz-grab;
+	cursor:-webkit-grab;
+}
+modules.ui-sortable module table{
+	cursor: inherit !important;
+}
+modules.ui-sortable module.ui-draggable-dragging{
+	cursor:grabbing;
+	cursor:-moz-grabbing;
+	cursor:-webkit-grabbing;
+}
+
+.ui-dragging img[editable]{
+	outline: 3px dashed #b1b1b1;
+	opacity: 0.7;
+}
+.ui-dragging img[editable].ui-drag-over, img[editable].ui-drag-over-file{
+	outline: 3px dashed red;
+	opacity: 1;
+}
+img[editable].ui-drag-over-file.ui-drag-over-file-alt{
+	outline: 3px dashed gray;
+	opacity: 1;
+}
+
+.ui-dragging img[editable].ui-draggable-dragging{
+	outline: 0;	
+	-webkit-box-shadow: 10px 0 1px rgba(0, 0, 0, 0.9);
+	-moz-box-shadow: 10px 0 1px rgba(0, 0, 0, 0.9);
+	box-shadow: 10px 0 1px rgba(0, 0, 0, 0.9);
+}
+
+.sortable-placeholder{
+	outline: 1px dotted #999;
+	background-image:url(../img/modulebg.png);
+}
+img{
+	-webkit-transition:height .25s ease-in-out, width .25s ease-in-out;
+	-moz-transition:height .25s ease-in-out, width .25s ease-in-out;
+	-ms-transition:height .25s ease-in-out, width .25s ease-in-out;
+	-o-transition:height .25s ease-in-out, width .25s ease-in-out;
+	transition:height .25s ease-in-out, width .25s ease-in-out;
+}
+
+img.mymail-loading{
+	opacity: 0.7;
+	-webkit-filter: blur(2px);
+	-moz-filter: blur(2px);
+	filter: blur(2px);
+}
+modules.ui-sortable.dragging module.ui-sortable-helper{
+	opacity: 0.7;
+	filter:alpha(70);
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+}
+
+
+.mymail-upload-info{
+	position: absolute;
+	top: -99999px;
+	left: 0px;
+	z-index: 1000000;
+	overflow: hidden;
+	-webkit-transition:height .25s ease-in-out, width .25s ease-in-out;
+	-moz-transition:height .25s ease-in-out, width .25s ease-in-out;
+	-ms-transition:height .25s ease-in-out, width .25s ease-in-out;
+	-o-transition:height .25s ease-in-out, width .25s ease-in-out;
+	transition:height .25s ease-in-out, width .25s ease-in-out;
+}
+.mymail-upload-info .mymail-upload-info-bar{
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	width: 1px;
+	height: 100%;
+	background-color: rgba(0,0,0,0.6);
+	background-size: cover;
+	background-repeat: no-repeat;
+	-webkit-filter: blur(4px);
+	-moz-filter: blur(4px);
+	filter: blur(4px);
+}
+.mymail-upload-info .mymail-upload-info-text{
+	font:20px "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-weight:400;
+	position: absolute;
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+	-webkit-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	transform: translate(-50%, -50%);
+	left: 50%;
+	right: 50%;
+	top: 50%;
+	color: #fff;
+	text-shadow:-1px -1px 0 #333,1px -1px 0 #333,-1px 1px 0 #333,1px 1px 0 #333;
+}
+.mymail-upload-info.error .mymail-upload-info-text{
+	background: #f33;
+}
+
+
+

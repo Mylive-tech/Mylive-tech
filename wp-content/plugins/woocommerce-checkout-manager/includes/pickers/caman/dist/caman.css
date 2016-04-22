@@ -1,0 +1,223 @@
+@media screen and (max-width: 992px) {
+
+			body #caman_content .wooccmsidebar {
+				width: 100%;
+				top: 60%;
+			}
+			body #caman_content .wooccmimageeditor{
+				width: 100%;
+				left: inherit;
+			}
+			.wooccmsidebar #Filters .Filter {
+				width: 45%;
+			}
+}
+
+@media screen and (max-width: 933px) {
+
+			#caman_content .wooccmsidebar #Filters .Filter {
+				width: 44%;
+			}
+}
+
+@media screen and (max-width: 783px) {
+
+			body #caman_content .wooccmsidebar #Filters .Filter {
+				width: 42%;
+			}
+}
+
+@media screen and (max-width: 596px) {
+
+			body #caman_content .wooccmsidebar #Filters .Filter {
+				width: 100%;
+			}
+}
+
+		
+#Filters .Filter{
+float:left;
+width:300px;
+margin-right: 20px;
+padding-right: 66px;
+margin-left: 25px;
+}
+
+#Filters .Filter>div{
+padding:5px 10px;
+}
+
+#Filters .Filter .FilterName{
+float:left;
+}
+
+#Filters .Filter .FilterName p{
+margin:0;
+text-shadow: none;
+text-rendering: optimizeLegibility;
+text-decoration: none;
+color: #777;
+}
+
+#Filters .Filter .FilterSetting{float:right}#Filters .Filter .FilterSetting input[type="range"]{
+-webkit-appearance:none!important;
+width:150px;
+background-color:#434341;
+height:1px;
+vertical-align:1px;
+}
+
+#Filters .Filter .FilterSetting input[type="range"]::-webkit-slider-thumb{
+-webkit-appearance:none!important;
+height:12px;
+width:15px;
+background-color:#368ad2;
+cursor:pointer;
+}
+
+#Filters .Filter .FilterSetting .FilterValue{
+width:30px;
+display:inline-block;
+}
+
+#PresetFilters a{
+-webkit-border-radius:3px;
+-moz-border-radius:3px;
+border-radius:3px;
+-webkit-transition:background-color .3s ease-out;
+-moz-transition:background-color .3s ease-out;
+transition:background-color .3s ease-out;
+background-color:#368ad2;
+display:block;
+float:left;
+text-align:center;
+padding:8px 10px;
+color:black;
+margin:5px;
+border:none;
+font-size:13px;
+width:120px;
+cursor:pointer
+}
+
+#PresetFilters a:hover{
+background-color:#4b96d7;
+}
+
+#PresetFilters a:active{
+-webkit-box-shadow:inset 1px 1px 3px rgba(0,0,0,0.3);
+-moz-box-shadow:inset 1px 1px 3px rgba(0,0,0,0.3);
+box-shadow:inset 1px 1px 3px rgba(0,0,0,0.3);
+}
+
+#PresetFilters a.Active{
+	background-color:#e69751;
+}
+
+#caman_content {
+  color: #fff;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background: #1B1917;
+  font-weight: normal;
+  text-shadow: none;
+  z-index: 99999;
+}
+
+#caman_content h3{
+  color: #777;
+  font-weight: normal;
+  text-shadow: none;
+  padding-top: 8px;
+  text-transform: uppercase;
+}
+
+#caman_content .wooccmsidebar {
+  width: 300px;
+  margin: 0;
+  z-index: 1;
+  overflow-x: hidden;
+  overflow-y: auto;
+  float:left;
+  height: initial;
+  position: absolute;
+  bottom: 0;
+  top: 44px;
+  background: #1B1917;
+}
+
+#caman_content .Clear {
+  padding: 15px;
+  float: left;
+  width: 91%;
+  border-top: 1px solid black;
+  margin-top: 30px;
+}
+
+#caman_content #Filters {
+  margin-top: 25px;
+}
+
+#caman_content .image-edit {
+  overflow: auto;
+}
+
+#caman_content #wooccmtoolbar {
+  z-index: 2;
+  background: -moz-linear-gradient(#3B3937, #2B2927);
+  background: -webkit-gradient(linear, left top, left bottom, from(#3B3937), to(#2B2927));
+  -moz-box-shadow: 0 1px 0 black;
+  -webkit-box-shadow: 0 1px 0 black;
+  height: 44px;
+  width: 100%;
+}
+
+#caman_content #wooccmtoolbar #close {
+  margin-left: 0;
+}
+
+#caman_content #wooccmtoolbar .button {
+  float: left;
+  line-height: 27px;
+  margin: 7px 37px;
+  display: inline-block;
+  padding: 1px 15px;
+  border-radius: 4px;
+  vertical-align: top;
+  background: -moz-linear-gradient(#4B4947, #32302D);
+  background: -webkit-gradient(linear, left top, left bottom, from(#4B4947), to(#32302D));
+  -moz-box-shadow: inset 0 1px 0 #5B5957, 0 -1px 0 black, 0 1px 0 black, -1px 0 0 black, 1px 0 0 black, 0 1px 1px #111;
+  -webkit-box-shadow: inset 0 1px 0 #5B5957, 0 -1px 0 black, 0 1px 0 black, -1px 0 0 black, 1px 0 0 black, 0 1px 1px #111;
+  cursor: pointer;
+}
+
+#caman_content  .wooccmimageeditor {
+  position: absolute;
+  left: 300px;
+  top: 44px;
+  right: 0;
+  bottom: 0;
+  overflow: auto;
+  padding: 30px;
+ }
+ 
+#caman_content ::-webkit-scrollbar {
+    width: 15px;
+}
+ 
+#caman_content ::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px black; 
+    border-radius: 10px;
+}
+ 
+#caman_content ::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px black;
+}

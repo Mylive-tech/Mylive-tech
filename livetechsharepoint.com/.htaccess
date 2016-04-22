@@ -1,0 +1,14 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^livetechsharepoint\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.livetechsharepoint\.com$
+RewriteRule ^/?$ "https\:\/\/www\.mylive\-tech\.com\/product\-category\/live\-tech\-hosted\-cloud\-services\/live\-tech\-hosted\-sharepoint\-live\-tech\-hosted\-cloud\-services\/" [R=301,L]
+
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+
+deny from 77.67.87.168
+deny from 77.67.87.152

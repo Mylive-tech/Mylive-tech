@@ -1,0 +1,82 @@
+@charset "utf-8";
+
+/*
+Tushar TAJANE | tush@mylive-tech.com | Live-Tech
+*/
+
+
+
+#lt-family-container {width: 960px; height:120px; margin: 10px auto}
+h3.lt-family-title {font-family: 'Open Sans', Sans-Serif; font-size: 20px; font-weight: normal; margin: 5px 0; text-shadow: none !important }
+
+#lt-family-box {display: block; clear: both; width: 100%; padding:0; font-family: 'Open Sans', Sans-Serif; font-size: 16px; line-height:20px; margin:0}
+
+#lt-family-box li {width: 12.25%; height: 120px; float:left; list-style:none; margin:0 0.12%;background: #ccc; border-bottom: #000 2px solid; text-align:center;}
+
+#lt-family-box li > p.title {display:inline-block; width:100%; text-align:center; margin: 0; padding: 50% 0 15% 0; background: url(lt-family-icons.png) no-repeat scroll -1000px -1000px; -webkit-transition: background-position .5s ease-in-out; -moz-transition: background-position .5s ease-in-out; -o-transition: background-position .5s ease-in-out; transition: background-position .5s ease-in-out;}
+
+#lt-family-box li:hover {background: #333;  -webkit-transition: background-color 800ms ease;
+     -moz-transition: background-color 800ms ease;
+     -o-transition: background-color 800ms ease;
+     -ms-transition: background-color 800ms ease;
+     transition: background-color 800ms ease;}
+
+#lt-family-box li, #lt-family-box li a, #lt-family-box li a:visited {color: #fff; text-decoration:none}
+#lt-family-box li a:hover {color: yellow}
+
+#lt-family-box li.lt-family-1 {background: #900}
+#lt-family-box li.lt-family-1:hover {background: #333;}
+#lt-family-box li.lt-family-1 p.title {background-position: 0px top}
+#lt-family-box li.lt-family-1 p.title:hover {background-position: left -180px}
+
+#lt-family-box li.lt-family-2 {background: #0077D9}
+#lt-family-box li.lt-family-2:hover {background: #333;}
+#lt-family-box li.lt-family-2 p.title {background-position: -840px 0px}
+#lt-family-box li.lt-family-2 p.title:hover {background-position: -840px -180px}
+
+#lt-family-box li.lt-family-3 {background: #7d7300}
+#lt-family-box li.lt-family-3:hover {background: #333;}
+#lt-family-box li.lt-family-3 p.title {background-position: -240px 0px}
+#lt-family-box li.lt-family-3 p.title:hover {background-position: -240px -180px}
+
+#lt-family-box li.lt-family-4 {background: #00a7a5}
+#lt-family-box li.lt-family-4:hover {background: #333;}
+#lt-family-box li.lt-family-4 p.title {background-position: -360px 0px}
+#lt-family-box li.lt-family-4 p.title:hover {background-position: -360px -180px}
+
+#lt-family-box li.lt-family-4 {background: #00a7a5}
+#lt-family-box li.lt-family-4:hover {background: #333;}
+#lt-family-box li.lt-family-4 p.title {background-position: -360px 0px}
+#lt-family-box li.lt-family-4 p.title:hover {background-position: -360px -180px}
+
+#lt-family-box li.lt-family-5 {background: #a74700}
+#lt-family-box li.lt-family-5:hover {background: #333;}
+#lt-family-box li.lt-family-5 p.title {background-position: -480px 0px}
+#lt-family-box li.lt-family-5 p.title:hover {background-position: -480px -180px}
+
+#lt-family-box li.lt-family-6 {background: #3b4c5a}
+#lt-family-box li.lt-family-6:hover {background: #333;}
+#lt-family-box li.lt-family-6 p.title {background-position: -600px 0px}
+#lt-family-box li.lt-family-6 p.title:hover {background-position: -600px -180px}
+
+#lt-family-box li.lt-family-7 {background: #551695}
+#lt-family-box li.lt-family-7:hover {background: #333;}
+#lt-family-box li.lt-family-7 p.title {background-position: -720px 0px}
+#lt-family-box li.lt-family-7 p.title:hover {background-position: -720px -180px}
+
+#lt-family-box li.lt-family-8 {background: #468e00}
+#lt-family-box li.lt-family-8:hover {background: #333;}
+#lt-family-box li.lt-family-8 p.title {background-position: -120px 0px}
+#lt-family-box li.lt-family-8 p.title:hover {background-position: -120px -180px}
+
+.lt-family-description{display: inline;position: relative;}
+.lt-family-description:hover:after{
+    background: #333;
+    background: rgba(0,0,0,.8);
+    color: #fff;
+    content: attr(title);
+    position: relative;
+    z-index: 98;
+    width: 960px;
+	font-size: 13px;
+}

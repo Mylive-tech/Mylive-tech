@@ -1,0 +1,64 @@
+##################################################
+#   How to update PHP Link Directory
+#   @link http://www.phplinkdirectory.com
+##################################################
+
+##################################################
+
+How to upgrade to the Latest Version of phpLD (currently 3.4)
+
+Before you begin: Backup all files and the database. Download all files and database to your PC as a backup. You should be prepared to restore the backup in the case of a problem. If you don't feel you can do this with confidence, please request professional assistance. Also note that payment may be required if you need support doing the upgrade. If you prefer to bypass this work, and get it done by a professional, we offer upgrades starting at $40. Depending on the number of mods or template changes, it can cost more. Please realize this process is not always suitable for everyone, and it is recommended you seek professional assistance or at least be ready to pay for it if it is needed.
+
+Preparations Steps:
+(You will note the instructions specify multiple backups to insure you are "safe" throughout the process)
+
+Backing up your database and creating a new database
+1. Create a new database on your webserver (call it something like phpld33). 
+2. Make a dump of your current database, and import the entire contents into the new database, so this means you now have two identical databases! 
+3. Also, download a copy of your current database to your local PC. This means you now have 3 identical databases! Don't delete this. Keep it for several months.
+
+Backing up your files and creating a new installation directory
+Note: At no point during this part of the installation are you doing anything to change your current files or database. You are just working from copies.1. Login via FTP to your webserver, and download a copy of your current site. Be sure you download all the files. It would be recommended you make a zip file of this, and save it on your local PC and keep it for many months.
+2. Create a new folder on your webserver called /phpld33
+3. Upload all the files you downloaded from step 1 to the new folder.
+4. Login to your phpLD account and download the latest version of the software, and unpack it using your zip program.
+5. Using your FTP program, upload all the files from the latest version to the new folder you created in steps 1 and 2.
+6. In the new folder, Give write permission to following files and folders: "include/config.php", "temp", "temp/cache", "temp/adodb", "temp/templates", "sitemap.xml", "sitemap.xml.gz".
+7. Using your browser, go to the new install directory of the new folder folder (ex. yoursite.com/phpld33/install/index.php). Click next and follow the instructions of the install process. Important Note: when you get to the page that asks for the database info, be sure you specify the new database you created in steps 1 and 2 of "Backing up your database and creating a new database" above.
+8. Having completed step 7, you now have upgraded the new database to the latest version, and all of your link, category and other data are still intact but upgraded. Congratulations! You know have a working database for the latest version. 
+
+Upgrading your template files:
+1. Using your ftp program, login to the new folder you created Go to /templates and locate the name of the template you currently have in use (ex. /default)
+2. Download a copy of the template changes for the latest version here. Please note this for upgrading 3.2 templates only. You can find upgrade instructions from older versions to 3.2 in the community forum.
+3. Unzip the files and open up each text file, and follow the instructions. There is a corresponding text file for each of the template files you need to change, and also there are some new template files that will need to be added.
+4. After making all the changes, save and upload your work to the templates folder.
+5. (Optional) You may find the template you are using may not contain all the new features of 3.4, so you may need some additional help from the template designer to add them (ex. article submit, pages)
+6. Having completed the steps above your new folder is now running phpLD 3.4 with the new database, and all files including template changes. Next it is time to test your installation.
+
+Testing your installation:
+1. Use your browser to visit the new folder you created.
+2. Surf through the site including detail pages, categories and submit pages.
+3. Try submitting links and articles
+4. Try submitting a payment (or ask a friend to do this for you).
+5. Make sure everything is working to your satisfaction.
+6. Set permissions for include/config.php to 400 or 444 (this sometimes can only be done through your control panel and does not work with your ftp program). Delete or move your install folder to keep it safe.
+
+Backing up your old site and going live:
+1. Create a new folder on your webserver to backup your existing installation. Name it something like /_phpld_previous (for security you may want to make the read/write/exec permissions 0)
+2. Locate all files from your old directory site and move them to this folder so that you have a complete backup that you can revert to in the case of problems.
+3. Move all the files from you new install to the root directory where you run phpLD.
+4. Make a final check to make sure everything is running.
+5. If everything was done correctly, you should now be running the latest version of phpLD 3.4. Congratulations! 
+
+
+
+
+
+For more support and information, please visit our forum:
+   http://www.phplinkdirectory.com/forum/
+
+
+Thank you for choosing PHP Link Directory!
+
+Kind Regards,
+   the PHP Link Directory Team!

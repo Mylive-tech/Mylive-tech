@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<task>
+	<setting>
+		<name>Categories per Iteration</name>
+		<description>Define count of categories proceed per iteration</description>
+		<id>CACHE_CATEGS_PER_ITERATION</id>
+		<TYPE>EXTERNAL</TYPE>
+		<value>100</value>
+	</setting>
+</task>

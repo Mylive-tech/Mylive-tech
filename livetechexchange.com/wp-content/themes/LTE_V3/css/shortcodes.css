@@ -1,0 +1,393 @@
+/*
+ *   1.  Headers
+ *   2.  Pricing table
+ *   3.  Blockquote
+ *   4.  Lists
+ *   5.  Slider in article
+ *   6.  Images in article
+ *   7.  Text hightlight
+ *   8.  Video in article
+ *   9.  Code Hightlighter 
+ *   10. Table
+ *   11. Alerts
+ *   12. Dropcaps
+ *   13. Links
+ */
+
+/************** Headers **************/
+
+h1, h2, h3, h4, h5, h6 { display: block; }
+
+h1, h2 { font-size: 52px; line-height: 55px; font-weight: bold; margin-bottom: 15px; }
+
+h3 { font-size: 34px; line-height: 34px; font-weight: bold; margin-bottom: 15px; }
+
+h4 { font-size: 20px; line-height: 22px; font-weight: normal; margin-bottom: 15px; }
+
+h5 { font-size: 17px; line-height: 19px; font-weight: normal; margin-bottom: 15px; }
+
+h6 { font-size: 14px; line-height: 16px; font-weight: bold; margin-bottom: 15px; }
+
+
+
+/************* Pricing table *************/
+
+table.pricing {
+	border: 0;
+}
+
+table.pricing .clear {
+	background: none;
+	border: 0;
+}
+
+table.pricing .clear_bottom {
+	background: none;
+	border: 0;
+}
+
+table.pricing tbody th {
+
+}
+
+table.pricing thead th{
+
+}
+
+table.pricing thead th h4{
+	font-size: 26px;
+	font-weight: bold;
+	margin-bottom: 15px;
+}
+
+table.pricing thead th span{
+	font-size: 50px;
+	line-height: 50px;
+	font-weight: bold;
+}
+
+table.pricing thead th span em {
+	font-size: 17px;
+	font-weight:normal;
+	position: relative;
+	top: -30px;
+}
+
+table.pricing thead th p{
+	margin-bottom: 0;
+	text-shadow: 0 0 0;
+}
+
+table.pricing tbody td, table.pricing tbody th {
+
+}
+
+table.pricing tbody th {
+	padding-left: 10px;
+}
+
+table.pricing tbody tr.odd td, table.pricing tbody tr.odd th {
+
+}
+
+/************* Blockquote *************/
+
+blockquote {
+	padding-left: 50px;
+	margin-bottom: 15px;
+}
+
+blockquote p {
+	font-size: 20px;
+	line-height: 29px;
+	font-family: Georgia;
+	font-style: italic;
+	margin-bottom: 8px !important;
+}
+
+blockquote address {
+	font-size: 14px;
+}
+
+/***************** Lists *****************/
+
+.content ul {
+	margin-bottom: 15px;
+}
+
+.content ul li {
+	padding-left: 30px;
+	margin-bottom: 7px;
+}
+
+ul.questions li {
+
+}
+
+ul.plus li {
+
+}
+
+ul.checks li {
+
+}
+
+.content ul li ul {
+	margin-top: 5px;
+}
+
+/************* Slider in article *************/
+
+.article_slider {
+	padding-bottom: 16px;
+	position: relative;
+}
+
+.article_slider .inside ul li img {
+	padding: 10px 10px 5px;
+}
+
+.article_slider .inside ul {
+	margin: 0;	
+}
+
+.article_slider ul li {
+	margin: 0;	
+	padding: 0;
+}
+
+.article_slider ul.controls {
+	margin: 0;	
+	position: absolute;
+	left: 320px;
+	bottom: 30px;
+	width: auto;
+	height: auto;
+	padding: 0;
+	background: none;
+	z-index: 100;
+}
+
+.article_slider ul.controls li {
+	float: left;
+	margin: 0 2px 0 0;
+	padding: 0;
+	background: none;
+}
+
+.article_slider ul.controls li a {
+	display: block;
+	width: 15px;
+	height: 15px;
+	overflow: hidden;
+	text-indent: -9999px;
+}
+
+.article_slider ul.controls li.activeSlide a, .article_slider ul.controls li a:hover {
+	background-position: 0 -15px;
+}
+
+/*************** Images in article ***************/
+.image_frame {
+	display: inline-block;
+}
+
+.image_frame img {
+	padding: 10px;
+	line-height: 0;
+}
+
+.image_frame_left {
+	float: left;
+	margin: 20px 30px 20px 0;
+}
+
+.image_frame_right {
+	float: right;
+	margin: 20px 0 20px 30px;
+}
+.image_frame_center {
+	text-align: center;
+	display: block;
+	margin-bottom: 15px;
+}
+
+/**************** Text hightlight  ****************/
+.highlight {
+	padding: 0 4px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.highlight_blue {
+	background: #2d70ca !important;
+	color: #fff !important;
+}
+
+.highlight_gray {
+	background: #818181 !important;
+	color: #fff !important;
+}
+
+.highlight_sky {
+	background: #d3dce9 !important;
+	color: #414a58 !important;
+}
+
+.highlight_green {
+	background: #bcdf61 !important;
+	color: #fff !important;
+}
+
+.highlight_red {
+	background: #e54747 !important;
+	color: #fff !important;
+}
+
+.highlight_orange {
+	background: #ea9550 !important;
+	color: #fff !important;
+}
+
+/***************** Video in article *****************/
+.article_video {
+	margin-bottom: 15px;
+}
+
+/***************** Code Hightlighter *****************/
+code, pre {
+	background: #ffffff; /* Old browsers */
+	background: -moz-linear-gradient(top,  #ffffff 50%, #f2f2f2 50%); /* FF3.6+ */
+	background: -webkit-linear-gradient(top,  #ffffff 50%,#f2f2f2 50%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #ffffff 50%,#f2f2f2 50%); /* Opera 11.10+ */
+	background: linear-gradient(top,  #ffffff 50%,#f2f2f2 50%); /* W3C */
+    background-size: 42px 42px;
+	padding: 21px 15px 20px;;
+	margin-bottom: 15px;
+	display: block;
+	white-space: pre-wrap;
+	white-space: -moz-pre-wrap;
+	white-space: -pre-wrap;
+	white-space: -o-pre-wrap;
+	line-height: 21px !important;
+}
+
+code p, pre p {
+	margin-bottom:0 !important;
+}
+
+/****************** Table ******************/
+table {
+	width: 100%;
+	margin-bottom: 15px;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+table thead th, table tbody td {
+	padding: 14px;
+	text-align: center;
+}
+
+table thead th {
+
+}
+
+table tbody td {
+}
+
+table tbody tr.odd td {
+
+}
+
+/**************** Alerts ******************/
+.info, .success, .warning, .error {
+	padding: 10px 10px 10px 45px;
+	margin-bottom: 15px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	background-repeat: no-repeat;
+	background-position: left center;
+}
+
+.info a, .success a, .warning a, .error a {
+	font-weight: bold;
+}
+
+.info {
+	color: #163140;
+	text-shadow: 1px 1px 0 #79c6f0;
+	background: #4e7d97 url(../images/alerts/bg_information.png) repeat-x;
+}
+
+.info a {
+	color: #163140;
+}
+
+.success {
+	color: #304403;
+	text-shadow: 1px 1px 0 #daf592;
+	background: #9ec844 url(../images/alerts/bg_success.png) repeat-x;
+}
+
+.success a {
+	color: #304403;
+}
+
+.warning {
+	color: #3e1c00;
+	text-shadow: 1px 1px 0 #feca6a;
+	background: #e47b48 url(../images/alerts/bg_warning.png) repeat-x;
+}
+
+.warning a {
+	color: #3e1c00;
+}
+
+.error {
+	color: #590000;
+	text-shadow: 1px 1px 0 #f55252;
+	background: #bc3c3c url(../images/alerts/bg_error.png) repeat-x;
+}
+
+.error a {
+	color: #590000;
+}
+
+/**************** Dropcaps ******************/
+.dropcap {
+	width: 60px;
+	height: 60px;
+	float: left;
+	font-size: 60px;
+	line-height: 60px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.dropcap_circle {
+	font-size: 35px;
+}
+
+.dropcap_circle_blue {
+}
+
+.dropcap_circle_gray {
+}
+
+/************** Links **************/
+
+.links { 
+	padding: 15px;
+	margin-bottom: 15px;
+}
+
+.links ul {
+	margin-bottom: 0px;
+}
+
+.links ul li {
+	padding-left: 23px;
+}

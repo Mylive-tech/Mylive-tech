@@ -1,0 +1,44 @@
+#adminmenu div.wp-menu-image.dashicons-mymail:before {
+	font: normal 16px/1 'mymail-icons' !important;
+	content: '\e800';
+}
+#adminmenu #menu-posts-newsletter .wp-menu-image img {
+	width:16px;
+}
+
+.branch-3-3 #adminmenu .dashicons-mymail:before,.branch-3-4 #adminmenu .dashicons-mymail:before,.branch-3-5 #adminmenu .dashicons-mymail:before,.branch-3-6 #adminmenu .dashicons-mymail:before,body.branch-3-7 #adminmenu .dashicons-mymail:before{
+	content: '';
+}
+#icon-edit.icon32-posts-newsletter {
+	background:url(../img/icons/newsletter.png) no-repeat left top;
+}
+
+#dashboard_right_now a.mymail-campaigns:before {
+	font: normal 16px/1 'mymail-icons';
+	content: '\e800';
+	margin: 0 8px 0 2px;
+}
+#dashboard_right_now a.mymail-subscribers:before {
+	font: normal 16px/1 'mymail-icons';
+	content: '\e81c';
+	margin: 0 8px 0 2px;
+}
+.branch-3-3 #adminmenu #menu-posts-newsletter.menu-icon-post div.wp-menu-image:before,.branch-3-4 #adminmenu #menu-posts-newsletter.menu-icon-post div.wp-menu-image:before,.branch-3-5 #adminmenu #menu-posts-newsletter.menu-icon-post div.wp-menu-image:before,.branch-3-6 #adminmenu #menu-posts-newsletter.menu-icon-post div.wp-menu-image:before,body.branch-3-7 #adminmenu #menu-posts-newsletter.menu-icon-post div.wp-menu-image:before{
+	content: '';
+}
+
+
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5),only screen and (min--moz-device-pixel-ratio:1.5),only screen and (-o-min-device-pixel-ratio:32),only screen and (min-device-pixel-ratio:1.5) {
+	
+	#icon-edit.icon32-posts-newsletter,#icon-edit.icon32-posts-subscriber,.newsletter_page_mymail_subscriber-manage #icon-edit.icon32-posts-post,.newsletter_page_mymail_templates #icon-edit.icon32-posts-post {
+		-webkit-background-size:32px 32px;
+		-moz-background-size:32px 32px;
+		background-size:32px 32px;
+	}
+	
+	#icon-edit.icon32-posts-newsletter {
+		background-image:url(../img/icons/newsletter_2x.png);
+	}
+
+}

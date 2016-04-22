@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget>
+	<zonetype>VERTICAL</zonetype>
+	<description>Generates a tag cloud from categories and links.</description>
+	<works_with>4.0</works_with>
+	<setting>
+		<name>TITLE</name>
+		<identifier>TITLE</identifier>
+		<value>Tag Cloud</value>
+		<allowed></allowed>
+		<info>This title shows at top of the widget's generated content.</info>
+	</setting>
+	<setting>
+		<name>LINKS</name>
+		<identifier>LINKS</identifier>
+		<value>Yes</value>
+		<allowed>Yes,No</allowed>
+		<info>"Yes" if you want the site's links to be considered for the tag cloud, otherwise "No".</info>
+	</setting>
+	<setting>
+		<name>CATEGORIES</name>
+		<identifier>CATEGORIES</identifier>
+		<value>Yes</value>
+		<allowed>Yes,No</allowed>
+		<info>"Yes" if you want the site's categories to be considered for the tag cloud, otherwise "No".</info>
+	</setting>
+	<setting>
+		<name>MAXIMUM NUMBER OF TAGS</name>
+		<identifier>MAXIMUM</identifier>
+		<value>30</value>
+		<allowed></allowed>
+		<info>The maximum number of tags you want displayed.</info>
+	</setting>
+	<author>PhpLD</author>
+	<author_url>www.phplinkdirectory.com</author_url>
+	<version>1.0</version>
+</widget>

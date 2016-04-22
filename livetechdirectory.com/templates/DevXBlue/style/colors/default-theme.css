@@ -1,0 +1,100 @@
+#toggleCategTree {
+    color:#AAAAAA;
+}
+
+.phpld-hlist{
+    background: none;
+    box-shadow: none;
+}
+
+
+
+/*Latest Links begin*/
+/*
+.phpld-column .phpld-col3>.phpld-cbox{
+
+}
+*/
+a:active, a:link, a:visited {
+    color: #000;
+}
+
+a:hover {
+    color: #000;
+    text-decoration: underline;
+}
+
+a.link:active, a.link:link, a.link:visited {
+    color: #3E81B4;
+}
+
+a.link:hover {
+    color: #000;
+}
+
+.small{
+    color: #909090;
+}
+
+#submitted_message .phpld-message .phpld-label{
+    color:#CA0002;
+    background: #F0F0F0;
+    border: 1px solid #CECECE;
+}
+/*Submit Article end*/
+/*Details begin*/
+.phpld-grid .float-left{
+    margin-top:0px;
+}
+/*Details end*/
+
+/*LinkEdit part begin*/
+#edit_link_form .phpld-columnar .float-left{
+    margin-top:0.5em;
+
+}
+#edit_link_form{
+    margin-left:130px;
+}
+#edit_link_form .phpld-columnar .phpld-label{
+    /*width:100px;*/
+    text-align:right;
+}
+#edit_link_form #addCategories{
+    margin-left:60px;
+}
+
+
+/*LinkEdit part end*/
+.footer > a{
+    color: #AAAAAA;
+}
+
+
+.boxTopCenter {
+    color: #707070;
+}
+
+
+
+.phpld-gbox.comment{
+    border-bottom: 1px #AAAAAA solid;
+}
+
+.header a:link,.header a:visited,.header a:hover, .header a {
+    color:#333;
+    text-decoration: none;
+    text-shadow: -1px 1px 0px #FFF;
+}
+
+.footer{
+
+}
+
+.select2-container .select2-results .select2-no-results{
+    background-color:#333333 !important;
+}
+
+.phpld-hlist ul li a:hover {
+    background-color: #A8171E;
+}

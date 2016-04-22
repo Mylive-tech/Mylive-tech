@@ -1,0 +1,80 @@
+#dashboard_mymail #mymail-campaign-select{
+	float: right;
+	top: -10px;
+	position: relative;
+	width: 200px;
+}
+
+#dashboard_mymail h4{
+	padding-bottom: 4px;
+
+}
+#dashboard_mymail #camp_name{
+	vertical-align:top;
+	display: inline-block;
+	max-width:130px;
+	text-overflow:ellipsis;
+	overflow:hidden;
+	white-space: nowrap;
+}
+#dashboard_mymail .verybold{
+	line-height:2.5em;
+	font-size:22px;
+	font-weight:700;
+}
+#dashboard_mymail #stats{
+	width: 100%;
+}
+#dashboard_mymail #stats td{
+}
+
+#dashboard_mymail #stats_cont.isactive p.sub a{
+	color: #E14D43;
+}
+#dashboard_mymail .campaign-info p{
+	color: #E14D43;
+}
+#dashboard_mymail #stats_cont .campaign-info p{
+	visibility:hidden;
+}
+#dashboard_mymail #stats_cont.isactive .campaign-info p{
+	visibility:visible;
+	color: #E14D43;
+}
+
+#dashboard_mymail .legend{
+	float:right;
+	margin-top:10px;
+}
+
+#dashboard_mymail .legend li{
+	float:left;
+	margin-right:8px;
+	font-size:10px;
+	line-height:1.2em;
+}
+#dashboard_mymail .legend li span{
+	display:block;
+	width:12px;
+	height:12px;
+	float:left;
+	margin-right:3px;
+}
+#dashboard_mymail .legend li.signups span{
+	background-color:#FF5B64;
+}
+#dashboard_mymail .legend li.opens span{
+	background-color:#E6D1A1;
+}
+#dashboard_mymail .legend li.clicks span{
+	background-color:#50545B;
+}
+#dashboard_mymail .legend li.unsub span{
+	background-color:#A4A687;
+}
+#dashboard_mymail .legend li.bounces span{
+	background-color:#D8D5BC;
+}
+#dashboard_mymail .versions a{
+	float: right;
+}

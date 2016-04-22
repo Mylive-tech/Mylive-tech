@@ -1,0 +1,800 @@
+# Copyright (C) 2015 WooThemes / SkyVerge
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce First Data Payeezy Gateway 3.7.1\n"
+"Report-Msgid-Bugs-To: https://support.woothemes.com/hc/\n"
+"POT-Creation-Date: 2014-04-25 18:53:17+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/class-wc-firstdata-api.php:239
+msgid "Error: [%s] - %s"
+msgstr ""
+
+#: includes/class-wc-firstdata-api.php:635
+#: includes/class-wc-firstdata-api.php:650
+#: includes/class-wc-firstdata-api.php:665
+#: includes/class-wc-firstdata-api.php:680
+#: includes/class-wc-firstdata-api.php:710
+#: includes/class-wc-firstdata-api.php:740
+#: includes/class-wc-firstdata-api.php:757
+#: includes/class-wc-firstdata-api.php:772
+#: includes/class-wc-firstdata-api.php:783
+#: includes/class-wc-firstdata-api.php:797
+#: includes/class-wc-firstdata-api.php:815
+msgid "N/A"
+msgstr ""
+
+#: includes/class-wc-firstdata-api.php:832
+msgid "[Code2 %s]"
+msgstr ""
+
+#: includes/class-wc-firstdata-api.php:834
+msgid "Bank Response [Code %s]%s Message: %s"
+msgstr ""
+
+#: includes/class-wc-firstdata-api.php:837
+msgid "Error Response [Code %s] Description: %s"
+msgstr ""
+
+#: includes/class-wc-firstdata-api.php:840
+msgid "Unknown error"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-addons.php:180
+msgid "%s - Subscription Order %s"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-addons.php:212
+#: includes/class-wc-gateway-firstdata-addons.php:290
+msgid "Tokenization attempt failed."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-addons.php:212
+#: includes/class-wc-gateway-firstdata-addons.php:290
+msgid ""
+"An error occurred during payment, please contact us to complete your "
+"transaction."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-addons.php:229
+#: includes/class-wc-gateway-firstdata.php:859
+msgid ""
+"Expected token not returned for transaction, verify Transarmor Token is "
+"properly configured in your First Data account."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-addons.php:270
+msgid "%s - Pre-Order Authorization %s"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-addons.php:342
+msgid "%s - Pre-Order Release Payment for Order %s"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-addons.php:353
+msgid "Pre-Order Release: Customer or Payment Profile is missing."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-addons.php:363
+msgid "First Data Pre-Order Release Payment Approved (Sequence Number: %s) "
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-addons.php:380
+msgid "First Data Pre-Order Release Payment Failed (Result: %s)"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-addons.php:412
+msgid "%s - Renewal for Subscription Order %s"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-addons.php:424
+msgid "Subscription Renewal: TransArmor token is missing."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-addons.php:447
+msgid "Subscription Renewal"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-addons.php:454
+msgid "First Data Subscription Renewal Payment Approved"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-addons.php:478
+msgid "First Data Subscription Renewal Payment Failed (Result: %s)"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-addons.php:628
+msgid "Via %s ending in %s"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-addons.php:651
+msgid "TransArmor Token"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-addons.php:673
+msgid "TransArmor Token is required."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-addons.php:675
+msgid "TransArmor Token must be numeric."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:62
+msgid "First Data Global Gateway"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:63
+msgid ""
+"Allow customers to checkout with their credit cards through the First Data "
+"Global Gateway."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:104
+#: includes/class-wc-gateway-firstdata.php:173
+msgid "Enable / Disable"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:105
+#: includes/class-wc-gateway-firstdata.php:174
+msgid "Enable this gateway"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:111
+#: includes/class-wc-gateway-firstdata.php:180
+msgid "Title"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:113
+#: includes/class-wc-gateway-firstdata.php:182
+msgid "Payment method title that the customer will see during checkout."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:118
+#: includes/class-wc-gateway-firstdata.php:187
+msgid "Description"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:120
+#: includes/class-wc-gateway-firstdata.php:189
+msgid "Payment method description that the customer will see during checkout."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:121
+#: includes/class-wc-gateway-firstdata.php:190
+msgid "Pay securely using your credit card."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:125
+#: includes/class-wc-gateway-firstdata.php:213
+msgid "Environment"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:128
+msgid ""
+"Select your processing environment, use 'sandbox' only if you have a "
+"sandbox account for testing."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:130
+#: includes/class-wc-gateway-firstdata.php:218
+msgid "Production"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:131
+msgid "Sandbox"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:136
+msgid "Store Number"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:138
+msgid "Your First Data store number."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:143
+msgid "PEM File"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:145
+msgid ""
+"The full system path to your .PEM file from First Data, for security "
+"reasons you should store this outside of your web root. For your "
+"information your ABSPATH is: "
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:189
+#: templates/checkout/firstdata-payment-fields.php:56
+msgid "Credit Card Number"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:195
+#: templates/checkout/firstdata-payment-fields.php:61
+msgid "Expiration Date"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:209
+#: templates/checkout/firstdata-payment-fields.php:78
+msgid "Card Security Code"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:235
+#: includes/class-wc-gateway-firstdata.php:527
+msgid "Card security code is missing"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:241
+#: includes/class-wc-gateway-firstdata.php:533
+msgid "Card security code is invalid (only digits are allowed)"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:247
+#: includes/class-wc-gateway-firstdata.php:539
+msgid "Card security code is invalid (must be 3 or 4 digits)"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:262
+#: includes/class-wc-gateway-firstdata.php:554
+msgid "Card expiration date is invalid"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:270
+#: includes/class-wc-gateway-firstdata.php:562
+msgid "Card number is invalid"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:321
+msgid "First Data Purchase Approved"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata-global-gateway.php:335
+msgid "Transaction Failed: %s"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:133
+msgid "First Data Payeezy"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:134
+msgid ""
+"(Formely First Data GGe4) Allow customers to securely save their credit "
+"card to their account for use with single purchases, pre-orders, and "
+"subscriptions."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:194
+msgid "Accepted Card Logos"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:196
+msgid ""
+"Select which card types you accept to display the logos for on your "
+"checkout page.  This is purely cosmetic and optional, and will have no "
+"impact on the cards actually accepted by your account."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:216
+msgid ""
+"The production environment should be used unless you have a separate demo "
+"account."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:219
+msgid "Demo"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:224
+#: includes/class-wc-gateway-firstdata.php:252
+msgid "Gateway ID"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:227
+msgid "Your unique Gateway ID, note this is not the same as your account user name."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:231
+#: includes/class-wc-gateway-firstdata.php:259
+msgid "Gateway Password"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:234
+#: includes/class-wc-gateway-firstdata.php:262
+msgid ""
+"Your private gateway password, note this is not the same as your account "
+"user password."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:238
+#: includes/class-wc-gateway-firstdata.php:266
+msgid "Key id"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:241
+#: includes/class-wc-gateway-firstdata.php:269
+msgid "Your terminal API Access Key id."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:245
+#: includes/class-wc-gateway-firstdata.php:273
+msgid "Hmac Key"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:248
+msgid "Your terminal API secret Hmac key."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:255
+msgid ""
+"Your unique Gateway ID, note this is not the same as your account user name "
+"and will be in the format of Axxxxx-xx."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:276
+msgid "Your terminal API  secret Hmac key."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:280
+msgid "Transaction Type"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:282
+msgid ""
+"Select how transactions should be processed. Purchase submits all "
+"transactions for settlement, Pre-Authorization simply authorizes the order "
+"total for capture later."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:285
+msgid "Purchase"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:286
+msgid "Pre-Authorization"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:291
+msgid "Partial Redemption"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:292
+msgid "Enable Partial Redemption"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:294
+msgid ""
+"A partial redemption will be returned if only a portion of the requested "
+"funds are available. For example, if a transaction is submitted for $100, "
+"but only $80 is available on the customer's card, the $80 will be "
+"authorized or captured when this property is set to true. This property can "
+"be used for all types of pre-authorization and purchase transactions."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:299
+msgid "Tokenization"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:300
+msgid ""
+"Allow customers to securely save their credit card details for future "
+"checkout."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:307
+msgid "Soft Descriptors"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:308
+msgid "Enable soft descriptors"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:315
+msgid "DBA Name"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:316
+msgid "Business name."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:322
+msgid "Street"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:323
+msgid "Business address."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:329
+msgid "City"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:330
+msgid "Business city."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:336
+msgid "Region"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:337
+msgid "Business region."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:343
+msgid "Postal Code"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:344
+msgid "Business postal/zip code."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:350
+msgid "Country Code"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:351
+msgid "Business country."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:357
+msgid "MID"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:358
+msgid "Merchant ID."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:364
+msgid "MCC"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:365
+msgid "Your Merchant Category Code."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:371
+msgid "Merchant Contact Info"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:372
+msgid "Merchant contact information."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:378
+msgid "Debug Mode"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:380
+msgid ""
+"Show Detailed Error Messages and API requests / responses on the checkout "
+"page and/or save them to the log for debugging purposes."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:383
+msgid "Off"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:384
+msgid "Show on Checkout Page"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:385
+msgid "Save to Log"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:386
+msgid "Both"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:512
+msgid ""
+"Payment error, please try another payment method or contact us to complete "
+"your transaction."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:625
+msgid ""
+"First Data Transaction Tag or Authorization Number missing, cannot refund "
+"transaction."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:643
+msgid "First Data Refund in the amount of %s approved."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:648
+msgid "Order completely refunded."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:655
+msgid "First Data Refund failed: %s"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:758
+msgid ""
+"First Data Zero Dollar Pre-Authorization Approved: %s ending in %s (expires "
+"%s)."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:782
+msgid ""
+"  Expected token not returned for transaction, verify Transarmor Token is "
+"properly configured in your First Data account."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:847
+msgid "First Data Payment Method Saved: %s ending in %s (expires %s)"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:875
+msgid "First Data Purchase Approved: %s ending in %s (expires %s)"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:878
+msgid "First Data Pre-Authorization Approved: %s ending in %s (expires %s)"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:881
+msgid ""
+"First Data Zero Dollar Pre-Authorization Approved: %s ending in %s (expires "
+"%s)"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:976
+msgid "An error occurred, please try again or try an alternate form of payment."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:979
+msgid "First Data Payment Failed (%s)"
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:1202
+msgid "There was an error with your request, please try again."
+msgstr ""
+
+#: includes/class-wc-gateway-firstdata.php:1207
+msgid "Token is invalid, please try again."
+msgstr ""
+
+#: includes/wc-gateway-firstdata-template.php:57
+msgid "TEST MODE ENABLED"
+msgstr ""
+
+#: includes/wc-gateway-firstdata-template.php:175
+msgid "Are you sure you want to delete this payment method?"
+msgstr ""
+
+#: lib/skyverge/woocommerce/class-sv-wc-admin-notice-handler.php:196
+msgid "Dismiss"
+msgstr ""
+
+#: lib/skyverge/woocommerce/class-sv-wc-plugin.php:192
+msgid "You cannot clone instances of %s."
+msgstr ""
+
+#: lib/skyverge/woocommerce/class-sv-wc-plugin.php:201
+msgid "You cannot unserialize instances of %s."
+msgstr ""
+
+#: lib/skyverge/woocommerce/class-sv-wc-plugin.php:321
+msgid ""
+"%s requires the %s PHP extension to function.  Contact your host or server "
+"administrator to configure and install the missing extension."
+msgid_plural ""
+"%s requires the following PHP extensions to function: %s.  Contact your "
+"host or server administrator to configure and install the missing "
+"extensions."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/skyverge/woocommerce/class-sv-wc-plugin.php:341
+msgid ""
+"%s requires the %s PHP function to exist.  Contact your host or server "
+"administrator to configure and install the missing function."
+msgid_plural ""
+"%s requires the following PHP functions to exist: %s.  Contact your host or "
+"server administrator to configure and install the missing functions."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/skyverge/woocommerce/class-sv-wc-plugin.php:376
+msgid "Docs"
+msgstr ""
+
+#: lib/skyverge/woocommerce/class-sv-wc-plugin.php:381
+msgid "Support"
+msgstr ""
+
+#: lib/skyverge/woocommerce/class-sv-wc-plugin.php:631
+msgid "Configure"
+msgstr ""
+
+#: templates/checkout/firstdata-payment-fields.php:44
+msgid "Manage My Cards"
+msgstr ""
+
+#: templates/checkout/firstdata-payment-fields.php:47
+msgid "%s ending in %s (expires %s)"
+msgstr ""
+
+#: templates/checkout/firstdata-payment-fields.php:49
+msgid "Use a new credit card"
+msgstr ""
+
+#: templates/checkout/firstdata-payment-fields.php:63
+msgid "Month"
+msgstr ""
+
+#: templates/checkout/firstdata-payment-fields.php:69
+msgid "Year"
+msgstr ""
+
+#: templates/checkout/firstdata-payment-fields.php:93
+msgid "Securely Save Card to Account"
+msgstr ""
+
+#: templates/myaccount/firstdata-my-cards.php:37
+msgid "My Saved Cards"
+msgstr ""
+
+#: templates/myaccount/firstdata-my-cards.php:46
+#: woocommerce-gateway-firstdata.php:499
+msgid "Card Type"
+msgstr ""
+
+#: templates/myaccount/firstdata-my-cards.php:47
+msgid "Last Four"
+msgstr ""
+
+#: templates/myaccount/firstdata-my-cards.php:48
+msgid "Expires"
+msgstr ""
+
+#: templates/myaccount/firstdata-my-cards.php:49
+msgid "Status"
+msgstr ""
+
+#: templates/myaccount/firstdata-my-cards.php:50
+msgid "Actions"
+msgstr ""
+
+#: templates/myaccount/firstdata-my-cards.php:75
+msgid "Default"
+msgstr ""
+
+#: templates/myaccount/firstdata-my-cards.php:75
+msgid "Make Default"
+msgstr ""
+
+#: templates/myaccount/firstdata-my-cards.php:78
+msgid "Delete payment method"
+msgstr ""
+
+#: templates/myaccount/firstdata-my-cards.php:89
+msgid "You do not have any saved payment methods."
+msgstr ""
+
+#: woocommerce-gateway-firstdata.php:44
+msgid "WooCommerce First Data Gateway"
+msgstr ""
+
+#: woocommerce-gateway-firstdata.php:238
+msgid "Use the Global Gateway"
+msgstr ""
+
+#: woocommerce-gateway-firstdata.php:239
+msgid "Use Global Gateway"
+msgstr ""
+
+#: woocommerce-gateway-firstdata.php:254
+msgid "Use the Payeezy gateway"
+msgstr ""
+
+#: woocommerce-gateway-firstdata.php:255
+msgid "Use Payeezy"
+msgstr ""
+
+#: woocommerce-gateway-firstdata.php:349
+msgid "First Data Payeezy Gateway is now being used."
+msgstr ""
+
+#: woocommerce-gateway-firstdata.php:351
+msgid "First Data Global Gateway is now being used."
+msgstr ""
+
+#: woocommerce-gateway-firstdata.php:374
+msgid ""
+"%sFirst Data Error%s: WooCommerce is not being forced over SSL; your "
+"customer's credit card data is at risk."
+msgstr ""
+
+#: woocommerce-gateway-firstdata.php:394
+msgid ""
+"%sFirst Data Payeezy Gateway:%s It's recommended that you %sconfigure%s the "
+"new Key ID and Hmac Key settings for increased transaction security.  See "
+"the %sdocumentation%s for further details."
+msgstr ""
+
+#: woocommerce-gateway-firstdata.php:465
+msgid "%s Customer Details"
+msgstr ""
+
+#: woocommerce-gateway-firstdata.php:469
+msgid "Payment Tokens"
+msgstr ""
+
+#: woocommerce-gateway-firstdata.php:473
+msgid "This customer has no saved payment tokens"
+msgstr ""
+
+#: woocommerce-gateway-firstdata.php:483
+msgid "Default card"
+msgstr ""
+
+#: woocommerce-gateway-firstdata.php:484
+msgid "Delete"
+msgstr ""
+
+#: woocommerce-gateway-firstdata.php:495
+msgid "Add a Payment Token"
+msgstr ""
+
+#: woocommerce-gateway-firstdata.php:497
+msgid "Token"
+msgstr ""
+
+#: woocommerce-gateway-firstdata.php:508
+msgid "Expiry Date (01/15)"
+msgstr ""
+
+#: woocommerce-gateway-firstdata.php:510
+msgid ""
+"Payment tokens can be added with the information found in the transaction "
+"list in your First Data account, so long as your TransArmor token was "
+"configured at the time of the transaction.  For \"Token\" use the \"Card "
+"Number\" for the tokenized transaction, found in your First Data account "
+"transaction list."
+msgstr ""
+
+#: woocommerce-gateway-firstdata.php:520
+msgid ""
+"Are you sure you wish to do this?  Change will not be finalized until you "
+"click \"Update\""
+msgstr ""
+
+#: woocommerce-gateway-firstdata.php:699
+msgid "WooCommerce First Data"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce First Data Payeezy Gateway"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.woothemes.com/products/firstdata/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Accept credit cards in WooCommerce through the First Data Payeezy (formerly "
+"GGe4) or Global Gateway"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WooThemes / SkyVerge"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.woothemes.com/"
+msgstr ""
+
+#: includes/class-wc-firstdata-api.php:384
+#: includes/class-wc-firstdata-api.php:435
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""

@@ -1,0 +1,12 @@
+#################################################
+## PHP Link Directory - Apache Server Settings ##
+#################################################
+
+# Disable directory browsing
+Options -Indexes
+
+# Follow symbolic links in this directory
+Options +FollowSymLinks
+
+# Set the default handler
+DirectoryIndex index.php

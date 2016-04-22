@@ -1,0 +1,642 @@
+# ######################################################################
+# Project:     PHPLinkDirectory: Version 3.0
+# This software is for use only to those who have purchased a license.
+# A license must be purchased for EACH installation of the software.
+# By using the software you agree to the terms:
+# You may not redistribute, sell or otherwise share this software in whole or in part without the consent of the the ownership of
+# PHP Link Directory. Please contact david@david-duval.com if you need more information.
+# You agree to retain a link back to http://www.phplinkdirectory.com/ on all pages of your directory in you purchased the $25 version
+# of the software.
+# License holders are entitled to upgrades to the 3.4 branch of the software as they are made available at ttp://www.phplinkdirectory.com/
+# In some cases, license holders may be required to agree to changes in the software license before receiving updates to the software.
+# For questions, help, comments, discussion, etc., please join the
+# PHP Link Directory Forum http://www.phplinkdirectory.com/forum/
+#
+# @link http://www.phplinkdirectory.com/
+# @copyright 2004-2006 NetCreated, Inc. (http://www.netcreated.com/)
+# @package PHPLinkDirectory
+# ######################################################################
+
+!! Atention !!
+--------------
+We are trying to mentain this changelog as complete as possible,
+but there can be some files missing that are in need of updates
+or some files present that were not changed.
+We apologize for any inconvenience caused.
+
+
+
+====================================================================================================
+== All further changes start from the first package released in the ::safearea:: phpLD_3-0-0.zip ===
+====================================================================================================
+
+
+*****************************************************************************
+***** Changelog for PHP Link Directory ver 3.0.1, created on Feb 10, 2006 ***
+*****************************************************************************
+Filename: phpLD_10-02-2006.zip
+Author: Constantin Bejenaru / Boby <constantin_bejenaru@frozenminds.com> (http://www.frozenminds.com)
+
+Changes:
+   - [CHANGE]     Improved the Google Sitemap feature
+   - [CHANGE]     Search function to "Approve Links" and "Links" in admin area
+   - [CHANGE]     "Really Simple Captcha" option with build-in fonts and reviewed distortion levels (easier)
+   - [CHANGE]     New and easier captcha fonts
+   - [CHANGE]     All files now validate as XHTML (including admin area)
+
+   - [FIX]        Numeric ID's in links
+
+   - [ADD]        Yahoo! Sitemaps.
+   - [ADD]        HTML meta keys for better version tracking
+   - [ADD]        Maintenance Section for admin (MySQL backup and query)
+   - [ADD]        "PclZip" new library for compressing files to ZIP archive (License LGPL)
+
+Files changed:
+   - [ADD]        backup/ (folder to store database backups)
+   - [ADD]        admin/conf_maintenance.php
+   - [ADD]        libs/pclzip/ (new library)
+   - [ADD]        libs/captcha/fonts (new fonts)
+   - [CHANGE]     admin/conf_sitemap.php
+   - [CHANGE]     admin/dir_approve_link.php
+   - [CHANGE]     admin/files/check_compress.js
+   - [CHANGE]     admin/files/main.css
+   - [CHANGE]     libs/captcha/captcha.class.php
+   - [CHANGE]     include/functions.php
+   - [CHANGE]     include/tables.php
+   - [CHANGE]     admin/init.php
+   - [CHANGE]     libs/smarty/plugins/function.pager.php (entity escaping for pagination links)
+   - [CHANGE]     admin/dir_links.php (added search option)
+   - [CHANGE]     cl.php (numeric ID)
+   - [CHANGE]     add_reciprocal.php (numeric ID)
+   - [CHANGE]     payment.php (numeric ID)
+   - [CHANGE]     templates/ (!! ALL FILES !!)
+
+
+
+*****************************************************************************
+***** Changelog for PHP Link Directory ver 3.0.2, created on Feb 15, 2006 ***
+*****************************************************************************
+Filename: phpLD_15-02-2006.zip
+Author: Constantin Bejenaru / Boby <constantin_bejenaru@frozenminds.com> (http://www.frozenminds.com)
+
+Changes:
+   - [CHANGE]     templates/main.tpl
+   - [CHANGE]     templates/admin/dir_categs.tpl
+   - [CHANGE]     admin/files/main.css
+   - [CHANGE]     SQL queries changed to be "safe"
+
+   - [ADD]        Detail Pages that use mod rewrite
+   - [ADD]        Mod Rewrite on pagination (ex. multiple pages in one category)
+   - [ADD]        Category Cache table added to database
+   - [ADD]        Category search results
+   - [ADD]        Template Editor
+   - [ADD]        templates/admin/detail.tpl
+   - [ADD]        templates/category_search.tpl
+   - [ADD]        templates/admin/conf_templates.tpl
+
+Files changed:
+   - [CHANGE+ADD]  !! All ".php" files in root directory, "admin/", "include/" and "install/" !!
+                   All users upgrading to ver 3.0.2 are asked to update all ".php" files to not run into problems
+
+
+
+
+*****************************************************************************
+***** Changelog for PHP Link Directory ver 3.0.3, created on Mar 11, 2006 ***
+*****************************************************************************
+Filename: phpLD_11-03-2006.zip
+Author: Constantin Bejenaru / Boby <constantin_bejenaru@frozenminds.com> (http://www.frozenminds.com)
+
+Changes:
+
+   - [CAHNGE]  USER database table (!! BACKUP TABLE BEFORE UPGRADING !!)
+   - [CHANGE]  Link ID turned off by default
+   - [CHANGE]  htaccess improved security (guests can no more see .tpl files or browse phpLD directories)
+
+   - [FIX]     Keep search term(s) in searchfield after submit
+   - [FIX]     Bug in search query
+   - [FIX]     Redirect empty search to mainpage
+   - [FIX]     Rewrite pagination bug (ThanX to "bigdog")
+   - [FIX]     Category Cache bugfix (works now with unlimited subcategories), same DB table, less DB queries, improved speed
+   - [FIX]     Empty category search results are not shown (if not cache or no results)
+   - [FIX]     Category search results now with (Previous) link called "...less", oposite of "more..."
+   - [FIX]     Category search results work now with URL Rewrite turned off
+   - [FIX]     Same URL can not be submitted twice (Spammers can't submit now same link with different titles)
+               Note: Not the domain is checked, just exact matched URL's because "http://my-site.com/forum/" can be different to "http://my-site.com/"
+   - [FIX]     Google Sitemap date format fix
+   - [FIX]     Sitemap error 404
+   - [FIX]     Symbolic links with mod-rewrite (ThanX to "yktan")
+   - [FIX]     Many other small bugs
+
+   - [ADD]     User Accounts (if enabled, only registered users can submit or change/remove personal links)
+   - [ADD]     Three-way-linking (if enabled, submitters must link to a third site instead of current)
+
+
+Files changed:
+   - [CHANGE]  Most ".php" files (Please overwrite)
+   - [CHANGE]  templates/admin/*
+   - [CHANGE]  templates/top_bar.tpl (small fix to searchfield)
+   - [CHANGE]  templates/category_search.tpl
+   - [CHANGE]  templates/submit.tpl (no major template changes, only Smarty code and some ads for registered user submitting and three-way-link)
+   - [CHANGE]  templates/main.tpl (no major template changes, only Smarty code)
+   - [CHANGE]  .htaccess
+
+
+
+*****************************************************************************
+***** Changelog for PHP Link Directory ver 3.0.4, created on Apr 24, 2006 ***
+*****************************************************************************
+Filename: phpLD_24-04-2006_beta.zip
+Authors: Constantin Bejenaru / Boby <constantin_bejenaru@frozenminds.com> (http://www.frozenminds.com)
+         Melfel <melfelrac@gmail.com>
+
+Changes:
+   - [UPGRADE] Smarty Template engine upgraded to latest stable version (2.6.13)
+   - [UPGRADE] SmartyValidate plugin upgraded to latest stable version (2.6)
+   - [UPGRADE] AdoDB library upgraded to latest stable version (4.80)
+
+   - [CHANGE]  Paging plugin changed, latest SmartyPagingate version (1.5) is now default
+   - [CHANGE]  Changed 'latest links' and 'top hits' URL variable from "p" to "list" because it is used also for paging
+   - [CHANGE]  Changed search URL variable from "q" to "search" for better code understanding and more future flexibility (ex. add Google highlight, etc.)
+   - [CHANGE]  Paging link rewriting is now made via Smarty output filter
+
+   - [FIX]     Installer problems (specially on PHP 5+ and when running PHP in CGI mode)
+   - [FIX]     Paging bugs
+   - [FIX]     Registered users can now submit
+   - [FIX]     Redirect to permissions page after creating editor
+   - [FIX]     Admin search for links
+   - [FIX]     Approved reviewed links are no more set as pending for second approval
+   - [FIX]     404 header error no more sent on all pages
+   - [FIX]     Changed category search paging to default paging plugin
+   - [FIX]     Unique link title fix (link title unique in category but can be assigned for other categories)
+   - [FIX]     Error in submit link DB query
+   - [FIX]     Stop submission of featured links if maximum is reached in category (only admin/editor can add more)
+   - [FIX]     Improved page titles on Detail Pages. Format: Link Title - Details - Directory Title
+   - [FIX]     Double category title in header
+   - [FIX]     Nofication email is sent when setting status to active for a link (edit page)
+   - [FIX]     Notification email support for reviewed links
+   - [FIX]     Update link owner email/name when user changes email/name (also in admin panel)
+   - [FIX]     AdoDB mysql_real_escape_string error
+   - [FIX]     RSS feeds for search results
+   - [FIX]     RSS feed category title and correct cetegory description fix, also some other bugs
+   - [FIX]     add_reciprocal.php, payment.php and cl.php can process now "id" and "ID" URL variable
+   - [FIX]     Automatic link type selection when rewiewing links
+   - [FIX]     Link type processing on link review
+   - [FIX]     On payment type change for reviewed links, user is redirected to payment page
+   - [FIX]     After reviewed link submit, user is redirected (delayed) to clean submit page
+   - [FIX]     Even if reciprocal link is not needed and a reciprocal URL is submitted it must validate
+   - [FIX]     Correct payment value on reviewed links
+   - [FIX]     Session ID's are no more added to URL's (PHPSESSID=xyz...)
+   - [FIX]     Correct page title on profile page (register/edit user profile)
+   - [FIX]     After creating category it is available in category list without page refresh
+
+   - [ADD]     Gzip compression for output for faster loading and bandwidth saving
+   - [ADD]     Option to remove reciprocal link field from submit page when reciprocal is not needed
+   - [ADD]     When mass validating, notification emails can be send
+   - [ADD]     Added new search function, if supported by MySQL server (ver 4.0.1+) a boolean search can be used
+   - [ADD]     Email templates for reviewed links (submit/approve/reject)
+   - [ADD]     Admin can set a minimum time range within link/category clicks from same IP are not saved (spam protection)
+   - [ADD]     Admin/Editor can assign/change user
+   - [ADD]     Link to category in link detail pages
+   - [ADD]     Admin can change Google Pagerank manually
+   - [ADD]     Admin can change hits for links manually
+   - [ADD]     Live bookmark icon in browser address bar for non-empty categories (supported by Firefox & Opera)
+   - [ADD]     Added an index.html file to each directory to disable folder browsing for servers that do not support .htaccess files. (basic security)
+
+Files changed:
+   - [CHANGE]  Most ".php" files (Please overwrite)
+   - [CHANGE]  templates/admin/*
+   - [CHANGE]  templates/install/*
+   - [CHANGE]  templates/footer.tpl (paging)
+   - [CHANGE]  templates/category_search.tpl (paging)
+   - [CHANGE]  templates/submit.tpl (small Smarty fixes, specially for recpr. link valdidation and user accounts)
+   - [CHANGE]  templates/profile.tpl
+   - [CHANGE]  templates/main.tpl (no major template changes, only Smarty code)
+   - [CHANGE]  templates/header.tpl
+   - [CHANGE]  templates/detail.tpl
+   - [CHANGE]  .htaccess
+
+Notes:
+   - The search function will no more work with keywords shorten than minimum allowed by the MySQL server (usually 4)
+   - The boolean full-text search information, help:
+      http://dev.mysql.com/doc/refman/4.1/en/fulltext-search.html
+   - The boolean full-text search operators (+, -, ~, ", etc.):
+      http://dev.mysql.com/doc/refman/4.1/en/fulltext-boolean.html
+   - The boolean full-text stopwords:
+      http://dev.mysql.com/doc/refman/4.1/en/fulltext-stopwords.html
+
+   - Because of SmartyValidate changes you will have to change mods in you .php files. Remove 6-th parameter.
+     Change:
+     SmartyValidate :: register_validator('v_foo', 'foo', 'notEmpty', false, false, false, 'trim', 'foobar');
+     to:
+     SmartyValidate :: register_validator('v_foo', 'foo', 'notEmpty', false, false, 'trim', 'foobar');
+
+
+
+*************************************************************************************
+***** Changelog for PHP Link Directory ver 3.0.5, created on May 17, 2006 ***
+*************************************************************************************
+Filename: phpLD_17-05-2006_BETA.zip
+Author: Constantin Bejenaru / Boby <constantin_bejenaru@frozenminds.com> (http://www.frozenminds.com)
+
+Changes:
+   - [ADD]     SmartyFormtool - A nice tool for manipulating forms with JavaScript
+   - [ADD]     OverLIB - A library for popups and tooltips
+   - [UPGRADE] AdoDB library upgraded to latest stable version (4.81)
+   - [CHANGE]  Database field type for category and link descriptions changed to "text" (longtext). Some other field lengths where increased to "varchar 255"
+
+   - [FIX]     Paging shows link on last pages
+   - [FIX]     On main page when not using URL rewriting categories with ID greater then 9 are no more redirected to main page (critical bug)
+   - [FIX]     When viewing categories in admin and clicking on category title all links of choosed category are shown without errors
+   - [FIX]     Fixed warning message on installer for servers that do not allow "mysql_get_server_info" command.
+   - [FIX]     Submit notification email variables on admin page from {EMAIL_*} to {LINK_*}
+   - [FIX]     Submit notification to admin and editors for servers that do not allow same email address for sender and receiver
+   - [FIX]     Maintenance error, specially for backup if page compression enabled
+   - [FIX]     Very long URLs, drescriptions or URL titles breaking page style in admin area
+   - [FIX]     phpLD news on main admin page show now nice text with links. No more HTML code
+   - [FIX]     Secure PHP settings in .htaccess disabled by default because many servers do not allow that and throw an error
+   - [FIX]     Better file/folder protection through .htaccess
+   - [FIX]     Compiled template files temp/templates/ are removed on installation/upgrade
+   - [FIX]     On install/update, cache (temp/cache/) and compiled template files (temp/templates/) are automatically cleaned
+   - [FIX]     On fresh install the admin username and password no longer needed for last step
+   - [FIX]     On profile and user login page (not to admin area), title is displaying correct in-page title
+   - [FIX]     Captcha alt and title tags are set to be translateable
+   - [FIX]     Captcha input code fields are expanded to exact phrase length
+   - [FIX]     On user profile update page, confirmation box is now expanded to full width ("Profile updated" message)
+   - [FIX]     In admin panel, settings page is refreshed via a redirect to stop Smarty errors and have live (almost) preview of captcha
+   - [FIX]     Installer re-creates indexes on database fields dropping older not used indexes
+   - [FIX]     Live Bookmark META tag XHTML compliance
+   - [FIX]     Personal links for registered user IDs > 9
+   - [FIX]     In admin panel on payments page the correct link details are shown in tooltip when hovering over link title (no more details of first link)
+   - [FIX]     Paging on payment page in admin panel
+   - [FIX]     Some more HTTP "404/Not Found" sent headers stoped
+
+   - [ADD]     Template switcher and ability to manage and use more templates per installation
+   - [ADD]     Ability to change min and max field lengths for most forms (System >> Edit Settings >> Form Fields) (Updated all forms and set validation rules)
+   - [ADD]     Description (and if enabled Meta Description) limit field indicator
+   - [ADD]     Custom META tags
+   - [ADD]     Build custom META tags for empty META fields (System >> Maintenance >> Build META tags) - This is the first attempt to manage huge DBs with almost no ressources. Theoretically works with unlimited data.
+   - [ADD]     Allow users to submit custom META tags for links
+   - [ADD]     Abbility to clean cache temp/cache/ if used and compiled template files temp/templates/ (System >> Maintenance >> Clean Temporary Files)
+   - [ADD]     Security error messages on main admin page if "config.php" is still writeable and/or installer still present.
+   - [ADD]     New menu item for admin panel "Search Engine Optimisation" where the URL rewriting option is and META tags preferences are available
+   - [ADD]     Possibility to force sending of HTTP status 200/OK header on valid and unvalid pages
+
+Files changed:
+   - [ADD]     javascripts/
+   - [REMOVE]  files/
+   - [CHANGE]  index.php
+   - [CHANGE]  init.php
+   - [CHANGE]  submit.php
+   - [CHANGE]  login.php
+   - [CHANGE]  profile.php
+   - [CHANGE]  include/functions.php
+   - [CHANGE]  include/tables.php
+   - [CHANGE]  install/index.php
+   - [CHANGE]  admin/* (not really all files)
+   - [CHANGE]  templates/header.tpl
+   - [CHANGE]  templates/submit.tpl (only SmartyValidate and form field properties, no major template changes)
+   - [CHANGE]  templates/login.tpl
+   - [CHANGE]  templates/profile.tpl
+   - [CHANGE]  templates/admin/* (not really all files)
+   - [CHANGE]  templates/install/main.tpl
+   - [CHANGE]  .htaccess
+   - [CHANGE]  temp/.htaccess
+   - [CHANGE]  main.css (added new class "limit_field")
+
+Some more little bugs fixed!
+
+
+*****************************************************************************
+***** Changelog for PHP Link Directory ver 3.0.6, created on Aug 11, 2006 ***
+*****************************************************************************
+Filename: phpLD_11-08-2006.zip
+Author: Constantin Bejenaru / Boby <constantin_bejenaru@frozenminds.com> (http://www.frozenminds.com)
+
+Changes:
+   - [ADD]     Prototype Javascript framework
+   - [ADD]     Scriptaculous Javascript library
+   - [ADD]     AJAX category selection module (http://www.frozenminds.com/phpld-ajax-categories.html)
+   - [UPGRADE] Smarty template engine upgraded to latest stable version (2.6.14)
+   - [UPGRADE] AdoDB database library upgraded to latest stable version (4.91)
+   - [REMOVE]  OverLib library is currently disabled in default directory pages to save additional memory
+
+   - [CHANGE] Javascript libraries are loaded optional in the default directory pages to save additional memory ($load_Javascript)
+   - [CHANGE]  Banned domains are no more preventing access to submit page, they are banned from submitting to directory list
+
+   - [FIX]  Category drop-down in admin panel
+   - [FIX]  Symbolic category in admin panel
+   - [FIX]  No more redirect to directory page after admin login
+   - [FIX]  Automatic link validator in admin area supports now huge databases/unlimited links (Directory >> Validate Links)
+   - [FIX]  Most of the links in admin panel are now valid and no more Javascript links. Also well formed and clean coded confirmation messages added.
+   - [FIX]  Paging on approve categories page
+   - [FIX]  Category cache rebuild (works now with unlimited categories and is rebuilt automatically on each category edit/creation)
+   - [FIX]  Sent Emails Report in admin panel (was not showing anything, now it is)
+   - [FIX]  On send email and add link feature in admin panel, links will point to correct category page with/without URL rewriting. Fixed also URL bugs.
+   - [FIX]  Some wording corrected in admin panel
+   - [FIX]  Additional validation on link submit, fields are automatically shortened to maximum limit if the basic validation is fooled (automated submission)
+   - [FIX]  PayPal submit form is now valid against XHTML 1.0 Transitional
+   - [FIX]  Improved unique URL submission validation (only different subdomains are allowed).
+   - [FIX]  Fixed empty search results
+   - [FIX]  User login max length input field on user edit page in admin panel
+   - [FIX]  Paging with sort options
+   - [FIX]  New banning system, ban IPs from accessing submit page, ban domains for being submitted. IP banning supports wildcards (*)
+   - [FIX]  Removed all <<language="javascript">> properties to validate all pages against strict markup doctypes
+   - [FIX]  On payments page in admin panel, clicking the remove button will remove the current payment listing and not the link
+   - [FIX]  On new category page in admin panel, after creating a new category the status is preselected as the last status for the next and not auto set as inactive
+   - [FIX]  Error on review page won't redirect to a clean page, only on success
+   - [FIX]  A review of a featured link does no more trigger an error if maximum is already reached
+   - [FIX]  Faster and safer link ID determination on details pages
+   - [FIX]  RSS feeds show the exact amount of links like the directory page with same query
+
+   - [ADD]  Category cache is automatically build on category creation (create new category/edit category)
+   - [ADD]  Javascript library for admin panel (confirmations more structured)
+   - [ADD]  Redirect time for admin area changeable (Settings >> Edit Settings >> Admin Area)
+   - [ADD]  Mass change links and category on a page with checkbox selections
+   - [ADD]  Javascript functions for easier checkings and validation
+   - [ADD]  include/dirdb.php (ready-to-go funtions for DB queries)
+   - [ADD]  admin/dirdb_admin.php (ready-to-go funtions for *only* admin area DB queries)
+   - [ADD]  link to personaly watch reciprocal link page on link edit (admin area)
+   - [ADD]  Category search (admin area)
+   - [ADD]  Three category selection methods for regular page (default, auto-selected and AJAX category selection). For admin panel, editors cannot use AJAX category selection (only admins).
+   - [ADD]  Link validator in admin panel will mark links with recipr link pages expired
+   - [ADD]  Send status notifications to link owners with expired link pages
+   - [ADD]  Each user can now select preffered language
+   - [ADD]  Option to pass category ID to submit page (Example: http://www.yourdomain.com/submit.php?c=123)
+   - [ADD]  Subscription for payments (not available for >>unlimited<< time unit)
+   - [ADD]  Change currency for payment, available for Paypal are: USD, EUR, GBP, CAD, AUD, JPY.
+   - [ADD]  Auto defined constant with valid (x)HTML code for selected currency. For PHP use "HTML_CURRENCY_CODE", for template files "{$smarty.const.HTML_CURRENCY_CODE}" (without the quotes)
+   - [ADD]  Category min/max title and description field lengths
+   - [ADD]  Option to rebuild all meta tags (not just empty fields) on maintenance page
+
+   - [MORE] Numerous other bugs fixed!
+
+Files changed:
+   - [ADD]     javascripts/prototype/
+   - [ADD]     javascripts/scriptaculous/
+   - [ADD]     javascripts/categ_selection/
+   - [ADD]     include/dirdb.php
+   - [ADD]     templates/Default/category_select.tpl
+   - [ADD]     templates/Default/category_tree.tpl
+   - [ADD]     admin/dirdb_admin.php
+   - [CHANGE]  index.php
+   - [CHANGE]  init.php
+   - [CHANGE]  submit.php
+   - [CHANGE]  login.php
+   - [CHANGE]  profile.php
+   - [CHANGE]  payment.php
+   - [CHANGE]  detail.php
+   - [CHANGE]  rss.php
+   - [CHANGE]  include/functions.php
+   - [CHANGE]  include/tables.php
+   - [CHANGE]  install/index.php
+   - [CHANGE]  admin/*
+   - [CHANGE]  templates/Default/main.tpl (added following code to each sort links: {if !empty($p)}&amp;p={$p}{/if})
+   - [CHANGE]  templates/Default/header.tpl
+   - [CHANGE]  templates/Default/top_bar.tpl (Optional - Pass category ID to submit page)
+   - [CHANGE]  templates/Default/submit.tpl (For adding category selection options, auto assigned payment currency and better URL validation tags)
+   - [CHANGE]  templates/Default/payment.tpl
+   - [CHANGE]  templates/Default/paypal.tpl
+   - [CHANGE]  templates/Default/login.tpl
+   - [CHANGE]  templates/Default/profile.tpl
+   - [CHANGE]  templates/Default/banned_submit.tpl (wording)
+   - [CHANGE]  templates/Core/admin/* (not really all files)
+   - [CHANGE]  templates/Core/messages.tpl
+
+
+
+*************************************************************************************
+***** Changelog for PHP Link Directory ver 3.1.0, created on Nov 30, 2006         ***
+*************************************************************************************
+Filename: phpLD_30-11-2006.zip
+Author: Constantin Bejenaru / Boby <constantin_bejenaru@frozenminds.com> (http://www.frozenminds.com)
+
+Changes:
+   - [ADD]     Snoopy class that simulates a browser (used to retrieve page content on reciprocal validation)
+   - [ADD]     InputFilter class for XSS protection
+   - [UPGRADE] SmartyValidate library upgraded to latest stable version (2.8)
+   - [UPGRADE] AdoDB database library upgraded to latest stable version (4.93a)
+   - [REMOVED] Reciprocal ID feature completely removed!
+
+   - [FIX]  !! CRITICAL FIX !! All request variables ($_REQUEST, $_GET, $_POST) are cleaned of HTML tags and all attributes!
+            Very important security fix that will prevent XSS attacks!
+   - [FIX]  Possible XSS attack fixed on link validation page admin panel.
+   - [FIX]  Installer won't stop at first step if session variables are not available, instead it will show on second page a fatal error.
+   - [FIX]  Improved image verification library, auto fallback to GD or simple captcha if TTF/GD fonts not available,
+            it's faster and more secure, verification phrase is now stored in DB rather than session variable.
+            Validation is checked against additional unique image hash.
+   - [FIX]  Sitemap generator supports now unlimited URLs. URLs are gathered from category cache or if not available they are generated automatically.
+            Also, paging URLs are added to sitemaps and GZIP compression used if sitemap larger than 10MB. (VERY IMPORTANT TO RECREATE CACHE and save time).
+   - [FIX]  Improved category (+content) removal. All Javascript handling removed.
+   - [FIX]  Template preview in admin panel won't show errors anymore (break page) if libraries (libpng, libjpeg or giflib) are missing to create thumbnails.
+            An message is shown instead, telling the admin that thumbnails are not available.
+   - [FIX]  Improved reciprocal link validation with partial admin configuration options.
+            Function can now decode gzip/zlib compressed pages, determine correct header code,
+            check for "nofollow" in meta tags and as tag attribute.
+   - [FIX]  Administrator pages won't show PHP errors on some server configurations when no results are found.
+   - [FIX]  Improved email sending and email sending + adding link in admin panel. After successfull sending, form data is cleared.
+   - [FIX]  Page compression auto disabled if W3C_Validator is requesting page content (expandable to more poor user agents).
+   - [FIX]  Improved version checking in admin panel.
+   - [FIX]  Duplicate link submission fixed.
+   - [FIX]  On installation pages, when [ENTER] key is pressed it goes to next step and not one back.
+   - [CHANGE] Full admin panel redesign + improved/fixed many features. New full and valid markup (xHTML) with full CSS design.
+              Most JS functions dropped for increased accessibility and usabability.
+   - [CHANGE] Full installer redesign. Valid markup (xHTML) and CSS.
+   - [CHANGE] Paging and sorting in admin panel won't jump back to first page (smarter sorting),
+              sorting options aren't stored anymore in session variables, works also on emails sent view with filtering.
+   - [CHANGE] More phrases from admin panel are marked for possible translation.
+
+   - [ADD]  Pagerank (with sorting option) on approve links page.
+   - [ADD]  On multiple action buttons, added IP/Domain banning and category changing for links, parent category changing for categories.
+   - [ADD]  New page in admin panel "Database" with two new options, you can now add DB fields with a few clicks,
+            check table status infos and run operations like optimize,repair,flush. Db backup and Db queries where moved from maintenance page to this one.
+   - [ADD]  htaccess rule to prevent .htaccess and .htpasswd files from being viewed by web clients.
+   - [ADD]  Email banning, users cannot create useraccounts or submit links using banned email addresses.
+            You may ban individual addresses like "example@domain.com" or partially with "@domain.com"
+   - [ADD]  Additional checks for a better spam protection, option to allow empty user-agents and foreign submissions.(Adviseable to disallow them).
+   - [ADD]  Aggressive spam protection based on unique submission sessions. Only strict rules followed correctly allow links to be saved into db.
+
+Files changed:
+   - [ADD]     include/function_imgverif.php
+   - [ADD]     admin/email_admin.php
+   - [ADD]     admin/conf_options.php
+   - [ADD]     templates/Core/admin/email_sent_errors.tpl
+   - [ADD]     libs/smarty/plugins/modifier.nicesize.php
+   - [ADD]     libs/smarty/plugins/modifier.urlwrap.php
+   - [ADD]     include/io_filter.php
+   - [ADD]     include/functions_validate.php
+   - [ADD]     include/check_post_rules.php
+   - [ADD]     include/submit_session.php
+   - [ADD]     libs/snoopy/
+   - [ADD]     libs/inputfilter/
+   - [CHANGE]  templates/Core/* (everything)
+   - [CHANGE]  include/functions.php
+   - [CHANGE]  libs/captcha/captcha.class.php
+   - [CHANGE]  libs/adodb/*
+   - [CHANGE]  libs/smarty/*
+   - [CHANGE]  init.php
+   - [CHANGE]  captcha.php
+   - [CHANGE]  admin/* (everything)
+   - [CHANGE]  submit.php
+   - [CHANGE]  profile.php
+   - [CHANGE]  templates/Default/submit.tpl (textarea with recpr example, captcha image, email banning)
+   - [CHANGE]  templates/Default/profile.tpl (captcha image, email banning)
+
+
+
+*****************************************************************************
+***** Changelog for PHP Link Directory ver 3.2.0, created on Apr 24, 2007 ***
+*****************************************************************************
+Filename: phpLD_24-04-2007.zip
+Author: Constantin Bejenaru / Boby <constantin_bejenaru@frozenminds.com> (http://www.frozenminds.com)
+
+Changes:
+   - [ADD]     FCKEditor - Powerful Rich Text Editor for articles
+   - [ADD]     EditInPlace - AJAX in place editor for languages
+   - [UPGRADE] Smarty Template Engine upgraded to latest stable version (2.6.18)
+   - [UPGRADE] AdoDB database library upgraded to latest stable version (4.94)
+   - [UPGRADE] Scriptaculous Javascript library upgraded to latest stable version (1.7.0)
+   - [UPGRADE] Prototype Javascript library upgraded to latest stable version (1.5.0)
+
+   - [ADD]  Articles module
+   - [ADD]  Language Editor (using AJAX)
+   - [ADD]  Payment invoices (create new email templates)
+   - [ADD]  Contact us mod (banned email and words protection, captcha optional)
+   - [ADD]  Ban words from submit and contact
+   - [ADD]  You can now access all config variables via the "$phpldSettings" variable: $phpldSettings[CONFIG_ID] = CONFIG_VALUE
+   - [ADD]  Min/Max values for META keywords and description
+   - [ADD]  On user submit and auto generate, META keywords are automaticall transformed to lowercase and duplicates removed
+   - [ADD]  Option in admin panel to set categories and subcategories sorting order on directory pages
+   - [ADD]  User profile settings email notification, when a user or admin is making changes to password, the user get's an email with a notification (email tpl must be created and activated in the notifications page of admin panel)
+   - [ADD]  Password recovery email is using now email templates
+   - [ADD]  Password recovery for admin panel
+   - [ADD]  Category informations and statistics in admin panel
+   - [ADD]  Search categories, links, articles by ID
+   - [ADD]  Flexible search by category, parent, id of categories, links and articles by passing multiple (comma delimited) ID's via URL
+   - [ADD]  Email templates during installation
+   - [ADD]  Quick subcategory adder
+   - [ADD]  Database tables can have now options (http://phplens.com/lens/adodb/docs-datadict.htm) defined in /include/tables.php
+
+   - [FIX]  Domain banning, added also the options for wildcards "*". You can now ban all subdomains for example "*.domain.com"
+   - [FIX]  Database backup - sending to email or downloading to computer
+   - [FIX]  Sort links when Pagerank is turned off
+   - [FIX]  Sorting payments in admin panel
+   - [FIX]  Prevent possible spoofed IP addresses
+   - [FIX]  Admin login user and password length fix (if changed manually)
+   - [FIX]  Unique domain validation fix "mydomain.com" won't match and block "domain.com"
+   - [FIX]  When adding new DB table fields, submition is now automatically taking submitted values
+   - [FIX]  Typos, also changed filenames (both PHP and tpl) from "unauthorised.xyz" to "unauthorized.xyz" (S => Z)
+   - [FIX]  On multiple actions in admin panel, it will redirect back to previous page
+   - [FIX]  On validation, only one error at a time is shown for each field
+   - [FIX]  Security breach in admin panel, editors could edit links/categories without permissions
+   - [FIX]  User management separated into different SESSION variables for web users and admin panel users. Login/logout won't affect the other side ($_SESSION['phpld']['adminpanel'] vs $_SESSION['phpld']['user'])
+   - [FIX]  Ghost URLs for categories using category caching (main.tpl or wherever you build category URLs)
+   - [FIX]  Page 1 links removed, to prevent multiple content
+   - [FIX]  Removed warning at installation if PHP is running in CGI mode
+   - [FIX]  No more 404 Status Header or rewriting latest/top links and articles. Allowed URLs are: latest-links.html, top-hits.html, top-links.html, latest-articles.html, top-articles.html (update .htaccess)
+   - [FIX]  Google Pagerank checking faster, working on 64-bit servers, with 3 methods to get Pagerank (file_get_contents, cURL, fsockopen) and multiple Google domains to check Pagerank at (prevent abuse)
+   - [FIX]  Fixed redirections under Microsoft IIS
+   - [FIX]  Table storage engines are defined to MyISAM by default, to force to a different engine like InnoDB use table options in /include/tables.php and re-install
+   - [FIX]  Editing a category URL will update cache also for the subcategories
+   - [FIX]  Category URL cache of symbolic categories will point to their symbolism
+   - [FIX]  Admin and editors can now login to main page
+
+
+Files changed:
+   - [ADD]     article.php (article mod)
+   - [ADD]     contact.php (contact mod)
+   - [ADD]     include/email_templates.php
+   - [ADD]     /templates/Default/top_bar.tpl (contact mod+article mod)
+   - [ADD]     /templates/Default/contact.tpl (contact mod)
+   - [ADD]     /templates/Default/article.tpl (article mod)
+   - [ADD]     /templates/Default/articlelink.tpl (article mod)
+   - [ADD]     /templates/Default/article_search.tpl (article mod)
+   - [ADD]     /javascripts/fckeditor/ (article mod)
+   - [ADD]     /javascripts/editinplace/EditInPlace.js (language editor)
+   - [ADD]     /libs/smarty/plugins/function.fckeditor.php (article mod)
+   - [ADD]     admin/article_details.php (article mod)
+   - [ADD]     admin/article_edit.php (article mod)
+   - [ADD]     admin/article_list.php (article mod)
+   - [ADD]     admin/article_multi_action.php (article mod)
+   - [ADD]     admin/category_details.php
+   - [ADD]     admin/category_link_options.php
+   - [ADD]     admin/conf_language.php
+   - [ADD]     admin/ajax_lang_edit.php
+   - [ADD]     /templates/Core/admin/article_action_btn.tpl (article mod)
+   - [ADD]     /templates/Core/admin/article_details.tpl (article mod)
+   - [ADD]     /templates/Core/admin/article_edit.tpl (article mod)
+   - [ADD]     /templates/Core/admin/article_list.tpl (article mod)
+   - [ADD]     /templates/Core/admin/category_details.tpl
+   - [ADD]     /templates/Core/admin/category_link_options.tpl
+   - [ADD]     /templates/Core/admin/conf_language.tpl
+
+   - [CHANGE]  .htaccess
+   - [CHANGE]  index.php (article module)
+   - [CHANGE]  /templates/Default/main.tpl (article module, ghost urls)
+   - [CHANGE]  /templates/Default/top_bar.tpl (article module)
+
+   - [CHANGE]  payment.php
+   - [CHANGE]  include/tables.php (article mod)
+   - [CHANGE]  include/client_info.php
+   - [CHANGE]  include/constants.php
+   - [CHANGE]  include/functions.php
+   - [CHANGE]  include/functions_validate.php
+   - [CHANGE]  include/pagerank.php
+   - [CHANGE]  install/*
+   - [CHANGE]  /templates/Core/install/*
+   - [CHANGE]  libs/adodb/*
+   - [CHANGE]  libs/smarty/*
+   - [CHANGE]  libs/intsmarty/*
+
+   - [CHANGE]  /admin/* (most of them)
+   - [CHANGE]  /templates/Core/admin/* (most of them)
+
+   *****************************************************************************
+***** Changelog for PHP Link Directory ver 3.2.0, created on July 23, 2007 ***
+*****************************************************************************
+Filename: phpLD_07-23-2007.zip
+Author: Dawzz
+Silent Maintenance Release
+
+   - [CHANGE]  detail.php
+   - [CHANGE]  templates/*/detail.tpl   nofollow fix
+   - [CHANGE]  payment.php
+   - [CHANGE]  submit.php 
+   - [CHANGE]  /include/functions.php several fixes inolved
+   - [CHANGE]  /templates/Core/admin/conf_payment.tpl
+   - [CHANGE]  /admin/conf_payment.php
+   - [CHANGE]  /admin/dirdb_admin.php
+   - [CHANGE]  rss.php
+   - [CHANGE]  /templates/Default/paypal.tpl
+   - [CHANGE]  /templates/Domaining/paypal.tpl 
+   - [CHANGE]  /templates/SpringBreak/paypal.tpl 
+   - [NEW]     renamed config.php to config.php.new to prevent overwriting of existing config file.  Added renaming instructions to install.txt
+
+  *****************************************************************************
+***** Changelog for PHP Link Directory ver 3.2.0, created on August 12, 2007 ***
+*****************************************************************************
+Filename: phpLD_08-12-2007.zip
+Author: Dawzz
+Silent Maintenance Release
+
+   - [CHANGE]  search.php
+   - [CHANGE]  templates/default/search.tpl
+   - [CHANGE] /includes/functions_validate.php
+   - [CHANGE]  /includes/tables.php
+   - [NEW] /libs/request/*
+
+***************************************************************************************
+***** Changelog for PHP Link Directory ver 4.0.0 Beta, created on December 23, 2007 ***
+***************************************************************************************
+Filename: phpLD_Beta_12-23-2007.zip
+Author: Dawzz
+To be completed for the release
+ - [CHANGE]  Almost every main and admin php file. You will have to add all mods back due to mass changes
+ - [MAJOR CHANGE]  payment.php the PAY_UM is now no longer used. Left in database for upgrades.
+ - [NEW] /templates/Professional/*
+ - [NEW] /templates/Core/DefaultAdmin/*
+ - [NEW] /templates/Core/HorizontalMenuAdmin/*
+
+ There is no easy way to upgrade you will need to do a full database backup and current template.
+ Upload all file and run the installer.
+ Template changes will be posted in the community forums but be prepared as it will be a HUGE list.

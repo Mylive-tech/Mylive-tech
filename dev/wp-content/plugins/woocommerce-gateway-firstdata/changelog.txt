@@ -1,0 +1,97 @@
+*** WooCommerce First Data Gateway Changelog ***
+
+2015.09.16 - version 3.7.1
+ * Misc - WooCommerce Subscriptions 2.0 Compatibility
+ * Misc - Update SkyVerge Plugin Framework
+
+2015.07.28 - version 3.7.0
+ * Misc - WooCommerce 2.4 Compatibility
+
+2015.07.20 - version 3.6.2
+ * Misc - Rebranded GGe4 to Payeezy
+ * Fix - Avoid 'invalid field data' errors with malformed Soft Descriptor fields
+
+2015.04.21 - version 3.6.1
+ * Fix - Escape all instances of add_query_arg and remove_query_arg to avoid a potential XSS attack
+
+2015.02.09 - version 3.6.0
+ * Fix - Fix missing delete payment method icon
+ * Misc - WooCommerce 2.3 Compatibility
+
+2015.01.20 - version 3.5.0
+ * Feature - Refund support! You can now refund orders directly from the Edit Order screen :)
+ * Fix - Support special characters in the billing data while using the Global Gateway
+ * Misc - Introduce `wc_first_data_validate_fields` filter
+
+2014.10.21 - version 3.4.3
+ * Fix - Fix failing subscription renewals in rare cases
+
+2014.09.07 - version 3.4.2
+ * Misc - WooCommerce 2.2 Compatibility
+
+2014.07.18 - version 3.4.1
+ * Fix - Always return a default credit card token if a customer has one or more tokens
+
+2014.07.15 - version 3.4
+ * Feature - Compatibility with 3rd party currency switching plugins
+ * Fix - Credit card tokenization when purchasing a subscription and creating an account
+
+2014.04.25 - version 3.3.1
+ * Tweak - Use currently active payment method token for subscription renewal, if none is set on the order
+
+2014.02.10 - version 3.3
+ * Feature - Admin User profile credit card token management
+ * Feature - Add support for WooCommerce Subscriptions 1.4 "Change Payment Method" feature
+ * Tweak - Subscription/order put on hold when initial payment doesn't return a token
+
+2014.01.21 - version 3.2.1
+ * Fix - Required file bug fix
+
+2014.01.20 - version 3.2
+ * Misc - Uses SkyVerge Plugin Framework
+ * Misc - WooCommerce 2.1 Compatibility
+
+2013.11.09 - version 3.1.1
+ * Fix - TransArmor token is retrieved during charge/authorization when possible
+
+2013.10.18 - version 3.1
+ * Feature - Soft Descriptor support
+ * Fix - TransArmor token is not used immediately upon being created for a subsequent purchase/authorize transaction
+ * Fix - Improved handling for misconfigured Transarmor Tokenization
+ * Localization - Improved CodeStyling compatibility
+
+2013.07.16 - version 3.0
+ * Feature - First Data API v12 Security enhanced authentication supported
+ * Feature - Customers can securely save cards with TransArmor card tokenization
+ * Feature - WooCommerce Subscriptions support
+ * Feature - WooCommerce Pre-orders support
+ * Feature - First Data Global Gateway supported
+ * Full rewrite to use GGe4 XML REST rather than SOAP API
+
+2013.01.21 - version 2.0.4
+ * WC 2.0 Compatibility
+
+2013.01.04 - version 2.0.3
+ * Added description for environment hinting that demo should not be used unless you have a demo account
+ * Fixed default for environment
+ * Added processing error when SOAP extension is missing.
+
+2012.12.17 - version 2.0.2
+ * Include address verification string
+
+2012.12.05 - version 2.0.1
+ * Updater
+
+2012.08.09 - version 2.0.0
+ * Drop First Data Global Gateway support
+ * Full rewrite for First Data GGe4
+
+2012.05.10 - version 1.0.2
+ * Added WC_Debug connectivity check
+ * Renamed/Reorganized files for WordPress coding standards
+
+2012.05.05 - version 1.0.1
+ * Fixed First Data supplied library typos
+
+2012.01.26 - version 1.0
+ * First Release

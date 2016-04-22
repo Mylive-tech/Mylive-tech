@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget>
+	<zonetype>VERTICAL</zonetype>
+	<description>Display your vistors country flag</description>
+	<works_with>4.0</works_with>
+<setting>
+			<name>TITLE</name>
+		<identifier>TITLE</identifier>
+		<value>Visitor Country Flags</value>
+		<allowed></allowed>
+		<info>This title shows at top of the widget's generated content.</info>
+	</setting>
+	<setting>
+		<name>FLAG ID</name>
+		<identifier>FLAG_ID</identifier>
+		<value>rty65</value>
+		<allowed></allowed>
+		<info>Random ID you must enter to get accurate counts. Make it mix of several numbers and letters.</info>
+	</setting>
+	<setting>
+		<name>NO OF COLUMNS</name>
+		<identifier>NO_OF_COLUMNS</identifier>
+		<value>2</value>
+		<allowed></allowed>
+		<info>Display colums.</info>
+	</setting>
+	<setting>
+		<name>MAX FLAGS</name>
+		<identifier>MAX_FLAGS</identifier>
+		<value>248</value>
+		<allowed></allowed>
+		<info>Maximum Flags to Show.</info>
+	</setting>
+	<setting>
+		<name>VIEW LABELS</name>
+		<identifier>VIEW_LABELS</identifier>
+		<value>1</value>
+		<allowed></allowed>
+		<info>Set to 1 if you want to show country abbreviation, 0 if not.</info>
+	</setting>
+	<setting>
+		<name>VIEW PAGE VIEWS</name>
+		<identifier>VIEW_PAGE_VIEWS</identifier>
+		<value>1</value>
+		<allowed></allowed>
+		<info>Set to 1 if you want to show page views, 0 if not.</info>
+	</setting>
+	<setting>
+		<name>BACKGROUND COLOR</name>
+		<identifier>BACKGROUND_COLOR</identifier>
+		<value>FFFFFF</value>
+		<allowed></allowed>
+		<info>Background Color.</info>
+	</setting>
+	<setting>
+		<name>TEXT COLOR</name>
+		<identifier>TEXT_COLOR</identifier>
+		<value>000000</value>
+		<allowed></allowed>
+		<info>Text Color.</info>
+	</setting>
+	<setting>
+		<name>BORDER COLOR</name>
+		<identifier>BORDER_COLOR</identifier>
+		<value>CCCCCC</value>
+		<allowed></allowed>
+		<info>Border Color.</info>
+	</setting>
+
+	<author>PhpLD</author>
+	<author_url>www.phplinkdirectory.com</author_url>
+	<version>1.0</version>
+</widget>

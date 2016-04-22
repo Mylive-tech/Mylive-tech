@@ -1,0 +1,6 @@
+[25-Dec-2015 03:36:22 CST6CDT] PHP Fatal error:  Call to undefined function is_admin() in /home/mylivete/public_html/wp-content/themes/flatsome/inc/woocommerce/wc-helpers.php on line 114
+[25-Dec-2015 03:36:22 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/mylivete/public_html/wp-content/themes/flatsome/inc/woocommerce/wc-integrations.php on line 36
+[25-Dec-2015 03:36:22 CST6CDT] PHP Fatal error:  Call to undefined function remove_action() in /home/mylivete/public_html/wp-content/themes/flatsome/inc/woocommerce/template-tags-global.php on line 7
+[25-Dec-2015 03:36:22 CST6CDT] PHP Fatal error:  Call to undefined function remove_action() in /home/mylivete/public_html/wp-content/themes/flatsome/inc/woocommerce/template-tags-categories.php on line 24
+[25-Dec-2015 03:36:22 CST6CDT] PHP Fatal error:  Call to undefined function remove_action() in /home/mylivete/public_html/wp-content/themes/flatsome/inc/woocommerce/template-tags-checkout.php on line 28
+[25-Dec-2015 03:36:22 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/mylivete/public_html/wp-content/themes/flatsome/inc/woocommerce/template-tags-product-page.php on line 53

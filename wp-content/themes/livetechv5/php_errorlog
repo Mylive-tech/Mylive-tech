@@ -1,0 +1,8 @@
+[25-Dec-2015 03:36:21 CST6CDT] PHP Fatal error:  Call to undefined function is_active_sidebar() in /home/mylivete/public_html/wp-content/themes/livetechv5/footer.php on line 21
+[25-Dec-2015 03:36:21 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/mylivete/public_html/wp-content/themes/livetechv5/functions.php on line 8
+[25-Dec-2015 03:36:21 CST6CDT] PHP Fatal error:  Call to undefined function esc_url() in /home/mylivete/public_html/wp-content/themes/livetechv5/searchform.php on line 11
+[01-Mar-2016 06:45:31 CST6CDT] PHP Fatal error:  Call to undefined function language_attributes() in /home/mylivete/public_html/wp-content/themes/livetechv5/header.php on line 3
+[01-Mar-2016 06:45:32 CST6CDT] PHP Fatal error:  Call to undefined function get_stylesheet_directory() in /home/mylivete/public_html/wp-content/themes/livetechv5/functions.php on line 3
+[01-Mar-2016 06:45:32 CST6CDT] PHP Fatal error:  Call to undefined function is_active_sidebar() in /home/mylivete/public_html/wp-content/themes/livetechv5/footer.php on line 25
+[13-Mar-2016 08:32:04 CST6CDT] PHP Fatal error:  Call to undefined function get_stylesheet_directory() in /home/mylivete/public_html/wp-content/themes/livetechv5/functions.php on line 3
+[13-Mar-2016 08:32:07 CST6CDT] PHP Fatal error:  Call to undefined function is_active_sidebar() in /home/mylivete/public_html/wp-content/themes/livetechv5/footer.php on line 25

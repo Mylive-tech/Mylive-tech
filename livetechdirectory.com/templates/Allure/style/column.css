@@ -1,0 +1,135 @@
+﻿/* -- PHPLD COLUMNS AND BOX --*/
+.phpld-wbox{
+    width:960px;
+    margin: 0 auto;
+}
+.phpld-column{
+    display:table;
+    width:100%;
+    padding-bottom: 10px;
+}
+.phpld-col1{
+    float:left;width:20%
+}
+.phpld-col2{
+    float:right;width:20%
+}
+.phpld-col2 .listing-style-list .listing-list-item, .phpld-col1 .listing-style-list .listing-list-item{
+   margin: 0 0 20px;
+}
+.phpld-col2 .listing-style-list .listing-list-item a.listing-title,
+.phpld-col1 .listing-style-list .listing-list-item a.listing-title{
+    font-size:12px;
+    font-weight:normal;
+}
+.phpld-col2 .listingsList .phpld-gbox,
+.phpld-col1 .listingsList .phpld-gbox
+{
+    margin:0px;
+}
+.phpld-col3{
+    width:auto;margin:0 20%
+}
+
+.phpld-col3>.phpld-cbox{
+    padding:0px;
+    padding-bottom: 8px;
+}
+
+.phpld-col3 .phpld-cbox h1{
+    margin-bottom: 10px !important;
+    border-bottom: 1px dotted #CCC;
+    margin:0px -10px;
+    padding: 0 10px;
+	 font-size: 20px;
+}
+
+.phpld-columnar{margin-top:10px;}
+
+.phpld-col3 .phpld-columnar h3{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.phpld-cbox{
+    padding:0 10px
+}
+
+.phpld-cbox .spotlight {
+    text-align: center;
+}
+
+.phpld-grid{
+    display:table;
+    width:100%;
+    table-layout:fixed;
+    list-style-type:none;
+    padding-left:0;
+    padding-right:0;
+    margin-left:0;
+    margin-right:0;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.phpld-grid .phpld-cbox{
+    margin-left: 0px;
+    padding-left:0px;
+}
+.phpld-grid.phpld-full {
+    margin: 5px 0 5px 0px;
+}
+.phpld-gl{
+    float:left;
+    margin:0
+}
+.phpld-gr{
+    float:right;
+    margin:0 0 0 -5px
+}
+.phpld-g20{
+    width:20%
+}
+.phpld-g25{
+    width:25%
+}
+.phpld-g33{
+    width:33.333%
+}
+.woo.phpld-g33 {
+    width: 33.3%;
+}
+.phpld-g50{
+    width:50%
+}
+.phpld-gbox{
+    padding:0 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+.phpld-gbox.comment{
+    margin-bottom:8px;
+    padding: 3px;
+}
+
+.phpld-gbox.comment .date{
+    padding:0px;
+    margin:0px;
+}
+
+
+.phpld-equalize{
+    overflow:hidden
+}
+.phpld-equalize>[class*="phpld-g"]{
+    display:table-cell;
+    float:none;
+    margin:0;
+    vertical-align:top
+}
+.phpld-equalize>[class*="phpld-g"]>[class*="phpld-gbox"]{
+    padding-bottom:10000px;
+    margin-bottom:-10000px
+}
+/* -- PHPLD COLUMNS END--*/

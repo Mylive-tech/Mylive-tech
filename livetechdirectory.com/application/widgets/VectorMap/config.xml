@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget>
+    <zonetype>CENTRAL</zonetype>
+    <description>Vector map. You can attach categories to map areas.</description>
+    <works_with>4.0</works_with>
+    <setting>
+        <name>TITLE</name>
+        <identifier>TITLE</identifier>
+        <value>Map</value>
+        <allowed></allowed>
+        <info>This title shows at top of the widget's generated content.</info>
+    </setting>
+    <setting>
+        <name>Map Type</name>
+        <identifier>MAP_TYPE</identifier>
+        <value>USA</value>
+        <allowed>USA,Europe,World</allowed>
+    </setting>
+    <setting>
+        <name>Region Color</name>
+        <identifier>REGION_COLOR</identifier>
+        <value></value>
+        <info>Hexadecimal format, ex. #555</info>
+    </setting>
+    <setting>
+        <name>Region Mouse Over Color</name>
+        <identifier>MOUSEOVER_COLOR</identifier>
+        <value></value>
+        <info>Hexadecimal format, ex. #333</info>
+    </setting>
+    <setting>
+        <name>Background Color</name>
+        <identifier>BACKGROUND_COLOR</identifier>
+        <value></value>
+        <info>Hexadecimal format, ex. #FFF</info>
+    </setting>
+    <author>PhpLD</author>
+    <author_url>www.phplinkdirectory.com</author_url>
+    <version>1.0</version>
+</widget>

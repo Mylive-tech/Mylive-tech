@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<settings>
+    <options>
+        <option enabled="0" name="background"/>
+        <option enabled="0" name="fonts"/>
+    </options>
+    <sidebars>
+        <sidebar name="sidebar1" label="Sidebar 1" width="25">
+            <field type="select" default="%" label="">
+                <option>%</option>
+                <option>px</option>
+            </field>    
+        </sidebar>
+        <sidebar name="sidebar2" label="Sidebar 2" width="25">
+            <field type="select" default="%" label="">
+                <option>%</option>
+                <option>px</option>
+            </field>    
+        </sidebar>
+    </sidebars>
+    <layout>
+        <field type="select" label="Select Layout for pages">
+           
+            <option value="1">Layout 1</option>
+            <option value="2">Layout 2</option>
+            <option value="3">Layout 3</option>
+            <option value="4">Layout 4</option>
+            <option value="5">Layout 5</option>
+            <option value="6">Layout 6</option>
+            <option value="custom">Custom Layout</option>
+           
+        </field>    
+    </layout>
+    
+    <color>
+        <field type="select" default="default" label="Color">
+            <option value="default">Default</option>
+        </field>
+    </color>
+    <submit default="1" label="Show Widgets on Submit Page"/>
+    <widgetheading default="3" label="Widget title heading"/>
+    <titleheading default="2" label="Page title heading"/>
+    <zones>
+        <zone name="HOMEPAGE" layout="0"/>
+        <zone name="LINK_DETAIL" layout="0"/>
+        <zone name="CATEGORY_PAGE" layout="0"/>
+        <zone name="LOCATION_PAGE" layout="0"/>
+        <zone name="TAG_PAGE" layout="0"/>
+        <zone name="ANY_OTHER_PAGE" layout="0"/>
+    </zones>
+    <headings>
+        <heading name="h1" value="1"/>
+        <heading name="h2" value="2"/>
+        <heading name="h3" value="3"/>
+        <heading name="h4" value="4"/>
+        <heading name="h5" value="5"/>
+        <heading name="h6" value="6"/>
+    </headings>
+
+</settings>

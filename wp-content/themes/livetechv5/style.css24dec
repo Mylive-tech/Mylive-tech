@@ -1,0 +1,249 @@
+/*
+Theme Name: Flatsome Child Theme
+Theme URI: http://flatsome.uxthemes.com/
+Description: This is a child theme for Flatsome
+Author: UX Themes
+Author URI: http: //www.uxthemes.com/
+Template: flatsome
+Version: 2.5
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+
+
+@media only screen and (max-width: 48em) {
+/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+
+}
+
+
+
+
+<!---->
+
+#popup_window {
+
+	padding:10px;
+
+	background:#267E8A;
+
+	cursor:pointer;
+
+	color:#FCFCFC;
+
+	margin:200px 0px 0px 200px;
+
+}
+.popup-overlay {
+
+	width:100%;
+
+	height:100%;
+
+	position:fixed;
+
+	background:rgba(0, 0, 0, .75);
+
+	top:0;
+
+	left:10%;
+
+	opacity:0;
+
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+
+	-webkit-transition:opacity .2s ease-out;
+
+	-moz-transition:opacity .2s ease-out;
+
+	-ms-transition:opacity .2s ease-out;
+
+	-o-transition:opacity .2s ease-out;
+
+	transition:opacity .2s ease-out;
+
+}
+
+.overlay .popup-overlay {
+
+	opacity:1;
+
+	left:0
+
+}
+
+.popup {
+
+	position:fixed;
+
+	top:25%;
+
+	z-index:-9999;
+
+	left:5%;
+
+	width:85%
+
+}
+
+.popup .popup-body {
+
+	background:url(https://www.mylive-tech.com/wp-content/uploads/home-whychoose-bg3.jpg) repeat top left;
+
+	opacity:0;
+
+	min-height:150px;
+
+	width:100%;
+
+	margin:0 auto;
+
+	padding:20px;
+
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+
+	-webkit-transition:opacity .2s ease-out;
+
+	-moz-transition:opacity .2s ease-out;
+
+	-ms-transition:opacity .2s ease-out;
+
+	-o-transition:opacity .2s ease-out;
+
+	transition:opacity .2s ease-out;
+
+	position:relative;
+
+	text-align:center;
+
+	border:1px solid #ccc;
+
+	color:black
+
+}
+
+.popup.visible, .popup.transitioning {
+
+	z-index:99999999;
+
+}
+
+.popup.visible .popup-body {
+
+	opacity:1;
+
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+
+}
+
+.popup .popup-exit {
+
+	cursor:pointer;
+
+	display:block;
+
+	width:24px;
+
+	height:24px;
+
+	position:relative;
+
+	float:right
+
+}
+
+.popup .popup-content {
+
+	overflow-y:auto;
+
+}
+
+.popup-content .popup-title {
+
+	font-size:24px;
+
+	color:black !important
+
+}
+
+.popup-content p {
+
+	font-size:13px;
+
+	text-align:center;
+
+	margin:0
+
+}
+.popup-content li {
+    display: -webkit-inline-box;
+    padding: 10px 24px;
+} 
+
+@media only screen and (max-width:769) {
+#support-center { display:none !important;}
+.support-center-text {display:none !important;}
+}
+
+@media only screen and (max-width:320) {
+#support-center { display:none !important;}
+.support-center-text {display:none !important;}
+}
+
+<!---->
+
+
+
+th {
+text-align:center;
+background-color:#00AEEF;
+color:#fff;
+padding:4px !important;
+font-weight:normal;
+font-size:12px;
+}
+td {
+font-size:12px;
+padding:3px !important;
+text-align:left;
+}
+tr {background: #fff}
+twr:nth-child(odd) {background: #f0f0f0}
+
+.pager,.pager a {
+background-color:#00AEEF;
+color:#fff;
+padding:3px;
+}
+.lheads {
+	display:none;
+background-color:#fff;
+padding:3px;
+font-weight:bold;
+font-size:16px;
+}
+.lpart {
+background-color:#fff;
+padding:1px !important;
+}
+.lpages {
+	font-size:16px;
+
+}
+.lcount {
+background-color:#00AEEF;
+color:#fff;
+padding:2px;
+margin:2px;
+font:bold 12px verdana;
+}
+a.aemphasis {
+color:#009;
+font-weight:bold;
+}
+.ajax_search_content {
+    background-color: white;
+}
+.ctr_search{width:113% !important;float:right !important;border:1px solid #fff !important;}

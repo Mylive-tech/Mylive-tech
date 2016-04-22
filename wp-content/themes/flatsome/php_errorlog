@@ -1,0 +1,7 @@
+[25-Dec-2015 02:47:47 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/mylivete/public_html/wp-content/themes/flatsome/index.php on line 8
+[01-Mar-2016 06:45:05 CST6CDT] PHP Fatal error:  Call to undefined function language_attributes() in /home/mylivete/public_html/wp-content/themes/flatsome/header.php on line 3
+[01-Mar-2016 06:45:05 CST6CDT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/mylivete/public_html/wp-content/themes/flatsome/functions.php on line 8
+[01-Mar-2016 06:45:05 CST6CDT] PHP Fatal error:  Call to undefined function is_active_sidebar() in /home/mylivete/public_html/wp-content/themes/flatsome/footer.php on line 21
+[01-Mar-2016 06:45:12 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/mylivete/public_html/wp-content/themes/flatsome/archive.php on line 10
+[01-Mar-2016 06:45:12 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/mylivete/public_html/wp-content/themes/flatsome/404.php on line 13
+[01-Mar-2016 06:45:12 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/mylivete/public_html/wp-content/themes/flatsome/404.php on line 13

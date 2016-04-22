@@ -1,0 +1,249 @@
+.g1-social-icon--500px               { background-color:#444444; }
+.g1-social-icon--aboutme             { background-color:#00405d; }
+.g1-social-icon--alistapart          { background-color:#222222; }
+.g1-social-icon--amazon              { background-color:#ff9900; }
+.g1-social-icon--amazonwishlist      { background-color:#ff9900; }
+.g1-social-icon--android             { background-color:#a4c639; }
+.g1-social-icon--appdotnet           { background-color:#898d90; }
+.g1-social-icon--apple               { background-color:#b9bfc1; }
+.g1-social-icon--audioboo            { background-color:#ae006e; }
+.g1-social-icon--aws                 { background-color:#ff9900; }
+.g1-social-icon--bebo                { background-color:#ee1010; }
+.g1-social-icon--behance             { background-color:#1769ff; }
+.g1-social-icon--blip                { background-color:#ff1919; }
+.g1-social-icon--blogger             { background-color:#f57d00; }
+.g1-social-icon--bootstrap           { background-color:#0088cc; }
+.g1-social-icon--codepen             { background-color:#231f20; }
+.g1-social-icon--codeschool          { background-color:#c68044; }
+.g1-social-icon--codecademy          { background-color:#0088cc; }
+.g1-social-icon--coderwall           { background-color:#3e8dcc; }
+.g1-social-icon--conservatives       { background-color:#0087dc; }
+.g1-social-icon--coursera            { background-color:#3a6d8e; }
+.g1-social-icon--css3                { background-color:#0092bf; }
+.g1-social-icon--delicious           { background-color:#3274d1; }
+.g1-social-icon--designernews        { background-color:#1c52a2; }
+.g1-social-icon--deviantart          { background-color:#4b5d50; }
+.g1-social-icon--digg                { background-color:#14589e; }
+.g1-social-icon--disqus              { background-color:#2e9fff; }
+.g1-social-icon--dribbble            { background-color:#ea4c89; }
+.g1-social-icon--dropbox             { background-color:#2281cf; }
+.g1-social-icon--drupal              { background-color:#0077c0; }
+.g1-social-icon--ebay                { background-color:#0064d2; }
+.g1-social-icon--email               { background-color:#666666; }
+.g1-social-icon--eventstore          { background-color:#6ba300; }
+.g1-social-icon--eventbrite          { background-color:#f3844c; }
+.g1-social-icon--evernote            { background-color:#7ac142; }
+.g1-social-icon--exfm                { background-color:#0097f8; }
+.g1-social-icon--facebook            { background-color:#3b5998; }
+.g1-social-icon--flickr              { background-color:#0063db; }
+.g1-social-icon--formspring          { background-color:#0076c0; }
+.g1-social-icon--forrst              { background-color:#5b9a68; }
+.g1-social-icon--foursquare          { background-color:#2398c9; }
+.g1-social-icon--geeklist            { background-color:#8cc63e; }
+.g1-social-icon--github              { background-color:#4183c4; }
+.g1-social-icon--goodreads           { background-color:#5a471b; }
+.g1-social-icon--google              { background-color:#245dc1; }
+.g1-social-icon--googleplus          { background-color:#d14836; }
+.g1-social-icon--govuk               { background-color:#231f20; }
+.g1-social-icon--grooveshark         { background-color:#000000; }
+.g1-social-icon--hackernews          { background-color:#ff6600; }
+.g1-social-icon--heroku              { background-color:#6762a6; }
+.g1-social-icon--html5               { background-color:#f06529; }
+.g1-social-icon--imdb                { background-color:#f3ce00; }
+.g1-social-icon--instagram           { background-color:#3f729b; }
+.g1-social-icon--jquery              { background-color:#0867ab; }
+.g1-social-icon--jqueryui            { background-color:#fea620; }
+.g1-social-icon--jsdb                { background-color:#da320b; }
+.g1-social-icon--jsfiddle            { background-color:#4679a4; }
+.g1-social-icon--justgiving          { background-color:#78256d; }
+.g1-social-icon--kickstarter         { background-color:#87c442; }
+.g1-social-icon--klout               { background-color:#e24a25; }
+.g1-social-icon--labour              { background-color:#c41230; }
+.g1-social-icon--laravel             { background-color:#fb502b; }
+.g1-social-icon--lastfm              { background-color:#d51007; }
+.g1-social-icon--layervault          { background-color:#26ae90; }
+.g1-social-icon--letterboxd          { background-color:#2c3641; }
+.g1-social-icon--liberaldemocrats    { background-color:#f7b135; }
+.g1-social-icon--linkedin            { background-color:#007fb1; }
+.g1-social-icon--mediatemple         { background-color:#000000; }
+.g1-social-icon--mendeley            { background-color:#b61f2f; }
+.g1-social-icon--modernizr           { background-color:#d81a76; }
+.g1-social-icon--myspace             { background-color:#008dde; }
+.g1-social-icon--nationalrail        { background-color:#003366; }
+.g1-social-icon--newsvine            { background-color:#075b2f; }
+.g1-social-icon--office              { background-color:#eb3c00; }
+.g1-social-icon--orkut               { background-color:#ed2590; }
+.g1-social-icon--outlook             { background-color:#0072c6; }
+.g1-social-icon--path                { background-color:#e41f11; }
+.g1-social-icon--php                 { background-color:#6181b6; }
+.g1-social-icon--pinboard            { background-color:#0000ff; }
+.g1-social-icon--pingup              { background-color:#00b1ab; }
+.g1-social-icon--pinterest           { background-color:#cb2027; }
+.g1-social-icon--posterous           { background-color:#ffdd68; }
+.g1-social-icon--protoio             { background-color:#40c8f4; }
+.g1-social-icon--rails               { background-color:#a62c39; }
+.g1-social-icon--readability         { background-color:#870000; }
+.g1-social-icon--reddit              { background-color:#ff4500; }
+.g1-social-icon--rss                 { background-color:#ff8300; }
+.g1-social-icon--simpleicons         { background-color:#bf1813; }
+.g1-social-icon--skydrive            { background-color:#094ab1; }
+.g1-social-icon--skype               { background-color:#00aff0; }
+.g1-social-icon--slideshare          { background-color:#009999; }
+.g1-social-icon--smashingmagazine    { background-color:#e95c33; }
+.g1-social-icon--soundcloud          { background-color:#ff6600; }
+.g1-social-icon--spotify             { background-color:#80b719; }
+.g1-social-icon--squarespace         { background-color:#000000; }
+.g1-social-icon--stackexchange       { background-color:#1f5196; }
+.g1-social-icon--stackoverflow       { background-color:#f47920; }
+.g1-social-icon--stumbleupon         { background-color:#eb4924; }
+.g1-social-icon--superuser           { background-color:#2dabe2; }
+.g1-social-icon--ted                 { background-color:#ff2b06; }
+.g1-social-icon--trakt               { background-color:#222222; }
+.g1-social-icon--treehouse           { background-color:#7fa24c; }
+.g1-social-icon--tripadvisor         { background-color:#589442; }
+.g1-social-icon--tumblr              { background-color:#2c4762; }
+.g1-social-icon--twitter             { background-color:#39a9e0; }
+.g1-social-icon--typo3               { background-color:#ff8700; }
+.g1-social-icon--viadeo              { background-color:#f4982b; }
+.g1-social-icon--vimeo               { background-color:#44bbff; }
+.g1-social-icon--vine                { background-color:#00a47a; }
+.g1-social-icon--visualstudio        { background-color:#68217a; }
+.g1-social-icon--w3c                 { background-color:#0066b0; }
+.g1-social-icon--windows             { background-color:#00bdf6; }
+.g1-social-icon--wordpress           { background-color:#21759b; }
+.g1-social-icon--yahoo               { background-color:#731a8b; }
+.g1-social-icon--yelp                { background-color:#c93c27; }
+.g1-social-icon--youtube             { background-color:#cd332d; }
+
+
+
+
+.g1-social-icons {
+    margin:0 0 1.5em;
+}
+
+
+.g1-social-icons > ul {
+    margin:0;
+    overflow:hidden;
+    list-style:none;
+}
+
+
+.g1-social-icons > ul > li {
+    position:relative;
+    float:left;
+}
+
+
+.g1-social-icons--24 > ul > li {
+    min-height:24px;
+    padding-left:24px;
+}
+.g1-social-icons--32 > ul > li {
+    min-height:32px;
+    padding-left:32px;
+}
+.g1-social-icons--48 > ul > li {
+    min-height:48px;
+    padding-left:48px;
+}
+.g1-social-icons--64 > ul > li {
+    min-height:64px;
+    padding-left:64px;
+}
+
+
+/* Vertical list template */
+.g1-social-icons--list-vertical > ul > li {
+    width:100%;
+    padding-bottom:0.75em;
+}
+.g1-social-icons--list-vertical > ul > li + li {
+    border-width:1px 0 0;
+    padding-top:0.75em;
+}
+
+
+
+.g1-social-icons strong {
+    padding:0 20px 0 10px;
+    display:block;
+}
+
+
+.g1-social-icons i {
+    padding:0 20px 0 10px;
+    display:block;
+}
+
+
+
+.g1-social-icon {
+    display:block;
+    overflow:hidden;
+    position:absolute;
+    left:0;
+}
+
+.g1-social-icons--24 .g1-social-icon {
+    width:24px;
+    height:24px;
+}
+
+
+.g1-social-icons--32 .g1-social-icon {
+    width:32px;
+    height:32px;
+}
+
+.g1-social-icons--48 .g1-social-icon {
+    width:48px;
+    height:48px;
+}
+
+.g1-social-icons--64 .g1-social-icon {
+    width:64px;
+    height:64px;
+}
+
+
+/* CSS3 animation */
+
+@-webkit-keyframes g1_social_icon {
+    0%    { -webkit-transform: translate(0, 0); }
+    50%   { -webkit-transform: translate(0, -100%); }
+    51%   { -webkit-transform: translate(0, 100%); }
+    100%  { -webkit-transform: translate(0, 0); }
+}
+
+@-moz-keyframes g1_social_icon {
+    0%    { -moz-transform: translate(0, 0); }
+    50%   { -moz-transform: translate(0, -100%); }
+    51%   { -moz-transform: translate(0, 100%); }
+    100%  { -moz-transform: translate(0, 0); }
+}
+
+@-o-keyframes g1_social_icon {
+    0%    { -o-transform: translate(0, 0); }
+    50%   { -o-transform: translate(0, -100%); }
+    51%   { -o-transform: translate(0, 100%); }
+    100%  { -o-transform: translate(0, 0); }
+}
+
+@keyframes g1_social_icon {
+    0%    { transform: translate(0, 0); }
+    50%   { transform: translate(0, -100%); }
+    51%   { transform: translate(0, 100%); }
+    100%  { transform: translate(0, 0); }
+}
+
+a:hover .g1-social-icon > img {
+-webkit-animation: g1_social_icon 0.35s;
+   -moz-animation: g1_social_icon 0.35s;
+    -ms-animation: g1_social_icon 0.35s;
+     -o-animation: g1_social_icon 0.35s;
+        animation: g1_social_icon 0.35s;
+}
+
+

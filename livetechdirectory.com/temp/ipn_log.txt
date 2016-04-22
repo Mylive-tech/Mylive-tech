@@ -1,0 +1,56 @@
+[03/11/2015 3:37 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=155.40, protection_eligibility=Ineligible, payer_id=B2RQUQ3HTTKMG, tax=0.00, payment_date=08:37:00 Mar 11, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Wayne, mc_fee=4.81, notify_version=3.8, custom=2, payer_status=unverified, business=frank@mylive-tech.com, quantity=1, verify_sign=AvG-3db2x7JO545reCTlq95CnijdACDsYVk-0qactZtmIH-M9WLr1NtR, payer_email=wrc@cohenandcohen.net, txn_id=68G28086G58556056, payment_type=instant, last_name=Cohen, receiver_email=frank@mylive-tech.com, payment_fee=4.81, receiver_id=7RQTP83MX7TQJ, txn_type=web_accept, item_name=Link to http://www.caraccidentlawyerdc.com/automobile-accidents/ for Live-Tech Link Directory, mc_currency=USD, item_number=661, residence_country=US, receipt_id=1126-9273-7593-0550, handling_amount=0.00, transaction_subject=2, payment_gross=155.40, shipping=0.00, ipn_track_id=d5a3661c7c7fc, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-origin-www.paypal.com
+Date: Wed, 11 Mar 2015 15:37:24 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=HitS_7MK1RXq8KvkfERU5t7Zjq4R5ukQzU9GNt7EGEJ_NCywxaeyEcX-i5iLrp-QSyGyGdZk-3qvLyiwvRj_mZCwaIvZXMtQsg7AIUztp87VTIkSWd_2HtVffjGKTEA-plHw56lbohAcdhTrL-OiwWSEpdqQP4hlJ5aF_baUkg5q897lKwP_7QfN2X1boumPH9dVupipq2PHYtils8lPl0zxN-GnJ3Qh8bRFDq60YpI5hFjjSx4-cjbEA2va9lPiEnOJPCUTQGHUymn7PKH1j08rv9BtHoaMCOKXDl2T5_EFvT3mIEwjMkEeChd-MOW_MZrbssIrlQKg96IU0wshhJSmCNmOeSTI7tGdlkVruswDCGB6W-fJNLzSvAizdA0oAYd2yUFTFGG5wladVeT4Gskf93tOYCCMzPJDeiX5po8jkH1L3GcOKsLfE_u; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Sat, 08-Mar-2025 15:37:24 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Fri, 10-Mar-2017 15:37:24 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.16.0.148.1426088244001002; path=/; expires=Fri, 03-Mar-45 15:37:24 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE9.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D861995093; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.16.0.11.1426088243993731; path=/; expires=Fri, 03-Mar-45 15:37:23 GMT
+Set-Cookie: AKDC=slc-origin-www.paypal.com; expires=Wed, 11-Mar-2015 16:07:24 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+
+[03/27/2015 3:25 PM] - SUCCESS!
+IPN POST Vars from Paypal:
+mc_gross=35.88, protection_eligibility=Ineligible, payer_id=KDGYFMF76JL56, tax=0.00, payment_date=08:25:15 Mar 27, 2015 PDT, payment_status=Completed, charset=windows-1252, first_name=Richard, mc_fee=1.70, notify_version=3.8, custom=3, payer_status=verified, business=frank@mylive-tech.com, quantity=1, verify_sign=A0KTMB4-ZjjK-X-NYRBS6h0mNzW.AE.sIm5JGraXrwR-Rns1UNOc5vx1, payer_email=rich@alivenetwork.com, txn_id=0V887744HU4740031, payment_type=instant, payer_business_name=Alive Network, last_name=Hearn, receiver_email=frank@mylive-tech.com, payment_fee=1.70, receiver_id=7RQTP83MX7TQJ, txn_type=web_accept, item_name=Link to http://www.alivenetwork.com/hirelivemusic/hire_bands_in.asp?area=Cambridgeshire for Live-Tech Link Directory, mc_currency=USD, item_number=714, residence_country=GB, handling_amount=0.00, transaction_subject=3, payment_gross=35.88, shipping=0.00, ipn_track_id=a7b70a934ebf8, 
+IPN Response from Paypal Server:
+ HTTP/1.1 200 OK
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: text/html; charset=UTF-8
+DC: slc-a-origin-www-1.paypal.com
+Date: Fri, 27 Mar 2015 15:25:37 GMT
+Content-Length: 8
+Connection: close
+Set-Cookie: cwrClyrK4LoCV1fydGbAxiNL6iG=jki0wlbx0g8vlwpxyClRgF-5gfjzKmDyEmaSiPRkbtg3ILWy-RLOCHCX0XvHSaCfau_WeEHT8ZoP7sYKPBFWmxoXkXolhWdRKAD7aE536IVPVhrK0VhybWhL4nBoMmuIHM7XT6wxGdGHHksRiVZziDYFZ15GpA0uBUVUMWUHkrfOs57L8SZ6kX-zCMFkwyrmxy0Hxmw-FYgFquG0N5Crej_ltjyJNJx8J0TXZk_NxxbdTzdFcjoVC_MdTiQwnMffXxeqiNjyxTYqivWBiv88joEHTr4DHLT85ZKayti3N8FAne0JeQy4-fRxQ3OxvoRobl33-uEOyVVHGoxLups9PYB0jabW3n42bMxnDvMEQpWFBqGrUdYv7ol6dW6sDuzJOXxpLl8YcpEed7uUq44D_0Vw23lQSWAfV788DcNvt2EzyXry9XOe0_92wSa; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: cookie_check=yes; expires=Mon, 24-Mar-2025 15:25:37 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navcmd=_notify-validate; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: navlns=0.0; expires=Sun, 26-Mar-2017 15:25:37 GMT; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: Apache=10.73.8.134.1427469937494869; path=/; expires=Sun, 19-Mar-45 15:25:37 GMT
+Set-Cookie: X-PP-SILOVER=name%3DLIVE5.WEB.1%26silo_version%3D880%26app%3Dappdispatcher%26TIME%3D1903564117; domain=.paypal.com; path=/; Secure; HttpOnly
+Set-Cookie: X-PP-SILOVER=; Expires=Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: Apache=10.73.8.39.1427469937485157; path=/; expires=Sun, 19-Mar-45 15:25:37 GMT
+Set-Cookie: AKDC=slc-a-origin-www-1.paypal.com; expires=Fri, 27-Mar-2015 15:55:37 GMT; path=/; secure
+Strict-Transport-Security: max-age=63072000
+
+VERIFIED
+

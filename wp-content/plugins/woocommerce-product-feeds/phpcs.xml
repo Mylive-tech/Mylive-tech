@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!--
+  Customize the rules WP Enforcer uses by editing this file according to PHP CodeSniffer's
+  ruleset.xml standard: https://github.com/squizlabs/PHP_CodeSniffer/wiki/Annotated-ruleset.xml
+-->
+<ruleset name="WP-Enforcer">
+	<description>Coding standards from WP Enforcer.</description>
+
+	<!-- FILES -->
+
+	<exclude-pattern>*/tests/*</exclude-pattern>
+	<exclude-pattern>*/vendor/*</exclude-pattern>
+	<!--
+	    There is a special internal error message produced by PHP_CodeSniffer
+	    when it is unable to detect code in a file, possible due to
+	    the use of short open tags even though php.ini disables them.
+	    You can disable this message in the same way as sniff messages.
+
+	    Again, the code here will be displayed in the PHP_CodeSniffer
+	    output when using the -s command line argument while checking a file.
+	 -->
+	 <rule ref="Internal.NoCodeFound">
+	  <severity>0</severity>
+	 </rule>
+	<rule ref="WordPress-Extra"/>
+	<rule ref="WordPress-Docs"/>
+</ruleset>

@@ -1,0 +1,1 @@
+<a href="http://flagcounter.com/more/{$flagID}"><img src="http://flagcounter.com/count/{$flagID}/bg={$flagBG}/txt={$flagTC}/border={$flagBC}/columns={$flagNOC}/maxflags={$flagMAX}/viewers=0/labels={$flagVL}/pageviews={$flagVPV}/" alt="free counters" border="0">&nbsp;</a>

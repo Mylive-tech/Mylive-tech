@@ -1,0 +1,106 @@
+table.media_manager{
+	font-family: "Tahoma", Verdana, Arial, Helvetica, sans-serif;
+	font-size:  75%;
+	border-collapse: collapse;
+}
+
+table.media_manager caption{
+	background: url(title.png) no-repeat 50px;
+	font-size: 400%;
+	text-indent: -10000px;
+}
+
+table.media_manager thead tr{
+	background-color: #D9FFD9;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+table.media_manager tfoot tr{
+	background-color: #FFFFFF;
+}
+
+table.media_manager thead th{
+	padding: 0.5em;
+	white-space: nowrap;
+}
+
+table.media_manager tfoot th{
+	font-size: 110%;
+	text-align: right;
+	padding-right: 0.5em;
+	letter-spacing: 1px;
+	background:  
+}
+
+table.media_manager tfoot td{
+	padding-left: 0.5em;
+	color: red;
+	font-size: 110%;
+	font-weight: 600;
+}
+
+table.media_manager tfoot td:hover{
+	background-color: red;
+	color: white;
+}
+
+table.media_manager tr{
+	background-color: #EAFDFF;
+}
+
+table.media_manager tr.odd{
+	background-color: #FFFFFF;
+}
+
+table.media_manager tbody tr:hover{
+	background-color: #FFCCCC;
+}
+
+table.media_manager td, th{
+	border: 1px dotted #CCCCCC;
+}
+
+table.media_manager tbody td
+{
+	padding: 0.4em;
+}
+
+table.media_manager td a:link, th a:link{
+	color: black;
+}
+
+table.media_manager td a:visited, th a:visited{
+	color: black;
+}
+
+table.media_manager td a:hover, th a:hover{
+	color: purple;
+	text-decoration: underline;
+}
+
+
+table.media_manager  td a{
+	-moz-border-radius: 4px 4px 4px 4px;
+	border-style: solid;
+	border-width: 1px;
+	cursor: pointer;
+	font-size: 11px !important;
+	line-height: 13px;
+	padding: 3px 8px;
+	text-decoration: none;
+	text-shadow: 0 1px 0 #FFFFFF;
+}
+
+div.navig {
+	float:right;
+	font-style:italic;
+	font-size:12px;
+	text-align:right;
+}
+div.navig a
+{
+font-size:12px;
+font-style:italic;
+color:grey;
+}

@@ -1,0 +1,293 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woocommerce-checkout-manager\n"
+"POT-Creation-Date: 2013-09-21 14:23-0400\n"
+"PO-Revision-Date: 2013-09-21 14:23-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;__;_e;esc_attr_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: woocommerce-checkout-manager.php:41
+msgid "Example Label"
+msgstr "Ejemplo de etiqueta"
+
+#: woocommerce-checkout-manager.php:42
+msgid "Example placeholder"
+msgstr "Ejemplo de marcador de posición"
+
+#: woocommerce-checkout-manager.php:43
+msgid "myfld1"
+msgstr "myfld1"
+
+#: woocommerce-checkout-manager.php:44
+msgid "option 1"
+msgstr "opción 1"
+
+#: woocommerce-checkout-manager.php:45
+msgid "option 2"
+msgstr "opción 2"
+
+#: woocommerce-checkout-manager.php:84 woocommerce-checkout-manager.php:134
+msgid "WooCommerce Checkout Manager"
+msgstr "WooCommerce Pedido Director"
+
+#: woocommerce-checkout-manager.php:99
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Usted no tiene permisos suficientes para acceder a esta página."
+
+#: woocommerce-checkout-manager.php:117
+msgid "settings saved."
+msgstr "ajustes guardados."
+
+#: woocommerce-checkout-manager.php:142
+msgid "Found this Plugin Useful? Why not Buy me a "
+msgstr "Encontré este útil plugin? ¿Por qué no comprarme un"
+
+#: woocommerce-checkout-manager.php:142
+msgid "beer"
+msgstr "cerveza"
+
+#: woocommerce-checkout-manager.php:142
+msgid "to say thanks for the awesome coding."
+msgstr "decir gracias por la codificación impresionantes."
+
+#: woocommerce-checkout-manager.php:159 woocommerce-checkout-manager.php:357
+msgid "Field Name"
+msgstr "Nombre del campo"
+
+#: woocommerce-checkout-manager.php:160 woocommerce-checkout-manager.php:358
+msgid "Remove Field Entirely"
+msgstr "Eliminar campo totalmente"
+
+#: woocommerce-checkout-manager.php:161 woocommerce-checkout-manager.php:359
+msgid "Remove Required Attribute"
+msgstr "Eliminar atributo necesario"
+
+#: woocommerce-checkout-manager.php:162 woocommerce-checkout-manager.php:360
+msgid "Replace Label Name"
+msgstr "Reemplace Nombre Label"
+
+#: woocommerce-checkout-manager.php:163 woocommerce-checkout-manager.php:361
+msgid "Replace Placeholder Name"
+msgstr "Reemplace Nombre de marcador de posición"
+
+#: woocommerce-checkout-manager.php:171 woocommerce-checkout-manager.php:369
+msgid "Select All Check boxes in this Column"
+msgstr "Seleccione todas las casillas en esta columna"
+
+#: woocommerce-checkout-manager.php:182 woocommerce-checkout-manager.php:381
+msgid "First Name"
+msgstr "Nombre"
+
+#: woocommerce-checkout-manager.php:199 woocommerce-checkout-manager.php:398
+msgid "Last Name"
+msgstr "apellido"
+
+#: woocommerce-checkout-manager.php:214 woocommerce-checkout-manager.php:429
+msgid "Country"
+msgstr "país"
+
+#: woocommerce-checkout-manager.php:227
+msgid "Phone"
+msgstr "teléfono"
+
+#: woocommerce-checkout-manager.php:242
+msgid "Email"
+msgstr "E-mail"
+
+#: woocommerce-checkout-manager.php:258 woocommerce-checkout-manager.php:413
+msgid "Company"
+msgstr "empresa"
+
+#: woocommerce-checkout-manager.php:275
+msgid "Order Comments"
+msgstr "Solicitar Comentarios"
+
+#: woocommerce-checkout-manager.php:291 woocommerce-checkout-manager.php:444
+msgid "Address 1"
+msgstr "Dirección 1"
+
+#: woocommerce-checkout-manager.php:302 woocommerce-checkout-manager.php:456
+msgid "Address 2"
+msgstr "Dirección 2"
+
+#: woocommerce-checkout-manager.php:313 woocommerce-checkout-manager.php:468
+msgid "City"
+msgstr "ciudad"
+
+#: woocommerce-checkout-manager.php:324 woocommerce-checkout-manager.php:480
+msgid "Postal Code"
+msgstr "Código Postal"
+
+#: woocommerce-checkout-manager.php:337 woocommerce-checkout-manager.php:493
+msgid "State"
+msgstr "estado"
+
+#: woocommerce-checkout-manager.php:346
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: woocommerce-checkout-manager.php:348
+msgid "Billing Section"
+msgstr "Sección de facturación"
+
+#: woocommerce-checkout-manager.php:503
+msgid "Shipping Section"
+msgstr "Sección envío"
+
+#: woocommerce-checkout-manager.php:507
+msgid "PRO VERSION"
+msgstr "VERSION PRO"
+
+#: woocommerce-checkout-manager.php:507
+msgid ""
+"- now includes text/ html swapper (change billing address text ++), checkbox "
+"(input own two options), select up to ten(10) more options and more!"
+msgstr ""
+"- Ahora incluye text / html swapper (cambio de facturación de texto "
+"Dirección + +), casilla (entrada propia dos opciones), seleccione un máximo "
+"de diez (10) más opciones y mucho más!"
+
+#: woocommerce-checkout-manager.php:511
+msgid "Add New Field Section"
+msgstr "Añadir Nueva Sección Campo"
+
+#: woocommerce-checkout-manager.php:518
+msgid "Enable Title - Additional information"
+msgstr "Habilitar Título - Información adicional"
+
+#: woocommerce-checkout-manager.php:522
+msgid "Checkout Page"
+msgstr "Página del pago"
+
+#: woocommerce-checkout-manager.php:527
+msgid "Checkout Details and Email Receipt"
+msgstr "Pedido Detalles y correo electrónico de recibos"
+
+#: woocommerce-checkout-manager.php:590 woocommerce-checkout-manager.php:619
+#: woocommerce-checkout-manager.php:666
+msgid "Change order"
+msgstr "Cambiar el orden de"
+
+#: woocommerce-checkout-manager.php:591
+msgid "Label"
+msgstr "etiqueta"
+
+#: woocommerce-checkout-manager.php:592
+msgid "Placeholder"
+msgstr "marcador de posición"
+
+#: woocommerce-checkout-manager.php:593
+msgid "Option A"
+msgstr "Opción A"
+
+#: woocommerce-checkout-manager.php:594
+msgid "Options B"
+msgstr "Opción B"
+
+#: woocommerce-checkout-manager.php:595
+msgid "Choose Type"
+msgstr "Elija el tipo de"
+
+#: woocommerce-checkout-manager.php:596
+msgid "Abbreviation"
+msgstr "abreviatura"
+
+#: woocommerce-checkout-manager.php:597
+msgid "Required Attribute"
+msgstr "Atributo Obligatorio"
+
+#: woocommerce-checkout-manager.php:598
+msgid "Remove button"
+msgstr "botón Eliminar"
+
+#: woocommerce-checkout-manager.php:656 woocommerce-checkout-manager.php:698
+msgid "Remove Field"
+msgstr "Eliminar campo"
+
+#: woocommerce-checkout-manager.php:670
+msgid "Label of the New Field"
+msgstr "Etiqueta del nuevo campo"
+
+#: woocommerce-checkout-manager.php:673
+msgid "Placeholder - Preview of Data to Input"
+msgstr "Marcador de posición - Presentación de datos a la entrada"
+
+#: woocommerce-checkout-manager.php:676
+msgid "Insert Option A"
+msgstr "Introduzca la opción A"
+
+#: woocommerce-checkout-manager.php:679
+msgid "Insert Option B"
+msgstr "Inserte Opción B"
+
+#: woocommerce-checkout-manager.php:692
+msgid "Abbreviation (No spaces)"
+msgstr "Término (Sin espacios)"
+
+#: woocommerce-checkout-manager.php:695
+msgid "Add/Remove Required Attribute"
+msgstr "Añadir / Quitar atributo necesario"
+
+#: woocommerce-checkout-manager.php:706
+msgid "+ Add New Field"
+msgstr "+ Agregar nuevo campo"
+
+#: woocommerce-checkout-manager.php:719
+msgid "Settings"
+msgstr "Configuración"
+
+#: woocommerce-checkout-manager.php:720
+msgid "Support"
+msgstr "apoyar"
+
+#: woocommerce-checkout-manager.php:1017 woocommerce-checkout-manager.php:1160
+#: woocommerce-checkout-manager.php:1220
+msgid "Additional information"
+msgstr "información adicional"
+
+#: woocommerce-checkout-manager.php:1060
+msgid "Select below"
+msgstr "Seleccione abajo"
+
+#: woocommerce-checkout-manager.php:1179
+msgid "is a required field"
+msgstr "es un campo obligatorio"
+
+#~ msgid "Get the "
+#~ msgstr "Obtener el "
+
+#~ msgid ""
+#~ "to get rid of that pesky (1,0) checkbox (add real values) also add up to "
+#~ "10 (ten) more options...etc :)"
+#~ msgstr ""
+#~ "para deshacerse de eso (1,0) casilla molestos (agregar valores reales) "
+#~ "también se suman a 10 (diez) más opciones ... etc :)"
+
+#~ msgid "Receipt Section"
+#~ msgstr "Sección Recibo"
+
+#~ msgid "Replace default footer content of Order Receipt"
+#~ msgstr "Reemplace default contenido de pie de recibo del pedido"
+
+#~ msgid "Footer Content: "
+#~ msgstr "Contenido Pie de página:"
+
+#~ msgid ""
+#~ "Not adding new fields? Uncheck this box to disable \"Addition information"
+#~ "\" title from checkout details"
+#~ msgstr ""
+#~ "No añadir nuevos campos? Desactive esta casilla para desactivar la "
+#~ "\"información adjunta\" título de detalles cajas"
+
+#~ msgid "Deselect Check boxes in this Column"
+#~ msgstr "Desactive las casillas de la columna"
+
+#~ msgid "New Value?"
+#~ msgstr "Nuevo valor?"

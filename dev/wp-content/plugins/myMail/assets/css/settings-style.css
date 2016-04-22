@@ -1,0 +1,505 @@
+@import "common-style.css";
+
+.settings-wrap{
+	border: 1px solid;
+	background-color: #F1F1F1;
+	border-color: #CCC;
+	-webkit-box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+	min-height: 600px;
+	margin-top: 15px;
+}
+.settings-nav{
+	width: 150px;
+	float: left;
+	min-height: 600px;
+}
+.rtl .settings-nav{
+	float: right;
+}
+.settings-tabs{
+	overflow: hidden;
+	background: #fff;
+	padding: 20px 20px 10px 25px;
+	border-left: 1px solid #ccc;
+	min-height: 600px;
+	position: relative;
+}
+.submitbutton{
+	border-top: 1px solid #ccc;
+	padding-top: 8px;
+	padding-bottom: 5px;
+	text-align: right;
+	bottom: 0;
+	position: absolute;
+	left: 25px;
+	right: 20px;
+}
+.resetbutton{
+	padding-top: 3px;
+	padding-bottom: 5px;
+	bottom: 0;
+	position: absolute;
+	left: 25px;
+	right: 20px;
+	font-size: 11px;
+	z-index: 1;
+	width: 200px;
+}
+.rtl .resetbutton{
+	left: -55px;
+	right: auto;
+}
+div.mainnav{
+	width: 100%;
+	float: none;
+}
+div.mainnav.fixed{
+	position: fixed;
+	z-index: 2;
+	width: 150px;
+}
+div.mainnav li.active{
+	margin-left: -4px;
+	position: relative;
+	z-index: 1;
+}
+.rtl div.mainnav li.active{
+	margin-left: 0;
+	padding-left: 0;
+	margin-right: -4px;
+	padding-right: 4px;
+}
+div.mainnav li a{
+	padding-left: 16px;
+	outline: none;
+}
+.nav-tab-wrapper{
+	border-bottom:1px solid #ccc;
+}
+.nav-tab-wrapper .nav-tab{
+	margin-top: 3px;
+	margin-right: 0;
+}
+.nav-tab-wrapper .nav-tab-active, .nav-tab-wrapper .nav-tab-active:hover{
+	background:#fff;
+	border-bottom:1px solid #fff;
+}
+#deliverynav{
+	display: block;
+	margin-bottom: 0;
+}
+.settings-tabs .tab{
+	display: none;
+	padding-bottom: 70px;
+}
+.settings-tabs .tab:first-child{
+	display: block;
+}
+.settings-tabs .tab h3{
+	border-bottom:1px solid #ccc;
+	padding-bottom: 3px;
+}
+
+.tag span, .customfield span{
+	display:inline-block;
+	overflow:hidden;
+	width:260px;
+	line-height:1em;
+	position:relative;
+}
+.tag span, .customfield span.label{
+	width:160px;
+	overflow:visible;
+}
+
+.subtab{
+	padding: 20px 10px;
+	display: none;
+	border: 1px solid #CCC;
+	border-top: 0;
+}
+.sendmailpath{
+	margin-left: 15px;
+}
+textarea.code {
+	background-image:url(../img/pre_bg.png);
+	background-attachment:scroll;
+	background-position: 0 2px;
+	line-height:19px;
+	padding:0;
+	resize:vertical;
+}
+
+#tab-subscribers .customfield{
+	border: 1px solid #DFDFDF;
+	-webkit-border-radius: 3px;
+	border-radius:3px;
+	margin: 3px 0;
+	padding: 5px;
+}
+table.form-table h4{
+	margin-top: 0;
+	
+}
+table.form-table th{
+	padding-left: 0;
+}
+.spf-info{
+	margin-bottom: 40px;
+}
+#city_db_path, #country_db_path{
+	opacity:0.2;
+	font-size: 11px;
+	width: 80%;
+}
+#city_db_path:focus, #country_db_path:focus, #city_db_path:hover, #country_db_path:hover{
+	opacity:1;
+}
+.customfield-move-up, .customfield-move-down, .customfield-remove{
+	float: right;
+	cursor: pointer;
+	display: none;
+}
+.customfield:hover .customfield-move-up, .customfield:hover .customfield-move-down, .customfield:hover .customfield-remove {
+	display: inline;
+}
+.customfield:first-child .customfield-move-up{
+	visibility: hidden;
+}
+.customfield:last-child .customfield-move-down{
+	visibility: hidden;
+}
+
+.customfields img{
+	vertical-align: middle;
+}
+.customfield-additional{
+	display: none;
+}
+.customfield-additional li{
+	margin:0;
+}
+.customfield-additional span{
+	width:181px;
+	text-align: right;
+	padding-right: 3px;
+}
+.customfield-additional span.customfield-value-box{
+	width: auto;
+}
+.customfield-additional span.customfield-value-box .customfield-value-remove{
+	cursor: pointer;
+	display: none;
+}
+.customfield-additional span.customfield-value-box:hover .customfield-value-remove{
+	display: inline;
+}
+.customfield-additional .customfield-values li:first-child .customfield-value-remove{
+
+	display: none !important;
+}
+
+.mymail_syncitem{
+	margin: 8px 0;
+}
+.mymail_syncitem:first-child{
+	display: none;
+}
+.mymail_syncitem:last-child{
+	display: block;
+}
+.mymail_syncitem select{
+	width: 35%;
+}
+.mymail_syncitem a.remove-sync-item{
+	cursor: pointer;
+}
+
+.tag input.regular-text{
+	width:500px;
+}
+input.tag-key, input.customfield-key{
+	width:148px;
+}
+.mymail_remove_form{
+	float: right;
+	font-size: 16px;
+	text-decoration: none;
+	display: block;
+	margin-top: -12px;
+}
+.rtl .mymail_remove_form{
+	float: left;
+}
+#form-tab-0 .mymail_remove_form{
+	visibility: hidden;
+}
+.default-form-msg{
+	display: none;
+}
+#form-tab-0 .default-form-msg{
+	display: block;
+}
+
+.customfield-value-add{
+	cursor: pointer;
+}
+#formsnav{
+	margin-top: 18px;
+}
+#formsnav .button{
+	float:right;
+}
+.rtl #formsnav .button{
+	float:left;
+}
+.form-order{
+	overflow: hidden;
+	margin: 0;
+	padding-top: 5px;
+}
+.form-order li{
+	padding: 3px 5px;
+	background: #fff;
+	border-radius: 2px;
+	border: 1px solid #DFDFDF;
+	display: block;
+	margin-right:2px;
+}
+.form-order.sortable li{
+	cursor:we-resize;
+	cursor:hand;
+	cursor:grab;
+	cursor:grabbing;
+	cursor:-moz-grab;
+	cursor:-webkit-grab;
+}
+.form-order li input.label{
+	border: 1px solid #fff;
+	outline: none;
+	margin: 0;
+	width: 45%;
+	overflow: visible;
+	background-color: #fff;
+}
+.form-order li:hover input.label{
+	border-color: #ccc;
+}
+.form-order li input.label:hover{
+	background-color: inherit;
+}
+.form-order li input.label:focus{
+	border-color: #aaa;
+	outline: none;
+	background-color: inherit;
+}
+.form-order li:hover{
+	border: 1px solid #ccc;
+	color: #D54E21;
+}
+.form-order li.inactive{
+	border: 1px solid #fff;
+	opacity: 0.5;
+}
+.form-order li.inactive input.label{
+	text-decoration: line-through;
+}
+.form-order li.inactive:hover{
+	opacity: 1;
+}
+.form-order li.inactive:hover input.label{
+	border-color: #fff;
+	text-decoration: none;
+}
+.form-order li.inactive input.label:focus{
+	text-decoration: none;
+}
+.form-order li.ui-sortable-helper{
+	cursor:grabbing;
+	cursor:-moz-grabbing;
+	cursor:-webkit-grabbing;
+	border: 1px solid #ccc;
+}
+.dkim-table{
+	border-radius:3px;
+	width: 900px;
+	border: 1px solid #ddd;
+}
+.dkim-table{
+	width: 900px;
+}
+.dkim-table table{
+	width: 100%;
+	border-collapse: collapse;
+}
+.dkim-table table td pre{
+	white-space: pre-wrap;
+	white-space: -moz-pre-wrap;
+	white-space: -pre-wrap;
+	white-space: -o-pre-wrap;
+	word-wrap: break-word;
+}
+table.nested{
+	width: 100%;
+	border-collapse: collapse;
+	border-bottom: 1px solid #ddd;
+}
+table.nested h4{
+	margin: 16px 9px;
+	border-bottom: 1px solid #ddd;
+}
+table.nested td{
+	padding: 10px;
+	border-top: 1px solid #ddd;
+	vertical-align: top;
+}
+table.nested tr:first-child td{
+	border: 0;
+}
+.double-opt-in-field, .vcard-field{
+	border: 1px solid #ddd;
+	background-color: #fff;
+	-webkit-box-shadow:inset 0 1px 3px rgba(0, 0, 0, 0.05);
+	box-shadow:inset 0 1px 3px rgba(0, 0, 0, 0.05);
+	margin: 0 20px 20px;
+}
+.double-opt-in-field{
+	background-color: #fbfbfb;
+	border-top: 0;
+}
+table.nested td table.nested td{
+	border: 0;
+}
+.mymail_userschoice_td{
+	vertical-align: top;
+}
+.embed-form-options{
+	display: none;
+}
+.embed-form-output{
+	height: 72px;
+}
+.form-output{
+	height: 92px;
+}
+div.mymail_text label{
+	width: 183px;
+	display: inline-block;
+}
+
+.branch-3-3 #current-cap,.branch-3-4 #current-cap,.branch-3-5 #current-cap,.branch-3-6 #current-cap,.branch-3-7 #current-cap{
+	background-image: -ms-linear-gradient(bottom, #6D6D6D, gray);
+	background-image: -moz-linear-gradient(bottom, #6D6D6D, gray);
+	background-image: -o-linear-gradient(bottom, #6D6D6D, gray);
+	background-image: -webkit-gradient(linear, left bottom, left top, from(#6D6D6D), to(gray));
+	background-image: -webkit-linear-gradient(bottom, #6D6D6D, gray);
+	background-image: linear-gradient(bottom, #6D6D6D, gray);
+	text-shadow: 0 -1px 0 #333;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border-top-color: gray;
+	border-bottom-color: #6D6D6D;
+}
+
+#current-cap{
+	background-color: #777;
+	color: white;
+	padding: 8px 12px;
+	display: none;
+	margin-top: 50px;
+	position: fixed;
+	max-width: 200px;
+	z-index: 1000;
+	right: 30px;
+	top: 70px;
+
+}
+#capabilities-table{
+	border-collapse: collapse;
+}
+#capabilities-table th, #capabilities-table td {
+	border-bottom: 1px solid #DFDFDF;
+}
+#capabilities-table th {
+	font-weight: 700;
+}
+#capabilities-table thead th {
+	text-align: center;
+	font-weight: 700;
+	padding: 10px;
+	vertical-align: bottom;
+	line-height: 1.4em;
+}
+#capabilities-table tbody th {
+	min-width: 200px;
+	padding: 10px;
+}
+.branch-3-3 #capabilities-table tbody tr:hover,.branch-3-4 #capabilities-table tbody tr:hover,.branch-3-5 #capabilities-table tbody tr:hover,.branch-3-6 #capabilities-table tbody tr:hover,.branch-3-7 #capabilities-table tbody tr:hover{
+	background-image:-webkit-linear-gradient(top,whiteSmoke,#EEE);
+	background-image:-moz-linear-gradient(top,whiteSmoke,#EEE);
+	background-image:-ms-linear-gradient(top,whiteSmoke,#EEE);
+	background-image:-o-linear-gradient(top,whiteSmoke,#EEE);
+	background-image:linear-gradient(top,whiteSmoke,#EEE);
+	text-shadow:0 1px 0 #fff;
+}
+#capabilities-table tbody tr:hover {
+	background-color:#f5f5f5;
+}
+.branch-3-3 #capabilities-table tbody td:hover,.branch-3-4 #capabilities-table tbody td:hover,.branch-3-5 #capabilities-table tbody td:hover,.branch-3-6 #capabilities-table tbody td:hover,.branch-3-7 #capabilities-table tbody td:hover{
+	text-shadow:0 -1px 0 #333;
+	background-image:-webkit-linear-gradient(top,gray,#6D6D6D);
+	background-image:-moz-linear-gradient(top,gray,#6D6D6D);
+	background-image:-ms-linear-gradient(top,gray,#6D6D6D);
+	background-image:-o-linear-gradient(top,gray,#6D6D6D);
+	background-image:linear-gradient(top,gray,#6D6D6D);
+}
+#capabilities-table tbody td:hover {
+	color:#fff;
+	background-color:gray;
+}
+#capabilities-table td {
+	text-align: center;
+	padding: 0;
+	margin: 0;
+}
+#capabilities-table td label{
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+
+.bouncetest_status{
+	display: none;
+}
+
+.dkim-create-keys{
+}
+.dkim-create-keys label{
+	padding-right: 8px;
+	padding-left: 5px;
+}
+
+.not-verified p, .verified p{
+	padding: 0;
+	margin: 0 !important;
+}
+.not-verified dd, .verified dd{
+	margin: 0;
+}
+.not-verified{
+	background-color: #FFEBE8;
+	border:1px solid #C00;
+	padding: 0.6em;
+}
+.verified{
+	background-color: #E1FFD9;
+	border:1px solid #BADEB1;
+	padding: 0.6em;
+
+}
+#system_info_content{
+	width: 100%;
+	height: 600px;
+	resize: none;
+}

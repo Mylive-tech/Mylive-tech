@@ -1,0 +1,19 @@
+new LITBox(Message or HREF, {options});
+
+Example:
+
+new LITBox('HELLO WORLD!', {type:'alert', overlay:false, height:60, width:300, resizable:false, opacity:.6});
+
+Option Parameters
+width: pixel width
+height: pixel height
+type: 'window','alert','confirm'
+func: function to call when confirming yes
+draggable: ability to drag around screen
+resizable: ability to resize
+overlay: show overlay mask
+opacity: final opacity [0,1]
+left: how far from the left of the screen
+top: how far from the top of the screen
+
+If you like, then enjoy, modify, alter, whatever.

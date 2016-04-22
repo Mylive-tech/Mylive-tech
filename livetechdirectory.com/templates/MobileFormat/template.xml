@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<settings>
+    <options>
+        <option enabled="0" name="background"/>
+        <option enabled="0" name="fonts"/>
+    </options>
+    
+    
+    <layout>
+        <field type="select" label="Select Layout for pages">
+            <option value="mobile">Mobile</option>
+        </field>    
+    </layout>
+    
+    <color>
+        <field type="select" default="default" label="Color">
+            <option value="default">Default</option>
+            <option value="blue">Blue</option>
+            <option value="green">Green</option>
+            <option value="red">Red</option>
+            <option value="yellow">Yellow</option>
+        </field>
+    </color>
+    
+    <widgetheading default="3" label="Widget title heading"/>
+    <titleheading default="2" label="Page title heading"/>
+    <mainmenu  default="1" label="Enable Main Menu" />
+    <categories  default="1" label="Home Page Categories" />
+    <latestlinks  default="1" label="Home Page Latest Links" />
+    <zones>
+        <zone name="HOMEPAGE" layout="mobile"/>
+        <zone name="LINK_DETAIL" layout="mobile"/>
+        <zone name="CATEGORY_PAGE" layout="mobile"/>
+        <zone name="LOCATION_PAGE" layout="mobile"/>
+        <zone name="TAG_PAGE" layout="mobile"/>
+        <zone name="ANY_OTHER_PAGE" layout="mobile"/>
+    </zones>
+    <headings>
+        <heading name="h1" value="1"/>
+        <heading name="h2" value="2"/>
+        <heading name="h3" value="3"/>
+        <heading name="h4" value="4"/>
+        <heading name="h5" value="5"/>
+        <heading name="h6" value="6"/>
+    </headings>
+    
+
+</settings>

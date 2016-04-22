@@ -1,0 +1,72 @@
+div#welcome-panel.left {
+	background-color: #fff;
+}
+p.about-description.inner {
+	margin-left: 25px;
+}
+.welcome-panel-column-container a.button.button-hero {
+	padding: 6px 30px;
+}
+.welcome-panel .welcome-panel-column:first-child {
+	float: right;
+	top: -33px;
+	position: relative;
+	bottom: 0;
+	margin-bottom: -33px;
+	width: 0;
+}
+p.about-description.heading {
+	float: none;
+	margin-left: 30px;
+	color: black;
+	font-weight: 700;
+	margin-top: 10px;
+	margin-bottom: 8px;
+}
+.welcome-panel .about-description {
+	float: left;
+	font-size: 15px;
+}
+.welcome-panel .welcome-panel-column-container {
+	clear: none;
+}
+.sheet {
+	background-color: #2EA2CC;
+	color: #fff;
+	padding: 1px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	clear: both;
+}
+div#welcome-panel {
+	border: 0;
+	margin-bottom: 0px;
+	background: transparent;
+}
+.welcome-panel.heading {
+	padding: 0;
+}
+.button:hover {
+	border: 0;
+}
+.wp-list-table.widefat {
+	border: 0;
+}
+.welcome-panel {
+	padding: 0;
+}
+.welcome-panel-content {
+	padding: 10px 0;
+	max-width:100%;
+}
+div.sep {
+	border: 1px solid #fff;
+}
+.button.view {
+	background-color: #222;
+	border-color: #222;
+}
+.button.view:hover {
+	background-color: #222;
+	border: 0;
+}

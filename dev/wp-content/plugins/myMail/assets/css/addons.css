@@ -1,0 +1,78 @@
+.addons-wrap{
+	overflow: hidden;
+	margin-right: -20px;
+}
+
+.addons-wrap .mymail-addon{
+	width: 296px;
+	height: 416px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	float: left;
+	border:1px solid #DEDEDB;
+	background-color:#EFEFEC;
+	padding: 19px;
+	position: relative;
+	overflow: hidden;
+	-webkit-transition:border-color .25s ease-in-out, background-color .25s ease-in-out;
+	-moz-transition:border-color .25s ease-in-out, background-color .25s ease-in-out;
+	-ms-transition:border-color .25s ease-in-out, background-color .25s ease-in-out;
+	-o-transition:border-color .25s ease-in-out, background-color .25s ease-in-out;
+	transition:border-color .25s ease-in-out, background-color .25s ease-in-out;
+}
+.addons-wrap .mymail-addon:hover{
+	background-color:#fff;
+	border-color: #d1d1d1;
+}
+.addons-wrap .mymail-addon.is-free:after, .addons-wrap .mymail-addon.is-feature:after{
+	position: absolute;
+	top: 12px;
+	right: -31px;
+	content: 'free';
+	padding: 4px 44px;
+	background-color: #5AA6CC;
+	color: #fff;
+	-webkit-transform: rotate(45deg);
+	-moz-transform: rotate(45deg);
+	-ms-transform: rotate(45deg);
+	-o-transform: rotate(45deg);
+	transform: rotate(45deg);
+}
+.addons-wrap .mymail-addon.is-feature:after{
+	top: 17px;
+	right: -41px;
+	content: 'featured';
+	background-color: #F26B6B;
+}
+.addons-wrap .mymail-addon.is-feature{
+	border-color:#F26B6B;
+}
+.addons-wrap .mymail-addon h4{
+	font-size: 18px;
+	line-height: 1.3em;
+	white-space: nowrap;
+	text-overflow:ellipsis;
+	overflow: hidden;
+	margin-bottom: 0;
+}
+.addons-wrap .mymail-addon .bgimage{
+	width: 296px;
+	height: 230px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.addons-wrap .mymail-addon p.author{
+	font-size: 11px;
+}
+
+.addons-wrap .mymail-addon p{
+	max-height: 88px;
+	overflow: hidden;	
+}
+.addons-wrap .mymail-addon a.button{
+	position: absolute;
+	right: 20px;
+	bottom: 20px;
+}

@@ -1,0 +1,1 @@
+[25-Dec-2015 03:36:54 CST6CDT] PHP Fatal error:  Call to undefined function plugin_dir_path() in /home/mylivete/public_html/wp-content/plugins/wpseo-local/local-seo.php on line 37

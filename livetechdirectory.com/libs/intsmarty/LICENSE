@@ -1,0 +1,35 @@
+Coggeshall.org License, Version 1.0
+
+(c) Copyright 2000-2004 John Coggeshall. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, 
+are permitted provided that the following conditions are met:
+
+   1. Redistributions of source code must retain the above copyright notice, 
+      this list of conditions, the following disclaimer, and a link to
+      http://www.coggeshall.org/oss/license.php where the most recent copy
+      of the license can be found.
+   2. Redistributions in binary form must reproduce the above copyright notice, 
+      this list of conditions and the following disclaimer in the documentation and/or 
+      other materials provided with the distribution. 
+   3. Any Redistribution of the code in any form must retain the following
+      acknowledgement: 
+        "This product contains code taken from http://www.coggeshall.org"
+   4. John Coggeshall / Coggeshall.org may publish revised and/or new versions of
+      the license from time to time. Each version will be given a distinguishing
+      version number. Once covered code has been published under a particular
+      version of the license, you may always continue to use it under the terms
+      of that version. You may also choose to use such covered code under the
+      terms of any subsequent version of the license published by John Coggeshall
+      or Coggeshall.org. 
+   
+THIS SOFTWARE IS PROVIDED BY COGGESHALL.ORG AND JOHN COGGESHALL ``AS IS'' AND 
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. 
+IN NO EVENT SHALL THE FREEBSD PROJECT OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, 
+INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, 
+BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, 
+OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, 
+WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) 
+ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE 
+POSSIBILITY OF SUCH DAMAGE.

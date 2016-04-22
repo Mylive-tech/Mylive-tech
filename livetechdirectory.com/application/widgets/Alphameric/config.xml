@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget>
+	<zonetype>CENTRAL</zonetype>
+	<description>Generates a list of alphamumeric characters</description>
+	<works_with>5.1</works_with>
+	<setting>
+		<name>TITLE</name>
+		<identifier>TITLE</identifier>
+		<value>Alphameric</value>
+		<allowed></allowed>
+		<info>This title shows at top of the widget's generated content.</info>
+	</setting>
+	<author>PhpLD</author>
+	<author_url>www.phplinkdirectory.com</author_url>
+	<version>1.0</version>
+</widget>

@@ -1,0 +1,10 @@
+/* CX Notifications */
+#cx-notification-holder { position: fixed; left: 50%; top: 15px; z-index: 100000; width: 0;}
+#cx-notification-holder .cx-notification { background: white; padding: .6em .8em .65em; border-radius: 3px; /* border: 1px solid rgb(225, 225, 225); */ border-left: 4px solid #3AC24A; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.05), 0 3px 20px rgba(0, 0, 0, 0.18); font-size: 13px; color: rgb(88, 88, 88); margin-bottom: 5px; position: relative; float: left; white-space: nowrap; }
+#cx-notification-holder .cx-notification.cx-notification-medium { font-size: 18px; }
+#cx-notification-holder .cx-notification.cx-notification-large { font-size: 22px; }
+
+/* CX Loading */
+.cx-loading-holder { position: absolute; left: 0; top: 0; z-index: 100001; background: rgba(255, 255, 255, 0.9); width: 100%; height: 100%; }
+.cx-loading-inner-holder { position: absolute; left: 50%; top: 25%; width: 50%; margin-left: -25%; margin-top: -15px; padding-top: 35px; text-align: center; font-size: 13px; color: rgb(80, 80, 80); }
+.cx-loading-graphic { background: url(loading.gif) no-repeat 50% 50%; width: 38px; height: 38px; margin:auto; background-color: white; border-radius:200px; box-shadow: 0 1px 0 rgba(0, 0, 0, 0.06);}

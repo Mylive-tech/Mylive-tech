@@ -1,0 +1,1 @@
+[25-Dec-2015 03:36:38 CST6CDT] PHP Fatal error:  Call to undefined function load_plugin_textdomain() in /home/mylivete/public_html/wp-content/plugins/woocommerce-accepted-payment-methods/accepted-payment-methods.php on line 20

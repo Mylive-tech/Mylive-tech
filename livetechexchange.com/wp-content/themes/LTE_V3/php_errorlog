@@ -1,0 +1,8 @@
+[01-Mar-2016 03:23:34 CST6CDT] PHP Fatal error:  Call to undefined function language_attributes() in /home/mylivete/public_html/livetechexchange.com/wp-content/themes/LTE_V3/header.php on line 6
+[01-Mar-2016 03:23:34 CST6CDT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/mylivete/public_html/livetechexchange.com/wp-content/themes/LTE_V3/functions.php on line 7
+[01-Mar-2016 03:23:34 CST6CDT] PHP Fatal error:  Call to undefined function bloginfo() in /home/mylivete/public_html/livetechexchange.com/wp-content/themes/LTE_V3/footer.php on line 15
+[01-Mar-2016 03:23:37 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/mylivete/public_html/livetechexchange.com/wp-content/themes/LTE_V3/404.php on line 8
+[01-Mar-2016 03:23:37 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/mylivete/public_html/livetechexchange.com/wp-content/themes/LTE_V3/404.php on line 8
+[12-Mar-2016 21:12:38 CST6CDT] PHP Fatal error:  Call to undefined function get_template_directory() in /home/mylivete/public_html/livetechexchange.com/wp-content/themes/LTE_V3/functions.php on line 7
+[12-Mar-2016 21:12:38 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/mylivete/public_html/livetechexchange.com/wp-content/themes/LTE_V3/404.php on line 8
+[12-Mar-2016 21:12:38 CST6CDT] PHP Fatal error:  Call to undefined function bloginfo() in /home/mylivete/public_html/livetechexchange.com/wp-content/themes/LTE_V3/footer.php on line 15

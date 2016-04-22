@@ -1,0 +1,1 @@
+<h1><a href="{$smarty.const.DOC_ROOT}/">{$SITE_NAME}</a></h1>

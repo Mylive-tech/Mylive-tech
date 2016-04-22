@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget>
+	<zonetype>VERTICAL</zonetype>
+	<description>Generates a tag cloud from categories and links.</description>
+	<works_with>4.0</works_with>
+	<setting>
+		<name>TITLE</name>
+		<identifier>TITLE</identifier>
+		<value>Latest Tags</value>
+		<allowed></allowed>
+		<info>This title shows at top of the widget's generated content.</info>
+	</setting>
+    <setting>
+        <name>TAGS TO SHOW</name>
+        <value>10</value>
+        <identifier>LIMIT</identifier>
+        <info>How many tags to show</info>
+    </setting>
+	<author>PhpLD</author>
+	<author_url>www.phplinkdirectory.com</author_url>
+	<version>1.0</version>
+</widget>

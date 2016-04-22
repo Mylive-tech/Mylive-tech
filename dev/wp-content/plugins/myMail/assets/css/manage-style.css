@@ -1,0 +1,219 @@
+@import "common-style.css";
+
+.branch-3-3 #icon-edit.icon32,.branch-3-4 #icon-edit.icon32,.branch-3-5 #icon-edit.icon32,.branch-3-6 #icon-edit.icon32,.branch-3-7 #icon-edit.icon32{
+	background:url(../img/icons/manage.png) no-repeat left top;
+}
+
+.upload-method{
+	width: 47%;
+	float: left;
+	height: 290px;
+	padding: 0;
+}
+.upload-method h2{
+}
+.upload-method-or{
+	width: 6%;
+	float: left;
+	height: 290px;
+	font-size: 23px;
+	text-align: center;
+	line-height: 11em;
+	font-weight: 100;
+}
+.count{
+	color: #999;
+	font-size: 90%;
+}
+span.error{
+	color: #f33;
+}
+.step1 .import-status{
+	margin-top: 40px;
+}
+#paste-import{
+	resize: none;
+	font-style: italic;
+	color: #ccc;
+}
+#paste-import.focus{
+	position: absolute;
+	font-style: inherit;
+	color: inherit;
+	left: -10px;
+	margin-top: -40px;
+	padding-bottom: 10px;
+	z-index: 1;
+}
+#subscriber-table{
+	width: 100%;
+	overflow: auto;
+}
+#subscriber-table select{
+	width: 150px;
+}
+#subscriber-table table{
+	border:0;
+}
+
+#subscriber-table table tbody td{
+	max-height: 30px;
+	max-width: 150px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+#wordpress-users{
+	border-top:1px solid #ccc;
+	margin-top: 20px;
+	padding-top: 20px;
+}
+#wordpress-users ul{
+	float: left;
+	margin-right: 10px;
+}
+#wordpress-user-roles{
+	float: left;
+	border-right:1px solid #ccc;
+	margin-right: 20px;
+	width:25%;
+}
+#wordpress-user-meta{
+	float: left;
+	width:40%;
+}
+
+#signupdate{
+	width: 90px;
+}
+
+.step2{
+	display: none;
+}
+
+.step2 h3{
+	margin-bottom: 0px;
+}
+.step2 .import-options{
+	padding: 20px 20px 10px;
+	margin-top: 6px;
+	font-weight: normal;
+	overflow: hidden;
+}
+.step2 .do-import{
+	font-size: 120%;
+}
+.submit-button-box{
+	text-align: right;
+}
+.export-order{
+	overflow: hidden;
+	
+}
+.export-order li{
+	float: left;
+	padding: 6px 9px;
+	background: #fff;
+	border-radius: 2px;
+	border: 1px solid #DFDFDF;
+	display: block;
+	margin-right:2px;
+	cursor:we-resize;
+	cursor:hand;
+	cursor:grab;
+	cursor:grabbing;
+	cursor:-moz-grab;
+	cursor:-webkit-grab;
+}
+.export-order li:hover{
+	border: 1px solid #ccc;
+	color: #D54E21;
+}
+.export-order li.ui-sortable-helper{
+	cursor:grabbing;
+	cursor:-moz-grabbing;
+	cursor:-webkit-grabbing;
+	border: 1px solid #ccc;
+}
+.mymail-manage .stuffbox{
+	padding: 20px;
+	margin-top: 12px;
+	font-weight: normal;
+	overflow: hidden;
+}
+.progress{
+	width:100%;
+	height:40px;
+	background:#efefef;
+	overflow:hidden;
+	font-size:10px;
+	position:relative;
+	text-align:right;
+	line-height:20px;
+	display: none;
+	margin-top: 24px;
+}
+.branch-3-3 .progress,.branch-3-4 .progress,.branch-3-5 .progress,.branch-3-6 .progress,body.branch-3-7 .progress{
+	border:1px solid;
+	border-radius:3px;
+	border-color:#cecece;
+	background:#f9f9f9;
+	background:-moz-linear-gradient(top, #f9f9f9 0%, #ececec 100%);
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0%,#f9f9f9), color-stop(100%,#ececec));
+	background:-webkit-linear-gradient(top, #f9f9f9 0%,#ececec 100%);
+	background:-o-linear-gradient(top, #f9f9f9 0%,#ececec 100%);
+	background:-ms-linear-gradient(top, #f9f9f9 0%,#ececec 100%);
+	background:linear-gradient(top, #f9f9f9 0%,#ececec 100%);
+	text-shadow:1px 1px 0 rgba(255,255,255,0.6);
+}
+.progress span.bar{
+	display:block;
+	position:absolute;
+	line-height:2.6em;
+	padding:2px 0;
+	white-space:nowrap;
+	top:0;
+	bottom:0;
+	left:0;
+	overflow:visible;
+}
+.branch-3-3 .progress span.bar,.branch-3-4 .progress span.bar,.branch-3-5 .progress span.bar,.branch-3-6 .progress span.bar,body.branch-3-7 .progress span.bar{
+	border-radius:2px;
+}
+.progress span.bar{
+	background: url(../img/progress_2x.gif);
+}
+.progress.paused span.bar,
+.progress.error span.bar{
+	background: #e3eaed;
+	background: -moz-linear-gradient(top,  #e3eaed 0%, #c8d7dc 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e3eaed), color-stop(100%,#c8d7dc));
+	background: -webkit-linear-gradient(top,  #e3eaed 0%,#c8d7dc 100%);
+	background: -o-linear-gradient(top,  #e3eaed 0%,#c8d7dc 100%);
+	background: -ms-linear-gradient(top,  #e3eaed 0%,#c8d7dc 100%);
+	background: linear-gradient(top,  #e3eaed 0%,#c8d7dc 100%);
+	opacity:0.8;
+}
+.progress.finished span.bar{
+	background: #c7e9c4;
+	background: -moz-linear-gradient(top, #c7e9c4 0%, #aacca7 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c7e9c4), color-stop(100%,#aacca7));
+	background: -webkit-linear-gradient(top, #c7e9c4 0%,#aacca7 100%);
+	background: -o-linear-gradient(top, #c7e9c4 0%,#aacca7 100%);
+	background: -ms-linear-gradient(top, #c7e9c4 0%,#aacca7 100%);
+	background: linear-gradient(top, #c7e9c4 0%,#aacca7 100%);
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio:1.5),
+	only screen and (-o-min-device-pixel-ratio:32),
+	only screen and (min--moz-device-pixel-ratio:1.5),
+	only screen and (min-device-pixel-ratio:1.5) {
+
+	.branch-3-3 #icon-edit.icon32,.branch-3-4 #icon-edit.icon32,.branch-3-5 #icon-edit.icon32,.branch-3-6 #icon-edit.icon32,.branch-3-7 #icon-edit.icon32{
+		background:url(../img/icons/manage_2x.png) no-repeat left top;
+		-webkit-background-size:32px 32px;
+		-moz-background-size:32px 32px;
+		background-size:32px 32px;
+	}
+
+}

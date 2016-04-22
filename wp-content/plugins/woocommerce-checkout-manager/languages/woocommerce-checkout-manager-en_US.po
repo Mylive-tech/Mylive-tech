@@ -1,0 +1,1115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woocommerce-checkout-manager\n"
+"POT-Creation-Date: 2014-05-19 05:28-0400\n"
+"PO-Revision-Date: 2014-05-19 05:28-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;__;_e;esc_attr_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: field_filters.php:28
+msgid "Select some options"
+msgstr ""
+
+#: import.php:234
+msgid "Import CSV"
+msgstr ""
+
+#: main_upload.php:189
+msgid "Files was uploaded successfully."
+msgstr ""
+
+#: main_upload.php:196
+msgid "Order Uploaded files"
+msgstr ""
+
+#: main_upload.php:242 main_upload.php:417
+msgid "File Image"
+msgstr ""
+
+#: main_upload.php:243 main_upload.php:418
+msgid "Action"
+msgstr ""
+
+#: main_upload.php:244 main_upload.php:419
+msgid "Width x Height"
+msgstr ""
+
+#: main_upload.php:245 main_upload.php:420
+msgid "Extension"
+msgstr ""
+
+#: main_upload.php:246 main_upload.php:421
+msgid "ID #"
+msgstr ""
+
+#: main_upload.php:247 main_upload.php:422
+msgid "Link"
+msgstr ""
+
+#: main_upload.php:248 main_upload.php:423
+msgid "Name"
+msgstr "Name"
+
+#: main_upload.php:302 main_upload.php:337 main_upload.php:477
+msgid "Delete image"
+msgstr ""
+
+#: main_upload.php:302 main_upload.php:337 main_upload.php:477
+msgid "Delete"
+msgstr ""
+
+#: main_upload.php:337
+msgid "Add Files to Order Gallery"
+msgstr ""
+
+#: main_upload.php:337
+msgid "Add to gallery"
+msgstr ""
+
+#: main_upload.php:337
+#, fuzzy
+msgid "Add Order Files"
+msgstr "After Order Notes"
+
+#: main_upload.php:371
+msgid "Saved Successfully."
+msgstr ""
+
+#: main_upload.php:412
+msgid "Order Uploaded Files"
+msgstr ""
+
+#: main_upload.php:534
+msgid "Saved Successfully"
+msgstr ""
+
+#: update.php:87
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: update.php:92
+msgid "An unknown error occurred"
+msgstr ""
+
+#: upload.php:2
+msgid "Upload Files"
+msgstr ""
+
+#: upload.php:2
+msgid "Max Upload Size"
+msgstr ""
+
+#: wccm_file_upload.php:9
+msgid "Allow Customers to Upload Files"
+msgstr ""
+
+#: wccm_file_upload.php:25
+msgid "Categorize Uploaded Files"
+msgstr ""
+
+#: wccm_file_upload.php:31
+msgid "Changes uploaded files location folder from"
+msgstr ""
+
+#: wccm_file_upload.php:33
+msgid "to"
+msgstr ""
+
+#: wccm_file_upload.php:47
+msgid "Notification E-mail"
+msgstr ""
+
+#: wccm_file_upload.php:58
+msgid "Products"
+msgstr ""
+
+#: wccm_file_upload.php:60 wccm_file_upload.php:80
+msgid "Allow File Upload"
+msgstr ""
+
+#: wccm_file_upload.php:70 wccm_file_upload.php:88
+msgid "Deny File Upload"
+msgstr ""
+
+#: wccm_file_upload.php:78
+msgid "Categories"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:182
+msgid "WooCCM"
+msgstr "WooCCM"
+
+#: woocommerce-checkout-manager-pro.php:190
+msgid "You do not have sufficient permissions to access this page."
+msgstr "You do not have sufficient permissions to access this page."
+
+#: woocommerce-checkout-manager-pro.php:207
+msgid "Payment Method"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:208
+#, fuzzy
+msgid "Shipping Method"
+msgstr "Shipping Section"
+
+#: woocommerce-checkout-manager-pro.php:231
+#, fuzzy
+msgid "WooCommerce Checkout Manager Pro"
+msgstr "WooCommerce Checkout Manager"
+
+#: woocommerce-checkout-manager-pro.php:249
+msgid ""
+"This is what PRO looks like! Should you have any questions or concerns find "
+"us on"
+msgstr ""
+"This is what PRO looks like! Should you have any questions or concerns find "
+"us on"
+
+#: woocommerce-checkout-manager-pro.php:249
+msgid "Forum."
+msgstr "Forum."
+
+#: woocommerce-checkout-manager-pro.php:442
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: woocommerce-checkout-manager-pro.php:479
+#: woocommerce-checkout-manager-pro.php:671
+msgid "Field Name"
+msgstr "Field Name"
+
+#: woocommerce-checkout-manager-pro.php:480
+#: woocommerce-checkout-manager-pro.php:672
+msgid "Remove Field Entirely"
+msgstr "Remove Field Entirely"
+
+#: woocommerce-checkout-manager-pro.php:481
+#: woocommerce-checkout-manager-pro.php:673
+msgid "Remove Required Attribute"
+msgstr "Remove Required Attribute"
+
+#: woocommerce-checkout-manager-pro.php:482
+#: woocommerce-checkout-manager-pro.php:674
+msgid "Replace Label Name"
+msgstr "Replace Label Name"
+
+#: woocommerce-checkout-manager-pro.php:483
+#: woocommerce-checkout-manager-pro.php:675
+msgid "Replace Placeholder Name"
+msgstr "Replace Placeholder Name"
+
+#: woocommerce-checkout-manager-pro.php:491
+#: woocommerce-checkout-manager-pro.php:683
+msgid "Select All Check boxes in this Column"
+msgstr "Select All Check boxes in this Column"
+
+#: woocommerce-checkout-manager-pro.php:502
+#: woocommerce-checkout-manager-pro.php:695
+msgid "First Name"
+msgstr "First Name"
+
+#: woocommerce-checkout-manager-pro.php:519
+#: woocommerce-checkout-manager-pro.php:712
+msgid "Last Name"
+msgstr "Last Name"
+
+#: woocommerce-checkout-manager-pro.php:534
+msgid "Phone"
+msgstr "Phone"
+
+#: woocommerce-checkout-manager-pro.php:549
+msgid "Email"
+msgstr "Email"
+
+#: woocommerce-checkout-manager-pro.php:564
+#: woocommerce-checkout-manager-pro.php:727
+msgid "Company"
+msgstr "Company"
+
+#: woocommerce-checkout-manager-pro.php:581
+#: woocommerce-checkout-manager-pro.php:3367
+#, fuzzy
+msgid "Order Notes"
+msgstr "After Order Notes"
+
+#: woocommerce-checkout-manager-pro.php:597
+#: woocommerce-checkout-manager-pro.php:743
+msgid "Country"
+msgstr "Country"
+
+#: woocommerce-checkout-manager-pro.php:609
+#: woocommerce-checkout-manager-pro.php:754
+msgid "Address 1"
+msgstr "Address 1"
+
+#: woocommerce-checkout-manager-pro.php:620
+#: woocommerce-checkout-manager-pro.php:766
+msgid "Address 2"
+msgstr "Address 2"
+
+#: woocommerce-checkout-manager-pro.php:631
+#: woocommerce-checkout-manager-pro.php:778
+msgid "City"
+msgstr "City"
+
+#: woocommerce-checkout-manager-pro.php:642
+#: woocommerce-checkout-manager-pro.php:790
+msgid "Postal Code"
+msgstr "Postal Code"
+
+#: woocommerce-checkout-manager-pro.php:655
+#: woocommerce-checkout-manager-pro.php:803
+msgid "State"
+msgstr "State"
+
+#: woocommerce-checkout-manager-pro.php:819
+msgid "Disable Address fields: "
+msgstr "Disable Address fields: "
+
+#: woocommerce-checkout-manager-pro.php:825
+msgid ""
+"To get product number, goto the listing of WooCoommerce Products then hover "
+"over each product and you will see ID. Example"
+msgstr ""
+"To get product number, goto the listing of WooCoommerce Products then hover "
+"over each product and you will see ID. Example"
+
+#: woocommerce-checkout-manager-pro.php:835
+msgid "Custom CSS"
+msgstr "Custom CSS"
+
+#: woocommerce-checkout-manager-pro.php:839
+msgid ""
+"CSS language stands for Cascading Style Sheets which is used to style html "
+"content. You can change the fonts size, colours, margins of content, which "
+"lines to show or input, adjust height, width, background images etc."
+msgstr ""
+"CSS language stands for Cascading Style Sheets which is used to style html "
+"content. You can change the fonts size, colours, margins of content, which "
+"lines to show or input, adjust height, width, background images etc."
+
+#: woocommerce-checkout-manager-pro.php:841
+#, fuzzy
+msgid "Get help in our"
+msgstr "Get help in our Support"
+
+#: woocommerce-checkout-manager-pro.php:841
+#, fuzzy
+msgid "Support Forum"
+msgstr "Support"
+
+#: woocommerce-checkout-manager-pro.php:857
+#, fuzzy
+msgid "Position for notification one"
+msgstr "Position for Notice"
+
+#: woocommerce-checkout-manager-pro.php:863
+#: woocommerce-checkout-manager-pro.php:892
+msgid "Before Customer Address Fields"
+msgstr "Before Customer Address Fields"
+
+#: woocommerce-checkout-manager-pro.php:872
+#: woocommerce-checkout-manager-pro.php:900
+msgid "Before Order Summary"
+msgstr "Before Order Summary"
+
+#: woocommerce-checkout-manager-pro.php:877
+#: woocommerce-checkout-manager-pro.php:905
+msgid "Notification text area: You can use class"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:877
+#: woocommerce-checkout-manager-pro.php:905
+msgid "for the same design as WooCommerce Coupon."
+msgstr "for the same design as WooCommerce Coupon."
+
+#: woocommerce-checkout-manager-pro.php:886
+#, fuzzy
+msgid "Position for notification two"
+msgstr "Position for Notice"
+
+#: woocommerce-checkout-manager-pro.php:930
+msgid "Translate WooCCM Options Panel"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:940
+msgid "Auto Create User account"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:951
+msgid "Retain Fields Information"
+msgstr "Retain Fields Information"
+
+#: woocommerce-checkout-manager-pro.php:961
+msgid "Before Shipping Form"
+msgstr "Before Shipping Form"
+
+#: woocommerce-checkout-manager-pro.php:971
+msgid "After Shipping Form"
+msgstr "After Shipping Form"
+
+#: woocommerce-checkout-manager-pro.php:981
+msgid "Before Billing Form"
+msgstr "Before Billing Form"
+
+#: woocommerce-checkout-manager-pro.php:991
+msgid "After Billing Form"
+msgstr "After Billing Form"
+
+#: woocommerce-checkout-manager-pro.php:1001
+msgid "After Order Notes"
+msgstr "After Order Notes"
+
+#: woocommerce-checkout-manager-pro.php:1006
+msgid "Payment method used by customer"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1014
+msgid "Enable display of payment method."
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1020
+msgid "Shipping method used by customer"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1028
+msgid "Enable display of shipping method."
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1035
+msgid "Default sate code for checkout."
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1043
+msgid "Enable default sate code."
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1134
+#: woocommerce-checkout-manager-pro.php:1265
+#: woocommerce-checkout-manager-pro.php:1433
+msgid "Change order"
+msgstr "Change order"
+
+#: woocommerce-checkout-manager-pro.php:1136
+msgid "More"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1138
+#, fuzzy
+msgid "Hide Field from Product"
+msgstr "Display Field for these Products Only"
+
+#: woocommerce-checkout-manager-pro.php:1140
+#, fuzzy
+msgid "Show Field for Product"
+msgstr "Show for Single Product Only"
+
+#: woocommerce-checkout-manager-pro.php:1142
+msgid "Hide Field from Category"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1144
+#: woocommerce-checkout-manager-pro.php:1449
+msgid "Show Field for Category"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1146
+msgid "Date Format"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1148
+msgid "Days before"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1150
+msgid "Days After"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1152
+msgid "Days Enabler"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1154
+msgid "Sundays"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1156
+msgid "Mondays"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1158
+msgid "Tuesdays"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1160
+msgid "Wednesdays"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1162
+msgid "Thursdays"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1164
+msgid "Fridays"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1166
+msgid "Satudays"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1170
+#: woocommerce-checkout-manager-pro.php:1178
+msgid "YY"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1172
+#: woocommerce-checkout-manager-pro.php:1180
+msgid "MM"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1174
+#: woocommerce-checkout-manager-pro.php:1182
+msgid "DD"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1184
+#, fuzzy
+msgid "Required"
+msgstr "Required Attribute"
+
+#: woocommerce-checkout-manager-pro.php:1186
+msgid "Position"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1188
+msgid "Clear"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1190
+#: woocommerce-checkout-manager-pro.php:1511
+#, fuzzy
+msgid "Deny Checkout"
+msgstr "Checkout Page"
+
+#: woocommerce-checkout-manager-pro.php:1192
+#, fuzzy
+msgid "Remove Tax"
+msgstr "Remove Field"
+
+#: woocommerce-checkout-manager-pro.php:1194
+#: woocommerce-checkout-manager-pro.php:1517
+msgid "Deny Receipt"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1196
+#: woocommerce-checkout-manager-pro.php:1520
+msgid "Add Amount"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1198
+#: woocommerce-checkout-manager-pro.php:1523
+#, fuzzy
+msgid "Amount Name"
+msgstr "Input Name"
+
+#: woocommerce-checkout-manager-pro.php:1200
+msgid "Enter Amount"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1202
+#: woocommerce-checkout-manager-pro.php:1529
+msgid "Conditional Field On"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1204
+#: woocommerce-checkout-manager-pro.php:1532
+msgid "Conditional Parent"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1206
+msgid "Label"
+msgstr "Label"
+
+#: woocommerce-checkout-manager-pro.php:1208
+msgid "Placeholder"
+msgstr "Placeholder"
+
+#: woocommerce-checkout-manager-pro.php:1210
+#, fuzzy
+msgid "Chosen Value"
+msgstr "Checked Value"
+
+#: woocommerce-checkout-manager-pro.php:1212
+msgid "Conditional Tie"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1214
+#: woocommerce-checkout-manager-pro.php:1547
+msgid "Default Color"
+msgstr "Default Color"
+
+#: woocommerce-checkout-manager-pro.php:1216
+#: woocommerce-checkout-manager-pro.php:1550
+msgid "Input Name"
+msgstr "Input Name"
+
+#: woocommerce-checkout-manager-pro.php:1218
+#: woocommerce-checkout-manager-pro.php:1553
+msgid "Change Name to"
+msgstr "Change Name to"
+
+#: woocommerce-checkout-manager-pro.php:1220
+msgid "Checked Value"
+msgstr "Checked Value"
+
+#: woocommerce-checkout-manager-pro.php:1222
+msgid "Not Checked Value"
+msgstr "Not Checked Value"
+
+#: woocommerce-checkout-manager-pro.php:1224
+msgid "Force Title"
+msgstr "Force Title"
+
+#: woocommerce-checkout-manager-pro.php:1226
+msgid "List of Options (Separated by "
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1240
+msgid "Choose Type"
+msgstr "Choose Type"
+
+#: woocommerce-checkout-manager-pro.php:1241
+msgid "Abbreviation"
+msgstr "Abbreviation"
+
+#: woocommerce-checkout-manager-pro.php:1243
+msgid "Remove button"
+msgstr "Remove button"
+
+#: woocommerce-checkout-manager-pro.php:1271
+#: woocommerce-checkout-manager-pro.php:1274
+#: woocommerce-checkout-manager-pro.php:1440
+#: woocommerce-checkout-manager-pro.php:1443
+msgid "Product ID(s) e.g 1674"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1277
+#: woocommerce-checkout-manager-pro.php:1280
+#: woocommerce-checkout-manager-pro.php:1446
+#: woocommerce-checkout-manager-pro.php:1449
+msgid "Category Slug(s) e.g my-cat"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1305
+#: woocommerce-checkout-manager-pro.php:1473
+msgid "Min Date"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1308
+#: woocommerce-checkout-manager-pro.php:1319
+#: woocommerce-checkout-manager-pro.php:1476
+#: woocommerce-checkout-manager-pro.php:1487
+msgid "2013"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1308
+#: woocommerce-checkout-manager-pro.php:1319
+#: woocommerce-checkout-manager-pro.php:1476
+#: woocommerce-checkout-manager-pro.php:1487
+msgid "yy"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1311
+#: woocommerce-checkout-manager-pro.php:1322
+#: woocommerce-checkout-manager-pro.php:1479
+#: woocommerce-checkout-manager-pro.php:1490
+msgid "10"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1311
+#: woocommerce-checkout-manager-pro.php:1322
+#: woocommerce-checkout-manager-pro.php:1479
+#: woocommerce-checkout-manager-pro.php:1490
+msgid "mm"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1314
+#: woocommerce-checkout-manager-pro.php:1325
+#: woocommerce-checkout-manager-pro.php:1482
+#: woocommerce-checkout-manager-pro.php:1493
+msgid "25"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1314
+#: woocommerce-checkout-manager-pro.php:1325
+#: woocommerce-checkout-manager-pro.php:1482
+#: woocommerce-checkout-manager-pro.php:1493
+msgid "dd"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1316
+#: woocommerce-checkout-manager-pro.php:1484
+msgid "Max Date"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1333
+#: woocommerce-checkout-manager-pro.php:1500
+msgid "Left"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1334
+#: woocommerce-checkout-manager-pro.php:1501
+#, fuzzy
+msgid "Right"
+msgstr "Float Right"
+
+#: woocommerce-checkout-manager-pro.php:1335
+#: woocommerce-checkout-manager-pro.php:1502
+msgid "Center"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1349
+#: woocommerce-checkout-manager-pro.php:1523
+#, fuzzy
+msgid "My Custom Charge"
+msgstr "Custom CSS"
+
+#: woocommerce-checkout-manager-pro.php:1357
+#: woocommerce-checkout-manager-pro.php:1534
+#, fuzzy
+msgid "My Field Name"
+msgstr "Field Name"
+
+#: woocommerce-checkout-manager-pro.php:1360
+#: woocommerce-checkout-manager-pro.php:1537
+msgid "Example red"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1363
+#: woocommerce-checkout-manager-pro.php:1540
+msgid "Yes"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1366
+#: woocommerce-checkout-manager-pro.php:1544
+msgid "Parent Abbr. Name"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1369
+#: woocommerce-checkout-manager-pro.php:1547
+msgid "#000"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1372
+#: woocommerce-checkout-manager-pro.php:1549
+#: woocommerce-checkout-manager-pro.php:2708
+msgid "Billing Address"
+msgstr "Billing Address"
+
+#: woocommerce-checkout-manager-pro.php:1375
+#: woocommerce-checkout-manager-pro.php:1552
+#, fuzzy
+msgid "Bill Form"
+msgstr "After Billing Form"
+
+#: woocommerce-checkout-manager-pro.php:1378
+#: woocommerce-checkout-manager-pro.php:1556
+msgid "Yes apple"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1381
+#: woocommerce-checkout-manager-pro.php:1559
+msgid "No apple"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1384
+#: woocommerce-checkout-manager-pro.php:1562
+msgid "Name Guide"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1390
+#: woocommerce-checkout-manager-pro.php:1567
+msgid "Options Toggler"
+msgstr "Options Toggler"
+
+#: woocommerce-checkout-manager-pro.php:1391
+#: woocommerce-checkout-manager-pro.php:1568
+msgid "Checkbox Toggler"
+msgstr "Checkbox Toggler"
+
+#: woocommerce-checkout-manager-pro.php:1392
+#: woocommerce-checkout-manager-pro.php:1569
+#, fuzzy
+msgid "Swapper Toggler"
+msgstr "Options Toggler"
+
+#: woocommerce-checkout-manager-pro.php:1393
+#: woocommerce-checkout-manager-pro.php:1570
+#, fuzzy
+msgid "Date Toggler"
+msgstr "Options Toggler"
+
+#: woocommerce-checkout-manager-pro.php:1394
+#: woocommerce-checkout-manager-pro.php:1571
+#, fuzzy
+msgid "Show & Hide Toggler"
+msgstr "T & H Toggler"
+
+#: woocommerce-checkout-manager-pro.php:1395
+#: woocommerce-checkout-manager-pro.php:1572
+#, fuzzy
+msgid "More Toggler"
+msgstr "Options Toggler"
+
+#: woocommerce-checkout-manager-pro.php:1401
+#: woocommerce-checkout-manager-pro.php:1576
+msgid "Text Input"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1402
+#: woocommerce-checkout-manager-pro.php:1577
+msgid "Text Area"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1403
+#: woocommerce-checkout-manager-pro.php:1578
+msgid "Password"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1404
+#: woocommerce-checkout-manager-pro.php:1579
+#, fuzzy
+msgid "Radio Button"
+msgstr "Remove button"
+
+#: woocommerce-checkout-manager-pro.php:1405
+#: woocommerce-checkout-manager-pro.php:1580
+msgid "Check Box"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1406
+#: woocommerce-checkout-manager-pro.php:1581
+msgid "Select Options"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1407
+#: woocommerce-checkout-manager-pro.php:1582
+msgid "Date Picker"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1408
+#: woocommerce-checkout-manager-pro.php:1583
+msgid "Time Picker"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1409
+#: woocommerce-checkout-manager-pro.php:1584
+msgid "Text/ Html Swapper"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1410
+#: woocommerce-checkout-manager-pro.php:1585
+msgid "Color Picker"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1411
+#: woocommerce-checkout-manager-pro.php:1586
+msgid "Heading"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1412
+#: woocommerce-checkout-manager-pro.php:1587
+msgid "Multi-Select"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1423
+#: woocommerce-checkout-manager-pro.php:1595
+msgid "Remove Field"
+msgstr "Remove Field"
+
+#: woocommerce-checkout-manager-pro.php:1437
+msgid "More than two content"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1440
+#, fuzzy
+msgid "Hide field from this Products Only"
+msgstr "Display Field for these Products Only"
+
+#: woocommerce-checkout-manager-pro.php:1443
+msgid "Display Field for these Products Only"
+msgstr "Display Field for these Products Only"
+
+#: woocommerce-checkout-manager-pro.php:1446
+msgid "Hide field from Category"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1496
+msgid "Add/Remove Required Attribute"
+msgstr "Add/Remove Required Attribute"
+
+#: woocommerce-checkout-manager-pro.php:1507
+msgid "Clear Row"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1514
+#, fuzzy
+msgid "Remove tax"
+msgstr "Remove button"
+
+#: woocommerce-checkout-manager-pro.php:1526
+#, fuzzy
+msgid "Add Amount Field"
+msgstr "+ Add New Field"
+
+#: woocommerce-checkout-manager-pro.php:1535
+msgid "Label of the New Field"
+msgstr "Label of the New Field"
+
+#: woocommerce-checkout-manager-pro.php:1538
+msgid "Placeholder - Preview of Data to Input"
+msgstr "Label of the New Field"
+
+#: woocommerce-checkout-manager-pro.php:1541
+msgid "Chosen value for conditional"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1593
+msgid "Abbreviation (No spaces)"
+msgstr "Abbreviation (No spaces)"
+
+#: woocommerce-checkout-manager-pro.php:1603
+msgid "+ Add New Field"
+msgstr "+ Add New Field"
+
+#: woocommerce-checkout-manager-pro.php:1618
+#, fuzzy
+msgid "Your License Key is invalid for WooCommerce Checkout Manager Pro."
+msgstr "WooCommerce Checkout Manager"
+
+#: woocommerce-checkout-manager-pro.php:1618
+msgid "update"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1618
+msgid "your license key."
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1628
+msgid "Settings"
+msgstr "Settings"
+
+#: woocommerce-checkout-manager-pro.php:1629
+msgid "Support"
+msgstr "Support"
+
+#: woocommerce-checkout-manager-pro.php:1944
+#: woocommerce-checkout-manager-pro.php:1948
+#: woocommerce-checkout-manager-pro.php:3621
+#: woocommerce-checkout-manager-pro.php:3637
+#, fuzzy
+msgid "is a required field."
+msgstr "is a required field"
+
+#: woocommerce-checkout-manager-pro.php:1974
+msgid "Settings Successfully Reset."
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1982
+msgid "Please Enter in a Unique"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:1982
+#, fuzzy
+msgid "Name for"
+msgstr "Name"
+
+#: woocommerce-checkout-manager-pro.php:1986
+msgid "Settings Successfully Updated."
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:2489
+msgid "Apply"
+msgstr ""
+
+#: woocommerce-checkout-manager-pro.php:2690
+msgid "Customer details"
+msgstr "Customer details"
+
+#: woocommerce-checkout-manager-pro.php:2694
+msgid "Email:"
+msgstr "Email:"
+
+#: woocommerce-checkout-manager-pro.php:2695
+msgid "Telephone:"
+msgstr "Telephone:"
+
+#: woocommerce-checkout-manager-pro.php:2712
+#: woocommerce-checkout-manager-pro.php:2727
+msgid "N/A"
+msgstr "N/A"
+
+#: woocommerce-checkout-manager-pro.php:2723
+msgid "Shipping Address"
+msgstr "Shipping Address"
+
+#: woocommerce-checkout-manager-pro.php:3349
+#: woocommerce-checkout-manager-pro.php:3358
+#, fuzzy
+msgid "Company Name"
+msgstr "Company"
+
+#: woocommerce-checkout-manager-pro.php:3349
+#: woocommerce-checkout-manager-pro.php:3358
+#: woocommerce-checkout-manager-pro.php:3367
+msgid "<strong>"
+msgstr ""
+
+#: add-on/include/dislawooccm.php:68
+msgid "License Key Installed."
+msgstr ""
+
+#: add-on/include/dislawooccm.php:73
+#, fuzzy
+msgid "WooCommerce Checkout Manager Pro License"
+msgstr "WooCommerce Checkout Manager"
+
+#: add-on/include/dislawooccm.php:97
+msgid "Licensing Validator"
+msgstr ""
+
+#: add-on/include/dislawooccm.php:104
+#, fuzzy
+msgid "Status"
+msgstr "State"
+
+#: add-on/include/dislawooccm.php:108
+msgid "Valid"
+msgstr ""
+
+#: add-on/include/dislawooccm.php:112
+msgid "Invalid"
+msgstr ""
+
+#: add-on/include/dislawooccm.php:122
+msgid "Installed Key"
+msgstr ""
+
+#: add-on/include/dislawooccm.php:127
+msgid "Help ?"
+msgstr ""
+
+#: add-on/include/dislawooccm.php:128
+msgid "Validate"
+msgstr ""
+
+#~ msgid "Additional Information"
+#~ msgstr "Additional Information"
+
+#~ msgid "settings saved."
+#~ msgstr "settings saved."
+
+#~ msgid "Billing Section"
+#~ msgstr "Billing Section"
+
+#~ msgid "Order Comments"
+#~ msgstr "Order Comments"
+
+#~ msgid "Address Fields and Custom CSS"
+#~ msgstr "Address Fields and Custom CSS"
+
+#~ msgid "Product ID - example 2222,1111,4444"
+#~ msgstr "Product ID - example 2222,1111,4444"
+
+#~ msgid "What is CSS?"
+#~ msgstr "What is CSS?"
+
+#~ msgid "Forum"
+#~ msgstr "Forum"
+
+#~ msgid "Add Checkout Notice"
+#~ msgstr "Add Checkout Notice"
+
+#~ msgid "Notice Text 1 - "
+#~ msgstr "Notice Text 1 - "
+
+#~ msgid "You can use class"
+#~ msgstr "You can use class"
+
+#~ msgid "Notice Text 2 - "
+#~ msgstr "Notice Text 2 - "
+
+#~ msgid "New Fields Position & Switches"
+#~ msgstr "New Fields Position & Switches"
+
+#~ msgid "Enable/ Disable"
+#~ msgstr "Enable/ Disable"
+
+#~ msgid "Add New Field Section with Text/ Html Swapper"
+#~ msgstr "Add New Field Section with Text/ Html Swapper"
+
+#~ msgid "Enable Title"
+#~ msgstr "Enable Title"
+
+#~ msgid "Checkout Details and Email Receipt"
+#~ msgstr "Checkout Details and Email Receipt"
+
+#~ msgid "Option 1"
+#~ msgstr "Option 1"
+
+#~ msgid "Option 2"
+#~ msgstr "Option 2"
+
+#~ msgid "Option 3"
+#~ msgstr "Option 3"
+
+#~ msgid "Option 4"
+#~ msgstr "Option 4"
+
+#~ msgid "Option 5"
+#~ msgstr "Option 5"
+
+#~ msgid "Option 6"
+#~ msgstr "Option 6"
+
+#~ msgid "Option 7"
+#~ msgstr "Option 7"
+
+#~ msgid "Option 8"
+#~ msgstr "Option 8"
+
+#~ msgid "Option 9"
+#~ msgstr "Option 9"
+
+#~ msgid "Option 10"
+#~ msgstr "Option 10"
+
+#~ msgid "&equiv;"
+#~ msgstr "&equiv;"
+
+#~ msgid "C & P Toggler"
+#~ msgstr "C & P Toggler"
+
+#~ msgid "First Option Displayed"
+#~ msgstr "First Option Displayed"
+
+#~ msgid "Address"
+#~ msgstr "Address"
+
+#~ msgid "Town / City"
+#~ msgstr "Town / City"
+
+#~ msgid "Postcode / Zip"
+#~ msgstr "Postcode / Zip"
+
+#~ msgid "State / County"
+#~ msgstr "State / County"

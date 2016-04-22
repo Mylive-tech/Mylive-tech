@@ -1,0 +1,1 @@
+{l}The administrator of this link directory, has banned your IP or hostname from accessing this page.{/l}

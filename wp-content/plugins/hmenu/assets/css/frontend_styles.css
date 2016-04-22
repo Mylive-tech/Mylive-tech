@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+/* FRONT-END STYLES */
+
+.hmenu_load_menu{
+	width:100%;
+	display:table;
+}
+
+.hmenu_inner_holder ul{
+	list-style:none;
+}
+
+.hmenu_is_sticky{
+	/*position:fixed;*/
+}
+
+.hmenu_maps_holder{
+	opacity:0;
+	height:0;
+	overflow:hidden;
+	filter: Alpha(opacity=0); /* IE8 and earlier */;
+}

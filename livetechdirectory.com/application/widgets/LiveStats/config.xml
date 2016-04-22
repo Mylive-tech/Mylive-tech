@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget>
+	<zonetype>VERTICAL</zonetype>
+	<description>Display live stats for vistors including where they arrive from and depart to</description>
+	<works_with>4.0</works_with>
+	<setting>
+			<name>TITLE</name>
+		<identifier>TITLE</identifier>
+		<value>Live Stats</value>
+		<allowed></allowed>
+		<info>This title shows at top of the widget's generated content.</info>
+	</setting>
+	<setting>
+		<name>HEADER TEXT COLOR</name>
+		<identifier>HEADER_TEXT_COLOR</identifier>
+		<value>FFFFFF</value>
+		<allowed></allowed>
+		<info>Header Text Color.</info>
+	</setting>
+	<setting>
+		<name>BACKGROUND COLOR</name>
+		<identifier>BACKGROUND_COLOR</identifier>
+		<value>FFFFFF</value>
+		<allowed></allowed>
+		<info>Background Color.</info>
+	</setting>
+	<setting>
+		<name>TEXT COLOR</name>
+		<identifier>TEXT_COLOR</identifier>
+		<value>000000</value>
+		<allowed></allowed>
+		<info>Text Color.</info>
+	</setting>
+	<setting>
+		<name>LINK COLOR</name>
+		<identifier>LINK_COLOR</identifier>
+		<value>000000</value>
+		<allowed></allowed>
+		<info>Link Color.</info>
+	</setting>
+	<setting>
+		<name>BORDER COLOR</name>
+		<identifier>BORDER_COLOR</identifier>
+		<value>CCCCCC</value>
+		<allowed></allowed>
+		<info>Border Color.</info>
+	</setting>
+	<setting>
+		<name>WIDTH</name>
+		<identifier>WIDTH</identifier>
+		<value>200</value>
+		<allowed></allowed>
+		<info>Widget Width.</info>
+	
+	</setting>
+	<author>PhpLD</author>
+	<author_url>www.phplinkdirectory.com</author_url>
+	<version>1.0</version>
+</widget>

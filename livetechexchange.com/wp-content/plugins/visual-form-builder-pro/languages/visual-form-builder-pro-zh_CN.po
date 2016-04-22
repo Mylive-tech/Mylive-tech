@@ -1,0 +1,2391 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Visual Form Builder Pro v2.3.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-05-26 16:35:22+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: PEOPLE'S REPUBLIC OF CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: email-preview.php:38
+#: form-preview.php:40
+#@ default
+msgid "You do not have sufficient permissions to view the preview for this site."
+msgstr ""
+
+#: includes/admin-form-creator.php:83
+#: includes/admin-form-creator.php:88
+#@ visual-form-builder-pro
+msgid "Form Name"
+msgstr "窗体名称"
+
+#: includes/admin-form-creator.php:561
+#@ visual-form-builder-pro
+msgid "Save Form"
+msgstr "保存窗体"
+
+#: includes/admin-form-creator.php:134
+#@ visual-form-builder-pro
+msgid "General"
+msgstr "一般"
+
+#: includes/admin-form-creator.php:139
+#@ visual-form-builder-pro
+msgid "Label Alignment"
+msgstr "标签对齐方式"
+
+#: includes/admin-form-creator.php:144
+#@ visual-form-builder-pro
+msgid "Top Aligned"
+msgstr "顶对齐"
+
+#: includes/admin-form-creator.php:145
+#@ visual-form-builder-pro
+msgid "Left Aligned"
+msgstr "左对齐"
+
+#: includes/admin-form-creator.php:146
+#@ visual-form-builder-pro
+msgid "Right Aligned"
+msgstr "右对齐"
+
+#: includes/admin-form-creator.php:153
+#@ visual-form-builder-pro
+msgid "Display SPAM Verification"
+msgstr "显示垃圾邮件验证"
+
+#: includes/admin-form-creator.php:158
+#@ visual-form-builder-pro
+msgid "Yes (Recommended)"
+msgstr "是的 (推荐)"
+
+#: includes/admin-form-creator.php:159
+#: visual-form-builder-pro.php:3129
+#@ visual-form-builder-pro
+msgid "No"
+msgstr "无"
+
+#: includes/admin-form-creator.php:166
+#@ visual-form-builder-pro
+msgid "Entries Allowed"
+msgstr "允许的条目"
+
+#: includes/admin-form-creator.php:176
+#@ visual-form-builder-pro
+msgid "Schedule Start Date"
+msgstr "计划开始日期"
+
+#: includes/admin-form-creator.php:185
+#@ visual-form-builder-pro
+msgid "Schedule End Date"
+msgstr "计划结束日期"
+
+#: includes/admin-form-creator.php:196
+#@ visual-form-builder-pro
+msgid "Allow only unique entries based on IP"
+msgstr "允许基于 IP 的只有唯一的条目"
+
+#: includes/admin-form-creator.php:204
+#: visual-form-builder-pro.php:3089
+#@ visual-form-builder-pro
+msgid "Email"
+msgstr "电子邮件"
+
+#: includes/admin-form-creator.php:207
+#@ visual-form-builder-pro
+msgid "The forms you build here will send information to one or more email addresses when submitted by a user on your site.  Use the fields below to customize the details of that email."
+msgstr "你在这里建的形式会将信息发送到一个或多个电子邮件地址时提交的对您的站点上的用户。使用下面的字段自定义电子邮件的详细信息。"
+
+#: includes/admin-form-creator.php:212
+#: includes/admin-form-creator.php:402
+#: includes/admin-new-form.php:32
+#@ visual-form-builder-pro
+msgid "E-mail Subject"
+msgstr "电子邮件主题"
+
+#: includes/admin-form-creator.php:223
+#: includes/admin-new-form.php:17
+#@ visual-form-builder-pro
+msgid "Your Name or Company"
+msgstr "您的姓名或公司"
+
+#: includes/admin-form-creator.php:231
+#@ visual-form-builder-pro
+msgid "User's Name (optional)"
+msgstr "用户的名称 （可选）"
+
+#: includes/admin-form-creator.php:235
+#@ visual-form-builder-pro
+msgid "No required text fields detected"
+msgstr "检测到没有必需的文本字段"
+
+#: includes/admin-form-creator.php:253
+#: includes/admin-form-creator.php:373
+#: includes/admin-new-form.php:24
+#@ visual-form-builder-pro
+msgid "Reply-To E-mail"
+msgstr "回复电子邮件"
+
+#: includes/admin-form-creator.php:261
+#@ visual-form-builder-pro
+msgid "User's E-mail (optional)"
+msgstr "用户的电子邮件 (可选)"
+
+#: includes/admin-form-creator.php:265
+#: includes/admin-form-creator.php:386
+#@ visual-form-builder-pro
+msgid "No required email fields detected"
+msgstr "检测到没有所需的电子邮件字段"
+
+#: includes/admin-form-creator.php:291
+#@ visual-form-builder-pro
+msgid "E-mail(s) To"
+msgstr "到 e-mail(s)"
+
+#: includes/admin-form-creator.php:310
+#@ visual-form-builder-pro
+msgid "Confirmation"
+msgstr "确认"
+
+#: includes/admin-form-creator.php:312
+#@ visual-form-builder-pro
+msgid "After someone submits a form, you can control what is displayed. By default, it's a message but you can send them to another WordPress Page or a custom URL."
+msgstr "有人提交表单后，您可以控制显示的内容。默认情况下，它是一条消息，但你可以向他们发送到另一个 WordPress 页面或自定义的 URL。"
+
+#: includes/admin-form-creator.php:315
+#@ visual-form-builder-pro
+msgid "Text"
+msgstr "文本"
+
+#: includes/admin-form-creator.php:319
+#@ visual-form-builder-pro
+msgid "Page"
+msgstr "页"
+
+#: includes/admin-form-creator.php:323
+#@ visual-form-builder-pro
+msgid "Redirect"
+msgstr "重定向"
+
+#: includes/admin-form-creator.php:332
+#@ visual-form-builder-pro
+msgid "Your form was successfully submitted. Thank you for contacting us."
+msgstr "您的表单成功提交。感谢您与我们联络。"
+
+#: includes/admin-form-creator.php:342
+#@ visual-form-builder-pro
+msgid "Select a Page"
+msgstr "选择一个页面"
+
+#: includes/admin-form-creator.php:353
+#@ visual-form-builder-pro
+msgid "Notification"
+msgstr "通知"
+
+#: includes/admin-form-creator.php:355
+#@ visual-form-builder-pro
+msgid "When a user submits their entry, you can send a customizable notification email."
+msgstr "当用户提交其条目时，您可以发送自定义通知电子邮件。"
+
+#: includes/admin-form-creator.php:358
+#@ visual-form-builder-pro
+msgid "Send Confirmation Email to User"
+msgstr "向用户发送确认电子邮件"
+
+#: includes/admin-form-creator.php:364
+#@ visual-form-builder-pro
+msgid "Sender Name or Company"
+msgstr "发件人名称或公司"
+
+#: includes/admin-form-creator.php:382
+#: includes/admin-new-form.php:39
+#@ visual-form-builder-pro
+msgid "E-mail To"
+msgstr "向电子邮件"
+
+#: includes/admin-form-creator.php:410
+#@ visual-form-builder-pro
+msgid "Message"
+msgstr "消息"
+
+#: includes/admin-form-creator.php:418
+#@ visual-form-builder-pro
+msgid "Include a Copy of the User's Entry"
+msgstr "包括用户的项目的副本"
+
+#: includes/admin-form-creator.php:424
+#@ visual-form-builder-pro
+msgid "PayPal"
+msgstr "PayPal"
+
+#: includes/admin-form-creator.php:429
+#@ visual-form-builder-pro
+msgid "Forward successful form submissions to PayPal to collect simple payments, such as registration fees."
+msgstr "转发成功的表单提交到 PayPal 来收集简单的支付，注册费等。"
+
+#: includes/admin-form-creator.php:433
+#@ visual-form-builder-pro
+msgid "Use this form as a PayPal form"
+msgstr "使用此窗体作为一个 PayPal 窗体"
+
+#: includes/admin-form-creator.php:439
+#@ visual-form-builder-pro
+msgid "Account Email"
+msgstr "帐户的电子邮件"
+
+#: includes/admin-form-creator.php:448
+#@ visual-form-builder-pro
+msgid "Currency"
+msgstr "货币"
+
+#: includes/admin-form-creator.php:465
+#@ visual-form-builder-pro
+msgid "Shipping"
+msgstr "航运"
+
+#: includes/admin-form-creator.php:474
+#@ visual-form-builder-pro
+msgid "Tax Rate"
+msgstr "税率"
+
+#: includes/admin-form-creator.php:483
+#@ visual-form-builder-pro
+msgid "Item Name"
+msgstr "项目名称"
+
+#: includes/admin-form-creator.php:491
+#@ visual-form-builder-pro
+msgid "Assign Prices"
+msgstr "分配的价格"
+
+#: includes/admin-form-creator.php:495
+#@ visual-form-builder-pro
+msgid "No select, radio, or checkbox fields detected"
+msgstr "没有检测到的选择、 广播或复选框的字段"
+
+#: includes/admin-form-creator.php:549
+#@ visual-form-builder-pro
+msgid "Warning &mdash; Missing Fieldset"
+msgstr "警告 &mdash; 缺少字段集"
+
+#: includes/admin-form-creator.php:549
+#@ visual-form-builder-pro
+msgid "Your form may not function or display correctly. Please be sure to add or move a Fieldset to the beginning of your form."
+msgstr "您的窗体可能不起作用或正确显示。请务必添加或移动到您的窗体的开头的字段集。"
+
+#: includes/admin-new-form.php:5
+#@ visual-form-builder-pro
+msgid "Create a form"
+msgstr "创建一个窗体"
+
+#: includes/admin-new-form.php:10
+#@ visual-form-builder-pro
+msgid "Name the form"
+msgstr "该窗体的名称"
+
+#: includes/admin-new-form.php:13
+#@ visual-form-builder-pro
+msgid "Required. This name is used for admin purposes."
+msgstr "必填。此名称用于管理目的。"
+
+#: includes/admin-new-form.php:20
+#@ visual-form-builder-pro
+msgid "Required. This is who your emails will come from."
+msgstr "必填。这就是你的电子邮件将来自。"
+
+#: includes/admin-new-form.php:27
+#@ visual-form-builder-pro
+msgid "Required. Replies to your email will go here."
+msgstr "必填。对您的电子邮件的答复将在这里。"
+
+#: includes/admin-new-form.php:28
+#@ visual-form-builder-pro
+msgid "Tip: for best results, use an email that exists on this domain."
+msgstr "提示： 为了获得最佳结果，使用存在于此域的电子邮件。"
+
+#: includes/admin-new-form.php:35
+#: includes/admin-new-form.php:42
+#@ visual-form-builder-pro
+msgid "Optional (for now) - you can change this later"
+msgstr "可选 (暂时) 以后可以更改此"
+
+#: includes/admin-new-form.php:48
+#@ visual-form-builder-pro
+msgid "Create Form"
+msgstr "创建窗体"
+
+#: includes/admin-new-form.php:52
+#@ visual-form-builder-pro
+msgid "Need more help?"
+msgstr "需要更多的帮助吗？"
+
+#: includes/admin-new-form.php:54
+#@ visual-form-builder-pro
+msgid "Click on the Help tab"
+msgstr "在帮助选项卡上单击"
+
+#: includes/admin-new-form.php:61
+#@ visual-form-builder-pro
+msgid "Follow me on Twitter"
+msgstr "按照我在 Twitter 上"
+
+#: includes/class-analytics.php:41
+#@ visual-form-builder-pro
+msgid "Select which form analytics to view"
+msgstr "选择要查看哪些形式分析"
+
+#: includes/class-analytics.php:63
+#: includes/class-email-designer.php:83
+#@ visual-form-builder-pro
+msgid "Select"
+msgstr "请选择"
+
+#: includes/class-analytics.php:75
+#: includes/class-entries-list.php:440
+#@ visual-form-builder-pro
+msgid "Filter"
+msgstr "筛选器"
+
+#: includes/class-analytics.php:83
+#: includes/class-forms-list.php:102
+#@ visual-form-builder-pro
+msgid "Entries Total"
+msgstr "条目总数"
+
+#: includes/class-analytics.php:87
+#@ visual-form-builder-pro
+msgid "Average per Day"
+msgstr "平均每一天"
+
+#: includes/class-analytics.php:91
+#@ visual-form-builder-pro
+msgid "Your Busiest Day"
+msgstr "您最繁忙的一天"
+
+#: includes/class-analytics.php:93
+#: includes/class-export.php:112
+#: includes/class-forms-list.php:141
+#: includes/class-forms-order.php:192
+#: visual-form-builder-pro.php:3370
+#: visual-form-builder-pro.php:3541
+#: visual-form-builder-pro.php:3606
+#@ visual-form-builder-pro
+msgid "Entries"
+msgstr "条目"
+
+#: includes/class-analytics.php:98
+#@ visual-form-builder-pro
+msgid "Daily"
+msgstr "每日"
+
+#: includes/class-analytics.php:100
+#: includes/class-analytics.php:104
+#@ visual-form-builder-pro
+msgid "Loading"
+msgstr "正在加载"
+
+#: includes/class-analytics.php:102
+#@ visual-form-builder-pro
+msgid "Monthly"
+msgstr "每月"
+
+#: includes/class-analytics.php:144
+#: includes/class-entries-list.php:482
+#: includes/class-export.php:1076
+#, php-format
+#@ default
+msgid "%1$s %2$d"
+msgstr ""
+
+#: includes/class-email-designer.php:39
+#@ visual-form-builder-pro
+msgid "Select email to design:"
+msgstr "选择电子邮件来设计："
+
+#: includes/class-email-designer.php:92
+#@ visual-form-builder-pro
+msgid "Colors"
+msgstr "颜色"
+
+#: includes/class-email-designer.php:96
+#: includes/class-email-designer.php:295
+#: includes/class-forms-list.php:87
+#: includes/class-forms-order.php:220
+#@ visual-form-builder-pro
+msgid "Preview"
+msgstr "预览"
+
+#: includes/class-email-designer.php:102
+#@ visual-form-builder-pro
+msgid "Header Image"
+msgstr "页眉图像"
+
+#: includes/class-email-designer.php:108
+#@ visual-form-builder-pro
+msgid "Remove Header Image"
+msgstr "删除页眉图像"
+
+#: includes/class-email-designer.php:111
+#@ visual-form-builder-pro
+msgid "Images of exactly <strong>600 x 137</strong> pixels will be used as-is."
+msgstr "确切地<strong>600 x 137</strong>像素的图像将被用作-是。"
+
+#: includes/class-email-designer.php:115
+#@ visual-form-builder-pro
+msgid "Header Text"
+msgstr "页眉文本"
+
+#: includes/class-email-designer.php:118
+#@ visual-form-builder-pro
+msgid "Form Subject is used by default. To reset to Form Subject, leave Header Text blank."
+msgstr "默认情况下使用窗体主题。要重置窗体主题，保留页眉文本为空。"
+
+#: includes/class-email-designer.php:122
+#@ visual-form-builder-pro
+msgid "Body Background Color"
+msgstr "正文的背景色"
+
+#: includes/class-email-designer.php:128
+#@ visual-form-builder-pro
+msgid "Header Background Color"
+msgstr "标题背景颜色"
+
+#: includes/class-email-designer.php:134
+#@ visual-form-builder-pro
+msgid "Header Text Color"
+msgstr "标题文本颜色"
+
+#: includes/class-email-designer.php:140
+#@ visual-form-builder-pro
+msgid "Fieldset Text Color"
+msgstr "字段集文本颜色"
+
+#: includes/class-email-designer.php:146
+#@ visual-form-builder-pro
+msgid "Section Background Color"
+msgstr "节的背景色"
+
+#: includes/class-email-designer.php:152
+#@ visual-form-builder-pro
+msgid "Section Text Color"
+msgstr "部分文本颜色"
+
+#: includes/class-email-designer.php:158
+#@ visual-form-builder-pro
+msgid "Text Color"
+msgstr "文本颜色"
+
+#: includes/class-email-designer.php:164
+#@ visual-form-builder-pro
+msgid "Link Color"
+msgstr "链接的颜色"
+
+#: includes/class-email-designer.php:170
+#@ visual-form-builder-pro
+msgid "Row Background Color"
+msgstr "行背景颜色"
+
+#: includes/class-email-designer.php:176
+#@ visual-form-builder-pro
+msgid "Alternate Row Background Color"
+msgstr "交替行的背景色"
+
+#: includes/class-email-designer.php:182
+#@ visual-form-builder-pro
+msgid "Row Border Color"
+msgstr "行的边框颜色"
+
+#: includes/class-email-designer.php:188
+#@ visual-form-builder-pro
+msgid "Footer Color"
+msgstr "页脚颜色"
+
+#: includes/class-email-designer.php:194
+#@ visual-form-builder-pro
+msgid "Footer Text Color"
+msgstr "页脚文本颜色"
+
+#: includes/class-email-designer.php:201
+#@ visual-form-builder-pro
+msgid "Fonts"
+msgstr "字体"
+
+#: includes/class-email-designer.php:204
+#@ visual-form-builder-pro
+msgid "Font Family"
+msgstr "字体系列"
+
+#: includes/class-email-designer.php:216
+#@ visual-form-builder-pro
+msgid "Header Font Size"
+msgstr "标题的字体大小"
+
+#: includes/class-email-designer.php:224
+#@ visual-form-builder-pro
+msgid "Fieldset Font Size"
+msgstr "字段集字体大小"
+
+#: includes/class-email-designer.php:232
+#@ visual-form-builder-pro
+msgid "Section Font Size"
+msgstr "节字体大小"
+
+#: includes/class-email-designer.php:240
+#@ visual-form-builder-pro
+msgid "Text Font Size"
+msgstr "文本的字体大小"
+
+#: includes/class-email-designer.php:248
+#@ visual-form-builder-pro
+msgid "Footer Font Size"
+msgstr "页脚字体大小"
+
+#: includes/admin-form-creator.php:121
+#: includes/class-email-designer.php:257
+#: visual-form-builder-pro.php:406
+#@ visual-form-builder-pro
+msgid "Settings"
+msgstr "设置"
+
+#: includes/class-email-designer.php:260
+#@ visual-form-builder-pro
+msgid "Email Format"
+msgstr "电子邮件格式"
+
+#: includes/class-email-designer.php:273
+#@ visual-form-builder-pro
+msgid "Link back to Visual Form Builder?"
+msgstr "将链接回可视化窗体生成器吗？"
+
+#: includes/class-email-designer.php:286
+#@ visual-form-builder-pro
+msgid "Additional Footer Text"
+msgstr "附加页脚文本"
+
+#: includes/class-email-designer.php:292
+#@ visual-form-builder-pro
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: includes/class-email-designer.php:296
+#@ visual-form-builder-pro
+msgid "Save options to view your recent changes."
+msgstr "保存选项以查看您最近的更改。"
+
+#: includes/class-entries-detail.php:30
+#@ visual-form-builder-pro
+msgid "Back to Entries"
+msgstr "返回到条目"
+
+#: includes/class-entries-detail.php:44
+#@ visual-form-builder-pro
+msgid "Entry"
+msgstr "条目"
+
+#: includes/class-entries-detail.php:61
+#@ visual-form-builder-pro
+msgid "Details"
+msgstr "详细信息"
+
+#: includes/class-entries-detail.php:67
+#: visual-form-builder-pro.php:2806
+#@ visual-form-builder-pro
+msgid "Form Title"
+msgstr "窗体标题"
+
+#: includes/class-entries-detail.php:70
+#: includes/class-entries-list.php:120
+#: includes/class-export.php:20
+#@ visual-form-builder-pro
+msgid "Date Submitted"
+msgstr "提交日期"
+
+#: includes/class-entries-detail.php:73
+#: includes/class-entries-list.php:119
+#: includes/class-export.php:21
+#: visual-form-builder-pro.php:2807
+#@ visual-form-builder-pro
+msgid "IP Address"
+msgstr "IP 地址"
+
+#: includes/class-entries-detail.php:76
+#: includes/class-entries-list.php:115
+#@ visual-form-builder-pro
+msgid "Email Subject"
+msgstr "电子邮件主题"
+
+#: includes/class-entries-detail.php:79
+#: includes/class-entries-list.php:116
+#: includes/class-export.php:23
+#@ visual-form-builder-pro
+msgid "Sender Name"
+msgstr "发件人名称"
+
+#: includes/class-entries-detail.php:82
+#: includes/class-entries-list.php:117
+#: includes/class-export.php:24
+#@ visual-form-builder-pro
+msgid "Sender Email"
+msgstr "发件人的电子邮件"
+
+#: includes/class-entries-detail.php:85
+#: includes/class-entries-list.php:118
+#: includes/class-export.php:25
+#@ visual-form-builder-pro
+msgid "Emailed To"
+msgstr "通过电子邮件发送到"
+
+#: includes/class-entries-detail.php:88
+#@ visual-form-builder-pro
+msgid "Notes"
+msgstr "备注"
+
+#: includes/class-entries-list.php:68
+#: includes/class-forms-list.php:57
+#@ visual-form-builder-pro
+msgid "Edit"
+msgstr "编辑"
+
+#: includes/class-entries-list.php:65
+#: includes/class-entries-list.php:76
+#@ visual-form-builder-pro
+msgid "View"
+msgstr "视图"
+
+#: includes/class-entries-list.php:70
+#@ visual-form-builder-pro
+msgid "Spam"
+msgstr "垃圾邮件"
+
+#: includes/class-entries-list.php:78
+#: includes/class-entries-list.php:325
+#@ visual-form-builder-pro
+msgid "Not Spam"
+msgstr "不是垃圾邮件"
+
+#: includes/class-entries-list.php:81
+#: includes/class-entries-list.php:90
+#: includes/class-entries-list.php:320
+#: includes/class-entries-list.php:328
+#: includes/class-forms-list.php:283
+#@ visual-form-builder-pro
+msgid "Delete Permanently"
+msgstr "永久删除"
+
+#: includes/class-entries-list.php:87
+#@ visual-form-builder-pro
+msgid "Trash"
+msgstr "废纸篓"
+
+#: includes/class-entries-list.php:89
+#: includes/class-entries-list.php:319
+#@ visual-form-builder-pro
+msgid "Restore"
+msgstr "还原"
+
+#: includes/class-entries-list.php:114
+#: includes/class-export.php:125
+#: includes/class-forms-list.php:139
+#@ visual-form-builder-pro
+msgid "Form"
+msgstr "窗体"
+
+#: includes/class-entries-list.php:121
+#@ visual-form-builder-pro
+msgid "Entry ID"
+msgstr "条目 ID"
+
+#: includes/class-entries-list.php:223
+#: includes/class-forms-list.php:184
+#, php-format
+#@ visual-form-builder-pro
+msgid "All <span class=\"count\">(<span class=\"pending-count\">%s</span>)</span>"
+msgid_plural "All <span class=\"count\">(<span class=\"pending-count\">%s</span>)</span>"
+msgstr[0] "All <span class=\"count\">(<span class=\"pending-count\">%s</span>)</span>"
+msgstr[1] "All <span class=\"count\">(<span class=\"pending-count\">%s</span>)</span>"
+
+#: includes/class-entries-list.php:224
+#, php-format
+#@ visual-form-builder-pro
+msgid "Spam <span class=\"count\">(<span class=\"spam-count\">%s</span>)</span>"
+msgid_plural "Spam <span class=\"count\">(<span class=\"spam-count\">%s</span>)</span>"
+msgstr[0] "Spam <span class=\"count\">(<span class=\"spam-count\">%s</span>)</span>"
+msgstr[1] "Spam <span class=\"count\">(<span class=\"spam-count\">%s</span>)</span>"
+
+#: includes/class-entries-list.php:225
+#, php-format
+#@ visual-form-builder-pro
+msgid "Trash <span class=\"count\">(<span class=\"trash-count\">%s</span>)</span>"
+msgid_plural "Trash <span class=\"count\">(<span class=\"trash-count\">%s</span>)</span>"
+msgstr[0] "垃圾<span class=\"count\">(<span class=\"trash-count\"></span>)</span>"
+msgstr[1] "垃圾<span class=\"count\">(<span class=\"trash-count\"></span>)</span>"
+
+#: includes/class-entries-list.php:315
+#@ visual-form-builder-pro
+msgid "Move to Trash"
+msgstr "移到垃圾桶"
+
+#: includes/class-entries-list.php:316
+#@ visual-form-builder-pro
+msgid "Mark as Spam"
+msgstr "标记为垃圾邮件"
+
+#: includes/class-entries-list.php:433
+#@ visual-form-builder-pro
+msgid "View all forms"
+msgstr "查看所有窗体"
+
+#: includes/class-entries-list.php:470
+#@ default
+msgid "Show all dates"
+msgstr ""
+
+#: includes/class-entries-list.php:675
+#: includes/class-forms-list.php:508
+#@ default
+msgid "Go to the first page"
+msgstr ""
+
+#: includes/class-entries-list.php:683
+#: includes/class-forms-list.php:516
+#@ default
+msgid "Go to the previous page"
+msgstr ""
+
+#: includes/class-entries-list.php:692
+#: includes/class-forms-list.php:525
+#@ default
+msgid "Current page"
+msgstr ""
+
+#: includes/class-entries-list.php:698
+#: includes/class-forms-list.php:531
+#, php-format
+#@ default
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr ""
+
+#: includes/class-entries-list.php:702
+#: includes/class-forms-list.php:535
+#@ default
+msgid "Go to the next page"
+msgstr ""
+
+#: includes/class-entries-list.php:710
+#: includes/class-forms-list.php:543
+#@ default
+msgid "Go to the last page"
+msgstr ""
+
+#: includes/class-export.php:19
+#@ visual-form-builder-pro
+msgid "Entries ID"
+msgstr "条目 ID"
+
+#: includes/class-export.php:22
+#@ visual-form-builder-pro
+msgid "Subject"
+msgstr "主题"
+
+#: includes/class-export.php:67
+#: includes/class-export.php:898
+#@ visual-form-builder-pro
+msgid "No entries to pull field names from."
+msgstr "没有要拉从字段名称的条目。"
+
+#: includes/class-export.php:83
+#@ visual-form-builder-pro
+msgid "Backup and save some or all of your Visual Form Builder Pro data."
+msgstr "备份和保存某些或所有您可视化窗体生成器 Pro 的数据。"
+
+#: includes/class-export.php:84
+#@ visual-form-builder-pro
+msgid "Once you have saved the file, you will be able to import Visual Form Builder Pro data from this site into another site."
+msgstr "一旦您已保存该文件，您将能够可视化窗体生成器临数据从该网站导入到另一个站点。"
+
+#: includes/class-export.php:85
+#@ visual-form-builder-pro
+msgid "Choose what to export"
+msgstr "选择要导出的内容"
+
+#: includes/class-export.php:87
+#@ visual-form-builder-pro
+msgid "All data"
+msgstr "所有的数据"
+
+#: includes/class-export.php:88
+#@ visual-form-builder-pro
+msgid "This will contain all of your forms, fields, entries, and email design settings."
+msgstr "这将包含您的所有窗体、 字段、 条目和设计的电子邮件设置。"
+
+#: includes/class-export.php:90
+#: includes/class-export.php:95
+#@ visual-form-builder-pro
+msgid "Forms"
+msgstr "形式"
+
+#: includes/class-export.php:93
+#@ visual-form-builder-pro
+msgid "This will contain all of your forms, fields, and email design settings."
+msgstr "这将包含所有的您的窗体、 字段和设计的电子邮件设置。"
+
+#: includes/class-export.php:115
+#@ visual-form-builder-pro
+msgid "This will export entries in either .csv, .txt, or .xls and cannot be used with the Import.  If you need to import entries on another site, please use the All data option above."
+msgstr "这会将导出.csv、.txt 或.xls 中的条目，不能用于导入。如果您需要导入另一个站点上的条目，请使用上面的所有数据选项。"
+
+#: includes/class-export.php:117
+#@ visual-form-builder-pro
+msgid "Format"
+msgstr "格式"
+
+#: includes/class-export.php:119
+#@ visual-form-builder-pro
+msgid "Comma Separated (.csv)"
+msgstr "用逗号分隔 (.csv)"
+
+#: includes/class-export.php:120
+#@ visual-form-builder-pro
+msgid "Tab Delimited (.txt)"
+msgstr "制表符分隔 (.txt)"
+
+#: includes/class-export.php:121
+#@ visual-form-builder-pro
+msgid "Excel (.xls)"
+msgstr "Excel （.xls）"
+
+#: includes/class-export.php:140
+#@ visual-form-builder-pro
+msgid "Date Range"
+msgstr "日期范围"
+
+#: includes/class-export.php:155
+#@ visual-form-builder-pro
+msgid "Page to Export"
+msgstr "要导出的页面"
+
+#: includes/class-export.php:163
+#@ visual-form-builder-pro
+msgid "A large number of entries have been detected for this form. Only 1000 entries can be exported at a time."
+msgstr "为此窗体未发现有大量的条目。只有 1000年的条目可以导出一次。"
+
+#: includes/class-export.php:169
+#@ visual-form-builder-pro
+msgid "Fields"
+msgstr "字段"
+
+#: includes/class-export.php:171
+#@ visual-form-builder-pro
+msgid "Select All"
+msgstr "选择所有"
+
+#: includes/class-export.php:192
+#@ visual-form-builder-pro
+msgid "Download Export File"
+msgstr "下载导出文件"
+
+#: includes/class-import.php:51
+#@ visual-form-builder-pro
+msgid "Select a Visual Form Builder Pro backup file (.xml), then click Upload file and import."
+msgstr "选择一个可视化窗体生成器 Pro 的备份文件 (.xml)，然后单击上载文件并导入。"
+
+#: includes/class-import.php:93
+#: includes/class-import.php:102
+#: includes/class-import.php:554
+#: includes/class-import.php:559
+#: includes/class-import.php:569
+#: includes/class-import.php:597
+#@ visual-form-builder-pro
+msgid "Sorry, there has been an error."
+msgstr "对不起，发生了错误。"
+
+#: includes/class-import.php:94
+#@ visual-form-builder-pro
+msgid "The file does not exist, please try again."
+msgstr "该文件不存在，请再试一次。"
+
+#: includes/class-import.php:127
+#@ visual-form-builder-pro
+msgid "All done."
+msgstr "所做的一切。"
+
+#: includes/class-import.php:127
+#@ visual-form-builder-pro
+msgid "View Forms"
+msgstr "查看窗体"
+
+#: includes/class-import.php:142
+#@ visual-form-builder-pro
+msgid "Importing forms..."
+msgstr "导入窗体..."
+
+#: includes/class-import.php:179
+#@ visual-form-builder-pro
+msgid "Form ID already exists. Assigning a new form ID."
+msgstr "表单 ID 已存在。分配一个新的窗体 id。"
+
+#: includes/class-import.php:185
+#, php-format
+#@ visual-form-builder-pro
+msgid "<strong>Error: </strong> The %s form could not be imported."
+msgstr "<strong>错误：</strong>%S 窗体不能导入。"
+
+#: includes/class-import.php:191
+#@ visual-form-builder-pro
+msgid "Form import process complete."
+msgstr "表单导入过程完成。"
+
+#: includes/class-import.php:208
+#@ visual-form-builder-pro
+msgid "Importing fields..."
+msgstr "正在导入的字段..."
+
+#: includes/class-import.php:249
+#, php-format
+#@ visual-form-builder-pro
+msgid "<strong>Error: </strong> The %s field could not be imported."
+msgstr "<strong>错误：</strong>%S 字段不能导入。"
+
+#: includes/class-import.php:296
+#@ visual-form-builder-pro
+msgid "Field import process complete."
+msgstr "字段导入过程完成。"
+
+#: includes/class-import.php:313
+#@ visual-form-builder-pro
+msgid "Importing entries..."
+msgstr "导入条目......"
+
+#: includes/class-import.php:344
+#@ visual-form-builder-pro
+msgid "<strong>Error: </strong> An entry could not be imported."
+msgstr "<strong>错误：</strong>一个条目不能导入。"
+
+#: includes/class-import.php:347
+#@ visual-form-builder-pro
+msgid "Entries import process complete."
+msgstr "条目导入过程完成。"
+
+#: includes/class-import.php:560
+#, php-format
+#@ visual-form-builder-pro
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr "在找不到出口文件 <code>%s</code> 。很可能这由权限问题引起的。"
+
+#: includes/class-import.php:578
+#, php-format
+#@ visual-form-builder-pro
+msgid "This Visual Form Builder Pro export file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr "这个可视化窗体生成器 Pro 的导出文件 （版本 %s） 可能不支持此版本的导入程序中。请考虑更新。"
+
+#: includes/class-import.php:630
+#@ visual-form-builder-pro
+msgid "There was an error when reading this Visual Form Builder Pro export file"
+msgstr "阅读此可视化窗体生成器临导出文件时出错"
+
+#: includes/class-import.php:634
+#@ visual-form-builder-pro
+msgid "This does not appear to be an XML file, missing/invalid Visual Form Builder Pro version number"
+msgstr "这似乎并不是 XML 文件，缺少/无效可视化窗体生成器 Pro 版本编号"
+
+#: includes/class-import.php:639
+#@ visual-form-builder-pro
+msgid "This does not appear to be a XML file, missing/invalid Visual Form Builder Pro version number"
+msgstr "这似乎并不是 XML 文件，缺少/无效可视化窗体生成器 Pro 版本编号"
+
+#: includes/email.php:16
+#@ visual-form-builder-pro
+msgid "Security check: hidden spam field should be blank."
+msgstr "安全检查： 隐藏垃圾邮件的字段应该是空白。"
+
+#: includes/email.php:18
+#@ visual-form-builder-pro
+msgid "Security check: failed secret question. Please try again!"
+msgstr "安全检查： 失败的机密问题。请再试一次 ！"
+
+#: includes/email.php:34
+#@ visual-form-builder-pro
+msgid "Security check: looks like you are a SPAM bot. If you think this is an error, please email the site owner."
+msgstr "安全检查： 看起来你是一个垃圾邮件机器人。如果你觉得这是一个错误，请通过电子邮件发送网站的所有者。"
+
+#: includes/email.php:258
+#, php-format
+#@ visual-form-builder-pro
+msgid "File size exceeds %dMB. Most email providers will reject emails with attachments larger than %dMB. Please decrease the file size and try again."
+msgstr "文件的大小超过 %dmb。大多数电子邮件提供商将拒绝大于 %dmb 的附件的电子邮件。请减小文件大小，再试一次。"
+
+#: includes/email.php:577
+#@ visual-form-builder-pro
+msgid "Your responses look too much like spam and could not be sent at this time."
+msgstr "您的答复看起来太像垃圾邮件，此时不能发送。"
+
+#: includes/form-output.php:73
+#@ visual-form-builder-pro
+msgid "Sorry, but this form is no longer accepting submissions."
+msgstr "很抱歉，但这种形式就不再接受意见书。"
+
+#: includes/form-output.php:74
+#@ visual-form-builder-pro
+msgid "Sorry, this form only accepts one submission per user."
+msgstr "对不起，此窗体只接受一次提交每个用户。"
+
+#: includes/form-output.php:276
+#, php-format
+#@ visual-form-builder-pro
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. Verification not required."
+msgstr "<a href=\"%1$s\">%2$ S</a>作为登录。不需要验证。"
+
+#: includes/form-output.php:351
+#, php-format
+#@ visual-form-builder-pro
+msgid "Must be between %s and %s words. Total words: %s"
+msgstr "必须是 %s 和 %s 字之间。词条总数: %s"
+
+#: includes/form-output.php:352
+#, php-format
+#@ visual-form-builder-pro
+msgid "Maximum words allowed: %s. Total words: %s"
+msgstr "允许的最大词: %s.总字数： %s"
+
+#: includes/form-output.php:353
+#, php-format
+#@ visual-form-builder-pro
+msgid "Minimum words allowed: %s. Total words: %s"
+msgstr "允许的最小单词: %s.总字数： %s"
+
+#: includes/form-output.php:512
+#@ visual-form-builder-pro
+msgid "Address"
+msgstr "地址"
+
+#: includes/form-output.php:516
+#@ visual-form-builder-pro
+msgid "Address Line 2"
+msgstr "地址第 2 行"
+
+#: includes/form-output.php:520
+#@ visual-form-builder-pro
+msgid "City"
+msgstr "城市"
+
+#: includes/form-output.php:524
+#@ visual-form-builder-pro
+msgid "State / Province / Region"
+msgstr "州 / 省 / 地区"
+
+#: includes/form-output.php:528
+#@ visual-form-builder-pro
+msgid "Postal / Zip Code"
+msgstr "邮政 / 邮编"
+
+#: includes/form-output.php:532
+#@ visual-form-builder-pro
+msgid "Country"
+msgstr "国家"
+
+#: includes/form-output.php:715
+#@ visual-form-builder-pro
+msgid "Title"
+msgstr "标题"
+
+#: includes/form-output.php:716
+#@ visual-form-builder-pro
+msgid "First"
+msgstr "第一次"
+
+#: includes/form-output.php:717
+#@ visual-form-builder-pro
+msgid "Last"
+msgstr "最后"
+
+#: includes/form-output.php:718
+#@ visual-form-builder-pro
+msgid "Suffix"
+msgstr "后缀"
+
+#: includes/form-output.php:798
+#@ visual-form-builder-pro
+msgid "Password Strength"
+msgstr "密码强度"
+
+#: includes/form-output.php:1078
+#@ visual-form-builder-pro
+msgid "Verification"
+msgstr "核查"
+
+#: includes/form-output.php:1080
+#@ visual-form-builder-pro
+msgid "Please enter any two digits with <strong>no</strong> spaces (Example: 12)"
+msgstr "请输入任何两位数字，并<strong>不</strong>能有空格 （示例： 12)"
+
+#: includes/form-output.php:1089
+#@ visual-form-builder-pro
+msgid "This box is for spam protection - <strong>please leave it blank</strong>"
+msgstr "此框是为垃圾邮件保护-<strong>请留下它空白</strong>"
+
+#: visual-form-builder-pro.php:433
+#@ visual-form-builder-pro
+msgid "Recent Visual Form Builder Pro Entries"
+msgstr "最近的可视化窗体生成器临条目"
+
+#: visual-form-builder-pro.php:456
+#@ visual-form-builder-pro
+msgid "You currently do not have any forms."
+msgstr "您目前没有任何形式。"
+
+#: visual-form-builder-pro.php:458
+#@ visual-form-builder-pro
+msgid "Get started!"
+msgstr "开始吧 ！"
+
+#: visual-form-builder-pro.php:472
+#@ visual-form-builder-pro
+msgid "You currently do not have any entries."
+msgstr "您当前没有任何条目。"
+
+#: visual-form-builder-pro.php:521
+#@ visual-form-builder-pro
+msgid "Number of entries to show:"
+msgstr "要显示的项的数目："
+
+#: visual-form-builder-pro.php:598
+#@ visual-form-builder-pro
+msgid "Show advanced properties"
+msgstr "显示高级属性"
+
+#: visual-form-builder-pro.php:600
+#@ default
+msgid "Merge Tag"
+msgstr ""
+
+#: visual-form-builder-pro.php:621
+#@ visual-form-builder-pro
+msgid "Entries per page"
+msgstr "每页显示的条目"
+
+#: visual-form-builder-pro.php:671
+#@ visual-form-builder-pro
+msgid "Quick Switch"
+msgstr "快速切换"
+
+#: visual-form-builder-pro.php:672
+#@ visual-form-builder-pro
+msgid "Form Items"
+msgstr "窗体的项目"
+
+#: visual-form-builder-pro.php:673
+#@ visual-form-builder-pro
+msgid "Display Forms"
+msgstr "显示窗体"
+
+#: visual-form-builder-pro.php:714
+#@ visual-form-builder-pro
+msgid "Click or Drag"
+msgstr "单击或拖动的"
+
+#: visual-form-builder-pro.php:714
+#@ visual-form-builder-pro
+msgid "to Add a Field"
+msgstr "若要添加字段"
+
+#: visual-form-builder-pro.php:716
+#@ visual-form-builder-pro
+msgid "Standard"
+msgstr "标准"
+
+#: visual-form-builder-pro.php:717
+#@ visual-form-builder-pro
+msgid "Advanced"
+msgstr "先进的"
+
+#: visual-form-builder-pro.php:784
+#@ visual-form-builder-pro
+msgid "Add forms to your Posts or Pages by locating the icon shown below in the area above your post/page editor."
+msgstr "通过查找您的文章/页面编辑器上方的区域中，如下所示的图标添加到职位或网页形式。"
+
+#: visual-form-builder-pro.php:787
+#@ visual-form-builder-pro
+msgid "You may also manually insert the shortcode into a post/page or the template tag into a template file."
+msgstr "你可能还手动插入 shortcode 的开机自检页或成模板文件的模板标签。"
+
+#: visual-form-builder-pro.php:788
+#@ visual-form-builder-pro
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: visual-form-builder-pro.php:789
+#@ visual-form-builder-pro
+msgid "Template Tag"
+msgstr "模板标签"
+
+#: visual-form-builder-pro.php:1460
+#: visual-form-builder-pro.php:1470
+#@ default
+msgid "Image could not be processed.  Please go back and try again."
+msgstr ""
+
+#: visual-form-builder-pro.php:1460
+#: visual-form-builder-pro.php:1470
+#@ default
+msgid "Image Processing Error"
+msgstr ""
+
+#: visual-form-builder-pro.php:2124
+#@ visual-form-builder-pro
+msgid "A Checkbox, Select, or Radio field is needed in order to perform conditional logic."
+msgstr "要执行条件逻辑，需要一个复选框，选择或收音机的字段。"
+
+#: visual-form-builder-pro.php:2132
+#@ visual-form-builder-pro
+msgid "Enable Conditional Rule for this field"
+msgstr "为此字段启用条件规则"
+
+#: visual-form-builder-pro.php:2138
+#: visual-form-builder-pro.php:2183
+#@ visual-form-builder-pro
+msgid "Show"
+msgstr "显示"
+
+#: visual-form-builder-pro.php:2139
+#: visual-form-builder-pro.php:2184
+#@ visual-form-builder-pro
+msgid "Hide"
+msgstr "隐藏"
+
+#: visual-form-builder-pro.php:2142
+#: visual-form-builder-pro.php:2187
+#@ visual-form-builder-pro
+msgid "all"
+msgstr "所有"
+
+#: visual-form-builder-pro.php:2143
+#: visual-form-builder-pro.php:2188
+#@ visual-form-builder-pro
+msgid "any"
+msgstr "任何"
+
+#: visual-form-builder-pro.php:2158
+#: visual-form-builder-pro.php:2199
+#@ visual-form-builder-pro
+msgid "is"
+msgstr "是"
+
+#: visual-form-builder-pro.php:2159
+#: visual-form-builder-pro.php:2200
+#@ visual-form-builder-pro
+msgid "is not"
+msgstr "不是"
+
+#: includes/admin-form-creator.php:297
+#: visual-form-builder-pro.php:2176
+#: visual-form-builder-pro.php:2213
+#: visual-form-builder-pro.php:2890
+#@ visual-form-builder-pro
+msgid "Add"
+msgstr "添加"
+
+#: includes/admin-form-creator.php:126
+#: includes/admin-form-creator.php:297
+#: includes/class-forms-list.php:82
+#: includes/class-forms-order.php:217
+#: visual-form-builder-pro.php:2176
+#: visual-form-builder-pro.php:2213
+#: visual-form-builder-pro.php:2890
+#: visual-form-builder-pro.php:3242
+#@ visual-form-builder-pro
+msgid "Delete"
+msgstr "删除"
+
+#: includes/class-forms-order.php:213
+#@ visual-form-builder-pro
+msgid "Edit Form"
+msgstr "编辑表单"
+
+#: includes/class-forms-order.php:220
+#@ visual-form-builder-pro
+msgid "Preview the Form"
+msgstr "预览表单"
+
+#: visual-form-builder-pro.php:2733
+#@ visual-form-builder-pro
+msgid "Edit Field Item"
+msgstr "编辑字段项"
+
+#: visual-form-builder-pro.php:2752
+#: visual-form-builder-pro.php:2842
+#: visual-form-builder-pro.php:3223
+#@ visual-form-builder-pro
+msgid "CSS Classes"
+msgstr "CSS 类"
+
+#: visual-form-builder-pro.php:2763
+#: visual-form-builder-pro.php:2783
+#: visual-form-builder-pro.php:2832
+#@ visual-form-builder-pro
+msgid "Name"
+msgstr "名称"
+
+#: visual-form-builder-pro.php:2772
+#@ visual-form-builder-pro
+msgid "Description (HTML tags allowed)"
+msgstr "描述 （允许使用 HTML 标记）"
+
+#: visual-form-builder-pro.php:2792
+#@ visual-form-builder-pro
+msgid "Dynamic Variable"
+msgstr "动态变量"
+
+#: visual-form-builder-pro.php:2804
+#@ visual-form-builder-pro
+msgid "Select a Variable or Custom to create your own"
+msgstr "选择要创建您自己的变量或自定义"
+
+#: includes/class-forms-list.php:140
+#: visual-form-builder-pro.php:2805
+#@ visual-form-builder-pro
+msgid "Form ID"
+msgstr "表单 ID"
+
+#: visual-form-builder-pro.php:2808
+#@ visual-form-builder-pro
+msgid "Unique ID"
+msgstr "唯一的 ID"
+
+#: visual-form-builder-pro.php:2809
+#@ visual-form-builder-pro
+msgid "Post/Page ID"
+msgstr "开机自检/页 ID"
+
+#: visual-form-builder-pro.php:2810
+#@ visual-form-builder-pro
+msgid "Post/Page Title"
+msgstr "开机自检/页标题"
+
+#: visual-form-builder-pro.php:2812
+#@ visual-form-builder-pro
+msgid "Custom"
+msgstr "自定义"
+
+#: visual-form-builder-pro.php:2819
+#@ visual-form-builder-pro
+msgid "Static Variable"
+msgstr "静态变量"
+
+#: visual-form-builder-pro.php:2852
+#@ visual-form-builder-pro
+msgid "Description"
+msgstr "说明"
+
+#: visual-form-builder-pro.php:2865
+#@ visual-form-builder-pro
+msgid "Options"
+msgstr "选项"
+
+#: visual-form-builder-pro.php:2897
+#@ visual-form-builder-pro
+msgid "Bulk Add Options"
+msgstr "批量添加选项"
+
+#: visual-form-builder-pro.php:2912
+#@ visual-form-builder-pro
+msgid "Allow Other"
+msgstr "允许其他"
+
+#: visual-form-builder-pro.php:2936
+#@ visual-form-builder-pro
+msgid "Minimum Words"
+msgstr "最小的字"
+
+#: visual-form-builder-pro.php:2944
+#@ visual-form-builder-pro
+msgid "Maximum Words"
+msgstr "最大的词"
+
+#: visual-form-builder-pro.php:2961
+#: visual-form-builder-pro.php:2978
+#@ visual-form-builder-pro
+msgid "Minimum Value"
+msgstr "最小值"
+
+#: visual-form-builder-pro.php:2963
+#: visual-form-builder-pro.php:2980
+#@ visual-form-builder-pro
+msgid "Maximum Value"
+msgstr "最大值"
+
+#: visual-form-builder-pro.php:3003
+#@ visual-form-builder-pro
+msgid "Accepted File Extensions"
+msgstr "接受的文件扩展名"
+
+#: visual-form-builder-pro.php:3033
+#@ visual-form-builder-pro
+msgid "Name Format"
+msgstr "名称格式"
+
+#: visual-form-builder-pro.php:3040
+#@ visual-form-builder-pro
+msgid "Normal"
+msgstr "正常"
+
+#: visual-form-builder-pro.php:3041
+#@ visual-form-builder-pro
+msgid "Extra"
+msgstr "额外"
+
+#: visual-form-builder-pro.php:3050
+#@ visual-form-builder-pro
+msgid "Custom Field Key"
+msgstr "自定义字段键"
+
+#: visual-form-builder-pro.php:3073
+#@ visual-form-builder-pro
+msgid "Validation"
+msgstr "验证"
+
+#: visual-form-builder-pro.php:3079
+#@ visual-form-builder-pro
+msgid "12 Hour Format"
+msgstr "12 小时格式"
+
+#: visual-form-builder-pro.php:3080
+#@ visual-form-builder-pro
+msgid "24 Hour Format"
+msgstr "24 小时格式"
+
+#: visual-form-builder-pro.php:3082
+#@ visual-form-builder-pro
+msgid "IPv4"
+msgstr "IPv4"
+
+#: visual-form-builder-pro.php:3083
+#@ visual-form-builder-pro
+msgid "IPv6"
+msgstr "IPv6"
+
+#: visual-form-builder-pro.php:3085
+#: visual-form-builder-pro.php:3092
+#@ visual-form-builder-pro
+msgid "Number"
+msgstr "数量"
+
+#: visual-form-builder-pro.php:3086
+#: visual-form-builder-pro.php:3093
+#@ visual-form-builder-pro
+msgid "Digits"
+msgstr "位数"
+
+#: visual-form-builder-pro.php:3088
+#@ visual-form-builder-pro
+msgid "None"
+msgstr "无"
+
+#: visual-form-builder-pro.php:3090
+#@ visual-form-builder-pro
+msgid "URL"
+msgstr "URL"
+
+#: visual-form-builder-pro.php:3091
+#@ visual-form-builder-pro
+msgid "Date"
+msgstr "日期"
+
+#: visual-form-builder-pro.php:3094
+#@ visual-form-builder-pro
+msgid "Phone"
+msgstr "电话"
+
+#: visual-form-builder-pro.php:3125
+#@ visual-form-builder-pro
+msgid "Required"
+msgstr "必填"
+
+#: visual-form-builder-pro.php:3130
+#@ visual-form-builder-pro
+msgid "Yes"
+msgstr "是"
+
+#: visual-form-builder-pro.php:3139
+#@ visual-form-builder-pro
+msgid "Size"
+msgstr "大小"
+
+#: visual-form-builder-pro.php:3143
+#@ visual-form-builder-pro
+msgid "Small"
+msgstr "小"
+
+#: visual-form-builder-pro.php:3144
+#@ visual-form-builder-pro
+msgid "Medium"
+msgstr "介质"
+
+#: visual-form-builder-pro.php:3145
+#@ visual-form-builder-pro
+msgid "Large"
+msgstr "大"
+
+#: visual-form-builder-pro.php:3154
+#@ visual-form-builder-pro
+msgid "Options Layout"
+msgstr "选择布局"
+
+#: visual-form-builder-pro.php:3158
+#@ visual-form-builder-pro
+msgid "One Column"
+msgstr "一列"
+
+#: visual-form-builder-pro.php:3159
+#@ visual-form-builder-pro
+msgid "Two Columns"
+msgstr "两列"
+
+#: visual-form-builder-pro.php:3160
+#@ visual-form-builder-pro
+msgid "Three Columns"
+msgstr "三列"
+
+#: visual-form-builder-pro.php:3161
+#@ visual-form-builder-pro
+msgid "Auto Width"
+msgstr "自动宽度"
+
+#: visual-form-builder-pro.php:3170
+#@ visual-form-builder-pro
+msgid "Field Layout"
+msgstr "字段布局"
+
+#: visual-form-builder-pro.php:3175
+#@ visual-form-builder-pro
+msgid "Default"
+msgstr "默认"
+
+#: visual-form-builder-pro.php:3177
+#@ visual-form-builder-pro
+msgid "Left Half"
+msgstr "左半部分"
+
+#: visual-form-builder-pro.php:3178
+#@ visual-form-builder-pro
+msgid "Right Half"
+msgstr "右半部分"
+
+#: visual-form-builder-pro.php:3181
+#@ visual-form-builder-pro
+msgid "Left Third"
+msgstr "左第三"
+
+#: visual-form-builder-pro.php:3182
+#@ visual-form-builder-pro
+msgid "Middle Third"
+msgstr "中间三"
+
+#: visual-form-builder-pro.php:3183
+#@ visual-form-builder-pro
+msgid "Right Third"
+msgstr "右第三"
+
+#: visual-form-builder-pro.php:3186
+#@ visual-form-builder-pro
+msgid "Left Two Thirds"
+msgstr "左的三分之二"
+
+#: visual-form-builder-pro.php:3187
+#@ visual-form-builder-pro
+msgid "Right Two Thirds"
+msgstr "右三分之二"
+
+#: visual-form-builder-pro.php:3197
+#@ visual-form-builder-pro
+msgid "Default Value"
+msgstr "默认值"
+
+#: visual-form-builder-pro.php:3207
+#@ visual-form-builder-pro
+msgid "Default Country"
+msgstr "默认的国家"
+
+#: visual-form-builder-pro.php:3250
+#@ visual-form-builder-pro
+msgid "Conditional Logic"
+msgstr "条件逻辑"
+
+#: visual-form-builder-pro.php:3359
+#: visual-form-builder-pro.php:3540
+#: visual-form-builder-pro.php:3586
+#@ visual-form-builder-pro
+msgid "Add New Form"
+msgstr "添加新窗体"
+
+#: includes/class-forms-list.php:62
+#: includes/class-forms-order.php:200
+#: visual-form-builder-pro.php:3381
+#: visual-form-builder-pro.php:3542
+#: visual-form-builder-pro.php:3642
+#@ visual-form-builder-pro
+msgid "Email Design"
+msgstr "电子邮件设计"
+
+#: includes/class-forms-list.php:67
+#: includes/class-forms-order.php:201
+#: visual-form-builder-pro.php:3392
+#: visual-form-builder-pro.php:3543
+#: visual-form-builder-pro.php:3661
+#@ visual-form-builder-pro
+msgid "Analytics"
+msgstr "分析"
+
+#: visual-form-builder-pro.php:3403
+#: visual-form-builder-pro.php:3544
+#: visual-form-builder-pro.php:3681
+#@ visual-form-builder-pro
+msgid "Import"
+msgstr "导入"
+
+#: visual-form-builder-pro.php:3414
+#: visual-form-builder-pro.php:3545
+#: visual-form-builder-pro.php:3700
+#@ visual-form-builder-pro
+msgid "Export"
+msgstr "出口"
+
+#: visual-form-builder-pro.php:3436
+#@ visual-form-builder-pro
+msgid "Display Entries"
+msgstr "显示条目"
+
+#: includes/class-export.php:185
+#: visual-form-builder-pro.php:3447
+#@ visual-form-builder-pro
+msgid "Form Design"
+msgstr "窗体设计"
+
+#: visual-form-builder-pro.php:3464
+#@ visual-form-builder-pro
+msgid "The form has been successfully created."
+msgstr "已成功创建该窗体。"
+
+#: visual-form-builder-pro.php:3467
+#, php-format
+#@ visual-form-builder-pro
+msgid "The %s form has been updated. <a href=\"%s\" target=\"_blank\">View the Preview</a> to see how it looks."
+msgstr "已更新 %s 的窗体。<a href=\"%s\" target=\"_blank\">预览视图</a>以查看它的外观。"
+
+#: visual-form-builder-pro.php:3470
+#@ visual-form-builder-pro
+msgid "The form has been successfully deleted."
+msgstr "窗体已被成功删除。"
+
+#: visual-form-builder-pro.php:3473
+#@ visual-form-builder-pro
+msgid "The form has been successfully duplicated."
+msgstr "成功地复制了该窗体。"
+
+#: visual-form-builder-pro.php:3479
+#@ visual-form-builder-pro
+msgid "You have successfully migrated to Visual Form Builder Pro!"
+msgstr "您已经成功地迁移到可视化窗体生成器临 ！"
+
+#: visual-form-builder-pro.php:3482
+#, php-format
+#@ visual-form-builder-pro
+msgid "Email design has been updated. <a href=\"%s\" target=\"_blank\">View the Preview</a> to see how it looks."
+msgstr "已更新电子邮件设计。<a href=\"%s\" target=\"_blank\">预览视图</a>以查看它的外观。"
+
+#: visual-form-builder-pro.php:3485
+#@ visual-form-builder-pro
+msgid "Entry has been successfully updated."
+msgstr "已成功更新条目。"
+
+#: visual-form-builder-pro.php:3516
+#@ visual-form-builder-pro
+msgid "The free version of Visual Form Builder is still active. In order for Visual Form Builder Pro to function and render correctly, you must deactivate the free version."
+msgstr "免费版本的可视化窗体生成器是仍处于活动状态。为了使可视化窗体生成器 Pro 功能，并能正确呈现，必须停用免费版本。"
+
+#: visual-form-builder-pro.php:3536
+#: visual-form-builder-pro.php:3538
+#: visual-form-builder-pro.php:3729
+#@ visual-form-builder-pro
+msgid "Visual Form Builder Pro"
+msgstr "可视化窗体生成器临"
+
+#: visual-form-builder-pro.php:3538
+#@ visual-form-builder-pro
+msgid "All Forms"
+msgstr "所有形式"
+
+#: visual-form-builder-pro.php:3540
+#: visual-form-builder-pro.php:3732
+#@ visual-form-builder-pro
+msgid "Add New"
+msgstr "添加新的"
+
+#: visual-form-builder-pro.php:3610
+#: visual-form-builder-pro.php:3736
+#, php-format
+#@ visual-form-builder-pro
+msgid "Search results for \"%s\""
+msgstr "\"%S\"的搜索结果"
+
+#: includes/class-forms-list.php:452
+#: includes/class-forms-order.php:236
+#@ visual-form-builder-pro
+msgid "Custom Order"
+msgstr "自定义顺序"
+
+#: visual-form-builder-pro.php:3938
+#@ visual-form-builder-pro
+msgid "Not a valid email address"
+msgstr "不是一个有效的电子邮件地址"
+
+#: visual-form-builder-pro.php:3944
+#@ visual-form-builder-pro
+msgid "Not a valid number"
+msgstr "不是有效数字"
+
+#: visual-form-builder-pro.php:3951
+#@ visual-form-builder-pro
+msgid "Not a valid phone number. Most US/Canada and International formats accepted."
+msgstr "不是有效的电话号码。大多数美国 / 加拿大和国际格式接受。"
+
+#: visual-form-builder-pro.php:3956
+#@ visual-form-builder-pro
+msgid "Not a valid URL."
+msgstr "不是一个有效的 URL。"
+
+#: includes/admin-form-creator.php:123
+#: includes/class-forms-list.php:77
+#: visual-form-builder-pro.php:3246
+#@ visual-form-builder-pro
+msgid "Duplicate"
+msgstr "重复的"
+
+#: includes/admin-form-creator.php:129
+#@ visual-form-builder-pro
+msgid "Save"
+msgstr "保存"
+
+#: includes/admin-form-creator.php:84
+#: includes/admin-form-creator.php:89
+#@ visual-form-builder-pro
+msgid "Enter form name here"
+msgstr "输入窗体名称在这里"
+
+#: includes/admin-form-creator.php:140
+#@ visual-form-builder-pro
+msgid "About Label Alignment"
+msgstr "关于标签对齐方式"
+
+#: includes/admin-form-creator.php:140
+#@ visual-form-builder-pro
+msgid "Set the field labels for this form to be aligned either on top, to the left, or to the right.  By default, all labels are aligned on top of the inputs."
+msgstr "设置此窗体，或者在顶部，向左或向右对齐的字段标签。默认情况下，所有的标签在投入上对齐。"
+
+#: includes/admin-form-creator.php:154
+#@ visual-form-builder-pro
+msgid "About Display SPAM Verification"
+msgstr "有关显示垃圾邮件验证"
+
+#: includes/admin-form-creator.php:154
+#@ visual-form-builder-pro
+msgid "The verification section ensures that your form is filled out by actual users and not spammers. It works by asking a simple logic captcha question at the end of your form."
+msgstr "核查科可确保您的窗体由实际的用户和不是垃圾邮件制造者填写。它的工作原理问一个简单的逻辑验证码在结束了您的窗体。"
+
+#: includes/admin-form-creator.php:167
+#@ visual-form-builder-pro
+msgid "About Entries Allowed"
+msgstr "有关允许的条目"
+
+#: includes/admin-form-creator.php:167
+#@ visual-form-builder-pro
+msgid "This is the number of total entries you want your form to accept. Once your form has collected that many entries, the form will stop accepting submissions. Leave this blank if you want unlimited entries."
+msgstr "这是您的窗体接受的总条目数。一旦您的窗体已收集到的许多条目，该窗体将停止接受意见书。这将保留为空，如果你想无限的条目。"
+
+#: includes/admin-form-creator.php:177
+#@ visual-form-builder-pro
+msgid "About Schedule Start Date"
+msgstr "有关计划的开始日期"
+
+#: includes/admin-form-creator.php:177
+#@ visual-form-builder-pro
+msgid "Set a date and time to automatically make your form become active. A blank value here means the form will always be active."
+msgstr "设置日期和时间若要使自动成为活动窗体。空白的值意味着该窗体将始终处于活动状态。"
+
+#: includes/admin-form-creator.php:186
+#@ visual-form-builder-pro
+msgid "About Schedule End Date"
+msgstr "关于计划结束日期"
+
+#: includes/admin-form-creator.php:186
+#@ visual-form-builder-pro
+msgid "Set a date and time to automatically make your form become inactive. A blank value here means the form will always be active, depending on a start date."
+msgstr "设置日期和时间自动将您的窗体变为非活动状态。空白的值意味着该窗体将始终是活动的根据开始日期。"
+
+#: includes/admin-form-creator.php:197
+#@ visual-form-builder-pro
+msgid "About Unique Entry"
+msgstr "关于唯一的条目"
+
+#: includes/admin-form-creator.php:197
+#@ visual-form-builder-pro
+msgid "This option will ensure your forms are only completed once per user. The IP address is used to detect multiple submissions from the same computer. Please note that the same user can go to another computer to complete the form again."
+msgstr "此选项将确保您的窗体只有一次完成每个用户。IP 地址用于检测在同一台计算机的多个意见书。请注意同一个用户可以去另一台计算机要再次完成窗体。"
+
+#: includes/admin-form-creator.php:213
+#: includes/admin-form-creator.php:403
+#@ visual-form-builder-pro
+msgid "About E-mail Subject"
+msgstr "有关电子邮件主题"
+
+#: includes/admin-form-creator.php:213
+#@ visual-form-builder-pro
+msgid "This option sets the subject of the email that is sent to the emails you have set in the E-mail(s) To field."
+msgstr "此选项设置的电子邮件发送到您设置的提取到域的电子邮件的主题。"
+
+#: includes/admin-form-creator.php:224
+#@ visual-form-builder-pro
+msgid "About Your Name or Company"
+msgstr "您的姓名或公司"
+
+#: includes/admin-form-creator.php:224
+#@ visual-form-builder-pro
+msgid "This option sets the From display name of the email that is sent to the emails you have set in the E-mail(s) To field."
+msgstr "此选项设置从显示名称的电子邮件发送到您设置的提取到域的电子邮件。"
+
+#: includes/admin-form-creator.php:232
+#@ visual-form-builder-pro
+msgid "About User's Name"
+msgstr "关于用户的名称"
+
+#: includes/admin-form-creator.php:232
+#@ visual-form-builder-pro
+msgid "Select a required text field from your form to use as the From display name in the email."
+msgstr "从您的窗体，使用从电子邮件中的显示名称作为选择必需的文本字段。"
+
+#: includes/admin-form-creator.php:254
+#: includes/admin-form-creator.php:374
+#@ visual-form-builder-pro
+msgid "About Reply-To Email"
+msgstr "关于答复电子邮件"
+
+#: includes/admin-form-creator.php:254
+#: includes/admin-form-creator.php:374
+#@ visual-form-builder-pro
+msgid "Manually set the email address that users will reply to."
+msgstr "手动设置的用户将会回复的电子邮件地址。"
+
+#: includes/admin-form-creator.php:262
+#@ visual-form-builder-pro
+msgid "About User's Email"
+msgstr "关于用户的电子邮件"
+
+#: includes/admin-form-creator.php:262
+#@ visual-form-builder-pro
+msgid "Select a required email field from your form to use as the Reply-To email."
+msgstr "从您的窗体使用的回复电子邮件作为选择所需的电子邮件字段。"
+
+#: includes/admin-form-creator.php:292
+#@ visual-form-builder-pro
+msgid "About E-mail(s) To"
+msgstr "关于提取到"
+
+#: includes/admin-form-creator.php:292
+#@ visual-form-builder-pro
+msgid "This option sets single or multiple emails to send the submitted form data to. At least one email is required."
+msgstr "此选项设置单个或多个电子邮件要发送到的提交的表单数据。至少一个电子邮件是必需的。"
+
+#: includes/admin-form-creator.php:297
+#@ visual-form-builder-pro
+msgid "Add an Email"
+msgstr "添加电子邮件"
+
+#: includes/admin-form-creator.php:297
+#@ default
+msgid "Delete Email"
+msgstr ""
+
+#: includes/admin-form-creator.php:365
+#@ visual-form-builder-pro
+msgid "About Sender Name or Company"
+msgstr "有关发件人名称或公司"
+
+#: includes/admin-form-creator.php:365
+#@ visual-form-builder-pro
+msgid "Enter the name you would like to use for the email notification."
+msgstr "请输入您想要使用的电子邮件通知的名称。"
+
+#: includes/admin-form-creator.php:383
+#@ visual-form-builder-pro
+msgid "About E-mail To"
+msgstr "关于电子邮件发送到"
+
+#: includes/admin-form-creator.php:383
+#@ visual-form-builder-pro
+msgid "Select a required email field from your form to send the notification email to."
+msgstr "从您的窗体发送到通知电子邮件选择一个所需的电子邮件字段。"
+
+#: includes/admin-form-creator.php:403
+#@ visual-form-builder-pro
+msgid "This option sets the subject of the email that is sent to the emails you have set in the E-mail To field."
+msgstr "此选项设置的电子邮件发送到您设置的电子邮件字段的电子邮件的主题。"
+
+#: includes/admin-form-creator.php:411
+#@ visual-form-builder-pro
+msgid "About Message"
+msgstr "有关消息"
+
+#: includes/admin-form-creator.php:411
+#@ visual-form-builder-pro
+msgid "Insert a message to the user. This will be inserted into the beginning of the email body."
+msgstr "插入到用户的消息。这将插入到电子邮件正文的开头。"
+
+#: includes/admin-form-creator.php:440
+#@ visual-form-builder-pro
+msgid "About Account Email"
+msgstr "关于电子邮件帐户"
+
+#: includes/admin-form-creator.php:440
+#@ visual-form-builder-pro
+msgid "Insert your PayPal account email. This is not displayed to users."
+msgstr "插入您的 PayPal 帐户电子邮件。这不被显示给用户。"
+
+#: includes/admin-form-creator.php:449
+#@ visual-form-builder-pro
+msgid "About Currency"
+msgstr "关于货币"
+
+#: includes/admin-form-creator.php:449
+#@ visual-form-builder-pro
+msgid "Change the currency type to your region of choice. By default, it is set to U.S Dollars"
+msgstr "货币类型更改为您选择的区域。默认情况下，它设置为美国美元"
+
+#: includes/admin-form-creator.php:466
+#@ visual-form-builder-pro
+msgid "About Shipping"
+msgstr "关于运输的"
+
+#: includes/admin-form-creator.php:466
+#@ visual-form-builder-pro
+msgid "If shipping charges are required for your item, insert the amount here."
+msgstr "如果需要为您的项目支付运费，插入量在这里。"
+
+#: includes/admin-form-creator.php:475
+#@ visual-form-builder-pro
+msgid "About Tax Rate"
+msgstr "关于税税率"
+
+#: includes/admin-form-creator.php:475
+#@ visual-form-builder-pro
+msgid "If you need to charge taxes on your item, insert the tax rate here. The % symbol is not necessary here."
+msgstr "如果您需要对您的项目征收，插入的税率在这里。这里的 %符号不是必要的。"
+
+#: includes/admin-form-creator.php:484
+#@ visual-form-builder-pro
+msgid "About Item Name"
+msgstr "关于项目名称"
+
+#: includes/admin-form-creator.php:484
+#@ visual-form-builder-pro
+msgid "This option inserts an item name when the user is checking out through PayPal."
+msgstr "用户通过 PayPal 签出时，此选项将插入项名称。"
+
+#: includes/admin-form-creator.php:492
+#@ visual-form-builder-pro
+msgid "About Assign Prices"
+msgstr "有关分配价格"
+
+#: includes/admin-form-creator.php:492
+#@ visual-form-builder-pro
+msgid "Assign prices to a field from your form.  Allowed field types are Text, Select, Radio, and Checkbox. Text inputs will automatically use the amount entered by the user.  Select, Radio, and Checkbox fields will allow you to enter amounts for the different options from those respective fields."
+msgstr "从您的窗体字段分配的价格。允许的字段类型是文本、 选择、 收音机和复选框。输入的文本将自动使用用户所输入的金额。选择，收音机，和字段的复选框将允许您在这些各自领域中的不同选项输入金额。"
+
+#: includes/class-entries-list.php:654
+#, php-format
+#@ default
+msgid "1 entry"
+msgid_plural "%s entries"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-export.php:189
+#: includes/class-forms-list.php:72
+#: includes/class-forms-order.php:203
+#: visual-form-builder-pro.php:3425
+#@ visual-form-builder-pro
+msgid "Payments"
+msgstr "付款"
+
+#: includes/class-forms-list.php:103
+#: includes/class-forms-order.php:193
+#@ visual-form-builder-pro
+msgid "Total"
+msgstr "共"
+
+#: includes/class-forms-list.php:113
+#@ visual-form-builder-pro
+msgid "Entries Today"
+msgstr "今天的条目"
+
+#: includes/class-forms-list.php:114
+#: includes/class-forms-order.php:194
+#@ visual-form-builder-pro
+msgid "Today"
+msgstr "今天"
+
+#: includes/class-forms-list.php:453
+#: includes/class-forms-order.php:237
+#@ visual-form-builder-pro
+msgid "List View"
+msgstr "列表视图"
+
+#: includes/class-forms-list.php:487
+#: includes/class-forms-order.php:271
+#, php-format
+#@ default
+msgid "1 form"
+msgid_plural "%s forms"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/class-forms-order.php:188
+#@ visual-form-builder-pro
+msgid "Drag to reorder"
+msgstr "拖动以重新排序"
+
+#: includes/email.php:26
+#@ visual-form-builder-pro
+msgid "Security check: referal URL does not appear to be set."
+msgstr "安全检查： 转介的 URL 似乎不会设置。"
+
+#: includes/email.php:30
+#@ visual-form-builder-pro
+msgid "Security check: referal does not match this site."
+msgstr "安全检查： 转介与此站点不匹配。"
+
+#: visual-form-builder-pro.php:420
+#@ visual-form-builder-pro
+msgid "Add Visual Form Builder form"
+msgstr "添加可视化窗体生成器的窗体"
+
+#: visual-form-builder-pro.php:420
+#@ visual-form-builder-pro
+msgid "Add Form"
+msgstr "添加窗体"
+
+#: visual-form-builder-pro.php:637
+#@ visual-form-builder-pro
+msgid "Forms per page"
+msgstr "每页的窗体"
+
+#: visual-form-builder-pro.php:2764
+#: visual-form-builder-pro.php:2784
+#: visual-form-builder-pro.php:2833
+#@ visual-form-builder-pro
+msgid "About Name"
+msgstr "关于名称"
+
+#: visual-form-builder-pro.php:2764
+#: visual-form-builder-pro.php:2784
+#: visual-form-builder-pro.php:2833
+#@ visual-form-builder-pro
+msgid "A field's name is the most visible and direct way to describe what that field is for."
+msgstr "字段的名称是的最明显和最直接的方式来描述这一领域是什么。"
+
+#: visual-form-builder-pro.php:2773
+#@ visual-form-builder-pro
+msgid "About Instructions Description"
+msgstr "关于说明描述"
+
+#: visual-form-builder-pro.php:2773
+#@ visual-form-builder-pro
+msgid "The Instructions field allows for long form explanations, typically seen at the beginning of Fieldsets or Sections. HTML tags are allowed."
+msgstr "说明字段允许长形式作了解释，通常看到的字段集或节开头。允许使用 HTML 标记。"
+
+#: visual-form-builder-pro.php:2793
+#@ visual-form-builder-pro
+msgid "About Dynamic Variable"
+msgstr "有关动态变量"
+
+#: visual-form-builder-pro.php:2793
+#@ visual-form-builder-pro
+msgid "A Dynamic Variable will use a pre-populated value that is determined either by the form, the user, or the post/page viewed."
+msgstr "动态变量将使用一个预先填充的值，确定由窗体、 用户或的开机自检页查看。"
+
+#: visual-form-builder-pro.php:2811
+#@ visual-form-builder-pro
+msgid "Post/Page URL"
+msgstr "文章/页面的 URL"
+
+#: visual-form-builder-pro.php:2820
+#@ visual-form-builder-pro
+msgid "About Static Variable"
+msgstr "有关静态变量"
+
+#: visual-form-builder-pro.php:2820
+#@ visual-form-builder-pro
+msgid "A Static Variable will always use the value that you enter."
+msgstr "静态变量将始终使用您输入的值。"
+
+#: visual-form-builder-pro.php:2843
+#: visual-form-builder-pro.php:3224
+#@ visual-form-builder-pro
+msgid "For each field, you can insert your own CSS class names which can be used in your own stylesheets."
+msgstr "对于每个字段，您可以插入您自己的 CSS 类名，可以使用您自己的样式表中。"
+
+#: visual-form-builder-pro.php:2843
+#: visual-form-builder-pro.php:3224
+#@ visual-form-builder-pro
+msgid "About CSS Classes"
+msgstr "有关 CSS 类"
+
+#: visual-form-builder-pro.php:2853
+#@ visual-form-builder-pro
+msgid "About Description"
+msgstr "关于描述"
+
+#: visual-form-builder-pro.php:2853
+#@ visual-form-builder-pro
+msgid "A description is an optional piece of text that further explains the meaning of this field. Descriptions are displayed below the field. HTML tags are allowed."
+msgstr "说明是文字的可选，进一步解释了此字段的含义。说明将显示该字段的下方。允许使用 HTML 标记。"
+
+#: visual-form-builder-pro.php:2866
+#@ visual-form-builder-pro
+msgid "About Options"
+msgstr "有关选项"
+
+#: visual-form-builder-pro.php:2866
+#@ visual-form-builder-pro
+msgid "This property allows you to set predefined options to be selected by the user.  Use the plus and minus buttons to add and delete options.  At least one option must exist."
+msgstr "此属性允许您设置预定义的选项，由用户选择。使用加号和减号按钮来添加和删除选项。至少一个选项必须存在。"
+
+#: visual-form-builder-pro.php:2890
+#@ visual-form-builder-pro
+msgid "Add an Option"
+msgstr "添加选项"
+
+#: visual-form-builder-pro.php:2890
+#@ visual-form-builder-pro
+msgid "Delete Option"
+msgstr "删除选项"
+
+#: visual-form-builder-pro.php:2910
+#@ visual-form-builder-pro
+msgid "About Allow Other"
+msgstr "约允许其他"
+
+#: visual-form-builder-pro.php:2910
+#@ visual-form-builder-pro
+msgid "Select this option if you want the last option to be a text field."
+msgstr "如果你想要的最后一个选项是一个文本字段，请选择此选项。"
+
+#: visual-form-builder-pro.php:2937
+#@ visual-form-builder-pro
+msgid "About Minimum Word Count"
+msgstr "关于最低字数统计"
+
+#: visual-form-builder-pro.php:2937
+#@ visual-form-builder-pro
+msgid "Set a minimum number of words allowed in this field. For an unlimited number, leave blank or set to zero."
+msgstr "设置允许在此字段中的单词的最小数目。不限次数，将保留为空或设置为零。"
+
+#: visual-form-builder-pro.php:2945
+#@ visual-form-builder-pro
+msgid "About Maximum Word Count"
+msgstr "关于最大单词计数"
+
+#: visual-form-builder-pro.php:2945
+#@ visual-form-builder-pro
+msgid "Set a maximum number of words allowed in this field. For an unlimited number, leave blank or set to zero."
+msgstr "设置允许在此字段中的单词的最大数目。不限次数，将保留为空或设置为零。"
+
+#: visual-form-builder-pro.php:2985
+#@ visual-form-builder-pro
+msgid "About Minimum/Maxium Value"
+msgstr "关于最小值/最大值"
+
+#: visual-form-builder-pro.php:2985
+#@ visual-form-builder-pro
+msgid "Set a minimum and/or maximum value users must enter in order to successfully complete the field."
+msgstr "设置最小和最大值用户必须输入才能成功地完成该字段。"
+
+#: visual-form-builder-pro.php:3016
+#@ visual-form-builder-pro
+msgid "About Accepted File Extensions"
+msgstr "关于接受的文件扩展名"
+
+#: visual-form-builder-pro.php:3016
+#@ visual-form-builder-pro
+msgid "Control the types of files allowed.  Enter file extentsions separated by commas."
+msgstr "控制允许的文件类型。请输入由逗号分隔的文件 extentsions。"
+
+#: visual-form-builder-pro.php:3037
+#@ visual-form-builder-pro
+msgid "About Name Format"
+msgstr "有关名称格式"
+
+#: visual-form-builder-pro.php:3037
+#@ visual-form-builder-pro
+msgid "Choose from either a simple name format with only a First and Last Name or a more complex format that adds a Title and Suffix."
+msgstr "选择从一个简单的名称格式与只有一个第一和最后一个名称或一个更复杂的格式，添加标题和后缀。"
+
+#: visual-form-builder-pro.php:3057
+#@ visual-form-builder-pro
+msgid "About Custom Field Key"
+msgstr "有关自定义字段键"
+
+#: visual-form-builder-pro.php:3057
+#@ visual-form-builder-pro
+msgid "Enter a new or existing meta key. Data entered will be inserted as a Custom Field into the post created."
+msgstr "输入新的或现有的 meta 键。输入的数据将作为自定义字段插入到后创建。"
+
+#: visual-form-builder-pro.php:3074
+#@ visual-form-builder-pro
+msgid "About Validation"
+msgstr "关于验证"
+
+#: visual-form-builder-pro.php:3074
+#@ visual-form-builder-pro
+msgid "Ensures user-entered data is formatted properly. For more information on Validation, refer to the Help tab at the top of this page."
+msgstr "确保用户输入的数据已正确格式化。有关验证的详细信息，请参阅帮助选项卡在此页面的顶部。"
+
+#: visual-form-builder-pro.php:3126
+#@ visual-form-builder-pro
+msgid "About Required"
+msgstr "大约所需"
+
+#: visual-form-builder-pro.php:3126
+#@ visual-form-builder-pro
+msgid "Requires the field to be completed before the form is submitted. By default, all fields are set to No."
+msgstr "要求要在提交表单之前完成的字段。默认情况下，所有字段都设置为否"
+
+#: visual-form-builder-pro.php:3140
+#@ visual-form-builder-pro
+msgid "About Size"
+msgstr "关于大小"
+
+#: visual-form-builder-pro.php:3140
+#@ visual-form-builder-pro
+msgid "Control the size of the field.  By default, all fields are set to Medium."
+msgstr "控制字段的大小。默认情况下，所有字段都设置为中。"
+
+#: visual-form-builder-pro.php:3155
+#@ visual-form-builder-pro
+msgid "About Options Layout"
+msgstr "关于选项布局"
+
+#: visual-form-builder-pro.php:3155
+#@ visual-form-builder-pro
+msgid "Control the layout of radio buttons or checkboxes.  By default, options are arranged in One Column."
+msgstr "控件布局的单选按钮或复选框。默认情况下，选项中的一列的排列。"
+
+#: visual-form-builder-pro.php:3171
+#@ visual-form-builder-pro
+msgid "About Field Layout"
+msgstr "有关字段布局"
+
+#: visual-form-builder-pro.php:3171
+#@ visual-form-builder-pro
+msgid "Used to create advanced layouts. Align fields side by side in various configurations."
+msgstr "用于创建高级的布局。对齐字段并排在各种配置中。"
+
+#: visual-form-builder-pro.php:3198
+#@ visual-form-builder-pro
+msgid "About Default Value"
+msgstr "有关默认值"
+
+#: visual-form-builder-pro.php:3198
+#@ visual-form-builder-pro
+msgid "Set a default value that will be inserted automatically."
+msgstr "设置一个默认值，将自动插入。"
+
+#: visual-form-builder-pro.php:3208
+#@ visual-form-builder-pro
+msgid "About Default Country"
+msgstr "有关默认国家/地区"
+
+#: visual-form-builder-pro.php:3208
+#@ visual-form-builder-pro
+msgid "Select the country you would like to be displayed by default."
+msgstr "选择您想要显示在默认情况下的国家。"
+
+#: includes/class-import.php:364
+#@ visual-form-builder-pro
+msgid "Importing form design settings..."
+msgstr "导入窗体设计设置..."
+
+#: includes/class-import.php:382
+#@ visual-form-builder-pro
+msgid "Form Design ID already exists. Assigning a new ID."
+msgstr "窗体设计 ID 已存在。分配一个新的 id。"
+
+#: includes/class-import.php:388
+#, php-format
+#@ visual-form-builder-pro
+msgid "<strong>Error: </strong> Form design settings for form ID %d could not be imported."
+msgstr "<strong>错误：</strong>表单设计设置为窗体 ID %d 不能导入。"
+
+#: includes/class-import.php:392
+#@ visual-form-builder-pro
+msgid "Form Design import process complete."
+msgstr "窗体设计导入过程完成。"
+
+#: includes/class-import.php:409
+#@ visual-form-builder-pro
+msgid "Importing payment settings..."
+msgstr "导入付款设置..."
+
+#: includes/class-import.php:433
+#@ visual-form-builder-pro
+msgid "Payment ID already exists. Assigning a new ID."
+msgstr "付款 ID 已存在。分配一个新的 id。"
+
+#: includes/class-import.php:439
+#, php-format
+#@ visual-form-builder-pro
+msgid "<strong>Error: </strong> Payments settings for form ID %d could not be imported."
+msgstr "<strong>错误：</strong>表单 ID %d 的付款设置不能导入。"
+
+#: includes/class-import.php:443
+#@ visual-form-builder-pro
+msgid "Payments import process complete."
+msgstr "付款导入过程完成。"
+
+#: visual-form-builder-pro.php:3499
+#@ visual-form-builder-pro
+msgid "A version of Visual Form Builder has been detected. To copy your forms and data to Visual Form Builder Pro, click the Migrate Forms button below"
+msgstr "已检测到一个版本的可视化窗体生成器。若要将您的窗体和数据复制到可视化窗体生成器临，请单击下面的迁移的窗体按钮"
+
+#: visual-form-builder-pro.php:3502
+#@ visual-form-builder-pro
+msgid "<strong>Note</strong>: It is recommended that you perform this action <em>before</em> you begin adding forms."
+msgstr "<strong>注意</strong>： 建议您执行此操作<em>前</em>您开始添加窗体。"
+
+#: visual-form-builder-pro.php:3505
+#@ visual-form-builder-pro
+msgid "Migrate Forms"
+msgstr "迁移形式"
+
+#: visual-form-builder-pro.php:3506
+#@ visual-form-builder-pro
+msgid "Dismiss"
+msgstr "解雇"
+
+#: visual-form-builder-pro.php:3932
+#@ visual-form-builder-pro
+msgid "This field is required and cannot be empty."
+msgstr "此字段是必需，不能为空。"
+

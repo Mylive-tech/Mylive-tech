@@ -1,0 +1,4 @@
+[03-Nov-2015 17:44:03 UTC] PHP Fatal error:  Call to undefined method Composer\Autoload\ClassLoader::setPsr4() in /home/mylivete/public_html/wp-content/plugins/wp-statistics/vendor/composer/autoload_real.php on line 33
+[02-Jan-2016 18:28:15 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/mylivete/public_html/wp-content/plugins/hello.php on line 60
+[22-Jan-2016 03:39:58 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/mylivete/public_html/wp-content/plugins/hello.php on line 60
+[03-Feb-2016 15:07:14 CST6CDT] PHP Fatal error:  Call to undefined function add_action() in /home/mylivete/public_html/wp-content/plugins/hello.php on line 60

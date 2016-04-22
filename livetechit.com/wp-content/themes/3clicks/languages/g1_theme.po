@@ -1,0 +1,3194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 3clicks v2.1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-18 14:22+0100\n"
+"PO-Revision-Date: 2013-09-18 14:28+0100\n"
+"Last-Translator: Luke\n"
+"Language-Team: bringthepixel <bringthepixel@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: 3clicks\n"
+
+# To add an additional character subset specific to your language, translate
+# this to 'greek', 'cyrillic' or 'vietnamese'.
+msgctxt "Google Font Subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/header-g1-simple.php:105
+msgid "Top"
+msgstr ""
+
+#: 3clicks/comments.php:36
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/comments.php:52
+msgid "Pages"
+msgstr ""
+
+#: 3clicks/comments.php:65
+msgid "One Ping"
+msgid_plural "%1$s Pings & Trackbacks"
+msgstr[0] ""
+msgstr[1] ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/comments.php:88
+msgid "Do you want to hide comments?"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/comments.php:90
+#, php-format
+msgid "When <a href=\"%s\">editing this page</a> make sure the \"Discussion\" box is visible: configure your screen options in the top-right section of the WordPress Admin. Sometimes this box can be hidden."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/comments.php:91
+msgid "Uncheck \"Allow comments\" and \"Allow trackbacks and pingbacks on this page\"."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/comments.php:92
+msgid "Save changes"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/404.php:25
+msgid "Oops!"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/404.php:26
+msgid "This page is was not found"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/404.php:34
+msgid "Search Our Website"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/404.php:40
+msgid "Report a Problem"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/404.php:41
+#, php-format
+msgid "Please write some descriptive information about your problem, and email our <a href=\"mailto:%s\">webmaster</a>."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/404.php:46
+msgid "Back to the Homepage"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/404.php:47
+#, php-format
+msgid "You can also <a href=\"%s\">go back to the homepage</a> and start browsing from there."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/header.php:96
+msgid "Menu"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/header.php:113
+msgid "Empty Primary Navigation"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/header.php:114
+#, php-format
+msgid "You should <a href=\"%s\">assign a menu to the Primary Navigation Theme Location</a>"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/header.php:145
+msgid "No products in the cart."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/search.php:24
+#, php-format
+msgid "Phrase: %s"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/search.php:25
+msgid "Search Results"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/search.php:40
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/footer.php:82
+msgid "Empty Footer Navigation"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/footer.php:83
+#, php-format
+msgid "You should <a href=\"%s\">assign a menu to the Footer Navigation Theme Location</a>"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/footer.php:106
+msgid "Back to Top"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/searchform.php:20
+msgid "Search..."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/searchform.php:22
+msgid "Search"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1_template_page_sitemap.php:58
+msgid "Site Feeds"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1_template_page_sitemap.php:60
+msgid "Main RSS Feed"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1_template_page_sitemap.php:61
+msgid "Comment RSS Feed"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1_template_page_sitemap.php:71
+msgid "Blog"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1_template_page_sitemap.php:76
+#: /home/btp/workspace/repos/3clicks/3clicks/g1_template_page_sitemap.php:126
+msgid "Latest entries"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1_template_page_sitemap.php:82
+msgid "Category Archives"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1_template_page_sitemap.php:88
+msgid "Tag Archives"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1_template_page_sitemap.php:211
+msgid "Edit"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:396
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1347
+msgid "Primary Navigation"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:397
+msgid "Secondary Navigation"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:398
+msgid "Footer Navigation"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:465
+msgid "1 Column, Right Sidebar"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:470
+msgid "1 Column, Left Sidebar"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:475
+msgid "1 Column"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:480
+msgid "2 Columns"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:485
+msgid "2 Columns Filterable"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:490
+msgid "2 Columns Gallery"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:495
+msgid "2 Columns Gallery Filterable"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:500
+msgid "2 Columns, Left Sidebar"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:505
+msgid "2 Columns Filterable, Left Sidebar"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:510
+msgid "2 Columns Gallery, Left Sidebar"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:515
+msgid "2 Columns Gallery Filterable, Left Sidebar"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:520
+msgid "2 Column, Right Sidebar"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:525
+msgid "2 Columns Filterable, Right Sidebar"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:530
+msgid "2 Column Gallery, Right Sidebar"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:535
+msgid "2 Columns Gallery Filterable, Right Sidebar"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:540
+msgid "3 Columns"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:545
+msgid "3 Columns Filterable"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:550
+msgid "3 Columns Masonry"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:555
+msgid "3 Columns Gallery"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:560
+msgid "3 Columns Gallery Filterable"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:565
+msgid "4 Columns"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:570
+msgid "4 Columns Masonry"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:575
+msgid "4 Columns Gallery"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:580
+msgid "4 Columns Filterable"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:716
+msgid "Sidebar Right"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:721
+msgid "Sidebar Left"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:726
+msgid "Overview Right"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:731
+msgid "Overview Left"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:736
+msgid "Full"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:750
+msgid "Preheader"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:751
+msgid "Header"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:752
+msgid "Precontent"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:753
+msgid "Content"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:754
+msgid "Prefooter"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:755
+msgid "Footer"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-functions.php:763
+msgid "Go back to the homepage"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-admin.php:131
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:148
+msgid "Type"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-admin.php:133
+msgid "Specify how the media should be treated"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-admin.php:139
+msgid "exclude from mediabox"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-admin.php:191
+msgid "A media box is a part of a template, that displays entry attachments."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-admin.php:192
+msgid "The <strong>list</strong> displays image &amp; audio attachments."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-admin.php:193
+msgid "The <strong>slider</strong> displays only image attachments."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-admin.php:194
+msgid "The <strong>featured media</strong> displays featured image."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-admin.php:195
+msgid "The <strong>none</strong> displays nothing."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-front.php:660
+#, php-format
+msgid "This %s is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-front.php:2123
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-front.php:2126
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-front.php:2149
+msgid "(Edit)"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-front.php:2131
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-front.php:2149
+msgid "Pingback:"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-front.php:2452
+msgid "Pages:"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-front.php:2459
+msgid "Next"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-front.php:2460
+msgid "Prev"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-features.php:41
+msgid "Audio post format can have an additional poster image. You can set it using the Featured Image"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-features.php:42
+msgid "Use the Featured Image metabox to set your image"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-features.php:43
+msgid "Gallery post format use attachments added to the post"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-features.php:56
+msgid "Video"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-features.php:66
+msgid "Video Url (oEmbed) or Embed Code"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-features.php:81
+msgid "Audio"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-features.php:91
+msgid "Audio Url (oEmbed or mp3) or Embed Code"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:25
+#, php-format
+msgid "Use %s Image"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:27
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:107
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:333
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:360
+msgid "on"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:28
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:108
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:334
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:361
+msgid "off"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:37
+#, php-format
+msgid "%s Image"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:44
+#, php-format
+msgid "%s Image (High DPI)"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:45
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:236
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:263
+msgid "An image for High DPI screen (like Retina) should be twice as big."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:52
+#, php-format
+msgid "%s Repeat"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:54
+msgid "No Repeat"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:55
+msgid "Tile"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:56
+msgid "Tile Horizontally"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:57
+msgid "Tile Vertically"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:65
+#, php-format
+msgid "%s Position"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:68
+msgid "Left Top"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:69
+msgid "Left Center"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:70
+msgid "Left Bottom"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:72
+msgid "Right Top"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:73
+msgid "Right Center"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:74
+msgid "Right Bottom"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:76
+msgid "Center Top"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:77
+msgid "Center Center"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:78
+msgid "Center Bottom"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:86
+#, php-format
+msgid "%s Attachment"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:88
+msgid "Whether a background image is fixed or scrolls with the rest of the page."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:90
+msgid "Fixed"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:91
+msgid "Scroll"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:105
+#, php-format
+msgid "%s Divider"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:117
+#, php-format
+msgid "%s Divider Color"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:124
+#, php-format
+msgid "%s Divider Height"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:125
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1389
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1400
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1411
+msgid "px"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:140
+msgid "General"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:148
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:296
+msgid "Main"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:154
+msgid "Footer Text"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:155
+msgid "eg. Copyright @ 2013 YourCompany"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:163
+msgid "Responsive Design"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:176
+msgid "HelpMode"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:178
+msgid "Enable the HelpMode to get some useful tips throughout the site."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:179
+msgid "The HelpMode is visible only to users who have been assigned the administrator role, so regular site visitors don't see it."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:192
+msgid "Scroll To Top"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:193
+msgid "Enable button allowing quick page scroll to the top."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:208
+msgid "Branding"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:214
+msgid "Desktop Logo"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:215
+#, php-format
+msgid "Leave it blank to display the site title from <a href=\"%s\">WP General Settings</a> instead."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:221
+msgid "Desktop Logo Width"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:222
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:229
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:249
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:256
+msgid "in pixels"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:228
+msgid "Desktop Logo Height"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:235
+msgid "Desktop Logo (High DPI)"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:242
+msgid "Mobile Logo"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:248
+msgid "Mobile Logo Width"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:255
+msgid "Mobile Logo Height"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:262
+msgid "Mobile Logo (High DPI)"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:269
+msgid "Favicon"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:270
+msgid "The recommended size is 16x16 pixels."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:276
+msgid "Apple Touch Icon"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:277
+msgid "The recommended size is 114x114 pixels."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:287
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:786
+msgid "Style"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:302
+msgid "UI Corners"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:303
+msgid "This will be applied to buttons, boxes, tabs, etc"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:316
+msgid "Body Background"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:323
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:351
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1552
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1622
+msgid "Background Color"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:330
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:357
+msgid "Background Scroll"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:331
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:358
+msgid "Parallax scrolling effect"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:344
+msgid "Top Background (preheader + header + precontent)"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:379
+msgid "How To Open?"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:392
+msgid "Initial State"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:405
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:583
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:800
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:864
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:927
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1072
+msgid "Space Before and After"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:434
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:618
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:831
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:895
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:958
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1103
+msgid "Layout"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:435
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:619
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:832
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:896
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:959
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1104
+msgid "Set the width of outer and inner boxes."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:473
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:656
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:980
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1142
+msgid "Composition"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:474
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:657
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:981
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1143
+msgid "Choose arrangement of elements in the layout inner box."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:528
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:698
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:853
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:917
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1034
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1164
+msgid "Layout Corners"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:530
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:700
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:855
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:919
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1036
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1166
+msgid "Change the roundness of the corners applied to the whole area"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:538
+msgid "Social Icons"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:540
+#, php-format
+msgid "You can edit social icons from the <a href=\"%s\">G1 Social Icons Plugin Settings</a>"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:553
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:764
+msgid "Search Form"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:568
+msgid "Sticky Position"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:570
+msgid "Sticky header stays at the top as you scroll down"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:706
+msgid "Logo Margin Top"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:716
+msgid "Logo Margin Bottom"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:726
+msgid "Primary Nav Margin Top"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:736
+msgid "Primary Nav Margin Bottom"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:746
+msgid "Tagline"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:749
+msgid "Whether or not to display the site tagline below the logo."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:751
+#, php-format
+msgid "Go to <a href=\"%s\">WP General Settings</a> to set your tagline."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:779
+msgid "Primary Nav"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:788
+msgid "unstyled"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:789
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:268
+msgid "simple"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:790
+msgid "solid"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1043
+msgid "Twitter Toolbar"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1044
+msgid "Twitter configuration"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1057
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:128
+msgid "Map"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1058
+msgid "Map configuration"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1173
+msgid "Fonts"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1181
+msgid "Regular Text"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1184
+msgid "Customize the typography that is intended to use in body text"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1191
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1251
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1297
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1354
+msgid "Font Type"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1193
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1253
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1299
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1356
+msgid "System"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1194
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1254
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1300
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1357
+msgid "Font-Face"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1195
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1255
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1301
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1358
+msgid "Google WebFonts"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1204
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1264
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1310
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1367
+msgid "System Font"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1211
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1271
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1317
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1374
+msgid "Font-Face Font"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1218
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1278
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1324
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1381
+msgid "Google Font"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1225
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1331
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1388
+msgid "Font size"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1227
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1333
+msgid "x-small"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1228
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1334
+msgid "small"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1229
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1335
+msgid "medium"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1230
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1336
+msgid "large"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1231
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1337
+msgid "x-large"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1241
+msgid "Meta Text"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1244
+msgid "Customize the typography that is intended to use in meta text (post bylines, comment dates, or similar meta information)."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1287
+msgid "Important Text"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1290
+msgid "Customize the typography that is intended to use in bigger text (headings with small exceptions, large buttons, etc)."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1399
+msgid "Padding Top"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1410
+msgid "Padding Bottom"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1542
+msgid "Basic Color Schema"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1545
+msgid "This will be applied to texts, links etc."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1559
+msgid "Background Opacity"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1561
+msgid "0%"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1562
+msgid "100%"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1570
+msgid "Important Text Color"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1571
+msgid "Headings (with small exceptions)."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1578
+msgid "Regular Text Color"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1580
+msgid "Body text"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1587
+msgid "Meta Text Color"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1589
+msgid "Post bylines, comment dates, meta information"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1596
+msgid "Link Color"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1603
+msgid "Link Color on Hover"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1612
+msgid "Distinctive Color Schema"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1615
+msgid "This will be applied to buttons, dropcaps etc."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1629
+msgid "Text Color"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1651
+msgid "Sidebars"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1657
+msgid "Custom Sidebars"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-options.php:1658
+msgid "Sidebar name can only consist of: lowercase letters, digits, underscores and hyphens"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-dependencies.php:74
+msgid "Install Required Plugins"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-dependencies.php:75
+msgid "Install Plugins"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-dependencies.php:76
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-dependencies.php:77
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-dependencies.php:88
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-dependencies.php:89
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/theme-dependencies.php:90
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:29
+msgid "Roadmap"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:30
+msgid "Satellite"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:31
+msgid "Hybrid"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:32
+msgid "Terrain"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:112
+msgid "GMap"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:114
+msgid "hide"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:115
+msgid "show"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:118
+msgid "Here you can decide whether a map should be displayed in the precontent theme area (right after the header and just before the content)."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:134
+msgid "Base Color"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:141
+msgid "Invert Lightness"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:156
+msgid "Latitude"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:157
+msgid "Eg. 40.714353 for New York, USA"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:157
+msgid "Remember to add \"-\" sign for S (south) latitude"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:158
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:168
+msgid "To center the map on a specific point"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:166
+msgid "Longitude"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:167
+msgid "Eg. -74.005973 for New York, USA"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:167
+msgid "Remember to add \"-\" sign for W (west) longitude"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:179
+msgid "Zoom"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:180
+msgid "The initial resolution at which to display the map"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:188
+msgid "Marker On The Map"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:201
+msgid "Marker Icon"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:202
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:337
+msgid "optional, if empty default marker will be used"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:208
+msgid "Text In The Marker Bubble"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:209
+msgid "HTML allowed"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:235
+msgid "content"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:236
+msgid "Text to show in marker bubble"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:255
+msgid "Map width eg. 800px (leave it empty to use 100% width)"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:261
+msgid "Map height eg. 500px"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:266
+msgid "Map interface. Simple has no controls"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:269
+msgid "rich"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:286
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:323
+msgid "none"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:287
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:324
+msgid "standard"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:301
+msgid "To center the map on a specific point (eg. 40.714353 for New York, USA)"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:309
+msgid "To center the map on a specific point (eg. -74.005973 for New York, USA)"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:317
+msgid "The initial resolution at which to display the map (default: 15)"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:325
+msgid "with open bubble"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:327
+msgid "Decide if you want to show marker on the map"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-gmap/g1-gmap.php:431
+msgid "G1 GMap"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-mailchimp/g1-mailchimp.php:114
+msgid "Newsletter"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-mailchimp/g1-mailchimp.php:121
+msgid "MailChimp"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-mailchimp/g1-mailchimp.php:124
+msgid "The theme is integrated with the MailChimp service so you can easily conduct your mailing campaigns."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-mailchimp/g1-mailchimp.php:131
+msgid "API Key"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-mailchimp/g1-mailchimp.php:132
+msgid "You can find the key on your MailChimp Account, in the section API Keys & Authorized Apps"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-mailchimp/g1-mailchimp.php:158
+msgid "text_before"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-mailchimp/g1-mailchimp.php:159
+msgid "Text to show above subscription form"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-mailchimp/g1-mailchimp.php:221
+msgid "To fetch the list you need to enter your MailChimp Api Key in the theme options panel."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-mailchimp/g1-mailchimp.php:225
+msgid "Some errors occurred while fetching Mailchimp data."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-mailchimp/g1-mailchimp.php:244
+msgid "cURL not enabled."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-mailchimp/g1-mailchimp.php:245
+msgid "cURL module is not enabled on your server. Please contact your hosting provider and ask about enabling cURL for your account."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-mailchimp/g1-mailchimp.php:268
+msgid "You need to set your mail address"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-mailchimp/g1-mailchimp.php:269
+msgid "Your mail was added to our newsletter"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-mailchimp/g1-mailchimp.php:270
+msgid "An error occured while adding to the newsletter"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-mailchimp/g1-mailchimp.php:317
+msgid "Your Email"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-mailchimp/g1-mailchimp.php:322
+msgid "Subscribe"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-mailchimp/g1-mailchimp.php:355
+msgid "G1 MailChimp Newsletter"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-pages/lib/functions.php:109
+msgid "Home Page"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-pages/lib/functions.php:110
+msgid "If you want to set the Blog Page as the Home Page, leave this option blank or select the Blog Page."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-pages/lib/functions.php:111
+msgid "Which page should be the home page?"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-pages/lib/functions.php:118
+msgid "Allow Comments"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-pages/lib/functions.php:119
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-pages/lib/functions.php:132
+msgid "These setting may be overridden for individual page."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-pages/lib/functions.php:131
+msgid "Allow Trackbacks And Pingbacks"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-pages/lib/shortcodes.php:51
+msgid "G1 Custom Pages"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-pages/lib/shortcodes.php:61
+msgid "G1 Related Pages"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/panels.php:25
+msgid "Panels"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/panels.php:518
+msgid "*** 2 tabs"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/panels.php:556
+msgid "*** 3 tabs"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/panels.php:603
+msgid "*** 4 tabs"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/panels.php:637
+msgid "Splitted image"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/panels.php:638
+msgid "Flip image on click"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/panels.php:639
+msgid "Change on hover"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/panels.php:669
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/basic.php:1100
+msgid "The width in pixels"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/panels.php:675
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/basic.php:1106
+msgid "The height in pixels"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/panels.php:735
+msgid "Before"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/panels.php:737
+msgid "After"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/panels.php:793
+msgid "In hex format, like #123456"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/panels.php:893
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/panels.php:903
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/panels.php:913
+msgid "In pixels"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/misc.php:50
+msgid "Misc"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/misc.php:78
+msgid "The title of the audio file."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/misc.php:84
+msgid "The source of the mp3 file"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/misc.php:173
+msgid "Enable Coin Navigation"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/misc.php:188
+msgid "Enable Next/Prev Navigation"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/misc.php:203
+msgid "yes"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/misc.php:204
+msgid "no"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/misc.php:347
+msgid "expiry_text"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/misc.php:368
+msgid "For example: 1 June 2013"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/misc.php:482
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/misc.php:672
+msgid "0-100 range"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/misc.php:648
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/basic.php:43
+msgid "label"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/misc.php:680
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/basic.php:1977
+msgid "Right"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/misc.php:681
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/basic.php:1978
+msgid "Left"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/grid.php:24
+msgid "Columns"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/grid.php:55
+msgid "*** [one_fourth] + [three_fourth]"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/grid.php:77
+msgid "*** 2 equal columns"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/grid.php:106
+msgid "*** 3 equal columns"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/grid.php:140
+msgid "*** 4 equal columns"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/basic.php:25
+msgid "Basic"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/basic.php:44
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/basic.php:543
+msgid "Add a second line by wrapping part of the label with a &lt;small&gt; tag"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/basic.php:65
+msgid "What to do when user clicks the button?"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/basic.php:67
+msgid "open in the same window"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/basic.php:68
+msgid "open in a new window"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/basic.php:69
+msgid "open in a lightbox"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/basic.php:86
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/basic.php:1245
+msgid "The destination to which the link leads"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/basic.php:97
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/basic.php:1256
+msgid "Fill in this field, if you want different elements to be in one gallery"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/basic.php:673
+msgid "Icon Color"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/basic.php:915
+msgid "The height in pixels (can be negative)."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/basic.php:1797
+msgid "Initial value"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/basic.php:1807
+msgid "Final value"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/basic.php:1818
+msgid "Put some value before"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/basic.php:1823
+msgid "Put some value after"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/basic.php:1950
+msgid "Elements at index lower than \"start\" are visible all time"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/basic.php:1960
+msgid "Stop animation at this index"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/basic.php:1969
+msgid "Max. amount of elements to show"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/basic.php:1994
+msgid "Color"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/admin/home_page_snippets.php:25
+msgid "Home Page Snippets"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-shortcodes/admin/page_snippets.php:24
+msgid "Page Snippets"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-posts/lib/functions.php:241
+msgid "Featured Image"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-posts/lib/shortcodes.php:25
+msgid "Posts"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-posts/lib/shortcodes.php:52
+msgid "G1 Custom Posts"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-posts/lib/shortcodes.php:79
+msgid "G1 Popular Posts"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-posts/lib/shortcodes.php:106
+msgid "G1 Recent Posts"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-posts/lib/shortcodes.php:118
+msgid "G1 Related Posts"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-maintenance/g1-maintenance.php:44
+msgid "Maintenance mode is ON"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-maintenance/g1-maintenance.php:74
+msgid "Maintenance Mode"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-maintenance/g1-maintenance.php:80
+msgid "State"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-maintenance/g1-maintenance.php:81
+msgid "Logged in administrator gets full access to the site, while regular visitors will be redirected to the chosen page."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-maintenance/g1-maintenance.php:93
+msgid "Page"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-maintenance/g1-maintenance.php:94
+msgid "Select a page which will be shown when maintenance mode is enabled"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-relations/lib/functions.php:76
+msgid "Related Entries"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-relations/lib/functions.php:168
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-relations/lib/functions.php:171
+msgid "Relation Tag"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-relations/lib/functions.php:170
+msgid "Relation Tags"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-relations/lib/functions.php:172
+msgid "Search Relation Tags"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-relations/lib/functions.php:173
+msgid "All Relation Tags"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-relations/lib/functions.php:174
+msgid "Parent Relation Tag"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-relations/lib/functions.php:175
+msgid "Parent Relation Tag:"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-relations/lib/functions.php:176
+msgid "Edit Relation Tag"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-relations/lib/functions.php:177
+msgid "Update Relation Tag"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-relations/lib/functions.php:178
+msgid "Add New Relation Tag"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-relations/lib/functions.php:179
+msgid "New Relation Tag"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-relations/lib/functions.php:222
+msgid "How to use relation tags?"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-relations/lib/functions.php:228
+msgid "The relation tags are not displayed anywhere - use them to relate different content (posts, pages, etc.), so that you can benefit from special shortcodes ([related_posts], [related_pages], etc.) or widgets ."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-relations/lib/functions.php:229
+msgid "It is strongly advised to prepend every relation tag with the <strong>r-</strong> prefix, to clearly differentiate these tags, thus keep their slugs unique."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-relations/lib/functions.php:230
+msgid "Here is a sample usage:"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-relations/lib/functions.php:232
+msgid "Assign the r-home tag to your home page."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-relations/lib/functions.php:233
+msgid "Assign the r-home tag to some blog posts."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-relations/lib/functions.php:234
+msgid "Insert the [related_posts] shortcode into the content editor, when editing the home page."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-relations/lib/functions.php:235
+msgid "Save changes and all related posts will be on your home page."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-relations/lib/functions.php:237
+msgid "The relation tags are built using custom taxonomy functionality, so they are separated from the standard WordPress tags."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-relations/lib/functions.php:325
+msgid "Entry ID - leave empty to use the current entry ID"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-relations/lib/functions.php:334
+#, php-format
+msgid "%s: Related"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-relations/template-parts/related_entries.php:32
+msgid "Related entries"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/slider-builder.php:40
+msgid "Slides"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/slider-builder.php:63
+msgid "Are you sure you want to delete this slide?"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/slider-builder.php:64
+msgid "An error occured while deleting slide"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/slider-builder.php:65
+msgid "An error occured while adding slide"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/slider-builder.php:66
+msgid "An error occured while moving slide"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/slider-builder.php:491
+msgid "Drag"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/slider-builder.php:492
+msgid "Move Up"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/slider-builder.php:493
+msgid "Move Down"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/slider-builder.php:494
+msgid "Delete"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/slider-builder.php:524
+msgid "Caption"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/slider-builder.php:537
+msgid "Description"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/slider-builder.php:550
+msgid "Alternate image text"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/slider-builder.php:563
+msgid "Link"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/slider-builder.php:576
+msgid "Linking"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/slider-builder.php:577
+msgid "What to do when user clicks the slide?"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/slider-builder.php:597
+msgid "Position of the description"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:84
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:763
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:765
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:777
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-sliders/functions.php:52
+msgid "Sliders"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:85
+msgid "ddffsfdfsdfsdd"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:91
+msgid "Set up the default configuration for all sliders added using \"Single Page Options > Media Box\" setting."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:108
+msgid "Transition Speed"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:109
+msgid "Enter the number of seconds, e.g. 1.5"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:119
+msgid "Pause Time"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:120
+msgid "Time between slide transitions."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:121
+msgid "Enter the number of seconds, e.g. 4"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:128
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:931
+msgid "Fullscreen"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:137
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:918
+msgid "Autoplay"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:146
+msgid "Coin Navigation"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:154
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:958
+msgid "Direction Navigation"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:163
+msgid "Progress Bar"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:207
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:766
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-sliders/functions.php:61
+msgid "Slider"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:223
+msgid "The <strong>slider</strong> displays only image attachments. It tries to open an attachment alternative link (if provided) in a lightbox."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:370
+msgid "Fade"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:371
+msgid "Slide Left"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:372
+msgid "Slide Right"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:373
+msgid "Slide Up"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:374
+msgid "Slide Down"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:382
+msgid "Wide"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:383
+msgid "Semi"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:384
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:403
+msgid "Standard"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:385
+msgid "Narrow"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:402
+msgid "None"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:404
+msgid "Thumbnails"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:767
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:125
+msgid "Add new"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:768
+msgid "All Sliders"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:769
+msgid "Add new Slider"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:770
+msgid "Edit Slider"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:771
+msgid "New Slider"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:772
+msgid "View Slider"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:773
+msgid "Search Sliders"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:774
+msgid "No Sliders found"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:775
+msgid "No Sliders found in Trash"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:776
+msgid "Parent Slider"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:813
+msgid "Configuration"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:838
+msgid "Width"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:841
+msgid "The recommended image width"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:843
+msgid "<strong>wide</strong> - ANY"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:844
+msgid "<strong>semi</strong> - "
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:845
+msgid "<strong>standard</strong> - "
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:846
+msgid "<strong>narrow</strong> - "
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:859
+msgid "Height"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:860
+msgid "The image height in pixels (optional)"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:863
+msgid "If you leave this value empty, the height will be computed proportionally to the width"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:888
+msgid "Transition speed"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:903
+msgid "Pause time"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:932
+msgid "Allow to display slides in fullscreen mode"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:945
+msgid "Coin navigation"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:959
+msgid "Allow to navigate using next/prev buttons"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-simple-sliders/lib/functions.php:972
+msgid "Progress bar"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-contact-form/g1-contact-form.php:124
+msgid "Some errors occurred. Form cannot be sent."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-contact-form/g1-contact-form.php:139
+msgid "The recipient's email"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-contact-form/g1-contact-form.php:145
+msgid "The recipient's name"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-contact-form/g1-contact-form.php:151
+msgid "The subject of the email"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-contact-form/g1-contact-form.php:157
+msgid "The text to display after sending an email uccessfully"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-contact-form/g1-contact-form.php:163
+msgid "The text to display, if the contact  form has errors"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-contact-form/g1-contact-form.php:174
+msgid "AJAX"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-contact-form/g1-contact-form.php:216
+msgid "Website Contact Form"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-contact-form/g1-contact-form.php:220
+msgid "We have received your email. Thank you."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-contact-form/g1-contact-form.php:224
+msgid "Ooops, something has gone wrong."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-contact-form/g1-contact-form.php:307
+msgid "Please correct the errors on this form."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-contact-form/g1-contact-form.php:316
+msgid "Please enter your name"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-contact-form/g1-contact-form.php:322
+msgid "Name"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-contact-form/g1-contact-form.php:323
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-contact-form/g1-contact-form.php:344
+msgid "(required)"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-contact-form/g1-contact-form.php:337
+msgid "Please enter a valid email address"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-contact-form/g1-contact-form.php:343
+msgid "Email"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-contact-form/g1-contact-form.php:357
+msgid "Please leave a message"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-contact-form/g1-contact-form.php:363
+msgid "Message"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-contact-form/g1-contact-form.php:375
+msgid "Please enter a valid result"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-contact-form/g1-contact-form.php:382
+msgid "(Are you human?)"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-contact-form/g1-contact-form.php:413
+msgid "Submit"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-contact-form/g1-contact-form.php:455
+msgid "G1 Contact Form"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-sliders/functions.php:66
+msgid "Here you can choose a slider that will be displayed in the precontent theme area (right after the header and just before the content)."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-sliders/functions.php:67
+msgid "The drop-down list will be empty, until you add some new slider."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-sliders/functions.php:85
+msgid "Do you want a slider here?"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-sliders/functions.php:87
+msgid "Create a slider ( check the WordPress Admin Menu - there should be some slider types to choose)."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-sliders/functions.php:88
+msgid "When editing a single entry scroll down to the \"Single Page Elements\" meta box, and choose your previously created slider from the \"Slider\" dropdown."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-sliders/functions.php:89
+msgid "When editing a single category or a tag choose your previously created slider from the \"Slider\" dropdown."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-sliders/functions.php:90
+msgid "Save"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:121
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:123
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:135
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/shortcodes.php:24
+msgid "Works"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:124
+msgid "Work"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:126
+msgid "All Works"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:127
+msgid "Add new Work"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:128
+msgid "Edit Work"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:129
+msgid "New Work"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:130
+msgid "View Work"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:131
+msgid "Search Works"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:132
+msgid "No Works found"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:133
+msgid "No Works found in Trash"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:134
+msgid "Parent Work"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:227
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:230
+msgid "Work Category"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:229
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:240
+msgid "Work Categories"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:231
+msgid "Search Work Categories"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:232
+msgid "Popular Work Categories"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:233
+msgid "All Work Categories"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:234
+msgid "Parent Work Category"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:235
+msgid "Parent Work Category:"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:236
+msgid "Edit Work Category"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:237
+msgid "Update Work Category"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:238
+msgid "Add New Work Category"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:239
+msgid "New Work Category"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:295
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:298
+msgid "Work Tag"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:297
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:308
+msgid "Work Tags"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:299
+msgid "Search Work Tags"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:300
+msgid "Popular Work Tags"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:301
+msgid "All Work Tags"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:302
+msgid "Parent Work Tag"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:303
+msgid "Parent Work Tag:"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:304
+msgid "Edit Work Tag"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:305
+msgid "Update Work Tag"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:306
+msgid "Add New Work Tag"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/functions.php:307
+msgid "New Work Tag"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/shortcodes.php:53
+msgid "G1 Custom Works"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/shortcodes.php:82
+msgid "G1 Popular Works"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/shortcodes.php:117
+msgid "G1 Recent Works"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-works/lib/shortcodes.php:127
+msgid "G1 Related Works"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-twitter/g1-twitter.php:61
+msgid "Twitter"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-twitter/g1-twitter.php:67
+msgid "Username"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-twitter/g1-twitter.php:68
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-twitter/g1-twitter.php:76
+msgid "Global value, used as a default value for shortcodes/widgets and prefooter toolbar"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-twitter/g1-twitter.php:69
+msgid "Eg. bringthepixel"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-twitter/g1-twitter.php:75
+msgid "Max Tweets To Show"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-twitter/g1-twitter.php:84
+msgid "Cache Duration"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-twitter/g1-twitter.php:85
+msgid "How long tweets will be fetched from cache, not from Twitter site"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-twitter/g1-twitter.php:86
+msgid "in seconds, empty value for default. 0 value means no cache at all (use it only if you use cache for a whole site)"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-twitter/g1-twitter.php:97
+msgid "Include Retweets"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-twitter/g1-twitter.php:106
+msgid "oAuth Authentication"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-twitter/g1-twitter.php:108
+msgid "Most of this configuration can be found on the application overview page: <a target=\"_blank\" href=\"http://dev.twitter.com/apps\">http://dev.twitter.com/apps</a>."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-twitter/g1-twitter.php:109
+msgid "You'll need to create a new Application first."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-twitter/g1-twitter.php:111
+msgid "Why do I need to use oAuth?"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-twitter/g1-twitter.php:113
+msgid "According to Twitter doc:"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-twitter/g1-twitter.php:114
+msgid "When using OAuth to authenticate requests with the API, the rate limit applied is specific to that user_token. This means, every user who authorizes your application to act on their behalf, has their own bucket of API requests for you to use."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-twitter/g1-twitter.php:117
+msgid "Read more about <a target=\"_blank\" href=\"https://dev.twitter.com/docs/rate-limiting/1.1\">REST API Rate Limiting in v1.1</a>."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-twitter/g1-twitter.php:124
+msgid "Consumer Key"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-twitter/g1-twitter.php:130
+msgid "Consumer Secret\t"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-twitter/g1-twitter.php:136
+msgid "Access Token"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-twitter/g1-twitter.php:142
+msgid "Access Token Secret"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-twitter/g1-twitter.php:197
+msgid "Maximum items to display"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-twitter/g1-twitter.php:352
+#, php-format
+msgid "Follow @%s"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/lib/g1-twitter/g1-twitter.php:408
+msgid "G1 Twitter"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options.php:286
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options.php:290
+msgid "Theme Options"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:46
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:48
+msgid "Options"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:230
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:231
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:688
+msgid "Import / Export"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:248
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:249
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:716
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:798
+msgid "Dev Mode Info"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:340
+msgid "Are you sure? You will lose all custom values."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:642
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:823
+msgid "Reset to Defaults"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:648
+msgid "<strong>Settings Imported!</strong>"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:650
+msgid "<strong>Settings Saved!</strong>"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:655
+msgid "<strong>Settings have changed, you should save them!</strong>"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:656
+msgid "<strong><span></span> error(s) were found!</strong>"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:657
+msgid "<strong><span></span> warning(s) were found!</strong>"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:724
+msgid "Loading..."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:735
+msgid "Import / Export Options"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:736
+msgid "Import Options"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:739
+msgid "Import from file"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:740
+msgid "Import from URL"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:741
+msgid "Import Skin"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:747
+msgid "Input your backup file below and hit Import to restore your sites options from a backup."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:757
+msgid "Input the URL to another sites options set and hit Import to load the options from that site."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:764
+msgid "Import"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:764
+msgid "WARNING! This will overwrite any existing options, please proceed with caution!"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:767
+msgid "Export Options"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:769
+msgid "Here you can copy/download your current option settings. Keep this safe as you can use it as a backup should anything go wrong, or you can use it to restore your settings on this site (or any other site)."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:772
+msgid "Copy"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/defaults.php:775
+msgid "Copy Link"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/fields/multi_text/field_multi_text.php:31
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/fields/multi_text/field_multi_text.php:35
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/fields/multi_text/field_multi_text.php:38
+msgid "Remove"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/fields/multi_text/field_multi_text.php:40
+msgid "Add More"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/fields/g1_border_radius/field_g1_border_radius.php:16
+msgid "Left-Top corner"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/fields/g1_border_radius/field_g1_border_radius.php:17
+msgid "Right-Top corner"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/fields/g1_border_radius/field_g1_border_radius.php:18
+msgid "Right-Bottom corner"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/fields/g1_border_radius/field_g1_border_radius.php:19
+msgid "Left-Bottom corner"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/fields/color_gradient/field_color_gradient.php:28
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/fields/color_gradient/field_color_gradient.php:33
+msgid "From:"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/fields/color_gradient/field_color_gradient.php:29
+msgid "To:"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/fields/color_gradient/field_color_gradient.php:35
+msgid " To:"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/fields/g1_feed/field_g1_feed.php:16
+msgid "Label"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/fields/g1_feed/field_g1_feed.php:35
+msgid "Open in the same window"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/fields/g1_feed/field_g1_feed.php:36
+msgid "Open in the new window"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/fields/g1_image_size/field_g1_image_size.php:37
+msgid "Crop"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/fields/google_webfonts/field_google_webfonts.php:27
+#, php-format
+msgid "The fonts provided below are free to use custom fonts from the <a href=\"%s\" target=\"_blank\">Google Web Fonts directory</a>"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/fields/upload/field_upload.php:30
+msgid "Upload"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/fields/upload/field_upload.php:31
+msgid "Remove Upload"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/validation/no_html/validation_no_html.php:14
+msgid "You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/validation/url/validation_url.php:14
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/validation/color/validation_color.php:14
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/validation/email/validation_email.php:14
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/validation/no_special_chars/validation_no_special_chars.php:14
+msgid "You must not enter any special characters in this field, all special characters have been removed."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/validation/comma_numeric/validation_comma_numeric.php:14
+msgid "You must provide a comma seperated list of numerical values for this option."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/validation/numeric/validation_numeric.php:14
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/options/validation/date/validation_date.php:14
+msgid "This field must be a valid date."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/shortcode-generator.php:382
+msgid "Insert"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/template-tags.php:121
+msgid "Home"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/template-tags.php:248
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/template-tags.php:301
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/template-tags.php:361
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/template-tags.php:369
+msgid "Search results"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/template-tags.php:377
+msgid "404 - page not found"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/template-tags.php:425
+msgid "You are here: "
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/core-tools.php:229
+msgid "Next page"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/core-tools.php:230
+msgid "Previous page"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/core-tools.php:442
+msgid "Empty sidebar"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/core-tools.php:444
+#, php-format
+msgid "The \"%s\" sidebar is empty."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/core-tools.php:445
+#, php-format
+msgid "You should <a href=\"%s\">add some widgets</a> to it."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/core-tools.php:490
+msgid "Website"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/core-tools.php:507
+msgid "Comment"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/core-tools.php:1423
+msgid "by"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/core-tools.php:1439
+msgid "0 <span>Comments</span>"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/core-tools.php:1440
+msgid "1 <span>Comment</span>"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/core-tools.php:1441
+msgid "% <span>Comments</span>"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/core-tools.php:1443
+msgid "Comments are off"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/core-tools.php:1476
+msgid "Posted in:"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/core-tools.php:1529
+msgid "Tagged with:"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/core-tools.php:1574
+msgid "More"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/core-tools.php:1632
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/core-tools.php:1633
+msgid "Featured entry"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/core-tools.php:1639
+#, php-format
+msgid "Post format: %s"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/misc.php:149
+msgid "Drop a file here or <a href=\"#\" class=\"upload\">select a file</a>."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/fonts.php:566
+msgid "no-subset"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/term-meta-manager.php:261
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/term-meta-manager.php:266
+msgid "Nonce incorrect!"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/elements.php:294
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/elements.php:558
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1352
+msgid "inherit"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/elements.php:835
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/elements.php:993
+msgid "Title"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/elements.php:841
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/elements.php:1002
+msgid "Featured Media"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/elements.php:847
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/elements.php:1016
+msgid "Date"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/elements.php:853
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/elements.php:1022
+msgid "Author"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/elements.php:859
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/elements.php:1028
+msgid "Comments Link"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/elements.php:865
+msgid "Summary"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/elements.php:871
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/elements.php:1034
+msgid "Categories"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/elements.php:877
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/elements.php:1040
+msgid "Tags"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/elements.php:883
+msgid "Button 1"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/elements.php:979
+msgid "Sidebar"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/elements.php:986
+msgid "Breadcrumbs"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/elements.php:999
+msgid "Media Box"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/elements.php:1001
+msgid "List"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:506
+msgid "Archive Page"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:508
+msgid "A few points about this page:"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:510
+msgid "A page template will be ignored. Instead one of the below templates will be used."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:511
+msgid "Any content will be ignored."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:512
+msgid "All other elements ( like title, sidebar, background, etc. ) should work fine."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:758
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:801
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:841
+msgid "Entries Per Page"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:759
+msgid "Leave empty to inherit"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:794
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:835
+msgid "Collection Options"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:993
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1023
+msgid "Link Base"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:994
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1024
+msgid "This will be used as a part of the permalink."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1070
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1170
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1122
+#, php-format
+msgid "%s Archive Page"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1338
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1396
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1461
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:2029
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:2092
+msgid "Template"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1350
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1415
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1480
+msgid "Effect"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1354
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1418
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1483
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/shortcodes.php:998
+msgid "grayscale"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1398
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1463
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:2031
+msgid "Color Legend:"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1400
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1465
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:2033
+msgid "dark gray: media"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1401
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1466
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:2034
+msgid "light gray: text"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1402
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1467
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:2035
+msgid "blue: sidebar"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1403
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1468
+msgid "green: navigation"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1762
+msgid "Single Term Options"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1784
+msgid "Single Page Options"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1857
+msgid "Subtitle"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1858
+msgid "This will be displayed below the title"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/features.php:1914
+#, php-format
+msgid "%s Single Page"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/theme.php:96
+msgid "Image Sizes"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/theme.php:108
+msgid "Set up the dimensions of the images on the site."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/theme.php:110
+msgid "Keep in mind, that only newly uploaded images will take into account these changes."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/theme.php:111
+#, php-format
+msgid "Older images can be rescaled with the <a href=\"%s\">Regenerate Thumbnails Plugin</a>"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/form-controls.php:24
+msgid "Set Background Image"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/form-controls.php:663
+msgid "Hex Value"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/form-controls.php:693
+msgid "Select an image"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/form-controls.php:695
+msgid "Clear"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/shortcodes.php:124
+msgid "Wrong shortcode attribute:"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/shortcodes.php:125
+#, php-format
+msgid "Shortcode \"%s\" has no \"%s\" attribute"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/shortcodes.php:325
+msgid "The id attribute specifies an id for an HTML element."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/shortcodes.php:326
+msgid "It must be unique within the HTML document."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/shortcodes.php:327
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/shortcodes.php:339
+msgid "(Mainly for additional styling/scripting purposes)"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/shortcodes.php:338
+msgid "The class attribute specifies a class name for an HTML element."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/shortcodes.php:514
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/shortcodes.php:521
+msgid "Available Options"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/shortcodes.php:893
+msgid "Widget title"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/shortcodes.php:1140
+msgid "Comma separated list of entry IDs"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/shortcodes.php:1149
+#, php-format
+msgid "%s: Custom"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/shortcodes.php:1205
+#, php-format
+msgid "%s: Popular"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/shortcodes.php:1249
+msgid "Comma separated list of category IDs (optional)"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/shortcodes.php:1257
+#, php-format
+msgid "%s: Recent"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:182
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:537
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:2120
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:565
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:738
+msgid "Dismiss this notice"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:1125
+msgid "External Link"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:1130
+msgid "Private Repository"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:1133
+msgid "Pre-Packaged"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:1137
+msgid "WordPress Repository"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:1140
+msgid "Required"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:1140
+msgid "Recommended"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:1143
+msgid "Not Installed"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:1145
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:1147
+msgid "Not Updated"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:1149
+msgid "Active"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:1343
+#, php-format
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:1359
+msgid "Plugin"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:1360
+msgid "Source"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:1362
+msgid "Status"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:1380
+msgid "Install"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:1381
+msgid "Activate"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:1606
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:1891
+msgid "Install package not available."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:1892
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:1893
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:1894
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:1895
+msgid "Plugin install failed."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:1896
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:1907
+msgid "Plugin activation failed."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:2017
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:2018
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:2018
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:2027
+msgid "Show Details"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:2018
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:2027
+msgid "Hide Details"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:2019
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:2020
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:2024
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:2025
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:2026
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:2027
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:2028
+msgid "All installations have been completed."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/class-tgm-plugin-activation.php:2029
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/post-meta-manager.php:114
+msgid "General Settings"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/g1-framework/lib/post-meta-manager.php:119
+msgid "Single Page Settings"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/template-parts/g1_about_author.php:20
+msgid "About the Author"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/template-parts/g1_primary_collection.php:71
+msgid "Yearly Archives"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/template-parts/g1_primary_collection.php:74
+msgid "Monthly Archives"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/template-parts/g1_primary_collection.php:77
+msgid "Daily Archives"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/template-parts/g1_primary_collection.php:87
+msgid "Author Archives"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/template-parts/g1_no_results.php:18
+msgid "Apologies, but no results were found."
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/template-parts/g1_collection_filterable_grid.php:85
+msgid "Filter"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/template-parts/g1_collection_filterable_grid.php:111
+msgid "Show all"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/template-parts/g1_single_nav.php:38
+msgid "See more"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/template-parts/g1_single_nav.php:41
+msgid "<strong class=\"g1-meta\">Prev:</strong>"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/template-parts/g1_single_nav.php:44
+msgid "Back:"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/template-parts/g1_single_nav.php:45
+msgid "See all entries"
+msgstr ""
+
+#: /home/btp/workspace/repos/3clicks/3clicks/template-parts/g1_single_nav.php:48
+msgid "<strong class=\"g1-meta\">Next:</strong>"
+msgstr ""
+

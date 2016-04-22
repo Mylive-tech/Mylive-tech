@@ -1,0 +1,823 @@
+<?php if ( 'on' == et_get_option( 'divi_back_to_top', 'false' ) ) : ?>
+
+
+
+
+
+
+
+	<span class="et_pb_scroll_top et-pb-icon"></span>
+
+
+
+
+
+
+
+<?php endif;
+
+
+
+
+
+
+
+if ( ! is_page_template( 'page-template-blank.php' ) ) : ?>
+
+
+
+
+
+
+
+<?php wp_reset_query(); ?> 
+
+
+
+      <?php if( is_front_page() ) { ?>  
+
+
+
+<!--      <h2 class="lt-customers1" style="text-align: center;">Our 30000+ Satisfied Customers</h2>     -->
+
+
+
+  	
+
+
+
+      <div class="client-slider">
+
+
+
+        <ul id="flexiselDemo3">
+
+
+
+    <li><img src="https://www.mylive-tech.com/wp-content/themes/livetech4/images/clients/american-college-cardiology.jpg" width="167" height="60" alt="American College of Cardiology" /></li><li><img src="https://www.mylive-tech.com/wp-content/themes/livetech4/images/clients/ford-messere.jpg" width="165" height="60" alt="Ford & Messere" /></li><li><img src="https://www.mylive-tech.com/wp-content/themes/livetech4/images/clients/ICAEL.jpg" width="126" height="135" alt="ICAEL" /></li><li><img src="https://www.mylive-tech.com/wp-content/themes/livetech4/images/clients/ara-kassabian.jpg" width="225" height="60" alt="Ara Kassabian - CPA" /></li><li><img src="https://www.mylive-tech.com/wp-content/themes/livetech4/images/clients/ACR.jpg" width="132" height="121" alt="ACR" /></li><li><img src="https://www.mylive-tech.com/wp-content/themes/livetech4/images/clients/island-financial-advisors.jpg" width="157" height="60" alt="Island Financial Advisors" /></li><li><img src="https://www.mylive-tech.com/wp-content/themes/livetech4/images/clients/jasper-jeep.jpg" width="120" height="60" alt="Jasper Jeep" /></li><li><img src="https://www.mylive-tech.com/wp-content/themes/livetech4/images/clients/jurus-uniforms.jpg" width="207" height="60" alt="Juru's Uniforms" /></li><li><img src="https://www.mylive-tech.com/wp-content/themes/livetech4/images/clients/natures-farmacy.jpg" width="154" height="80" alt="Nature's Farmacy" /></li><li><img src="https://www.mylive-tech.com/wp-content/themes/livetech4/images/clients/summit-orthopaedics-sports-medicine.jpg" width="140" height="60" alt="Summit Orthopaedic & Sports Medicine" /></li>
+
+
+
+<li><img src="https://www.mylive-tech.com/wp-content/themes/livetech4/images/clients/01-bbp-fin.jpg" width="250" height="60" alt="Live-Tech Customers" /></li><li><img src="https://www.mylive-tech.com/wp-content/themes/livetech4/images/clients/02-biscotti.jpg" width="95" height="60" alt="Live-Tech Customers" /></li><li><img src="https://www.mylive-tech.com/wp-content/themes/livetech4/images/clients/03-damespointe.jpg" width="168" height="60" alt="Live-Tech Customers" /></li><li><img src="https://www.mylive-tech.com/wp-content/themes/livetech4/images/clients/04-grupo-tv.jpg" width="97" height="60" alt="Live-Tech Customers" /></li><li><img src="https://www.mylive-tech.com/wp-content/themes/livetech4/images/clients/05-halperi.jpg" width="96" height="60" alt="Live-Tech Customers" /></li><li><img src="https://www.mylive-tech.com/wp-content/themes/livetech4/images/clients/06-hetzel.jpg" width="351" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/07-malik.jpg" width="111" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/08-muffkie.jpg" width="100" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/09-olabrasil.jpg" width="175" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/10-placement.jpg" width="93" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/11-quest.jpg" width="200" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/12-revest.jpg" width="107" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/13-atlanta.jpg" width="160" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/14-vhma.jpg" width="84" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/15-watchman.jpg" width="181" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/16-401k.jpg" width="97" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/17-aberle-investment.jpg" width="294" height="90" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/18-acp-interiors.jpg" width="225" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/19-bakerspriceco.jpg" width="187" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/20-ahm-fin.jpg" width="181" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/20-chemdry.png" width="117" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/21-american-bikers.jpg" width="219" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/22-aqua-logics.jpg" width="155" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/23-battlife.jpg" width="184" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/24-beesure.jpg" width="60" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/25-bell-partners.jpg" width="168" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/26-bgm-fastners.jpg" width="150" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/27-binarian-studios.jpg" width="240" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/28-car-concepts.jpg" height="263" width="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/29-ccr.jpg" width="175" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/30-clear-title-group.jpg" width="284" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/31-corporate-america.jpg" width="127" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/32-custom-creative-platics.jpg" width="405" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/33-digitec-medical.jpg" width="160" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/34-florida-premier-cardiology.jpg" width="132" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/35-hstur.jpg" width="183" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/36-infosun.jpg" width="46" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/37-iwpr.jpg" width="140" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/38-kenchii.jpg" width="233" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/39-landmarc-realty.jpg" width="124" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/40-lowee.jpg" width="240" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/41-mcguire.jpg" width="167" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/42-miami-spine.jpg" width="175" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/43-newtex.jpg" width="216" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/44-nsm.jpg" width="259" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/45-oberfrank-perry.jpg" width="190" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/46-polks-hobbies.jpg" width="42" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/47-rapid-rooter.jpg" width="98" height="60" alt="Live-Tech Customers" /></li><li><img src="https://www.mylive-tech.com/wp-content/themes/livetech4/images/clients/48-salter-mitchell.jpg" width="190" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/49-sapzio.jpg" width="158" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/50-sjs-church.jpg" width="60" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/51-sjs-school.jpg" width="59" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/52-sp.jpg" width="55" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/53-splash.jpg" width="160" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/54-spotlight.jpg" width="199" height="60" alt="Live-Tech Customers" /></li><li><img src="<?php bloginfo('template_url'); ?>/images/clients/55-texture-design.jpg" width="219" height="60" alt="Live-Tech Customers" /></li>
+
+
+
+    </ul>
+
+
+
+</div>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+
+
+$(window).load(function() {
+
+
+
+       $("#flexiselDemo3").flexisel({
+
+
+
+        visibleItems: 4,
+
+
+
+        animationSpeed: 500,
+
+
+
+        autoPlay: true,
+
+
+
+        autoPlaySpeed: 3000,
+
+
+
+        pauseOnHover: true,
+
+
+
+        clone:true,
+
+
+
+        enableResponsiveBreakpoints: true,
+
+
+
+        responsiveBreakpoints: { 
+
+
+
+            portrait: { 
+
+
+
+                changePoint:480,
+
+
+
+                visibleItems: 1
+
+
+
+            }, 
+
+
+
+            landscape: { 
+
+
+
+                changePoint:640,
+
+
+
+                visibleItems: 2
+
+
+
+            },
+
+
+
+            tablet: { 
+
+
+
+                changePoint:768,
+
+
+
+                visibleItems: 3
+
+
+
+            }
+
+
+
+        }
+
+
+
+    });    
+
+
+
+});
+
+
+
+</script> 
+
+
+
+
+
+
+
+<?php } ?>
+
+
+
+
+
+
+
+
+
+
+
+			<footer id="main-footer">
+
+
+
+
+
+                      <div id="lt-sharing-main">
+
+
+
+ <span> Share With Friends </span>
+
+
+
+              <?php echo do_shortcode('[ssbp]'); ?>
+
+
+
+            </div>
+
+
+
+
+
+            
+
+
+
+				<?php get_sidebar( 'footer' ); ?>
+
+
+
+<div class="container">khkhkhk
+<div id="footer-widgets" class="clearfix">
+
+<div class="footer-widget">
+<?php dynamic_sidebar('Footer Area 5'); ?>
+</div>
+
+<div class="footer-widget">
+
+</div>
+<div class="footer-widget">
+
+</div>
+
+<div class="footer-widget last">
+</div>
+
+</div></div>
+
+
+
+
+
+
+
+
+		<?php
+
+
+
+			if ( has_nav_menu( 'footer-menu' ) ) : ?>
+
+
+
+
+
+
+
+				<div id="et-footer-nav">
+
+
+
+					<div class="container">                    
+
+
+
+						<?php
+
+
+
+							wp_nav_menu( array(
+
+
+
+								'theme_location' => 'footer-menu',
+
+
+
+								'depth'          => '1',
+
+
+
+								'menu_class'     => 'bottom-nav',
+
+
+
+								'container'      => '',
+
+
+
+								'fallback_cb'    => '',
+
+
+
+							) );
+
+
+
+						?>
+
+
+
+					</div>
+
+
+
+				</div> <!-- #et-footer-nav -->
+
+
+
+
+
+
+
+			<?php endif; ?>
+
+
+
+
+
+
+
+				<div id="footer-bottom">
+
+
+
+					<div class="container clearfix">
+
+
+
+				<?php
+
+
+
+					if ( false !== et_get_option( 'show_footer_social_icons', true ) ) {
+
+
+
+						get_template_part( 'includes/social_icons', 'footer' );
+
+
+
+					}
+
+
+
+				?>
+
+
+
+
+
+
+
+						<p id="footer-info">© 2002-2014 Live-Tech. All rights reserved. Some images, logos & product names are properties of their respective trademark owners.</p>
+
+
+
+					</div>	<!-- .container -->
+
+
+
+				</div>
+
+
+
+			</footer> <!-- #main-footer -->
+
+
+
+                       
+
+
+
+		</div> <!-- #et-main-area -->
+
+
+
+
+
+
+
+<?php endif; // ! is_page_template( 'page-template-blank.php' ) ?>
+
+
+
+
+
+
+
+	</div> <!-- #page-container -->
+
+
+
+    
+
+
+
+    
+
+
+
+    <!-- -->
+
+
+
+        <div id="support-center" style="display:none">
+
+
+
+        	<a href="#" data-popup-target="#ltsupport-popup" title="Live-Tech Support Center"> 
+
+
+
+            <div class="support-center-text">
+
+
+
+         <img src="<?php bloginfo( 'template_url' ); ?>/new-cp/lt-support-center.png" width="139" height="38" />
+
+
+
+                  <img src="<?php bloginfo( 'template_url' ); ?>/new-cp/lt-support-livechat.png" width="139" height="38" />
+
+
+
+                           <img src="<?php bloginfo( 'template_url' ); ?>/new-cp/lt-support-start-remote-session.png" width="139" height="38" />
+
+
+
+                                    <img src="<?php bloginfo( 'template_url' ); ?>/new-cp/lt-support-submit-ticket.png" width="139" height="38" />
+
+
+
+                                             <img src="<?php bloginfo( 'template_url' ); ?>/new-cp/lt-support-suite.png" width="139" height="38" />
+
+
+
+                                                      <img src="<?php bloginfo( 'template_url' ); ?>/new-cp/lt-support-knowledgebase.png" width="139" height="38" />
+
+
+
+                                                               
+
+
+
+
+
+
+
+            </div>
+
+
+
+            </a>
+
+
+
+        </div>
+
+
+
+        
+
+
+
+ 
+
+
+
+<div id="ltsupport-popup" class="popup">
+
+
+
+    <div class="popup-body"><span class="popup-exit"><i class="fa fa-times"></i></span>
+
+
+
+ 
+
+
+
+        <div class="popup-content">
+
+
+
+            <h2 class="popup-title">Live-Tech Support Center</h2>
+
+
+
+            <p> You can also call us toll free on 1 (888) 361-8511 </p>
+
+
+
+ 
+
+
+
+            <ul>
+
+
+
+        <li><a title="Live Chat With Agent" onclick="window.open('http://support.mylive-tech.com/visitor/index.php?/LiveChat/Chat/Request/_sessionID=n0hp51kk9ey391n0r9v731p74nu221rd/_proactive=0/_filterDepartmentID=/_randomNumber=13/_fullName=/_email=/_promptType=chat', 'newwindow', 'width=507, height=647'); return false;" href="#" target="_blank"><span class=""><i class="fa fa-comments"></i> <br> Start Live Chat</span></a>
+
+
+
+</li>
+
+
+
+        <li><a href="http://www.mylive-tech.com/connect/" title="Start A Remote Session" target="_blank"><i class="fa fa-laptop"></i> <br> Start A Remote Session</a></li>
+
+
+
+        <li><a href="http://support.mylive-tech.com/Tickets/Submit" title="Submit A Ticket" target="_blank"><i class="fa fa-edit"></i> <br> Submit A Ticket</a></li>
+
+
+
+        <li><a href="http://support.mylive-tech.com/" title="Live-Tech Support Suite"><i class="fa fa-cog"></i> <br> Live-Tech Support Suite</a></li>
+
+
+
+        <li><a href="http://support.mylive-tech.com/index.php?/Knowledgebase/List" title="Knowledgebase Articles" target="_blank"><i class="fa fa-file-text"></i> <br> Knowledge Base</a></li>
+
+
+
+        </ul> 
+
+
+
+            
+
+
+
+        </div>
+
+
+
+    </div>
+
+
+
+</div>
+
+
+
+<div class="popup-overlay" style="display:none"></div>
+
+
+
+
+
+
+
+	<?php wp_footer(); ?>
+
+
+
+    
+
+
+
+ <!-- include Cycle plugin -->
+
+
+
+<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/cycle-all-min.js"></script>
+
+
+
+<script type="text/javascript">
+
+
+
+jQuery(document).ready(function($) {
+
+
+
+    $('.support-center-text').cycle({
+
+
+
+		fx: 'scrollLeft' // choose your transition type, ex: fade, scrollUp, shuffle, etc...
+
+
+
+	});
+
+
+
+});
+
+
+
+</script>
+
+
+
+
+
+
+
+<script>
+
+
+
+jQuery(window).load(function($){
+
+
+
+jQuery(document).ready(function ($) {
+
+
+
+ 
+
+
+
+    $('[data-popup-target]').click(function () {
+
+
+
+        $('html').addClass('overlay');
+
+
+
+        var activePopup = $(this).attr('data-popup-target');
+
+
+
+        $(activePopup).addClass('visible');
+
+
+
+ 		$(".popup-overlay").show();
+
+
+
+    });
+
+
+
+ 
+
+
+
+    $(document).keyup(function (e) {
+
+
+
+        if (e.keyCode == 27 && $('html').hasClass('overlay')) {
+
+
+
+            clearPopup();
+
+
+
+        }
+
+
+
+    });
+
+
+
+ 
+
+
+
+    $('.popup-exit').click(function () {
+
+
+
+        clearPopup();
+
+
+
+ 
+
+
+
+    });
+
+
+
+ 
+
+
+
+    $('.popup-overlay').click(function () {
+
+
+
+        clearPopup();
+
+
+
+    });
+
+
+
+	
+
+
+
+ 
+
+
+
+    function clearPopup() {
+
+
+
+        $('.popup.visible').addClass('transitioning').removeClass('visible');
+
+
+
+        $('html').removeClass('overlay');
+
+
+
+		$(".popup-overlay").hide();
+
+
+
+ 
+
+
+
+        setTimeout(function () {
+
+
+
+            $('.popup').removeClass('transitioning');
+
+
+
+        }, 200);
+
+
+
+    }
+
+
+
+ 
+
+
+
+});
+
+
+
+});
+
+
+
+</script>  
+
+
+
+
+
+
+
+<script>
+
+
+
+		$(window).load(function(e){
+
+
+
+		jQuery("#support-center").show();
+
+
+
+});
+
+
+
+</script>
+
+
+
+
+
+
+
+    
+
+
+
+   <!-- BEGIN TAG CODE - DO NOT EDIT! --><div id="proactivechatcontainerylldvetv1h"></div><div id="swifttagcontainerylldvetv1h" style="display: none;"><div id="swifttagdatacontainerylldvetv1h"></div></div> <script type="text/javascript">var swiftscriptelemylldvetv1h=document.createElement("script");swiftscriptelemylldvetv1h.type="text/javascript";var swiftrandom = Math.floor(Math.random()*1001); var swiftuniqueid = "ylldvetv1h"; var swifttagurlylldvetv1h="https://support.mylive-tech.com/visitor/index.php?/LiveChat/HTML/Monitoring/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPXlsbGR2ZXR2MWgmdmVyc2lvbj00LjY3LjAmcHJvZHVjdD1mdXNpb24mY3VzdG9tb25saW5lPSZjdXN0b21vZmZsaW5lPSZjdXN0b21hd2F5PSZjdXN0b21iYWNrc2hvcnRseT0KMTIzMGM5OGE3ODEwYzFlNDRhMjRlOTA0YmMwZTRmYTMwMGQ3MzlhNw==";setTimeout("swiftscriptelemylldvetv1h.src=swifttagurlylldvetv1h;document.getElementById('swifttagcontainerylldvetv1h').appendChild(swiftscriptelemylldvetv1h);",1);</script><!-- END TAG CODE - DO NOT EDIT! -->
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+</html>

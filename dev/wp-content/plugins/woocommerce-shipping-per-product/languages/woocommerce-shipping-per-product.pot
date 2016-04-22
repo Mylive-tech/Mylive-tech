@@ -1,0 +1,284 @@
+# Copyright (C) 2015 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/woocommerce-shipping-per-"
+"product\n"
+"POT-Creation-Date: 2015-03-16 16:00:59+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/class-wc-shipping-per-product-admin.php:28
+msgid "No row selected"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-admin.php:29
+msgid "Product ID"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-admin.php:30
+#: includes/class-wc-shipping-per-product-admin.php:89
+msgid "Country code"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-admin.php:31
+#: includes/class-wc-shipping-per-product-admin.php:90
+msgid "State/county code"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-admin.php:32
+#: includes/class-wc-shipping-per-product-admin.php:91
+msgid "Zip/postal code"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-admin.php:33
+msgid "Cost"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-admin.php:34
+msgid "Item Cost"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-admin.php:48
+msgid "Per-product shipping"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-admin.php:48
+msgid "Enable per-product shipping cost"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-admin.php:59
+msgid "Per-variation shipping"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-admin.php:83
+msgid "Add costs to all rates"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-admin.php:83
+msgid "Add per-product shipping cost to all shipping method rates?"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-admin.php:89
+msgid "A 2 digit country code, e.g. US. Leave blank to apply to all."
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-admin.php:90
+msgid "A state code, e.g. AL. Leave blank to apply to all."
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-admin.php:91
+msgid ""
+"Postcode for this rule. Wildcards (*) can be used. Leave blank to apply to "
+"all areas."
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-admin.php:92
+msgid "Line Cost (ex. tax)"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-admin.php:92
+msgid "Decimal cost for the line as a whole."
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-admin.php:93
+msgid "Item Cost (ex. tax)"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-admin.php:93
+msgid "Decimal cost for the item (multiplied by qty)."
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-admin.php:99
+msgid "Insert row"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-admin.php:100
+msgid "Remove row"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-admin.php:102
+msgid "Export CSV"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-admin.php:103
+msgid "Import CSV"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-importer.php:98
+#: includes/class-wc-shipping-per-product-importer.php:147
+#: includes/class-wc-shipping-per-product-importer.php:186
+#: includes/class-wc-shipping-per-product-importer.php:201
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-importer.php:99
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-importer.php:148
+msgid "The CSV is invalid."
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-importer.php:159
+msgid ""
+"Import complete - imported <strong>%s</strong> shipping rates and skipped "
+"<strong>%s</strong>."
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-importer.php:169
+msgid "All done!"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-importer.php:220
+msgid "Import Per-product Shipping Rates"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-importer.php:243
+msgid ""
+"Hi there! Upload a CSV file containing per-product shipping rates to import "
+"the contents into your shop. Choose a .csv file to upload, then click "
+"\"Upload file and import\"."
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-importer.php:245
+msgid ""
+"Rates need to be defined with columns in a specific order (6 columns). "
+"Product ID, Country Code, State Code, Postcode, Cost, Item Cost"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-importer.php:253
+msgid ""
+"Before you can upload your import file, you will need to fix the following "
+"error:"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-importer.php:262
+msgid "Choose a file from your computer:"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-importer.php:268
+msgid "Maximum size: %s"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-importer.php:272
+msgid "Delimiter"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product-importer.php:278
+msgid "Upload file and import"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product.php:19
+msgid "Per-product"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product.php:20
+msgid ""
+"Per product shipping allows you to define different shipping costs for "
+"products, based on customer location. These costs can be added to other "
+"shipping methods, or used as a standalone shipping method."
+msgstr ""
+
+#: includes/class-wc-shipping-per-product.php:48
+#: includes/class-wc-shipping-per-product.php:54
+msgid "Standalone Method"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product.php:50
+#: includes/class-wc-shipping-per-product.php:56
+msgid "Enable per-product shipping as a standalone shipping method"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product.php:60
+msgid "Method Title"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product.php:62
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/class-wc-shipping-per-product.php:63
+msgid "Product Shipping"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product.php:66
+msgid "Tax Status"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product.php:71
+msgid "Taxable"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product.php:72
+msgid "None"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product.php:76
+msgid "Default product cost (per product)"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product.php:78
+msgid ""
+"Cost excluding tax for products without defined costs. Enter an amount, e.g. "
+"2.50."
+msgstr ""
+
+#: includes/class-wc-shipping-per-product.php:82
+msgid "Handling Fee (per product)"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product.php:84
+#: includes/class-wc-shipping-per-product.php:90
+msgid ""
+"Fee excluding tax. Enter an amount, e.g. 2.50, or a percentage, e.g. 5%. "
+"Leave blank to disable."
+msgstr ""
+
+#: includes/class-wc-shipping-per-product.php:88
+msgid "Handling Fee (per order)"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product.php:94
+msgid "Method availability"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product.php:99
+msgid "All allowed countries"
+msgstr ""
+
+#: includes/class-wc-shipping-per-product.php:100
+#: includes/class-wc-shipping-per-product.php:104
+msgid "Specific Countries"
+msgstr ""
+
+#: shipping-per-product.php:89
+msgid "View Documentation"
+msgstr ""
+
+#: shipping-per-product.php:89
+msgid "Docs"
+msgstr ""
+
+#: shipping-per-product.php:90
+msgid "Visit Premium Customer Support Forum"
+msgstr ""
+
+#: shipping-per-product.php:90
+msgid "Premium Support"
+msgstr ""
+
+#: shipping-per-product.php:102
+msgid "WooCommerce Per-product shipping rates (CSV)"
+msgstr ""
+
+#: shipping-per-product.php:102
+msgid ""
+"Import <strong>per-product shipping rates</strong> to your store via a csv "
+"file."
+msgstr ""

@@ -1,0 +1,1 @@
+[07-Mar-2016 12:51:00 CST6CDT] PHP Fatal error:  Call to undefined function get_header() in /home/mylivete/public_html/intranet/wp-content/themes/wp-knowledge-base/index.php on line 14

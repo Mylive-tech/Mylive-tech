@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget>
+	<zonetype>CENTRAL</zonetype>
+	<description>Generates Adsense for the central areas. Available Adsense types: Banner (468x60), Large Rectangle (336x280)</description>
+	<works_with>3.4</works_with>
+	<setting>
+		<name>TYPE</name>
+		<identifier>TYPE</identifier>
+		<value>Banner</value>
+		<allowed>Banner,Large Rectangle</allowed>
+		<info>Adsense format for central adsense.</info>
+	</setting>
+	<setting>
+		<name>PUBLISHER ID</name>
+		<identifier>PUBLISHER_ID</identifier>
+		<value></value>
+		<info>The publisher id of your google adsense account.</info>
+	</setting>
+	<setting>
+		<name>BORDER COLOR</name>
+		<identifier>BORDER_COLOR</identifier>
+		<value>000000</value>
+		<info>Fill in the color code, without the "#" sign.</info>
+	</setting>
+	<setting>
+		<name>TITLE COLOR</name>
+		<identifier>TITLE_COLOR</identifier>
+		<value>0000FF</value>
+		<info>Fill in the color code, without the "#" sign.</info>
+	</setting>
+	<setting>
+		<name>BACKGROUND COLOR</name>
+		<identifier>BACKGROUND_COLOR</identifier>
+		<value>FFFFFF</value>
+		<info>Fill in the color code, without the "#" sign.</info>
+	</setting>
+	<setting>
+		<name>TEXT COLOR</name>
+		<identifier>TEXT_COLOR</identifier>
+		<value>000000</value>
+		<info>Fill in the color code, without the "#" sign.</info>
+	</setting>
+	<setting>
+		<name>URL COLOR</name>
+		<identifier>URL_COLOR</identifier>
+		<value>008000</value>
+		<info>Fill in the color code, without the "#" sign.</info>
+	</setting>
+	<setting>
+		<name>EMBED</name>
+		<identifier>EMBED</identifier>
+		<value></value>
+		<info>Whatever Google Adsense code you paste here, will completely overwrite all the settings.</info>
+	</setting>
+	<author>Raluca Nicula</author>
+	<author_url>www.phplinkdirectory.com</author_url>
+	<version>1.0</version>
+</widget>

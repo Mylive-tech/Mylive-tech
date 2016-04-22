@@ -1,0 +1,1 @@
+$(document).ready(function(){$('nav.lt-float-accordionButton').click(function(){$('nav.lt-float-accordionContent').slideUp('normal');$(this).next().slideDown('normal');});$("nav.lt-float-accordionContent").hide();});

@@ -1,0 +1,75 @@
+/* -- Tabs Styling -- */
+.woocommerce-shop-as-user-wrap .cxsc-tabs { border: 0 none; margin: 0 10px -1px 0; }
+.woocommerce-shop-as-user-wrap .cxsc-tab { background-color: #F7F7F7; border: 1px solid; border-color: #DFDFDF; border-radius: 3px 3px 0 0; color: #AAAAAA; cursor: pointer; display: inline-block; float: left; font-size: 15px; line-height: 20px; outline: none !important; padding: 6px 15px; text-shadow: 0 1px 0 #FFFFFF; }
+.woocommerce-shop-as-user-wrap .cxsc-last-tab { float: right; font-size: 11px; margin: 8px 0 0; padding: 2px 12px; }
+.woocommerce-shop-as-user-wrap .cxsc-tab-selected { background-color: #FFFFFF !important; border-bottom: 1px solid #FFFFFF; color: #111111 !important; }
+
+/* -- Settings Block Styling -- */
+.woocommerce-shop-as-user-wrap .cxsc-settings-blocks { margin: 0 10px 0 0; min-height: 200px; /* width: 95%; */ float: left;}
+.woocommerce-shop-as-user-wrap .cxsc-settings-block { }
+.woocommerce-shop-as-user-wrap .cxsc-settings-inner-block { padding: 10px; }
+
+.woocommerce-shop-as-user-wrap .cxsc-settings-block fieldset { background: rgb(245, 236, 243); border: 1px solid rgba(0, 0, 0, 0.07); box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);}
+.woocommerce-shop-as-user-wrap .repeatable { box-shadow: 0 1px 0 rgba(0, 0, 0, 0.04); }
+.woocommerce-shop-as-user-wrap .field-group { border-bottom: 1px solid rgba(0, 0, 0, 0.07); padding: 14px 19px 7px; clear: both; background: white; position: relative;}
+.woocommerce-shop-as-user-wrap .field-group:last-child { border-bottom:0; }
+.woocommerce-shop-as-user-wrap .field-group label { position: absolute; font-size: 10px; text-transform: uppercase; top: 41%; line-height: 17px; background: rgb(148, 148, 148); border: aliceblue; text-align: center; padding: 0 7px; border-radius: 2px; color: white; text-shadow: 0 -1px rgba(0, 0, 0, 0.09); right: 100%; white-space: nowrap; margin-right: 0px; margin-top: -9px; display: none; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);}
+.woocommerce-shop-as-user-wrap .field-group label .marker { position: absolute; width: 5px; height: 11px; right: -5px; top: 50%; margin-top: -5px;}
+.woocommerce-shop-as-user-wrap .field-group label .marker-1 { display: block; width: 0; height: 0; border-top: 4px solid transparent; border-bottom: 4px solid transparent; border-left: 5px solid rgba(0, 0, 0, 0.31); position: absolute; margin-top: 1px; top: 1px; left: 0;}
+.woocommerce-shop-as-user-wrap .field-group label .marker-2 { display: block; width: 0; height: 0; border-top: 4px solid transparent; border-bottom: 4px solid transparent; border-left: 5px solid rgb(153, 153, 153); position: absolute; margin-top: 1px; top: 0; left: 0;}
+.woocommerce-shop-as-user-wrap .field-group-set .number-set { position: relative; white-space: nowrap;}
+
+.woocommerce-shop-as-user-wrap .field-group .action-buttons { display: none; font-weight: bold; font-size: 14px; color: rgb(255, 255, 255); border-radius: 40px; width: 16px; line-height: 16px; height: 16px; padding: 0; text-align: center; margin: 0; text-shadow: 0 1px rgba(0, 0, 0, 0.18); border: 0; box-shadow: 0 1px 0 rgba(0, 0, 0, 0.15) inset; outline: none; position: absolute; left: 100%; margin-left: -26px; top: 50%; margin-top: -8px; text-indent: -999px; overflow: hidden; cursor: pointer;}
+
+.woocommerce-shop-as-user-wrap .field-group .action-buttons:hover { background-color: rgb(111, 111, 111); box-shadow: 0 1px 0 rgba(0, 0, 0, 0.41) inset; }
+.woocommerce-shop-as-user-wrap .field-group:hover .action-buttons { display: block; }
+.woocommerce-shop-as-user-wrap .field-group-set { display: inline-block; padding: 0 15px 8px 0; position: relative; white-space: nowrap;}
+.woocommerce-shop-as-user-wrap .field-group-set:hover label { display: block; }
+.woocommerce-shop-as-user-wrap .form-group { padding: 12px 14px; }
+
+.woocommerce-shop-as-user-wrap #woocommerce-order-items .inside { margin: 0; padding: 0; background: #FEFEFE; }
+
+.woocommerce-shop-as-user-wrap { margin: 20px 15px 0 0;}
+.woocommerce-shop-as-user-wrap h2 { font-size: 23px !important; color: #464646; font-weight: normal;}
+.woocommerce-shop-as-user-wrap #poststuff { padding-top: 0; }
+
+.woocommerce-shop-as-user-wrap table.settings-table .header-row { border-bottom: 1px solid rgba(0, 0, 0, 0.04); }
+.woocommerce-shop-as-user-wrap table.settings-table .header-row .header-help { font-size: 8px; margin: 0 2px; position: relative; top: -1px; opacity: .5; cursor: pointer; color: rgb(44, 44, 44); text-decoration: none;}
+.woocommerce-shop-as-user-wrap table.settings-table .header-column { float: left; width: 180px; padding: 5px 20px; font-weight: bold; font-size: 11px;}
+.woocommerce-shop-as-user-wrap table.settings-table .header-column.header-column-1 {  }
+.woocommerce-shop-as-user-wrap table.settings-table .header-column.header-column-2 {}
+.woocommerce-shop-as-user-wrap table.settings-table .header-column.header-column-3 {}
+
+.woocommerce-shop-as-user-wrap .postbox { margin: 22px 0 28px; }
+.woocommerce-shop-as-user-wrap .postbox .handlediv { margin-top: 2px; margin-right: 3px; }
+.woocommerce-shop-as-user-wrap .hndle-more { font-size: 11px; font-family: sans-serif; color: rgb(143, 143, 143); padding: 0 4px; }
+.woocommerce-shop-as-user-wrap h3 { padding: 8px 16px 8px !important; line-height: 1.3em !important; font-size: 15px; }
+.woocommerce-shop-as-user-wrap table.settings-table { border: 0 none; background: #F9F9F9; width: 100%;}
+.woocommerce-shop-as-user-wrap table.settings-table tbody tr td { padding: 19px 15px; border-top: 1px solid #EEEEEE; border-bottom: 0 none; }
+.woocommerce-shop-as-user-wrap table.settings-table tbody tr td.label { width: 24%; vertical-align: top; border-top: 1px solid #1px solid #EEEEEE; padding-right: 7%;}
+.woocommerce-shop-as-user-wrap table.settings-table tbody tr td.label p { display:block; font-size: 12px;padding:0!important;margin:3px 0 0!important;font-style:normal;line-height:16px; color: #899194; }
+.woocommerce-shop-as-user-wrap table.settings-table tbody tr td.label label { display: block; font-weight: bold; padding: 0; margin: 0 0 8px; color: #333; font-size: 12px;}
+.woocommerce-shop-as-user-wrap table.settings-table > tbody > tr:first-child > td,
+.woocommerce-shop-as-user-wrap table.settings-table > tbody > tr:first-child > td.label { border-top: 0 none; }
+.woocommerce-shop-as-user-wrap table.settings-table .second-block { width: 60%; }
+.woocommerce-shop-as-user-wrap table.settings-table select,
+.woocommerce-shop-as-user-wrap table.settings-table input[type="text"],
+.woocommerce-shop-as-user-wrap table.settings-table textarea { padding: 7px 9px; font-size: 1.1em; height: auto; line-height: 1.5em; line-height: 1.3em; box-shadow: inset 0 1px 0 rgba(0, 0, 0, 0.02);}
+.woocommerce-shop-as-user-wrap table.settings-table input[readonly] { background-color: rgb(247, 247, 247); }
+.woocommerce-shop-as-user-wrap table.settings-table input.submit-button { line-height: 30px; height: 31px; padding: 0 10px; }
+.woocommerce-shop-as-user-wrap table.settings-table .tips { color: inherit; font-weight: normal;}
+.woocommerce-shop-as-user-wrap table.settings-table .sub-field { margin: 0 14px 14px 0;}
+.woocommerce-shop-as-user-wrap table.settings-table .sub-field label { margin: 0 0 0 7px; }
+.woocommerce-shop-as-user-wrap table.settings-table .sub-field label span { color: #899194; margin: 0 0 0 10px; font-size: 12px;}
+
+
+.woocommerce-shop-as-user-wrap table.settings-table .phrase-example-holder { padding: 17px 22px; border: 1px dashed rgba(0, 0, 0, 0.2); border-radius: 3px; margin: 7px 0 31px; font-size: 20px; box-shadow: 0 1px 9px rgba(0, 0, 0, 0.04); background: white; max-width: 655px; line-height: 1.4em; color: rgb(88, 88, 88); position: relative; }
+.woocommerce-shop-as-user-wrap table.settings-table .phrase-example-holder .phrase-example { font-size: 20px; color: rgb(88, 88, 88); }
+.woocommerce-shop-as-user-wrap table.settings-table .phrase-example-holder .phrase-example-none { font-size: 12px; color: rgb(136, 136, 136);}
+.woocommerce-shop-as-user-wrap table.settings-table .phrase-example-holder .phrase-example-filter { color: rgb(179, 122, 166); border-bottom: 1px dotted rgb(221, 179, 211);}
+.woocommerce-shop-as-user-wrap table.settings-table .phrase-example-holder .phrase-example-button { border-bottom: 1px dotted rgb(180, 172, 178); font-style: italic; }
+
+.woocommerce-shop-as-user-wrap table.settings-table .phrase-example-holder .help-tip { color: red; position: absolute; right: 0; display: none; font-size: 11px; color: black; width: 100%; text-align: center; color: grey; bottom: -29px;}
+.woocommerce-shop-as-user-wrap table.settings-table .phrase-example-holder:hover .help-tip { display: block; }
+
+.woocommerce-shop-as-user-wrap table.settings-table .ui-sortable-helper { box-shadow: 0 3px 11px rgba(0, 0, 0, 0.12); border-bottom: 1px solid lightGrey; }

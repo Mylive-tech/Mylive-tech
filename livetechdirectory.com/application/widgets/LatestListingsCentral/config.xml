@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget>
+	<zonetype>CENTRAL</zonetype>
+	<description>Generates a list of the most recently submitted links, with links to their detail pages, for the vertical areas of the template.</description>
+	<works_with>4.0</works_with>
+	<setting>
+		<name>TITLE</name>
+		<identifier>TITLE</identifier>
+		<value>Latest links</value>
+		<allowed></allowed>
+		<info>This title shows at top of the widget's generated content.</info>
+	</setting>
+	<setting>
+		<name>NUMBER OF LINKS</name>
+		<identifier>NO_OF_LINKS</identifier>
+		<value>5</value>
+		<allowed></allowed>
+		<info>Fill in how many of the latest links should be listed.</info>
+	</setting>
+	<setting>
+		<name>CACHE RESULTS</name>
+		<identifier>CACHE_RESULTS</identifier>
+		<value>Yes</value>
+		<allowed>Yes,No</allowed>
+		<info>"Yes" if you want the results to be cached, "No" if not.</info>
+	</setting>
+	<author>PhpLD</author>
+	<author_url>www.phplinkdirectory.com</author_url>
+	<version>1.0</version>
+</widget>

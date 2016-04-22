@@ -1,0 +1,801 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Doover\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-06 17:35+0100\n"
+"PO-Revision-Date: 2012-05-06 17:35+0100\n"
+"Last-Translator: Muffin group <muffingroup@gmail.com>\n"
+"Language-Team: Muffin group <muffingroup@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-Country: POLAND\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Bookmarks: -1,83,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-SearchPath-0: D:\\xampp\\htdocs\\doover_dev\\wp-content\\themes\\doover\n"
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/comments.php:9
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/comments.php:28
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/comments.php:29
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/comments.php:36
+msgid "Comments are closed."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/content-post.php:36
+msgid "Category:"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/content-post.php:43
+msgid "Comments:"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/content-post.php:74
+msgid "Tags"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/content-post.php:77
+msgid "Read more"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/footer.php:22
+msgid "All Rights Reserved. Powered by"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/footer.php:23
+msgid "Created by"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/footer.php:29
+msgid "Back to top"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/header.php:94
+msgid "RSS"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/header.php:97
+msgid "Sitemap"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/index.php:26
+msgid "&larr; Older Entries"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/index.php:27
+msgid "Newer Entries &rarr;"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/search.php:32
+msgid "See details"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/single.php:79
+msgid "Pages:"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/taxonomy-portfolio-types.php:32
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/template-portfolio.php:40
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/_template-portfolio.php:40
+msgid "Select category:"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/taxonomy-portfolio-types.php:45
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/template-portfolio.php:53
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/_template-portfolio.php:53
+msgid "All"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/taxonomy-portfolio-types.php:116
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/template-portfolio.php:133
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/_template-portfolio.php:120
+msgid "Not Found"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/taxonomy-portfolio-types.php:117
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/template-portfolio.php:134
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/_template-portfolio.php:121
+msgid "No portfolio items found."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/template-archives.php:26
+msgid "Available Pages"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/template-archives.php:33
+msgid "The 20 latest posts"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/template-archives.php:49
+msgid "Archives by Subject:"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/template-archives.php:65
+msgid "Archives by Month"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/template-contact.php:28
+msgid "Send us a question"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/template-contact.php:32
+msgid "contact form"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/template-contact.php:37
+msgid "Your name"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/template-contact.php:38
+msgid "Your e-mail"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/template-contact.php:40
+msgid "Send message"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/template-contact.php:102
+msgid "Thanks, your email was sent."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/template-contact.php:104
+msgid "Error sending email. Please try again later."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options-framework.php:169
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options-framework.php:370
+msgid "Theme Options"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options-framework.php:238
+msgid "Save Options"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options-framework.php:239
+msgid "Restore Defaults"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options-framework.php:239
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options-framework.php:271
+msgid "Default options restored."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options-framework.php:313
+msgid "Options saved."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options-medialibrary-uploader.php:26
+msgid "Options Framework Internal Container"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options-medialibrary-uploader.php:128
+msgid "Upload"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options-medialibrary-uploader.php:151
+msgid "View File"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options-medialibrary-uploader.php:288
+msgid "Gallery"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options-medialibrary-uploader.php:288
+msgid "Previously Uploaded"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:30
+msgid "General"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:33
+msgid "Custom Favicon"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:34
+msgid "Site favicon."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:39
+msgid "Contact E-mail"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:40
+msgid "Contact Form will appear only if this field will be filled correctly."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:45
+msgid "Google Maps Lat, Lng"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:46
+msgid "Google maps pointer position. You need to separate with comma, ex. \"-33.8710, 151.2039\". The map will appear only if this field is filled correctly."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:50
+msgid "Meta Description"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:56
+msgid "Meta Keywords"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:65
+msgid "Meta Robots"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:66
+msgid "Should the robots index your site or not? Maybe you don`t want to let robots follow all your pages/folders?"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:72
+msgid "Google Analytics"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:73
+msgid "Paste your Google Analytics code here."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:79
+msgid "Header"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:82
+msgid "Text Logo"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:83
+msgid "Use text instead of graphic logo."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:87
+msgid "Custom Text Logo"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:88
+msgid "Custom site text logo."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:94
+msgid "Custom Logo"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:95
+msgid "Custom site image logo."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:101
+msgid "Homepage style"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:102
+msgid "Homepage appearance. Choose the best for you."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:109
+msgid "Homepage image"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:116
+msgid "Homepage text"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:117
+msgid "Leave blank if you want very simple homepage."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:123
+msgid "Assign page for \"Get in touch\" button"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:124
+msgid "\"Get in touch\" button will apear only if this option is selected."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:130
+msgid "Facebook URL"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:131
+msgid "Your Facebook URL."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:135
+msgid "Google + URL"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:136
+msgid "Your Google Plus URL."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:140
+msgid "Twitter URL"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:141
+msgid "Your Twitter URL."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:145
+msgid "YouTube URL"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:146
+msgid "Your YouTube URL."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:150
+msgid "Vimeo URL"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:151
+msgid "Your Vimeo URL."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:155
+msgid "Assign page for \"Sitemap\""
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:156
+msgid "Sitemap button will appear only if this option is selected."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:162
+msgid "Call Us"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:163
+msgid "Contact number with optional country prefix - upper right corner."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:170
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-posttypes.php:95
+msgid "Portfolio"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:175
+msgid "List style"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:176
+msgid "Templates for portfolio items list."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:183
+msgid "Assign page for portfolio"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:184
+msgid "Choose the best page for portfolio."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:190
+msgid "Single item slug"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:191
+msgid "Link to single item. <b>Important</b>: Do not use characters not allowed in links. Must be different from the Portfolio site title chosen above, ex. \"portfolio-item\"."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:197
+msgid "Items per page"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:198
+msgid "Number of portfolio items per page."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:206
+msgid "Posts"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:209
+msgid "Posts per page"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:210
+msgid "Number of posts per page."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:219
+msgid "Posts meta"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:220
+msgid "Which meta should be displayed next to posts on the blog."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:228
+msgid "Styles"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:233
+msgid "Style"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:234
+msgid "Color scheme. Choose the best for you."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:241
+msgid "Custom header"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:242
+msgid "Use custom header image and/or colour."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:247
+msgid "Header background"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:248
+msgid "Change the background CSS."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:255
+msgid "Colours."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:256
+msgid "Content background colour."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:261
+msgid "Footer background colour."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:266
+msgid "Footer text colour."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:271
+msgid "Link colour."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:276
+msgid "Menu hoover background colour."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:283
+msgid "Typography"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:284
+msgid "Multiple fonts allows you to use all of those fonts in your page. (But don't go overboard; most pages don't need very many fonts, and requesting a lot of fonts may make your pages slow to load.)"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:287
+msgid "Text font."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:292
+msgid "Menu font."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:297
+msgid "Header H1 font. Page title."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:302
+msgid "Header H2 font."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:307
+msgid "Header H3 font."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:312
+msgid "Header H4 font."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:317
+msgid "Header H5 font."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:322
+msgid "Header H6 font."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:328
+msgid "Custom CSS code"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/admin/options.php:329
+msgid "Paste your custom CSS code here."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-functions.php:66
+msgid "Prev page"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-functions.php:83
+msgid "Next page"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-functions.php:127
+#, php-format
+msgid "View all posts filed under %s"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-functions.php:197
+msgid "Home"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-functions.php:201
+msgid "You are here:"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-functions.php:206
+msgid "Archive by category"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-menu.php:14
+msgid "Main menu"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-posttypes.php:19
+msgid "Slides"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-posttypes.php:20
+msgid "Slide"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-posttypes.php:21
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-posttypes.php:97
+msgid "Add New"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-posttypes.php:22
+msgid "Add New Slide"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-posttypes.php:23
+msgid "Edit Slide"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-posttypes.php:24
+msgid "New Slide"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-posttypes.php:25
+msgid "View Slide"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-posttypes.php:26
+msgid "Search Slides"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-posttypes.php:27
+msgid "No slides found"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-posttypes.php:28
+msgid "No slides found in Trash"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-posttypes.php:57
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-sliderfields.php:32
+msgid "Thumbnail"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-posttypes.php:59
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-posttypes.php:143
+msgid "Order"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-posttypes.php:96
+msgid "Portfolio item"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-posttypes.php:98
+msgid "Add New Portfolio item"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-posttypes.php:99
+msgid "Edit Portfolio item"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-posttypes.php:100
+msgid "New Portfolio item"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-posttypes.php:101
+msgid "View Portfolio item"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-posttypes.php:102
+msgid "Search Portfolio items"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-posttypes.php:103
+msgid "No portfolio items found"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-posttypes.php:104
+msgid "No portfolio items found in Trash"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-posttypes.php:125
+msgid "Portfolio categories"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-posttypes.php:126
+msgid "Portfolio category"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-posttypes.php:142
+msgid "Categories"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-sliderfields.php:19
+msgid "Slider fields"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-sliderfields.php:25
+msgid "Subtitle"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-sliderfields.php:26
+msgid "Part of the title that will be display using white font color"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-sliderfields.php:33
+msgid "Maximum size: 120px x 60px. If not set, resized futured image will be use"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-sliderfields.php:46
+msgid "Button text"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-sliderfields.php:51
+msgid "See our offer for details"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-sliderfields.php:54
+msgid "Button link"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/theme-sliderfields.php:55
+msgid "The button will apear only if this field is fill correct"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/widget-functions.php:39
+msgid "Blog"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/widget-functions.php:40
+msgid "Page"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/widget-functions.php:41
+msgid "Homepage"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/widget-functions.php:48
+msgid "sidebar"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/widget-functions.php:61
+msgid "Footer area"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/widget-menu.php:17
+msgid "Use this widget on pages to display aside menu with childrens or siblings of the current page"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/widget-menu.php:18
+msgid "Doover Menu"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/widget-menu.php:98
+msgid "Title:"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/widget-menu.php:104
+msgid "Use current page title"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/widget-menu.php:109
+msgid "Show page siblings"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/widget-menu.php:112
+msgid "Show page childrens"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/tinymce/popup.php:6
+msgid "You don't have permissions"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/tinymce/popup.php:13
+msgid "Shortcode Panel"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/tinymce/popup.php:30
+msgid "Shortcode"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/tinymce/popup.php:32
+msgid "select"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/tinymce/popup.php:33
+msgid "columns"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/tinymce/popup.php:38
+msgid "general"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/tinymce/popup.php:41
+msgid "pages"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/tinymce/popup.php:57
+msgid "Cancel"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/functions/tinymce/popup.php:61
+msgid "Insert"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/includes/header-404.php:2
+msgid "Ooops... Error 404"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/includes/header-404.php:3
+msgid "We're sorry, but the page you are looking for doesn't exist."
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/includes/header-404.php:4
+msgid "Please check entered address and try again"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/includes/header-404.php:4
+msgid "or"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/includes/header-404.php:4
+msgid "go to homepage"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/includes/header-slider-offer.php:73
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/includes/_header-slider-offer.php:55
+msgid "Our"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/includes/header-slider-offer.php:74
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/includes/_header-slider-offer.php:56
+msgid "offer:"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/includes/header-slider-offer.php:76
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/includes/_header-slider-offer.php:58
+msgid "Previous"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/includes/header-slider-offer.php:77
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/includes/_header-slider-offer.php:59
+msgid "Next"
+msgstr ""
+
+#: D:\xampp\htdocs\doover_dev\wp-content\themes\doover/includes/header-title.php:6
+msgid "Get in touch with us"
+msgstr ""
+

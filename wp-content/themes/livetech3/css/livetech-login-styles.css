@@ -1,0 +1,8 @@
+body.login {background: url(lt-new-bg.jpg) repeat top left !important }
+.login #nav a, .login #backtoblog a {color:white !important;text-shadow:#000 0px 1px 0px !important}
+.login form {box-shadow:0 4px 10px -1px rgba(0, 0, 0, 0.4) !important}
+.login h1 a {background-image:url(livetech-logo1.png) !important; background-size:300px 50px !important;width:auto !important}
+.login #nav a,.login #backtoblog a {font-family: 'Open Sans', sans-serif;color: #00667!important;font-size: 16px;text-decoration:none}
+.login #nav, .login #backtoblog {text-align:center;padding:16px auto}
+div.updated, .login .message {background-color: lightYellow;border-color: #E6DB55;font-family: 'Open Sans Condensed', sans-serif;font-size: 16px;font-weight: 300;
+}

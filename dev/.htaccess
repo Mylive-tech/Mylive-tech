@@ -1,0 +1,24 @@
+AddHandler application/x-httpd-php54 .php .php5 .php4 .php3
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+#:RewriteEngine on
+#RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?mylive-tech.com [NC]
+#RewriteRule \.(jpg|jpeg|png|gif)$ https://www.mylive-tech.com/bacbeta/wp-content/uploads/2012/12/about-us-moneyback-guarantee.jpg [NC,R,L]
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+
+deny from 77.67.87.168
+deny from 77.67.87.152

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget>
+	<zonetype>VERTICAL</zonetype>
+	<description>Generates Adsense for the vertical areas. Available Adsense types: Button (125x125),Skyscraper (120x600),Small Square (200x200),Wide Skyscraper (160x600)</description>
+	<works_with>3.4</works_with>
+	<setting>
+		<name>TYPE</name>
+		<identifier>TYPE</identifier>
+		<value>Button</value>
+		<allowed>Button,Skyscraper,Small Square,Wide Skyscraper</allowed>
+		<info>Adsense format for vertical adsense.</info>
+	</setting>
+	<setting>
+		<name>PUBLISHER ID</name>
+		<identifier>PUBLISHER_ID</identifier>
+		<value></value>
+		<info>The publisher id of your google adsense account.</info>
+	</setting>
+	<setting>
+		<name>BORDER COLOR</name>
+		<identifier>BORDER_COLOR</identifier>
+		<value>000000</value>
+		<info>Fill in the color code, without the "#" sign.</info>
+	</setting>
+	<setting>
+		<name>TITLE COLOR</name>
+		<identifier>TITLE_COLOR</identifier>
+		<value>0000FF</value>
+		<info>Fill in the color code, without the "#" sign.</info>
+	</setting>
+	<setting>
+		<name>BACKGROUND COLOR</name>
+		<identifier>BACKGROUND_COLOR</identifier>
+		<value>FFFFFF</value>
+		<info>Fill in the color code, without the "#" sign.</info>
+	</setting>
+	<setting>
+		<name>TEXT COLOR</name>
+		<identifier>TEXT_COLOR</identifier>
+		<value>000000</value>
+		<info>Fill in the color code, without the "#" sign.</info>
+	</setting>
+	<setting>
+		<name>URL COLOR</name>
+		<identifier>URL_COLOR</identifier>
+		<value>008000</value>
+		<info>Fill in the color code, without the "#" sign.</info>
+	</setting>
+	<setting>
+		<name>EMBED</name>
+		<identifier>EMBED</identifier>
+		<value></value>
+		<info>Whatever Google Adsense code you paste here, will completely overwrite all the settings.</info>
+	</setting>
+	<author>PhpLD</author>
+	<author_url>www.phplinkdirectory.com</author_url>
+	<version>1.0</version>
+</widget>

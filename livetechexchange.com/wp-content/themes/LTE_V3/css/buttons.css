@@ -1,0 +1,399 @@
+/*
+ * 1.  Small buttons
+ * 2.  Medium buttons
+ * 3.  Big buttons
+ * 4.  Gray
+ * 5.  Green
+ * 6.  Red
+ * 7.  Orange
+ * 8.  Light blue
+ * 9.  Dark blue
+ * 10. Select
+ * 11. Call to action
+ */
+
+/* Small */
+a.button-small { 
+	background: url(../images/buttons/sprite_buttons.png) no-repeat;
+    display: inline-block;
+    height: 30px;
+    padding-right: 25px;
+    text-decoration: none;
+}
+
+a.button-small span {
+	background: url(../images/buttons/sprite_buttons_span.png) no-repeat;
+    display: inline-block;
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    padding-left: 25px;
+	line-height: 30px;
+	height: 30px;
+	font-weight: bold;
+	float: left;
+	cursor: pointer;
+}
+
+/* Medium */
+a.button-medium { 
+	background: url(../images/buttons/sprite_buttons.png) no-repeat;
+    display: inline-block;
+    height: 40px;
+    padding-right: 25px;
+    text-decoration: none;
+}
+
+a.button-medium span {
+	background: url(../images/buttons/sprite_buttons_span.png) no-repeat;
+    display: inline-block;
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    padding-left: 25px;
+	line-height: 40px;
+	height: 40px;
+	font-weight: bold;
+	float: left;
+	cursor: pointer;
+}
+
+/* Big */
+a.button-big { 
+	background: url(../images/buttons/sprite_buttons.png) no-repeat;
+    display: inline-block;
+    height: 45px;
+    padding-right: 25px;
+    text-decoration: none;
+}
+
+a.button-big span {
+	background: url(../images/buttons/sprite_buttons_span.png) no-repeat;
+    display: inline-block;
+    font-size: 14px;
+    padding-left: 25px;
+	line-height: 45px;
+	height: 45px;
+	font-weight: bold;
+	float: left;
+	cursor: pointer;
+}
+
+/******************* Gray ******************/
+
+	/* Gray small */
+	a.button-small-gray { 
+		background-position: right 0;
+	}
+	a.button-small-gray span { 
+	    background-position: 0 0; color: #414a58; text-shadow: 1px 1px 0 #e2e8f0;
+	}
+	a.button-small-gray:hover, a.button-small-gray:active { 
+		background-position: right -30px; outline: none; 
+	}
+	a.button-small-gray:hover span, a.button-small-gray:active span { 
+		background-position: 0 -30px; color: #18263a; text-shadow: 1px 1px 0 #e2e8f0; 
+	}
+	
+	/* Gray medium */
+	a.button-medium-gray { 
+		background-position: right -60px;
+	}
+	a.button-medium-gray span { 
+	    background-position: 0 -60px; color: #414a58; text-shadow: 1px 1px 0 #e2e8f0;
+	}
+	a.button-medium-gray:hover, a.button-medium-gray:active { 
+		background-position: right -100px; outline: none; 
+	}
+	a.button-medium-gray:hover span, a.button-medium-gray:active span { 
+		background-position: 0 -100px; color: #18263a; text-shadow: 1px 1px 0 #e2e8f0; 
+	}
+	
+	/* Gray big */
+	a.button-big-gray { 
+		background-position: right -140px;
+	}
+	a.button-big-gray span { 
+	    background-position: 0 -140px; color: #414a58; text-shadow: 1px 1px 0 #e2e8f0;
+	}
+	a.button-big-gray:hover, a.button-big-gray:active { 
+		background-position: right -185px; outline: none; 
+	}
+	a.button-big-gray:hover span, a.button-big-gray:active span { 
+		background-position: 0 -185px; color: #18263a; text-shadow: 1px 1px 0 #e2e8f0; 
+	}
+
+/******************* Green ******************/
+
+	/* Green small */
+	a.button-small-green { 
+		background-position: right -230px;
+	}
+	a.button-small-green span { 
+	    background-position: 0 -230px; color: #485d22; text-shadow: 1px 1px 0 #d6eda5;
+	}
+	a.button-small-green:hover, a.button-small-green:active { 
+		background-position: right -260px; outline: none; 
+	}
+	a.button-small-green:hover span, a.button-small-green:active span { 
+		background-position: 0 -260px; color: #303f14; text-shadow: 1px 1px 0 #c2e778; 
+	}
+	
+	/* Green medium */
+	a.button-medium-green { 
+		background-position: right -290px;
+	}
+	a.button-medium-green span { 
+	    background-position: 0 -290px; color: #485d22; text-shadow: 1px 1px 0 #d6eda5;
+	}
+	a.button-medium-green:hover, a.button-medium-green:active { 
+		background-position: right -330px; outline: none; 
+	}
+	a.button-medium-green:hover span, a.button-medium-green:active span { 
+		background-position: 0 -330px; color: #303f14; text-shadow: 1px 1px 0 #c2e778; 
+	}
+	
+	/* Green big */
+	a.button-big-green { 
+		background-position: right -370px;
+	}
+	a.button-big-green span { 
+	    background-position: 0 -370px; color: #485d22; text-shadow: 1px 1px 0 #d6eda5;
+	}
+	a.button-big-green:hover, a.button-big-green:active { 
+		background-position: right -415px; outline: none; 
+	}
+	a.button-big-green:hover span, a.button-big-green:active span { 
+		background-position: 0 -415px; color: #303f14; text-shadow: 1px 1px 0 #c2e778; 
+	}
+
+/******************* Red ******************/
+
+	/* Red small */
+	a.button-small-red { 
+		background-position: right -460px;
+	}
+	a.button-small-red span { 
+	    background-position: 0 -460px; color: #460907; text-shadow: 1px 1px 0 #fa6b67;
+	}
+	a.button-small-red:hover, a.button-small-red:active { 
+		background-position: right -490px; outline: none; 
+	}
+	a.button-small-red:hover span, a.button-small-red:active span { 
+		background-position: 0 -490px; color: #460907; text-shadow: 1px 1px 0 #fa6b67; 
+	}
+	
+	/* Red medium */
+	a.button-medium-red { 
+		background-position: right -520px;
+	}
+	a.button-medium-red span { 
+	    background-position: 0 -520px; color: #460907; text-shadow: 1px 1px 0 #fa6b67;
+	}
+	a.button-medium-red:hover, a.button-medium-red:active { 
+		background-position: right -560px; outline: none; 
+	}
+	a.button-medium-red:hover span, a.button-medium-red:active span { 
+		background-position: 0 -560px; color: #460907; text-shadow: 1px 1px 0 #fa6b67; 
+	}
+	
+	/* Red big */
+	a.button-big-red { 
+		background-position: right -600px;
+	}
+	a.button-big-red span { 
+	    background-position: 0 -600px; color: #460907; text-shadow: 1px 1px 0 #fa6b67;
+	}
+	a.button-big-red:hover, a.button-big-red:active { 
+		background-position: right -645px; outline: none; 
+	}
+	a.button-big-red:hover span, a.button-big-red:active span { 
+		background-position: 0 -645px; color: #460907; text-shadow: 1px 1px 0 #fa6b67; 
+	}
+
+/******************* Orange ******************/
+
+	/* Orange small */
+	a.button-small-orange { 
+		background-position: right -690px;
+	}
+	a.button-small-orange span { 
+	    background-position: 0 -690px; color: #3f1903; text-shadow: 1px 1px 0 #ffdcb6;
+	}
+	a.button-small-orange:hover, a.button-small-orange:active { 
+		background-position: right -720px; outline: none; 
+	}
+	a.button-small-orange:hover span, a.button-small-orange:active span { 
+		background-position: 0 -720px; color: #301302; text-shadow: 1px 1px 0 #ffc88d; 
+	}
+	
+	/* Orange medium */
+	a.button-medium-orange { 
+		background-position: right -750px;
+	}
+	a.button-medium-orange span { 
+	    background-position: 0 -750px; color: #3f1903; text-shadow: 1px 1px 0 #ffdcb6;
+	}
+	a.button-medium-orange:hover, a.button-medium-orange:active { 
+		background-position: right -790px; outline: none; 
+	}
+	a.button-medium-orange:hover span, a.button-medium-orange:active span { 
+		background-position: 0 -790px; color: #301302; text-shadow: 1px 1px 0 #ffc88d; 
+	}
+	
+	/* Orange big */
+	a.button-big-orange { 
+		background-position: right -830px;
+	}
+	a.button-big-orange span { 
+	    background-position: 0 -830px; color: #3f1903; text-shadow: 1px 1px 0 #ffdcb6;
+	}
+	a.button-big-orange:hover, a.button-big-orange:active { 
+		background-position: right -875px; outline: none; 
+	}
+	a.button-big-orange:hover span, a.button-big-orange:active span { 
+		background-position: 0 -875px; color: #301302; text-shadow: 1px 1px 0 #ffc88d; 
+	}
+
+/******************* Light blue ******************/
+
+	/* Light blue small */
+	a.button-small-lightblue { 
+		background-position: right -920px;
+	}
+	a.button-small-lightblue span { 
+	    background-position: 0 -920px; color: #0a2f41; text-shadow: 1px 1px 0 #73c5f8;
+	}
+	a.button-small-lightblue:hover, a.button-small-lightblue:active { 
+		background-position: right -950px; outline: none; 
+	}
+	a.button-small-lightblue:hover span, a.button-small-lightblue:active span { 
+		background-position: 0 -950px; color: #042636; text-shadow: 1px 1px 0 #55ade1; 
+	}
+	
+	/* Light blue medium */
+	a.button-medium-lightblue { 
+		background-position: right -980px;
+	}
+	a.button-medium-lightblue span { 
+	    background-position: 0 -980px; color: #0a2f41; text-shadow: 1px 1px 0 #73c5f8;
+	}
+	a.button-medium-lightblue:hover, a.button-medium-lightblue:active { 
+		background-position: right -1020px; outline: none; 
+	}
+	a.button-medium-lightblue:hover span, a.button-medium-lightblue:active span { 
+		background-position: 0 -1020px; color: #042636; text-shadow: 1px 1px 0 #55ade1; 
+	}
+	
+	/* Light blue big */
+	a.button-big-lightblue { 
+		background-position: right -1060px;
+	}
+	a.button-big-lightblue span { 
+	    background-position: 0 -1060px; color: #0a2f41; text-shadow: 1px 1px 0 #73c5f8;
+	}
+	a.button-big-lightblue:hover, a.button-big-lightblue:active { 
+		background-position: right -1105px; outline: none; 
+	}
+	a.button-big-lightblue:hover span, a.button-big-lightblue:active span { 
+		background-position: 0 -1105px; color: #042636; text-shadow: 1px 1px 0 #55ade1; 
+	}
+
+/******************* Dark blue ******************/
+
+	/* Dark blue small */
+	a.button-small-darkblue { 
+		background-position: right -1150px;
+	}
+	a.button-small-darkblue span { 
+	    background-position: 0 -1150px; color: #fff; text-shadow: 1px 1px 0 #162e4d;
+	}
+	a.button-small-darkblue:hover, a.button-small-darkblue:active { 
+		background-position: right -1180px; outline: none; 
+	}
+	a.button-small-darkblue:hover span, a.button-small-darkblue:active span { 
+		background-position: 0 -1180px; color: #fff; text-shadow: 1px 1px 0 #162e4d; 
+	}
+	
+	/* Dark blue medium */
+	a.button-medium-darkblue { 
+		background-position: right -1210px;
+	}
+	a.button-medium-darkblue span { 
+	    background-position: 0 -1210px; color: #fff; text-shadow: 1px 1px 0 #162e4d;
+	}
+	a.button-medium-darkblue:hover, a.button-medium-darkblue:active { 
+		background-position: right -1250px; outline: none; 
+	}
+	a.button-medium-darkblue:hover span, a.button-medium-darkblue:active span { 
+		background-position: 0 -1250px; color: #fff; text-shadow: 1px 1px 0 #162e4d; 
+	}
+	
+	/* Dark blue big */
+	a.button-big-darkblue { 
+		background-position: right -1290px;
+	}
+	a.button-big-darkblue span { 
+	    background-position: 0 -1290px; color: #fff; text-shadow: 1px 1px 0 #162e4d;
+	}
+	a.button-big-darkblue:hover, a.button-big-darkblue:active { 
+		background-position: right -1335px; outline: none; 
+	}
+	a.button-big-darkblue:hover span, a.button-big-darkblue:active span { 
+		background-position: 0 -1335px; color: #fff; text-shadow: 1px 1px 0 #162e4d; 
+	}
+	
+/******************* Select ******************/
+
+	/* Gray small */
+	a.button-small-select { 
+		background-position: right -1380px;
+	}
+	a.button-small-select span { 
+	    background-position: 0 -1380px; color: #525252; text-shadow: 1px 1px 0 #fff;
+	}
+	a.button-small-select:hover, a.button-small-select:active, a.button-small-select-active { 
+		background-position: right -1410px; outline: none; 
+	}
+	a.button-small-select:hover span, a.button-small-select:active span, a.button-small-select-active span { 
+		background-position: 0 -1410px; color: #fff; text-shadow: 1px 1px 0 #0d0d0d; 
+	}
+
+/******************* Call to action ******************/
+
+a.call_to_action {
+	position: absolute;
+	z-index: 101;
+	right: 0;
+	top: 50px;
+    display: inline-block;
+    float: left;
+    height: 40px;
+    padding-right: 25px;
+    text-decoration: none;
+}
+
+a.call_to_action span { 
+    display: inline-block;
+    font-size: 14px;
+    color: #fff;
+	text-shadow: 1px 1px 0 #02458f;
+    padding-left: 25px;
+	line-height: 40px;
+	height: 40px;
+	font-weight: bold;
+	float: left;
+	cursor: pointer;
+}
+
+a.call_to_action:hover, a.call_to_action:active { 
+	background-position: bottom right; outline: none; 
+}
+
+a.call_to_action:hover span, a.call_to_action:active span { 
+	background-position: bottom left; color: #fff; text-shadow: 1px 1px 0 #092646; 
+}
+
+/* Call to action - contact */
+a.call_to_action_contact {
+	background: transparent url(../images/buttons/button_calltoaction_contact.png) no-repeat top right;
+	padding-right: 75px;
+}

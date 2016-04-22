@@ -1,0 +1,27 @@
+/*
+Theme Name: 	3clicks Theme Child
+Theme URI: 		http://3clicks.bringthepixel.com
+Description: 	Got questions? Visit our <a href="http://bringthepixel.com/support/">support forum</a>.
+License: 		Located in the 'Licensing' folder
+License URI: 	Located in the 'Licensing' folder
+Author: 		Max Sweet
+Author URI: 	http://www.timestampstudios.com/
+Template:		3clicks
+Version: 		3.0.1
+Tags:           flexible-width, custom-colors, custom-menu, featured-images, post-formats, theme-options, threaded-comments, translation-ready
+ Text Domain:	3clicks-child
+*/
+
+.g1-preheader-layout-wide-narrow #g1-preheader .g1-layout-inner,
+.g1-header-layout-wide-narrow #g1-header .g1-layout-inner,
+.g1-precontent-layout-wide-narrow #g1-precontent .g1-layout-inner,
+.g1-content-layout-wide-narrow #g1-content .g1-layout-inner,
+.g1-prefooter-layout-wide-narrow #g1-prefooter .g1-layout-inner,
+.g1-footer-layout-wide-narrow #g1-footer .g1-layout-inner {
+    max-width: 94.53125%;
+    width: 94.53125%;
+}
+
+#secondary .widget {
+    margin-bottom: 0em;
+}

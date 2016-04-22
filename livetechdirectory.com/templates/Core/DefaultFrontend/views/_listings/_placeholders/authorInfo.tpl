@@ -1,0 +1,1 @@
+{if !empty($LINK.NAME) && $smarty.const.ALLOW_AUTHOR_INFO}<div style="clear: both;">{l}Author{/l}: <b>{$LINK.NAME|trim}</b></div>{/if}

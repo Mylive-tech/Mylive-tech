@@ -1,0 +1,95 @@
+.mymail-badge{
+	position: absolute;
+	top: 0;
+	right: 0;
+	font-size: 14px;
+	text-align: center;
+	font-weight: 600;
+	margin: 5px 0 0;
+	padding-top: 120px;
+	height: 40px;
+	display: inline-block;
+	width: 150px;
+	text-rendering: optimizeLegibility;
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,.2);
+	box-shadow: 0 1px 3px rgba(0,0,0,.2);
+	background: #2BB3E7 url(../img/logo.png) no-repeat 50% 34%;
+	background-size: 50%;
+	color:#fff;
+}
+.about-wrap .update-nag{
+	display: block;
+	margin-right: 0;
+}
+.nav-tab-wrapper div a{
+	font-size: 14px;
+}
+.feature-section div, .changelog{
+	padding-top: 20px;
+}
+.feature-section img, .feature-section video{
+	max-width: 100%;
+}
+.feature-section .media-container{
+    height: 315px;
+}
+.changelog h3{
+	clear: both;
+}
+.feature-postponed{
+	font-size:12px;
+	padding:3px 6px;
+	border-radius:3px;
+	margin-top:-20px;
+	position: absolute;
+}
+.about-wrap .feature-section.three-col div {
+    width: 30%;
+    margin-right: 4.9999999%;
+    float: left;
+}
+.about-wrap .two-col .col:nth-of-type(2n), .about-wrap .three-col .col:nth-of-type(3n) {
+    margin-right: 0;
+}
+
+.license{
+	border: 1px solid #DEDEDB;
+    background-color: #fff;
+    padding: 20px 30px 30px;
+    margin: 20px 0 0;
+    -webkit-transition: border-color .25s ease-in-out, background-color .25s ease-in-out;
+    -moz-transition: border-color .25s ease-in-out, background-color .25s ease-in-out;
+    -ms-transition: border-color .25s ease-in-out, background-color .25s ease-in-out;
+    -o-transition: border-color .25s ease-in-out, background-color .25s ease-in-out;
+    transition: border-color .25s ease-in-out, background-color .25s ease-in-out;
+}
+.license:hover {
+    background-color: #fff;
+    border-color: #5b9dd9;
+    -webkit-box-shadow: 0 0 2px rgba( 30, 140, 190, 0.8 );
+    box-shadow: 0 0 2px rgba( 30, 140, 190, 0.8 );
+}
+.license * {
+	text-align: center;
+}
+.license form {
+	overflow: hidden;
+    position: relative;
+    height: 50px;
+    padding: 5px 40px;
+}
+.license form input{
+	font-size: 18px !important;
+	padding: 5px !important;
+	height: 40px !important;
+	width: 70%;
+}
+.license form input.purchasecode{
+	font-family: monospace;
+}
+.license form input.button{
+	width: 28%;
+}
+iframe[id*="twitter-widget-"] {
+    display: inline;
+}

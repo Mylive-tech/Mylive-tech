@@ -1,0 +1,185 @@
+table.wp-list-table{}
+
+table tr.type-newsletter.loading{
+	opacity: 0.5;
+}
+table tr th.manage-column{
+	white-space: nowrap;
+}
+
+.nonessential{
+	padding: 0;
+	cursor:help;
+}
+.campaign-progress{
+	width:92%;
+	height:20px;
+	background: #efefef;
+	overflow:hidden;
+	font-size:10px;
+	position:relative;
+	text-align: right;
+	line-height: 20px;
+}
+.branch-3-3 .campaign-progress,.branch-3-4 .campaign-progress,.branch-3-5 .campaign-progress,.branch-3-6 .campaign-progress,.branch-3-7 .campaign-progress{
+	border:1px solid;
+	border-radius:3px;
+	border-color:#cecece;
+	background: #f9f9f9;
+	background: -moz-linear-gradient(top, #f9f9f9 0%, #ececec 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f9f9f9), color-stop(100%,#ececec));
+	background: -webkit-linear-gradient(top, #f9f9f9 0%,#ececec 100%);
+	background: -o-linear-gradient(top, #f9f9f9 0%,#ececec 100%);
+	background: -ms-linear-gradient(top, #f9f9f9 0%,#ececec 100%);
+	background: linear-gradient(top, #f9f9f9 0%,#ececec 100%);
+	text-shadow:1px 1px 0 rgba(255,255,255,0.6);
+}
+.campaign-progress var{
+	padding-right: 2px;
+	font-style: normal;
+	visibility: hidden;
+	position: relative;
+	z-index: 2;
+}
+.campaign-progress:hover var{
+	visibility: visible;
+}
+.campaign-progress span{
+	display:block;
+	max-width:100%;
+	position:absolute;
+	line-height:1.6em;
+	padding:2px 0;
+	top:0;
+	bottom:0;
+	white-space:nowrap;
+}
+.campaign-progress span.bar{
+	-webkit-transition:width 1.25s ease;
+	-moz-transition:width 1.25s ease;
+	-ms-transition:width 1.25s ease;
+	-o-transition:width 1.25s ease;
+	transition:width 1.25s ease;
+	overflow:visible;
+}
+.timezonebased{
+	vertical-align: top;
+	font-size: 8px;
+	font-weight: 700;
+	line-height: 1em;
+	cursor:help;
+}
+.branch-3-3 .campaign-progress span.bar,.branch-3-4 .campaign-progress span.bar,.branch-3-5 .campaign-progress span.bar,.branch-3-6 .campaign-progress span.bar,.branch-3-7 .campaign-progress span.bar{
+	border-radius:2px;
+}
+table.wp-list-table tr.status-active div.campaign-progress span.bar{
+	text-shadow:none;
+	background: url(../img/progress.gif);
+}
+table.wp-list-table tr.status-paused div.campaign-progress span.bar{
+	background: #e3eaed;
+	opacity:0.8;
+}
+.branch-3-3 tr.status-paused div.campaign-progress span.bar,.branch-3-4 tr.status-paused div.campaign-progress span.bar,.branch-3-5 tr.status-paused div.campaign-progress span.bar,.branch-3-6 tr.status-paused div.campaign-progress span.bar,.branch-3-7 tr.status-paused div.campaign-progress span.bar{
+	background: #e3eaed;
+	background: -moz-linear-gradient(top,  #e3eaed 0%, #c8d7dc 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e3eaed), color-stop(100%,#c8d7dc));
+	background: -webkit-linear-gradient(top,  #e3eaed 0%,#c8d7dc 100%);
+	background: -o-linear-gradient(top,  #e3eaed 0%,#c8d7dc 100%);
+	background: -ms-linear-gradient(top,  #e3eaed 0%,#c8d7dc 100%);
+	background: linear-gradient(top,  #e3eaed 0%,#c8d7dc 100%);
+}
+table.wp-list-table tr.status-finished td, table.wp-list-table tr.status-finished th{
+}
+table.wp-list-table tr.status-finished:hover td, table.wp-list-table tr.status-finished:hover th{
+}
+table.wp-list-table tr .column-total, table.wp-list-table tr .column-open, table.wp-list-table tr .column-click, table.wp-list-table tr .column-unsubs, table.wp-list-table tr .column-bounces{
+	width:10%;
+	min-width:200px;
+	text-align:right;
+}
+table.wp-list-table tr .column-status{
+	width:20%;
+	min-width:200px;
+}
+table.wp-list-table tr .column-total a, table.wp-list-table tr .column-open a, table.wp-list-table tr .column-click a, table.wp-list-table tr .column-unsubs a, table.wp-list-table tr .column-bounces a{
+	text-overflow:ellipsis;
+	text-align:right;
+}
+.mymail-icon{
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+	background-repeat: no-repeat;
+}
+
+.aautoresponder-active, .aautoresponder-inactive{
+	line-height: 1.4em !important;
+}
+.autoresponder-inactive{
+	color: #aaa;
+	font-style: italic;
+}
+.branch-3-3 .mymail-icon,.branch-3-4 .mymail-icon,.branch-3-5 .mymail-icon,.branch-3-6 .mymail-icon,.branch-3-7 .mymail-icon{
+	background-position: center center;
+}
+.branch-3-3 .mymail-icon.progressing,.branch-3-4 .mymail-icon.progressing,.branch-3-5 .mymail-icon.progressing,.branch-3-6 .mymail-icon.progressing,.branch-3-7 .mymail-icon.progressing{background-image: url(../img/icons/progressing.png);}
+.branch-3-3 .mymail-icon.draft,.branch-3-4 .mymail-icon.draft,.branch-3-5 .mymail-icon.draft,.branch-3-6 .mymail-icon.draft,.branch-3-7 .mymail-icon.draft{background-image: url(../img/icons/draft.png);}
+.branch-3-3 .mymail-icon.queued,.branch-3-4 .mymail-icon.queued,.branch-3-5 .mymail-icon.queued,.branch-3-6 .mymail-icon.queued,.branch-3-7 .mymail-icon.queued{background-image: url(../img/icons/queued.png);}
+.branch-3-3 .mymail-icon.no-receiver,.branch-3-4 .mymail-icon.no-receiver,.branch-3-5 .mymail-icon.no-receiver,.branch-3-6 .mymail-icon.no-receiver,.branch-3-7 .mymail-icon.no-receiver{background-image: url(../img/icons/no-receiver.png);}
+.branch-3-3 .mymail-icon.paused,.branch-3-4 .mymail-icon.paused,.branch-3-5 .mymail-icon.paused,.branch-3-6 .mymail-icon.paused,.branch-3-7 .mymail-icon.paused{background-image: url(../img/icons/paused.png);}
+.branch-3-3 .mymail-icon.finished,.branch-3-4 .mymail-icon.finished,.branch-3-5 .mymail-icon.finished,.branch-3-6 .mymail-icon.finished,.branch-3-7 .mymail-icon.finished{background-image: url(../img/icons/finished.png);}
+.branch-3-3 .mymail-icon.active,.branch-3-4 .mymail-icon.active,.branch-3-5 .mymail-icon.active,.branch-3-6 .mymail-icon.active,.branch-3-7 .mymail-icon.active{background-image: url(../img/icons/green.png);}
+.branch-3-3 .mymail-icon.inactive,.branch-3-4 .mymail-icon.inactive,.branch-3-5 .mymail-icon.inactive,.branch-3-6 .mymail-icon.inactive,.branch-3-7 .mymail-icon.inactive{background-image: url(../img/icons/red.png);}
+.branch-3-3 .mymail-icon.warning,.branch-3-4 .mymail-icon.warning,.branch-3-5 .mymail-icon.warning,.branch-3-6 .mymail-icon.warning,.branch-3-7 .mymail-icon.warning{background-image: url(../img/icons/warning.png);}
+
+.mymail-icon{
+	background-position: 999px 999px;
+	font-size:120%;
+	text-indent: -2px;
+	padding:0px;
+}
+.branch-3-3 .mymail-icon,.branch-3-4 .mymail-icon,.branch-3-5 .mymail-icon,.branch-3-6 .mymail-icon,.branch-3-7 .mymail-icon{
+	background-position: center center;
+}
+.mymail-icon:before{}
+.mymail-icon.draft:before{content: '\e80c';}
+.mymail-icon.paused:before{content: '\e803';}
+.mymail-icon.no-receiver:before{content: '\e81c';}
+.mymail-icon.progressing:before{content: '\e80f';}
+.mymail-icon.finished:before{content: '\e804'; color:#3AB61B}
+.mymail-icon.queued:before{content: '\e801';}
+.mymail-icon.active:before{content: '\e81d'; color:#3AB61B}
+.mymail-icon.inactive:before{content: '\e81d'; color:#D54E21}
+.mymail-icon.warning:before{content: '\e812';}
+.mymail-icon.warning:before{content: '\e812';}
+
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+	only screen and (-o-min-device-pixel-ratio: 3/2),
+	only screen and (min--moz-device-pixel-ratio: 1.5),
+	only screen and (min-device-pixel-ratio: 1.5) {
+	
+		.mymail-icon{
+			-webkit-background-size:16px 16px;
+			-moz-background-size:16px 16px;
+			background-size:16px 16px;
+		}
+		.branch-3-3 .mymail-icon.progressing,.branch-3-4 .mymail-icon.progressing,.branch-3-5 .mymail-icon.progressing,.branch-3-6 .mymail-icon.progressing,.branch-3-7 .mymail-icon.progressing{background-image: url(../img/icons/progressing_2x.png);}
+		.branch-3-3 .mymail-icon.draft,.branch-3-4 .mymail-icon.draft,.branch-3-5 .mymail-icon.draft,.branch-3-6 .mymail-icon.draft,.branch-3-7 .mymail-icon.draft{background-image: url(../img/icons/draft_2x.png);}
+		.branch-3-3 .mymail-icon.queued,.branch-3-4 .mymail-icon.queued,.branch-3-5 .mymail-icon.queued,.branch-3-6 .mymail-icon.queued,.branch-3-7 .mymail-icon.queued{background-image: url(../img/icons/queued_2x.png);}
+		.branch-3-3 .mymail-icon.no-receiver,.branch-3-4 .mymail-icon.no-receiver,.branch-3-5 .mymail-icon.no-receiver,.branch-3-6 .mymail-icon.no-receiver,.branch-3-7 .mymail-icon.no-receiver{background-image: url(../img/icons/no-receiver_2x.png);}
+		.branch-3-3 .mymail-icon.paused,.branch-3-4 .mymail-icon.paused,.branch-3-5 .mymail-icon.paused,.branch-3-6 .mymail-icon.paused,.branch-3-7 .mymail-icon.paused{background-image: url(../img/icons/paused_2x.png);}
+		.branch-3-3 .mymail-icon.finished,.branch-3-4 .mymail-icon.finished,.branch-3-5 .mymail-icon.finished,.branch-3-6 .mymail-icon.finished,.branch-3-7 .mymail-icon.finished{background-image: url(../img/icons/finished_2x.png);}
+		.branch-3-3 .mymail-icon.active,.branch-3-4 .mymail-icon.active,.branch-3-5 .mymail-icon.active,.branch-3-6 .mymail-icon.active,.branch-3-7 .mymail-icon.active{background-image: url(../img/icons/green_2x.png);}
+		.branch-3-3 .mymail-icon.inactive,.branch-3-4 .mymail-icon.inactive,.branch-3-5 .mymail-icon.inactive,.branch-3-6 .mymail-icon.inactive,.branch-3-7 .mymail-icon.inactive{background-image: url(../img/icons/red_2x.png);}
+		.branch-3-3 .mymail-icon.warning,.branch-3-4 .mymail-icon.warning,.branch-3-5 .mymail-icon.warning,.branch-3-6 .mymail-icon.warning,.branch-3-7 .mymail-icon.warning{background-image: url(../img/icons/warning_2x.png);}
+
+		
+		table.wp-list-table tr.status-active div.campaign-progress span.bar{
+			background: url(../img/progress_2x.gif);
+			-webkit-background-size:15px 20px;
+			-moz-background-size:15px 20px;
+			background-size:15px 20px;
+		}
+}

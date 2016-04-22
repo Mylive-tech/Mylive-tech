@@ -1,0 +1,183 @@
+@font-face {
+  font-family: 'mymail-icons';
+  src: url('../font/mymail-icons.eot');
+  src: url('../font/mymail-icons.eot#iefix') format('embedded-opentype'),
+       url('../font/mymail-icons.woff') format('woff'),
+       url('../font/mymail-icons.ttf') format('truetype'),
+       url('../font/mymail-icons.svg#fontello') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'fontello';
+    src: url('../font/fontello.svg?9736362#fontello') format('svg');
+  }
+}
+*/
+ 
+ [class^="mymail-icon"]:before, [class*=" mymail-icon"]:before {
+  font-family: 'mymail-icons';
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+     
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+ 
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+-moz-transition: all .1s ease-in-out;
+-webkit-transition: all .1s ease-in-out;
+transition: all .1s ease-in-out;
+}
+ 
+.branch-3-3 .mymail-icon:before,.branch-3-4 .mymail-icon:before,.branch-3-5 .mymail-icon:before,.branch-3-6 .mymail-icon:before,.branch-3-7 .mymail-icon:before{
+	display: none !important;
+}
+
+.icon-mm-newsletter:before { content: '\e800'; } /* '' */
+.icon-mm-queued:before { content: '\e801'; } /* '' */
+.icon-mm-undo:before { content: '\e802'; } /* '' */
+.icon-mm-pause:before { content: '\e803'; } /* '' */
+.icon-mm-finished:before { content: '\e804'; } /* '' */
+.icon-mm-redo:before { content: '\e805'; } /* '' */
+.icon-mm-preview:before { content: '\e806'; } /* '' */
+.icon-mm-prev:before { content: '\e807'; } /* '' */
+.icon-mm-next:before { content: '\e808'; } /* '' */
+.icon-mm-reload:before { content: '\e809'; } /* '' */
+.icon-mm-codeview:before { content: '\e80a'; } /* '' */
+.icon-mm-error:before { content: '\e80b'; } /* '' */
+.icon-mm-draft:before { content: '\e80c'; } /* '' */
+.icon-mm-smile:before { content: '\e80d'; } /* '' */
+.icon-mm-frown:before { content: '\e80e'; } /* '' */
+.icon-mm-progress:before { content: '\e80f'; } /* '' */
+.icon-mm-view:before { content: '\e810'; } /* '' */
+.icon-mm-desktop:before { content: '\e811'; } /* '' */
+.icon-mm-attention:before { content: '\e812'; } /* '' */
+.icon-mm-mobile:before { content: '\e813'; } /* '' */
+.icon-mm-loading:before { content: '\e814'; } /* '' */
+.icon-mm-down:before { content: '\e815'; } /* '' */
+.icon-mm-up:before { content: '\e816'; } /* '' */
+.icon-mm-duplicate:before { content: '\e817'; } /* '' */
+.icon-mm-magic:before { content: '\e818'; } /* '' */
+.icon-mm-delete:before { content: '\e819'; } /* '' */
+.icon-mm-add:before { content: '\e81a'; } /* '' */
+.icon-mm-minus:before { content: '\e81b'; } /* '' */
+.icon-mm-users:before { content: '\e81c'; } /* '' */
+.icon-mm-flag:before { content: '\e81d'; } /* '' */
+.icon-mm-save:before { content: '\e81e'; } /* '' */
+.icon-mm-modules:before { content: '\e81f'; } /* '' */
+.icon-mm-modules-empty:before { content: '\e820'; } /* '' */
+.icon-mm-unopen:before { content: '\e821'; } /* '' */
+.icon-mm-open:before { content: '\e822'; } /* '' */
+.icon-mm-unsubscribe:before { content: '\e823'; } /* '' */
+.icon-mm-click:before { content: '\e824'; } /* '' */
+.icon-mm-bounce:before { content: '\e825'; } /* '' */
+.icon-mm-zoom-in:before { content: '\e826'; } /* '' */
+.icon-mm-zoom-out:before { content: '\e827'; } /* '' */
+.icon-mm-window:before { content: '\e828'; } /* '' */
+.icon-mm-plaintext:before { content: '\e829'; } /* '' */
+.icon-mm-trash:before { content: '\e82a'; } /* '' */
+
+/*
+   Animation example, for spinners
+*/
+@-moz-keyframes mymail-spin {
+  0% {
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  100% {
+    -moz-transform: rotate(359deg);
+    -o-transform: rotate(359deg);
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+@-webkit-keyframes mymail-spin {
+  0% {
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  100% {
+    -moz-transform: rotate(359deg);
+    -o-transform: rotate(359deg);
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+@-o-keyframes mymail-spin {
+  0% {
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  100% {
+    -moz-transform: rotate(359deg);
+    -o-transform: rotate(359deg);
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+@-ms-keyframes mymail-spin {
+  0% {
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  100% {
+    -moz-transform: rotate(359deg);
+    -o-transform: rotate(359deg);
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+@keyframes mymail-spin {
+  0% {
+    -moz-transform: rotate(0deg);
+    -o-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+
+  100% {
+    -moz-transform: rotate(359deg);
+    -o-transform: rotate(359deg);
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}

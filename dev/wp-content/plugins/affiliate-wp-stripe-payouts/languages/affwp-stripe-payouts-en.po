@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: AffiliateWP - Stripe Payouts\n"
+"POT-Creation-Date: 2014-08-18 11:27-0600\n"
+"PO-Revision-Date: 2014-08-18 11:27-0600\n"
+"Last-Translator: Chris Christoff <chriscct7@gmail.com>\n"
+"Language-Team: Chris Christoff <chriscct7@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: affiliate-wp-stripe-payouts.php:86 affiliate-wp-stripe-payouts.php:98
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: admin/affiliates.php:22
+msgid "Stripe Recipient ID"
+msgstr ""
+
+#: admin/affiliates.php:27
+msgid ""
+"Affiliate's Recipient ID in your <a href=\"https://dashboard.stripe.com/"
+"recipients\">Stripe account</a>."
+msgstr ""
+
+#: admin/referrals.php:23 admin/referrals.php:31
+msgid "Pay Now"
+msgstr ""
+
+#: admin/referrals.php:46
+msgid ""
+"Are you sure you want to payout referrals for the specified time frame via "
+"Stripe?"
+msgstr ""
+
+#: admin/referrals.php:52
+msgid "Bulk Pay via Stripe"
+msgstr ""
+
+#: admin/referrals.php:53
+msgid "Close"
+msgstr ""
+
+#: admin/referrals.php:56
+msgid "From - mm/dd/yyyy"
+msgstr ""
+
+#: admin/referrals.php:57
+msgid "To - mm/dd/yyyy"
+msgstr ""
+
+#: admin/referrals.php:58
+msgid "Minimum amount"
+msgstr ""
+
+#: admin/referrals.php:60
+msgid "Process Payout via Stripe"
+msgstr ""
+
+#: admin/referrals.php:61
+msgid ""
+"This will send payments via Stripe for all unpaid referrals in the specified "
+"timeframe."
+msgstr ""
+
+#: admin/referrals.php:76 admin/referrals.php:117
+msgid "You do not have permission to process payments"
+msgstr ""
+
+#: admin/referrals.php:222
+#, php-format
+msgid "Payment for referrals between %s and %s from %s"
+msgstr ""
+
+#: admin/referrals.php:230 admin/referrals.php:237 admin/referrals.php:244
+#: admin/referrals.php:251 admin/referrals.php:258 admin/referrals.php:265
+#: admin/referrals.php:273 admin/referrals.php:364 admin/referrals.php:371
+#: admin/referrals.php:378 admin/referrals.php:385 admin/referrals.php:392
+#: admin/referrals.php:399 admin/referrals.php:407
+msgid "There was an error processing this charge"
+msgstr ""
+
+#: admin/referrals.php:326
+msgid "The specified referral does not exist"
+msgstr ""
+
+#: admin/referrals.php:330
+msgid "There is no affiliate connected to this referral"
+msgstr ""
+
+#: admin/referrals.php:334
+msgid ""
+"A payment cannot be processed for this referral since it is not marked as "
+"Unpaid"
+msgstr ""
+
+#: admin/referrals.php:340
+msgid "This affiliate account does not have a Stripe Recipient ID attached"
+msgstr ""
+
+#: admin/referrals.php:354
+#, php-format
+msgid "Payment for Referral #%d for %s on %s"
+msgstr ""
+
+#: admin/referrals.php:436
+#, php-format
+msgid ""
+"Referral #%d paid out via <a href=\"https://dashboard.stripe.com/transfers/%s"
+"\" target=\"_blank\">Transfer %s</a> in Stripe successfully"
+msgstr ""
+
+#: admin/referrals.php:441
+msgid "Error:"
+msgstr ""
+
+#: admin/referrals.php:446
+msgid ""
+"All referrals available to be paid out have been successfully paid via Stripe"
+msgstr ""
+
+#: admin/referrals.php:456
+#, php-format
+msgid ""
+"Affiliate <a href=\"%s\" target=\"_blank\">#%d</a> could not be paid: "
+"<strong>%s</strong>"
+msgstr ""
+
+#: admin/settings.php:11
+msgid "Stripe Payouts"
+msgstr ""
+
+#: admin/settings.php:19
+msgid "Test Mode"
+msgstr ""
+
+#: admin/settings.php:20
+msgid "Check this box if you would like to use Stripe Payouts in Test Mode"
+msgstr ""
+
+#: admin/settings.php:24
+msgid "Profile Settings"
+msgstr ""
+
+#: admin/settings.php:25
+msgid ""
+"Check this box if you would like to allow your affiliates to enter a debit "
+"card from their profile settings"
+msgstr ""
+
+#: admin/settings.php:29
+msgid "Test Secret Key"
+msgstr ""
+
+#: admin/settings.php:30
+msgid "Enter your Test Secret Key"
+msgstr ""
+
+#: admin/settings.php:34
+msgid "Test Publishable Key"
+msgstr ""
+
+#: admin/settings.php:35
+msgid "Enter your Test Publishable Key"
+msgstr ""
+
+#: admin/settings.php:39
+msgid "Live Secret Key"
+msgstr ""
+
+#: admin/settings.php:40
+msgid "Enter your Live Secret Key"
+msgstr ""
+
+#: admin/settings.php:44
+msgid "Live Publishable Key"
+msgstr ""
+
+#: admin/settings.php:45
+msgid "Enter your Live Publishable Key"
+msgstr ""
+
+#: templates/card-form.php:14
+msgid "Your current card details:"
+msgstr ""
+
+#: templates/card-form.php:15
+#, php-format
+msgid "Type: %s"
+msgstr ""
+
+#: templates/card-form.php:16
+#, php-format
+msgid "Last Four: %s"
+msgstr ""
+
+#: templates/card-form.php:17
+#, php-format
+msgid "Expires: %s / %s"
+msgstr ""
+
+#: templates/card-form.php:23
+msgid "Card Number"
+msgstr ""
+
+#: templates/card-form.php:25
+msgid "The (typically) 16 digits on the front of your debit card."
+msgstr ""
+
+#: templates/card-form.php:26
+msgid "Card number"
+msgstr ""
+
+#: templates/card-form.php:30
+msgid "CVC"
+msgstr ""
+
+#: templates/card-form.php:32
+msgid "The 3 digit (back) or 4 digit (front) value on your card."
+msgstr ""
+
+#: templates/card-form.php:33
+msgid "Security code"
+msgstr ""
+
+#: templates/card-form.php:37
+msgid "Name on the Card"
+msgstr ""
+
+#: templates/card-form.php:39
+msgid "The name printed on the front of your debit card."
+msgstr ""
+
+#: templates/card-form.php:40
+msgid "Card name"
+msgstr ""
+
+#: templates/card-form.php:44
+msgid "Expiration (MM/YY)"
+msgstr ""
+
+#: templates/card-form.php:46
+msgid "The date your debit card expires, typically on the front of the card."
+msgstr ""
+
+#: templates/card-form.php:59
+msgid "Type"
+msgstr ""
+
+#: templates/card-form.php:61
+msgid "Does this card belong to an Individual or a Corporation?"
+msgstr ""
+
+#: templates/card-form.php:63
+msgid "Individual"
+msgstr ""
+
+#: templates/card-form.php:64
+msgid "Corporation"
+msgstr ""
+
+#: templates/card-form.php:69 templates/card-form.php:72
+msgid "Tax ID"
+msgstr ""
+
+#: templates/card-form.php:71
+msgid ""
+"Your tax ID. Enter a Social security number for individuals or EIN for "
+"corporations."
+msgstr ""
+
+#: templates/stripe-settings.php:40
+msgid "Payout Settings"
+msgstr ""
+
+#: templates/stripe-settings.php:44
+msgid ""
+"Use this form to attach a debit card to your affiliate account. All "
+"affiliate earnings will be deposited directly onto this card. <strong>U.S. "
+"affiliates only.</strong>"
+msgstr ""
